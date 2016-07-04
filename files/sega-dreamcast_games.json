@@ -1,0 +1,1630 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Marvel vs. Capcom: Clash of Super Heroes",
+        "id": 195,
+        "ReleaseDate": "01/12/1998"
+    },
+    {
+        "GameTitle": "Ikaruga",
+        "id": 200,
+        "ReleaseDate": "09/05/2002"
+    },
+    {
+        "GameTitle": "Dino Crisis",
+        "id": 420,
+        "ReleaseDate": "11/14/2000"
+    },
+    {
+        "GameTitle": "Dynamite Cop",
+        "id": 421,
+        "ReleaseDate": "11/03/1999"
+    },
+    {
+        "GameTitle": "Jet Grind Radio",
+        "id": 423,
+        "ReleaseDate": "11/01/2000"
+    },
+    {
+        "GameTitle": "Kiss: Psycho Circus: The Nightmare Child",
+        "id": 424,
+        "ReleaseDate": "10/29/2000"
+    },
+    {
+        "GameTitle": "NBA 2K1",
+        "id": 425,
+        "ReleaseDate": "11/01/2000"
+    },
+    {
+        "GameTitle": "Phantasy Star Online",
+        "id": 426,
+        "ReleaseDate": "01/29/2001"
+    },
+    {
+        "GameTitle": "Resident Evil Code: Veronica",
+        "id": 428,
+        "ReleaseDate": "02/03/2000"
+    },
+    {
+        "GameTitle": "Samba de Amigo",
+        "id": 429,
+        "ReleaseDate": "10/16/2000"
+    },
+    {
+        "GameTitle": "Shenmue",
+        "id": 430,
+        "ReleaseDate": "11/06/2000"
+    },
+    {
+        "GameTitle": "Skies of Arcadia",
+        "id": 431,
+        "ReleaseDate": "11/13/2000"
+    },
+    {
+        "GameTitle": "Sonic Adventure 2",
+        "id": 432,
+        "ReleaseDate": "06/19/2001"
+    },
+    {
+        "GameTitle": "Space Channel 5",
+        "id": 433,
+        "ReleaseDate": "06/04/2000"
+    },
+    {
+        "GameTitle": "Street Fighter Alpha 3",
+        "id": 434,
+        "ReleaseDate": "05/31/2000"
+    },
+    {
+        "GameTitle": "Super Magnetic Neo",
+        "id": 435,
+        "ReleaseDate": "06/12/2000"
+    },
+    {
+        "GameTitle": "Virtua Fighter 3tb",
+        "id": 436,
+        "ReleaseDate": "10/18/1999"
+    },
+    {
+        "GameTitle": "Marvel vs. Capcom 2: New Age of Heroes",
+        "id": 2244,
+        "ReleaseDate": "06/30/2000"
+    },
+    {
+        "GameTitle": "Bangai-O",
+        "id": 2252,
+        "ReleaseDate": "10/13/2000"
+    },
+    {
+        "GameTitle": "Giga Wing 2",
+        "id": 2253,
+        "ReleaseDate": "05/18/2001"
+    },
+    {
+        "GameTitle": "Sonic Shuffle",
+        "id": 2254,
+        "ReleaseDate": "11/13/2000"
+    },
+    {
+        "GameTitle": "Spawn: In the Demon's Hand",
+        "id": 2255,
+        "ReleaseDate": "10/01/2000"
+    },
+    {
+        "GameTitle": "Q*bert",
+        "id": 4200,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "Elemental Gimmick Gear",
+        "id": 2410,
+        "ReleaseDate": "12/20/1999"
+    },
+    {
+        "GameTitle": "Alien Front Online",
+        "id": 2411,
+        "ReleaseDate": "08/09/2001"
+    },
+    {
+        "GameTitle": "Crazy Taxi 2",
+        "id": 2412,
+        "ReleaseDate": "05/28/2001"
+    },
+    {
+        "GameTitle": "Dead or Alive 2",
+        "id": 2413,
+        "ReleaseDate": "02/29/2000"
+    },
+    {
+        "GameTitle": "Ecco the Dolphin: Defender of the Future",
+        "id": 2414,
+        "ReleaseDate": "06/16/2000"
+    },
+    {
+        "GameTitle": "Grandia II",
+        "id": 2415,
+        "ReleaseDate": "12/06/2000"
+    },
+    {
+        "GameTitle": "Sonic Adventure",
+        "id": 2416,
+        "ReleaseDate": "12/23/1998"
+    },
+    {
+        "GameTitle": "Quake III Arena",
+        "id": 2925,
+        "ReleaseDate": "10/22/2000"
+    },
+    {
+        "GameTitle": "Legacy of Kain: Soul Reaver",
+        "id": 3652,
+        "ReleaseDate": "01/17/2000"
+    },
+    {
+        "GameTitle": "Armada",
+        "id": 3522,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "Wild Metal",
+        "id": 3523,
+        "ReleaseDate": "02/01/2000"
+    },
+    {
+        "GameTitle": "102 Dalmatians: Puppies to the Rescue",
+        "id": 3524,
+        "ReleaseDate": "11/15/2000"
+    },
+    {
+        "GameTitle": "Zombie Revenge",
+        "id": 3575,
+        "ReleaseDate": "12/31/1999"
+    },
+    {
+        "GameTitle": "Power Stone",
+        "id": 3576,
+        "ReleaseDate": "08/31/1999"
+    },
+    {
+        "GameTitle": "Power Stone 2",
+        "id": 3577,
+        "ReleaseDate": "08/23/2000"
+    },
+    {
+        "GameTitle": "Plasma Sword: Nightmare of Bilstein",
+        "id": 3651,
+        "ReleaseDate": "03/31/2000"
+    },
+    {
+        "GameTitle": "ChuChu Rocket!",
+        "id": 3641,
+        "ReleaseDate": "02/29/2000"
+    },
+    {
+        "GameTitle": "The King of Fighters: Dream Match 1999",
+        "id": 3642,
+        "ReleaseDate": "09/30/1999"
+    },
+    {
+        "GameTitle": "Nightmare Creatures II",
+        "id": 3643,
+        "ReleaseDate": "06/09/2000"
+    },
+    {
+        "GameTitle": "Evolution: The World of Sacred Device",
+        "id": 3644,
+        "ReleaseDate": "01/17/2000"
+    },
+    {
+        "GameTitle": "Gundam Side Story 0079: Rise From the Ashes",
+        "id": 3645,
+        "ReleaseDate": "04/28/2000"
+    },
+    {
+        "GameTitle": "Carrier",
+        "id": 3646,
+        "ReleaseDate": "01/31/2000"
+    },
+    {
+        "GameTitle": "Gunbird 2",
+        "id": 3647,
+        "ReleaseDate": "10/30/2000"
+    },
+    {
+        "GameTitle": "Mortal Kombat Gold",
+        "id": 3648,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "Crazy Taxi",
+        "id": 3649,
+        "ReleaseDate": "01/24/2000"
+    },
+    {
+        "GameTitle": "Blue Stinger",
+        "id": 3650,
+        "ReleaseDate": "08/31/1999"
+    },
+    {
+        "GameTitle": "Cannon Spike",
+        "id": 3653,
+        "ReleaseDate": "11/15/2000"
+    },
+    {
+        "GameTitle": "King of Fighters Evolution",
+        "id": 3654,
+        "ReleaseDate": "05/10/2001"
+    },
+    {
+        "GameTitle": "Gauntlet Legends",
+        "id": 3655,
+        "ReleaseDate": "06/07/2000"
+    },
+    {
+        "GameTitle": "Evolution 2: Far Off Promise",
+        "id": 3656,
+        "ReleaseDate": "06/29/2000"
+    },
+    {
+        "GameTitle": "Capcom vs. SNK",
+        "id": 3657,
+        "ReleaseDate": "11/09/2000"
+    },
+    {
+        "GameTitle": "Death Crimson OX",
+        "id": 3658,
+        "ReleaseDate": "08/05/2001"
+    },
+    {
+        "GameTitle": "Fatal Fury: Mark Of The Wolves",
+        "id": 3659,
+        "ReleaseDate": "11/23/2001"
+    },
+    {
+        "GameTitle": "JoJo's Bizarre Adventure",
+        "id": 3661,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "NCAA College Football 2K2",
+        "id": 3953,
+        "ReleaseDate": "08/29/2001"
+    },
+    {
+        "GameTitle": "NFL 2K",
+        "id": 3954,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "NFL 2K1",
+        "id": 3955,
+        "ReleaseDate": "09/07/2000"
+    },
+    {
+        "GameTitle": "NFL 2K2",
+        "id": 3956,
+        "ReleaseDate": "09/19/2001"
+    },
+    {
+        "GameTitle": "Rayman 2: The Great Escape",
+        "id": 3957,
+        "ReleaseDate": "02/29/2000"
+    },
+    {
+        "GameTitle": "Virtua Tennis",
+        "id": 5894,
+        "ReleaseDate": "07/12/2000"
+    },
+    {
+        "GameTitle": "Resident Evil 2",
+        "id": 3958,
+        "ReleaseDate": "04/28/2000"
+    },
+    {
+        "GameTitle": "Resident Evil 3: Nemesis",
+        "id": 3959,
+        "ReleaseDate": "11/17/2000"
+    },
+    {
+        "GameTitle": "Seaman",
+        "id": 3960,
+        "ReleaseDate": "07/29/1999"
+    },
+    {
+        "GameTitle": "The House of the Dead 2",
+        "id": 3961,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "System Shock 2",
+        "id": 4175
+    },
+    {
+        "GameTitle": "Spider-Man",
+        "id": 8326,
+        "ReleaseDate": "04/20/2001"
+    },
+    {
+        "GameTitle": "Sydney 2000",
+        "id": 8327,
+        "ReleaseDate": "08/31/2000"
+    },
+    {
+        "GameTitle": "Tee Off",
+        "id": 8328,
+        "ReleaseDate": "12/31/1999"
+    },
+    {
+        "GameTitle": "Tom Clancy's Rainbow Six: Rogue Spear",
+        "id": 4442,
+        "ReleaseDate": "08/31/1999"
+    },
+    {
+        "GameTitle": "Maken X",
+        "id": 5562,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "MDK 2",
+        "id": 5563,
+        "ReleaseDate": "03/31/2000"
+    },
+    {
+        "GameTitle": "Omikron: The Nomad Soul",
+        "id": 5564,
+        "ReleaseDate": "06/22/2000"
+    },
+    {
+        "GameTitle": "Ooga Booga",
+        "id": 5565,
+        "ReleaseDate": "09/13/2001"
+    },
+    {
+        "GameTitle": "Outtrigger",
+        "id": 5566,
+        "ReleaseDate": "07/24/2001"
+    },
+    {
+        "GameTitle": "Record of Lodoss War",
+        "id": 5568,
+        "ReleaseDate": "02/26/2001"
+    },
+    {
+        "GameTitle": "Daytona USA",
+        "id": 7766,
+        "ReleaseDate": "03/13/2001"
+    },
+    {
+        "GameTitle": "SoulCalibur",
+        "id": 7767,
+        "ReleaseDate": "09/08/1999"
+    },
+    {
+        "GameTitle": "Sega GT",
+        "id": 7768,
+        "ReleaseDate": "08/28/2000"
+    },
+    {
+        "GameTitle": "Starlancer",
+        "id": 7770,
+        "ReleaseDate": "03/31/2000"
+    },
+    {
+        "GameTitle": "Ultimate Fighting Championship",
+        "id": 7771,
+        "ReleaseDate": "08/29/2000"
+    },
+    {
+        "GameTitle": "Sega Rally Championship 2",
+        "id": 7773,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "Aqua GT",
+        "id": 8105,
+        "ReleaseDate": "12/22/2000"
+    },
+    {
+        "GameTitle": "Army Men: Sarge's Heroes",
+        "id": 8106,
+        "ReleaseDate": "10/30/2000"
+    },
+    {
+        "GameTitle": "Alone in the Dark: The New Nightmare",
+        "id": 8107,
+        "ReleaseDate": "09/24/2001"
+    },
+    {
+        "GameTitle": "Atari Anniversary Edition",
+        "id": 8108,
+        "ReleaseDate": "07/02/2001"
+    },
+    {
+        "GameTitle": "Bomberman Online",
+        "id": 8109,
+        "ReleaseDate": "11/01/2001"
+    },
+    {
+        "GameTitle": "Buzz Lightyear of Star Command",
+        "id": 8110,
+        "ReleaseDate": "11/30/2000"
+    },
+    {
+        "GameTitle": "Centipede",
+        "id": 8113,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "Chicken Run",
+        "id": 8114,
+        "ReleaseDate": "11/13/2000"
+    },
+    {
+        "GameTitle": "Confidential Mission",
+        "id": 8115,
+        "ReleaseDate": "05/14/2001"
+    },
+    {
+        "GameTitle": "Conflict Zone",
+        "id": 8116,
+        "ReleaseDate": "12/20/2001"
+    },
+    {
+        "GameTitle": "D2",
+        "id": 8117,
+        "ReleaseDate": "08/22/2000"
+    },
+    {
+        "GameTitle": "Demolition Racer: No Exit",
+        "id": 8118,
+        "ReleaseDate": "10/23/2000"
+    },
+    {
+        "GameTitle": "Deep Fighter",
+        "id": 8119,
+        "ReleaseDate": "08/22/2000"
+    },
+    {
+        "GameTitle": "Disney's Dinosaur",
+        "id": 8120,
+        "ReleaseDate": "05/19/2000"
+    },
+    {
+        "GameTitle": "Donald Duck: Goin' Quackers",
+        "id": 8121,
+        "ReleaseDate": "12/13/2000"
+    },
+    {
+        "GameTitle": "Love Hina: Totsuzen no Engeji Happening",
+        "id": 36013,
+        "ReleaseDate": "09/28/2000"
+    },
+    {
+        "GameTitle": "Dragon Riders: Chronicles of Pern",
+        "id": 8122,
+        "ReleaseDate": "08/09/2001"
+    },
+    {
+        "GameTitle": "Ducati World: Racing Challenge",
+        "id": 8123,
+        "ReleaseDate": "02/13/2001"
+    },
+    {
+        "GameTitle": "Draconus: Cult of the Wyrm",
+        "id": 8125,
+        "ReleaseDate": "02/28/2000"
+    },
+    {
+        "GameTitle": "Evil Dead: Hail to the King",
+        "id": 8126,
+        "ReleaseDate": "12/17/2000"
+    },
+    {
+        "GameTitle": "F1 World Grand Prix",
+        "id": 8127,
+        "ReleaseDate": "04/24/2000"
+    },
+    {
+        "GameTitle": "Fighting Force 2",
+        "id": 8128,
+        "ReleaseDate": "11/30/1999"
+    },
+    {
+        "GameTitle": "Frogger 2: Swampy's Revenge",
+        "id": 8129,
+        "ReleaseDate": "09/30/2000"
+    },
+    {
+        "GameTitle": "Floigan Bros.: Episode 1",
+        "id": 8130,
+        "ReleaseDate": "07/30/2001"
+    },
+    {
+        "GameTitle": "Fur Fighters",
+        "id": 8131,
+        "ReleaseDate": "07/11/2000"
+    },
+    {
+        "GameTitle": "Giga Wing",
+        "id": 8132,
+        "ReleaseDate": "07/19/2000"
+    },
+    {
+        "GameTitle": "Grand Theft Auto 2",
+        "id": 8133,
+        "ReleaseDate": "04/30/2000"
+    },
+    {
+        "GameTitle": "Half-Life",
+        "id": 8134,
+        "ReleaseDate": "11/01/2001"
+    },
+    {
+        "GameTitle": "Hidden & Dangerous",
+        "id": 8135,
+        "ReleaseDate": "07/09/2000"
+    },
+    {
+        "GameTitle": "Heavy Metal: Geomatrix",
+        "id": 8137,
+        "ReleaseDate": "09/13/2001"
+    },
+    {
+        "GameTitle": "Incoming",
+        "id": 8138,
+        "ReleaseDate": "11/30/1999"
+    },
+    {
+        "GameTitle": "Iron Aces",
+        "id": 8139,
+        "ReleaseDate": "02/06/2001"
+    },
+    {
+        "GameTitle": "Jimmy White's 2: Cueball",
+        "id": 8140,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "Kao the Kangaroo",
+        "id": 8141,
+        "ReleaseDate": "02/13/2001"
+    },
+    {
+        "GameTitle": "Le Mans 24 Hours",
+        "id": 8142,
+        "ReleaseDate": "11/13/2000"
+    },
+    {
+        "GameTitle": "Max Steel",
+        "id": 8143,
+        "ReleaseDate": "05/30/2001"
+    },
+    {
+        "GameTitle": "Monaco Grand Prix",
+        "id": 8144,
+        "ReleaseDate": "08/31/1999"
+    },
+    {
+        "GameTitle": "Ms. Pac-Man Maze Madness",
+        "id": 8145,
+        "ReleaseDate": "11/13/2000"
+    },
+    {
+        "GameTitle": "Namco Museum",
+        "id": 8146,
+        "ReleaseDate": "06/25/2012"
+    },
+    {
+        "GameTitle": "Prince of Persia: Arabian Nights",
+        "id": 8147,
+        "ReleaseDate": "12/03/2003"
+    },
+    {
+        "GameTitle": "Psychic Force 2012",
+        "id": 8148,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "Project Justice",
+        "id": 8149,
+        "ReleaseDate": "05/16/2001"
+    },
+    {
+        "GameTitle": "Toy Story 2: Buzz Lightyear to the Rescue!",
+        "id": 8338,
+        "ReleaseDate": "06/30/2000"
+    },
+    {
+        "GameTitle": "Urban Chaos",
+        "id": 8339,
+        "ReleaseDate": "11/13/2000"
+    },
+    {
+        "GameTitle": "Cyber Troopers Virtual-On Oratorio Tangram",
+        "id": 8340,
+        "ReleaseDate": "06/01/2000"
+    },
+    {
+        "GameTitle": "Wacky Races",
+        "id": 8341,
+        "ReleaseDate": "06/09/2000"
+    },
+    {
+        "GameTitle": "Worms Armageddon",
+        "id": 8342,
+        "ReleaseDate": "11/30/1999"
+    },
+    {
+        "GameTitle": "WWF Royal Rumble",
+        "id": 8343,
+        "ReleaseDate": "08/01/2000"
+    },
+    {
+        "GameTitle": "Sega Bass Fishing",
+        "id": 8793,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "NBA 2K2",
+        "id": 8808,
+        "ReleaseDate": "10/24/2001"
+    },
+    {
+        "GameTitle": "Guilty Gear X",
+        "id": 9073,
+        "ReleaseDate": "12/14/2000"
+    },
+    {
+        "GameTitle": "The Grinch",
+        "id": 9865,
+        "ReleaseDate": "10/31/2000"
+    },
+    {
+        "GameTitle": "Hydro Thunder",
+        "id": 9866,
+        "ReleaseDate": "09/08/1999"
+    },
+    {
+        "GameTitle": "Industrial Spy: Operation Espionage",
+        "id": 9867,
+        "ReleaseDate": "06/01/2000"
+    },
+    {
+        "GameTitle": "Space Channel 5: Part 2",
+        "id": 9926,
+        "ReleaseDate": "02/14/2002"
+    },
+    {
+        "GameTitle": "Toy Commander",
+        "id": 9927,
+        "ReleaseDate": "09/30/1999"
+    },
+    {
+        "GameTitle": "Zero Gunner 2",
+        "id": 9967,
+        "ReleaseDate": "05/15/2001"
+    },
+    {
+        "GameTitle": "Trizeal",
+        "id": 9968,
+        "ReleaseDate": "04/07/2005"
+    },
+    {
+        "GameTitle": "Trigger Heart Exelica",
+        "id": 9969,
+        "ReleaseDate": "02/22/2007"
+    },
+    {
+        "GameTitle": "Super Street Fighter II X for Matching Service",
+        "id": 9970,
+        "ReleaseDate": "12/22/2000"
+    },
+    {
+        "GameTitle": "Street Fighter III: 3rd Strike",
+        "id": 9971,
+        "ReleaseDate": "10/04/2000"
+    },
+    {
+        "GameTitle": "Street Fighter III: Double Impact",
+        "id": 9972,
+        "ReleaseDate": "12/16/1999"
+    },
+    {
+        "GameTitle": "Soldier of Fortune",
+        "id": 9973,
+        "ReleaseDate": "07/24/2001"
+    },
+    {
+        "GameTitle": "Snow Surfers",
+        "id": 9974,
+        "ReleaseDate": "08/26/1999"
+    },
+    {
+        "GameTitle": "18 Wheeler: American Pro Trucker",
+        "id": 10587,
+        "ReleaseDate": "05/25/2001"
+    },
+    {
+        "GameTitle": "Headhunter",
+        "id": 10588,
+        "ReleaseDate": "11/16/2001"
+    },
+    {
+        "GameTitle": "Metropolis Street Racer",
+        "id": 10589,
+        "ReleaseDate": "01/17/2001"
+    },
+    {
+        "GameTitle": "WWF Attitude",
+        "id": 11057,
+        "ReleaseDate": "11/11/1999"
+    },
+    {
+        "GameTitle": "Worms World Party",
+        "id": 11058,
+        "ReleaseDate": "06/03/2001"
+    },
+    {
+        "GameTitle": "World Series Baseball 2K1",
+        "id": 11059,
+        "ReleaseDate": "07/17/2000"
+    },
+    {
+        "GameTitle": "World Series Baseball 2K2",
+        "id": 11060,
+        "ReleaseDate": "08/01/2001"
+    },
+    {
+        "GameTitle": "Who Wants To Beat Up A Millionaire",
+        "id": 11061,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "Wetrix+",
+        "id": 11062,
+        "ReleaseDate": "12/31/1999"
+    },
+    {
+        "GameTitle": "Vigilante 8: 2nd Offense",
+        "id": 11063,
+        "ReleaseDate": "11/30/1999"
+    },
+    {
+        "GameTitle": "Unreal Tournament",
+        "id": 11064,
+        "ReleaseDate": "03/13/2001"
+    },
+    {
+        "GameTitle": "TrickStyle",
+        "id": 11065,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "Tony Hawk's Pro Skater",
+        "id": 11066,
+        "ReleaseDate": "05/24/2000"
+    },
+    {
+        "GameTitle": "Tony Hawk's Pro Skater 2",
+        "id": 11067,
+        "ReleaseDate": "11/06/2000"
+    },
+    {
+        "GameTitle": "Tomb Raider: The Last Revelation",
+        "id": 11068,
+        "ReleaseDate": "04/13/2001"
+    },
+    {
+        "GameTitle": "Tomb Raider Chronicles",
+        "id": 11069,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "Tokyo Xtreme Racer",
+        "id": 11070,
+        "ReleaseDate": "08/31/1999"
+    },
+    {
+        "GameTitle": "Tokyo Xtreme Racer 2",
+        "id": 11071,
+        "ReleaseDate": "09/01/2000"
+    },
+    {
+        "GameTitle": "Time Stalkers",
+        "id": 11072,
+        "ReleaseDate": "09/15/1999"
+    },
+    {
+        "GameTitle": "TNN Motorsports Hardcore Heat",
+        "id": 11073,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "The Typing of the Dead",
+        "id": 11074,
+        "ReleaseDate": "01/25/2001"
+    },
+    {
+        "GameTitle": "Test Drive V-Rally",
+        "id": 11075,
+        "ReleaseDate": "07/02/2000"
+    },
+    {
+        "GameTitle": "Test Drive Le Mans",
+        "id": 11076,
+        "ReleaseDate": "11/13/2000"
+    },
+    {
+        "GameTitle": "Test Drive 6",
+        "id": 11077,
+        "ReleaseDate": "11/30/1999"
+    },
+    {
+        "GameTitle": "Tennis 2K2",
+        "id": 11078,
+        "ReleaseDate": "10/24/2001"
+    },
+    {
+        "GameTitle": "Tech Romancer",
+        "id": 11079,
+        "ReleaseDate": "03/31/2000"
+    },
+    {
+        "GameTitle": "Surf Rocket Racers",
+        "id": 11080,
+        "ReleaseDate": "02/28/2001"
+    },
+    {
+        "GameTitle": "Sword of the Berserk: Guts' Rage",
+        "id": 11081,
+        "ReleaseDate": "02/29/2000"
+    },
+    {
+        "GameTitle": "Suzuki Alstare Extreme Racing",
+        "id": 11082,
+        "ReleaseDate": "11/16/1999"
+    },
+    {
+        "GameTitle": "Star Wars: Episode I - Racer",
+        "id": 11083,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "Star Wars: Episode I - Jedi Power Battles",
+        "id": 11084,
+        "ReleaseDate": "10/18/2000"
+    },
+    {
+        "GameTitle": "Star Wars: Demolition",
+        "id": 11085,
+        "ReleaseDate": "11/19/2000"
+    },
+    {
+        "GameTitle": "Sports Jam",
+        "id": 11086,
+        "ReleaseDate": "07/18/2001"
+    },
+    {
+        "GameTitle": "Spirit of Speed 1937",
+        "id": 11087,
+        "ReleaseDate": "07/31/2000"
+    },
+    {
+        "GameTitle": "Spec Ops II: Omega Squad",
+        "id": 11088,
+        "ReleaseDate": "10/24/2000"
+    },
+    {
+        "GameTitle": "Soul Fighter",
+        "id": 11089,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "Sno-Cross Championship Racing",
+        "id": 11090,
+        "ReleaseDate": "11/30/2000"
+    },
+    {
+        "GameTitle": "Slave Zero",
+        "id": 11091,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "Silver",
+        "id": 11092,
+        "ReleaseDate": "06/29/2000"
+    },
+    {
+        "GameTitle": "Sega Swirl",
+        "id": 11094,
+        "ReleaseDate": "01/12/2000"
+    },
+    {
+        "GameTitle": "Sega Smash Pack Volume 1",
+        "id": 11095,
+        "ReleaseDate": "01/31/2001"
+    },
+    {
+        "GameTitle": "Sega Marine Fishing",
+        "id": 11096,
+        "ReleaseDate": "08/20/2000"
+    },
+    {
+        "GameTitle": "Sega Bass Fishing 2",
+        "id": 11097,
+        "ReleaseDate": "08/21/2001"
+    },
+    {
+        "GameTitle": "San Francisco Rush 2049",
+        "id": 11098,
+        "ReleaseDate": "09/07/2000"
+    },
+    {
+        "GameTitle": "Revolt",
+        "id": 11099,
+        "ReleaseDate": "12/18/1999"
+    },
+    {
+        "GameTitle": "Reel Fishing: Wild",
+        "id": 11100,
+        "ReleaseDate": "01/01/2001"
+    },
+    {
+        "GameTitle": "Red Dog: Superior Firepower",
+        "id": 11101,
+        "ReleaseDate": "10/31/2000"
+    },
+    {
+        "GameTitle": "Ready 2 Rumble Boxing",
+        "id": 11102,
+        "ReleaseDate": "09/08/1999"
+    },
+    {
+        "GameTitle": "Tom Clancy's Rainbow Six",
+        "id": 11104,
+        "ReleaseDate": "05/09/2000"
+    },
+    {
+        "GameTitle": "Railroad Tycoon II",
+        "id": 11105,
+        "ReleaseDate": "06/30/2000"
+    },
+    {
+        "GameTitle": "Razor Freestyle Scooter",
+        "id": 11106,
+        "ReleaseDate": "08/08/2001"
+    },
+    {
+        "GameTitle": "POD: Speedzone",
+        "id": 11107,
+        "ReleaseDate": "12/05/2000"
+    },
+    {
+        "GameTitle": "Giant Killers",
+        "id": 11109,
+        "ReleaseDate": "05/11/2001"
+    },
+    {
+        "GameTitle": "Shadow Man",
+        "id": 11814,
+        "ReleaseDate": "11/30/1999"
+    },
+    {
+        "GameTitle": "Space Griffon VF-9",
+        "id": 11823,
+        "ReleaseDate": "11/03/1999"
+    },
+    {
+        "GameTitle": "Striker Pro 2000",
+        "id": 11859,
+        "ReleaseDate": "05/31/2000"
+    },
+    {
+        "GameTitle": "NBA 2K",
+        "id": 11998,
+        "ReleaseDate": "12/06/1999"
+    },
+    {
+        "GameTitle": "NHL 2K",
+        "id": 11999,
+        "ReleaseDate": "12/06/1999"
+    },
+    {
+        "GameTitle": "F1 Racing Championship",
+        "id": 13010,
+        "ReleaseDate": "02/02/2001"
+    },
+    {
+        "GameTitle": "Coaster Works",
+        "id": 13042,
+        "ReleaseDate": "12/12/2000"
+    },
+    {
+        "GameTitle": "Looney Tunes: Space Race",
+        "id": 13202,
+        "ReleaseDate": "11/27/2000"
+    },
+    {
+        "GameTitle": "Ready 2 Rumble Boxing: Round 2",
+        "id": 13204,
+        "ReleaseDate": "10/23/2000"
+    },
+    {
+        "GameTitle": "Illbleed",
+        "id": 14373,
+        "ReleaseDate": "04/25/2001"
+    },
+    {
+        "GameTitle": "The Ring: Terror's Realm",
+        "id": 14618,
+        "ReleaseDate": "01/26/2000"
+    },
+    {
+        "GameTitle": "NFL Quarterback Club 2000",
+        "id": 14845,
+        "ReleaseDate": "12/01/1999"
+    },
+    {
+        "GameTitle": "Border Down",
+        "id": 14989,
+        "ReleaseDate": "09/25/2003"
+    },
+    {
+        "GameTitle": "Chaos Field",
+        "id": 14990
+    },
+    {
+        "GameTitle": "Musapey's Choco Marker",
+        "id": 14991,
+        "ReleaseDate": "12/26/2002"
+    },
+    {
+        "GameTitle": "Cosmic Smash",
+        "id": 14992
+    },
+    {
+        "GameTitle": "Capcom Vs SNK 2 Millionaire Fighting 2001",
+        "id": 14993,
+        "ReleaseDate": "09/13/2001"
+    },
+    {
+        "GameTitle": "Capcom vs SNK: Millennium Fight 2000 Pro",
+        "id": 14994
+    },
+    {
+        "GameTitle": "Giant Gram: All Japan Pro Wrestling 2",
+        "id": 14995,
+        "ReleaseDate": "06/24/1999"
+    },
+    {
+        "GameTitle": "Giant Gram 2000: All Japan Pro Wrestling 3",
+        "id": 14997,
+        "ReleaseDate": "08/10/2000"
+    },
+    {
+        "GameTitle": "Shangri-La Cyber Angel Mahjong Battle",
+        "id": 15000
+    },
+    {
+        "GameTitle": "Under Defeat",
+        "id": 15003
+    },
+    {
+        "GameTitle": "Virtua Striker 2 Ver 2000",
+        "id": 15005,
+        "ReleaseDate": "02/29/2000"
+    },
+    {
+        "GameTitle": "Virtua Tennis 2",
+        "id": 15007,
+        "ReleaseDate": "10/24/2001"
+    },
+    {
+        "GameTitle": "Shenmue II",
+        "id": 16260,
+        "ReleaseDate": "09/06/2001"
+    },
+    {
+        "GameTitle": "NBA Hoopz",
+        "id": 23239,
+        "ReleaseDate": "02/12/2001"
+    },
+    {
+        "GameTitle": "Mr. Driller",
+        "id": 17380
+    },
+    {
+        "GameTitle": "VMU Backup CD",
+        "id": 23214,
+        "ReleaseDate": "08/12/2005"
+    },
+    {
+        "GameTitle": "The Last Blade 2: Heart of the Samurai",
+        "id": 17597,
+        "ReleaseDate": "01/28/1999"
+    },
+    {
+        "GameTitle": "Garou: Mark of the Wolves",
+        "id": 17598,
+        "ReleaseDate": "09/27/2001"
+    },
+    {
+        "GameTitle": "Cool Cool Toon",
+        "id": 19297,
+        "ReleaseDate": "08/10/2000"
+    },
+    {
+        "GameTitle": "AeroWings",
+        "id": 19308,
+        "ReleaseDate": "09/07/1999"
+    },
+    {
+        "GameTitle": "Godzilla Generations",
+        "id": 19310,
+        "ReleaseDate": "11/27/1998"
+    },
+    {
+        "GameTitle": "Godzilla Generations Maxium Impact",
+        "id": 19311,
+        "ReleaseDate": "12/23/1999"
+    },
+    {
+        "GameTitle": "Charge 'n Blast",
+        "id": 19312,
+        "ReleaseDate": "02/01/2001"
+    },
+    {
+        "GameTitle": "Fighters Mega Mix",
+        "id": 19313,
+        "ReleaseDate": "12/21/1996"
+    },
+    {
+        "GameTitle": "Snk's Cool Cool Toon",
+        "id": 19314,
+        "ReleaseDate": "08/10/2000"
+    },
+    {
+        "GameTitle": "King's Quest V",
+        "id": 19315,
+        "ReleaseDate": "09/12/1990"
+    },
+    {
+        "GameTitle": "4 Wheel Thunder",
+        "id": 19316,
+        "ReleaseDate": "05/04/2000"
+    },
+    {
+        "GameTitle": "AeroWings 2: Air Strike",
+        "id": 19317
+    },
+    {
+        "GameTitle": "ESPN International Track & Field",
+        "id": 19318,
+        "ReleaseDate": "10/31/1999"
+    },
+    {
+        "GameTitle": "F355 Challenge",
+        "id": 19319
+    },
+    {
+        "GameTitle": "Fighting Vipers 2",
+        "id": 19320,
+        "ReleaseDate": "03/02/2001"
+    },
+    {
+        "GameTitle": "Karous",
+        "id": 19321
+    },
+    {
+        "GameTitle": "Last Hope: Pink Bullets",
+        "id": 19322,
+        "ReleaseDate": "09/04/2009"
+    },
+    {
+        "GameTitle": "Millennium Soldier Expendable",
+        "id": 19323,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "NBA Showtime: NBA on NBC",
+        "id": 19324,
+        "ReleaseDate": "10/01/1999"
+    },
+    {
+        "GameTitle": "NFL Blitz 2001",
+        "id": 19325
+    },
+    {
+        "GameTitle": "Pro Pinball Trilogy",
+        "id": 19326
+    },
+    {
+        "GameTitle": "Psyvariar 2",
+        "id": 19327,
+        "ReleaseDate": "02/26/2004"
+    },
+    {
+        "GameTitle": "Propeller Arena",
+        "id": 19328
+    },
+    {
+        "GameTitle": "Radirgy",
+        "id": 19329
+    },
+    {
+        "GameTitle": "Rez",
+        "id": 19330,
+        "ReleaseDate": "01/08/2002"
+    },
+    {
+        "GameTitle": "Sega Worldwide Soccer 2000 Euro Edition",
+        "id": 19331
+    },
+    {
+        "GameTitle": "Speed Devils",
+        "id": 19332,
+        "ReleaseDate": "10/14/1999"
+    },
+    {
+        "GameTitle": "Speed Devils Online Racing",
+        "id": 19333
+    },
+    {
+        "GameTitle": "UEFA Striker",
+        "id": 19334
+    },
+    {
+        "GameTitle": "Stunt GP",
+        "id": 19335
+    },
+    {
+        "GameTitle": "Toy Racer",
+        "id": 19336
+    },
+    {
+        "GameTitle": "Vanishing Point",
+        "id": 19337,
+        "ReleaseDate": "12/21/2000"
+    },
+    {
+        "GameTitle": "Virtua Athlete 2000",
+        "id": 19338,
+        "ReleaseDate": "08/10/2001"
+    },
+    {
+        "GameTitle": "Zusar Vasar",
+        "id": 19339
+    },
+    {
+        "GameTitle": "Rainbow Cotton",
+        "id": 19340
+    },
+    {
+        "GameTitle": "V-Rally 2 Expert Edition",
+        "id": 19341,
+        "ReleaseDate": "07/02/2000"
+    },
+    {
+        "GameTitle": "Shikigami No Shiro 2",
+        "id": 19342,
+        "ReleaseDate": "03/24/2004"
+    },
+    {
+        "GameTitle": "Sega GT European Edition",
+        "id": 19343
+    },
+    {
+        "GameTitle": "F1 World Grand Prix II",
+        "id": 19484
+    },
+    {
+        "GameTitle": "NHL 2K2",
+        "id": 19485
+    },
+    {
+        "GameTitle": "4x4 Evolution",
+        "id": 20268,
+        "ReleaseDate": "10/29/2000"
+    },
+    {
+        "GameTitle": "Exhibition of Speed",
+        "id": 32208,
+        "ReleaseDate": "05/18/2001"
+    },
+    {
+        "GameTitle": "Bang! Gunship Elite",
+        "id": 21256
+    },
+    {
+        "GameTitle": "NFL Blitz 2000",
+        "id": 21257
+    },
+    {
+        "GameTitle": "Silent Scope",
+        "id": 21258
+    },
+    {
+        "GameTitle": "Xtreme Sports",
+        "id": 21259
+    },
+    {
+        "GameTitle": "Sturmwind",
+        "id": 21859,
+        "ReleaseDate": "04/24/2013"
+    },
+    {
+        "GameTitle": "South Park Rally",
+        "id": 22469,
+        "ReleaseDate": "06/21/2010"
+    },
+    {
+        "GameTitle": "Mat Hoffman's Pro BMX",
+        "id": 23233,
+        "ReleaseDate": "09/12/2001"
+    },
+    {
+        "GameTitle": "Bust-A-Move 4",
+        "id": 23234,
+        "ReleaseDate": "01/31/2014"
+    },
+    {
+        "GameTitle": "Hoyle Casino",
+        "id": 23235,
+        "ReleaseDate": "10/24/2000"
+    },
+    {
+        "GameTitle": "Maximum Pool",
+        "id": 23236,
+        "ReleaseDate": "12/04/2000"
+    },
+    {
+        "GameTitle": "Expendable",
+        "id": 23237,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "Neo XYX",
+        "id": 23715,
+        "ReleaseDate": "02/17/2014"
+    },
+    {
+        "GameTitle": "Gunlord",
+        "id": 23801,
+        "ReleaseDate": "06/21/2012"
+    },
+    {
+        "GameTitle": "Dave Mirra Freestyle BMX",
+        "id": 23949
+    },
+    {
+        "GameTitle": "Championship Surfer",
+        "id": 23999,
+        "ReleaseDate": "11/20/2000"
+    },
+    {
+        "GameTitle": "Cool Herders",
+        "id": 24000,
+        "ReleaseDate": "12/15/2005"
+    },
+    {
+        "GameTitle": "Airforce Delta",
+        "id": 23996,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "Phantasy Star Online Ver. 2",
+        "id": 24155,
+        "ReleaseDate": "09/24/2001"
+    },
+    {
+        "GameTitle": "Dragons Blood",
+        "id": 24224,
+        "ReleaseDate": "12/01/2000"
+    },
+    {
+        "GameTitle": "MTV Sports Skateboarding",
+        "id": 24229,
+        "ReleaseDate": "12/01/2000"
+    },
+    {
+        "GameTitle": "Pod 2",
+        "id": 24232,
+        "ReleaseDate": "12/14/2000"
+    },
+    {
+        "GameTitle": "Stupid Invaders",
+        "id": 24745,
+        "ReleaseDate": "06/22/2001"
+    },
+    {
+        "GameTitle": "Sakura Wars 2",
+        "id": 27084,
+        "ReleaseDate": "04/04/1998"
+    },
+    {
+        "GameTitle": "Midway's Greatest Arcade Hits Volume 1",
+        "id": 27342
+    },
+    {
+        "GameTitle": "Re-Volt",
+        "id": 27345
+    },
+    {
+        "GameTitle": "Macross M3",
+        "id": 33166
+    },
+    {
+        "GameTitle": "Mobile Suit Gundam - Blood of Zeon",
+        "id": 33167
+    },
+    {
+        "GameTitle": "Caesars Palace 2000: Millennium Gold Edition",
+        "id": 29222
+    },
+    {
+        "GameTitle": "ECW Anarchy Rulz",
+        "id": 29223,
+        "ReleaseDate": "12/30/2000"
+    },
+    {
+        "GameTitle": "ECW Hardcore Revolution",
+        "id": 29224,
+        "ReleaseDate": "02/29/2000"
+    },
+    {
+        "GameTitle": "ESPN NBA 2Night",
+        "id": 29228
+    },
+    {
+        "GameTitle": "European Super League",
+        "id": 29229
+    },
+    {
+        "GameTitle": "CART Flag to Flag",
+        "id": 29230
+    },
+    {
+        "GameTitle": "Jeremy McGrath Supercross 2000",
+        "id": 29231
+    },
+    {
+        "GameTitle": "Mag Force Racing",
+        "id": 29232
+    },
+    {
+        "GameTitle": "Mars Matrix",
+        "id": 29233
+    },
+    {
+        "GameTitle": "Midway's Greatest Arcade Hits Volume 2",
+        "id": 29235
+    },
+    {
+        "GameTitle": "Planet Ring",
+        "id": 29239
+    },
+    {
+        "GameTitle": "Rippin' Riders",
+        "id": 29240
+    },
+    {
+        "GameTitle": "Roadsters",
+        "id": 29241
+    },
+    {
+        "GameTitle": "South Park: Chef's Luv Shack",
+        "id": 29242
+    },
+    {
+        "GameTitle": "Super Runabout: San Francisco Edition",
+        "id": 29243
+    },
+    {
+        "GameTitle": "UEFA Dream Soccer",
+        "id": 29246
+    },
+    {
+        "GameTitle": "Walt Disney World Quest: Magical Racing Tour",
+        "id": 29247
+    },
+    {
+        "GameTitle": "Who Wants to Be a Millionaire?",
+        "id": 29248
+    },
+    {
+        "GameTitle": "90 Minutes: Sega Championship Football",
+        "id": 29249
+    },
+    {
+        "GameTitle": "Shin Nippon Pro Wrestling: Toukon Retsuden 4",
+        "id": 29349,
+        "ReleaseDate": "09/02/1999"
+    },
+    {
+        "GameTitle": "What's Shenmue?",
+        "id": 29356,
+        "ReleaseDate": "06/11/1999"
+    },
+    {
+        "GameTitle": "Langrisser Millenium",
+        "id": 29521
+    },
+    {
+        "GameTitle": "Soul Calibur",
+        "id": 29739,
+        "ReleaseDate": "09/09/1999"
+    },
+    {
+        "GameTitle": "L.O.L.: Lack of Love",
+        "id": 30093
+    },
+    {
+        "GameTitle": "Fire Pro Wrestling D",
+        "id": 30315,
+        "ReleaseDate": "03/01/2001"
+    },
+    {
+        "GameTitle": "Segagaga",
+        "id": 30478,
+        "ReleaseDate": "03/29/2001"
+    },
+    {
+        "GameTitle": "Taxi 2: Le Jeu",
+        "id": 30680,
+        "ReleaseDate": "11/30/2000"
+    },
+    {
+        "GameTitle": "Alice's Mom's Rescue",
+        "id": 31199,
+        "ReleaseDate": "02/10/2015"
+    },
+    {
+        "GameTitle": "DUX 1.5",
+        "id": 31200,
+        "ReleaseDate": "07/17/2009"
+    },
+    {
+        "GameTitle": "Dux",
+        "id": 31201,
+        "ReleaseDate": "06/17/2009"
+    },
+    {
+        "GameTitle": "Redux: Dark Matters",
+        "id": 31222,
+        "ReleaseDate": "12/12/2014"
+    },
+    {
+        "GameTitle": "Ghost Blade",
+        "id": 31688,
+        "ReleaseDate": "09/27/2015"
+    },
+    {
+        "GameTitle": "Last Hope",
+        "id": 31727,
+        "ReleaseDate": "07/10/2006"
+    },
+    {
+        "GameTitle": "Bomber Hehhe",
+        "id": 34516
+    },
+    {
+        "GameTitle": "Volgarr the Viking",
+        "id": 35961,
+        "ReleaseDate": "05/06/2015"
+    },
+    {
+        "GameTitle": "Dead or Alive 2 Limited Edition",
+        "id": 36012,
+        "ReleaseDate": "09/28/2000"
+    },
+    {
+        "GameTitle": "Napple Tale: Arsia in Daydream",
+        "id": 36015,
+        "ReleaseDate": "10/19/2000"
+    },
+    {
+        "GameTitle": "Super Robot Taisen Alpha",
+        "id": 37176,
+        "ReleaseDate": "08/30/2001"
+    }
+]}}
+]

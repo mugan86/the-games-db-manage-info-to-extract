@@ -1,0 +1,816 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Just Dance 2016",
+        "id": 33059,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "Amiibo Tap: Nintendo's Greatest Bits",
+        "id": 36400
+    },
+    {
+        "GameTitle": "New Super Mario Bros. U",
+        "id": 9060,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Hyrule Warriors",
+        "id": 23230,
+        "ReleaseDate": "09/26/2014"
+    },
+    {
+        "GameTitle": "ZombiU",
+        "id": 10709,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Batman: Arkham City: Armored Edition",
+        "id": 11133,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Super Smash Bros. for Wii U",
+        "id": 11151,
+        "ReleaseDate": "11/21/2014"
+    },
+    {
+        "GameTitle": "Assassin's Creed III",
+        "id": 11742,
+        "ReleaseDate": "11/13/2012"
+    },
+    {
+        "GameTitle": "Nintendo Land",
+        "id": 11743,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Marvel Avengers: Battle for Earth",
+        "id": 11744,
+        "ReleaseDate": "12/04/2012"
+    },
+    {
+        "GameTitle": "Call of Duty: Black Ops II",
+        "id": 11745,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Disney Epic Mickey 2: The Power of Two",
+        "id": 11778,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "ESPN Sports Connection",
+        "id": 12086,
+        "ReleaseDate": "11/13/2012"
+    },
+    {
+        "GameTitle": "Transformers Prime: The Game",
+        "id": 12091,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Just Dance 4",
+        "id": 12093,
+        "ReleaseDate": "11/13/2012"
+    },
+    {
+        "GameTitle": "Rabbids Land",
+        "id": 12095,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Darksiders II",
+        "id": 12098,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Scribblenauts Unlimited",
+        "id": 12100,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Sonic & All-Stars Racing Transformed",
+        "id": 12102,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Wipeout 3",
+        "id": 12103,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Trine 2: Director\u2019s Cut",
+        "id": 12104,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Ninja Gaiden 3: Razor's Edge",
+        "id": 12105,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Rayman Legends",
+        "id": 12237,
+        "ReleaseDate": "09/01/2013"
+    },
+    {
+        "GameTitle": "Mass Effect 3",
+        "id": 12507,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Assassin's Creed IV: Black Flag",
+        "id": 18149,
+        "ReleaseDate": "10/29/2013"
+    },
+    {
+        "GameTitle": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+        "id": 18152,
+        "ReleaseDate": "11/15/2013"
+    },
+    {
+        "GameTitle": "Super Mario 3D World",
+        "id": 18153,
+        "ReleaseDate": "11/22/2013"
+    },
+    {
+        "GameTitle": "Tekken Tag Tournament 2: Wii U Edition",
+        "id": 13495,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Warriors Orochi 3: Hyper",
+        "id": 13568,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Skylanders Giants",
+        "id": 14627,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "The Cave",
+        "id": 14828,
+        "ReleaseDate": "01/22/2013"
+    },
+    {
+        "GameTitle": "Balloon Fight",
+        "id": 14868,
+        "ReleaseDate": "01/23/2013"
+    },
+    {
+        "GameTitle": "007 Legends",
+        "id": 14938,
+        "ReleaseDate": "12/11/2012"
+    },
+    {
+        "GameTitle": "Injustice: Gods Among Us",
+        "id": 15094,
+        "ReleaseDate": "04/16/2013"
+    },
+    {
+        "GameTitle": "The Walking Dead: Survival Instinct",
+        "id": 15095,
+        "ReleaseDate": "03/19/2013"
+    },
+    {
+        "GameTitle": "Lego City Undercover",
+        "id": 15157,
+        "ReleaseDate": "03/18/2013"
+    },
+    {
+        "GameTitle": "Need for Speed Most Wanted",
+        "id": 15177,
+        "ReleaseDate": "03/19/2013"
+    },
+    {
+        "GameTitle": "FIFA Soccer 13",
+        "id": 15180,
+        "ReleaseDate": "11/13/2012"
+    },
+    {
+        "GameTitle": "Monster Hunter 3 Ultimate",
+        "id": 15182,
+        "ReleaseDate": "03/19/2013"
+    },
+    {
+        "GameTitle": "Resident Evil: Revelations",
+        "id": 15185,
+        "ReleaseDate": "05/21/2013"
+    },
+    {
+        "GameTitle": "The Amazing Spider-Man",
+        "id": 15204,
+        "ReleaseDate": "03/05/2013"
+    },
+    {
+        "GameTitle": "Ben 10: Omniverse",
+        "id": 15304,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Project CARS",
+        "id": 15699,
+        "ReleaseDate": "12/31/2013"
+    },
+    {
+        "GameTitle": "Jeopardy!",
+        "id": 15706,
+        "ReleaseDate": "12/14/2012"
+    },
+    {
+        "GameTitle": "NBA 2K13",
+        "id": 15985,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Family Party: 30 Great Games Obstacle Arcade",
+        "id": 16065,
+        "ReleaseDate": "12/04/2012"
+    },
+    {
+        "GameTitle": "Game Party Champions",
+        "id": 16066,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Rise of the Guardians",
+        "id": 16067,
+        "ReleaseDate": "12/04/2012"
+    },
+    {
+        "GameTitle": "Bayonetta 2",
+        "id": 16072,
+        "ReleaseDate": "10/24/2014"
+    },
+    {
+        "GameTitle": "Devil's Third",
+        "id": 16073,
+        "ReleaseDate": "12/11/2015"
+    },
+    {
+        "GameTitle": "Dragon Quest X",
+        "id": 16074,
+        "ReleaseDate": "03/30/2013"
+    },
+    {
+        "GameTitle": "Funky Barn",
+        "id": 16076,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Game & Wario",
+        "id": 16077,
+        "ReleaseDate": "06/30/2013"
+    },
+    {
+        "GameTitle": "Pikmin 3",
+        "id": 16079,
+        "ReleaseDate": "08/04/2013"
+    },
+    {
+        "GameTitle": "SiNG Party",
+        "id": 16080,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Tank! Tank! Tank!",
+        "id": 16083,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Your Shape: Fitness Evolved 2013",
+        "id": 16084,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Wii Fit U",
+        "id": 16085,
+        "ReleaseDate": "12/31/2013"
+    },
+    {
+        "GameTitle": "Wheel of Fortune",
+        "id": 16086,
+        "ReleaseDate": "12/14/2012"
+    },
+    {
+        "GameTitle": "The Wonderful 101",
+        "id": 16087,
+        "ReleaseDate": "09/15/2013"
+    },
+    {
+        "GameTitle": "Runner2: Future Legend of Rhythm Alien",
+        "id": 16088,
+        "ReleaseDate": "02/26/2013"
+    },
+    {
+        "GameTitle": "ZEN Pinball 2",
+        "id": 16089,
+        "ReleaseDate": "01/31/2013"
+    },
+    {
+        "GameTitle": "Mighty Switch Force! Hyper Drive Edition",
+        "id": 16091,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Little Inferno",
+        "id": 16090,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Nano Assault Neo",
+        "id": 16092,
+        "ReleaseDate": "11/18/2012"
+    },
+    {
+        "GameTitle": "Toki Tori 2",
+        "id": 16093,
+        "ReleaseDate": "03/31/2013"
+    },
+    {
+        "GameTitle": "San Goku Shi 12",
+        "id": 16418,
+        "ReleaseDate": "12/13/2012"
+    },
+    {
+        "GameTitle": "Sniper Elite V2",
+        "id": 16631,
+        "ReleaseDate": "05/24/2013"
+    },
+    {
+        "GameTitle": "Batman: Arkham Origins",
+        "id": 16820,
+        "ReleaseDate": "10/25/2013"
+    },
+    {
+        "GameTitle": "LEGO Batman 2: DC Super Heroes",
+        "id": 17213,
+        "ReleaseDate": "05/21/2013"
+    },
+    {
+        "GameTitle": "Skylanders SWAP Force",
+        "id": 19774,
+        "ReleaseDate": "10/13/2013"
+    },
+    {
+        "GameTitle": "Madden NFL 13",
+        "id": 17330,
+        "ReleaseDate": "11/13/2012"
+    },
+    {
+        "GameTitle": "Mutant Mudds Deluxe",
+        "id": 17392,
+        "ReleaseDate": "06/13/2013"
+    },
+    {
+        "GameTitle": "Mario Kart 8",
+        "id": 17444,
+        "ReleaseDate": "05/30/2014"
+    },
+    {
+        "GameTitle": "Sonic Lost World",
+        "id": 18060,
+        "ReleaseDate": "10/29/2013"
+    },
+    {
+        "GameTitle": "Angry Birds Trilogy",
+        "id": 17641,
+        "ReleaseDate": "08/13/2013"
+    },
+    {
+        "GameTitle": "New Super Luigi U",
+        "id": 17643,
+        "ReleaseDate": "06/20/2013"
+    },
+    {
+        "GameTitle": "Disney Infinity",
+        "id": 17809,
+        "ReleaseDate": "08/23/2013"
+    },
+    {
+        "GameTitle": "The Legend of Zelda: The Wind Waker HD",
+        "id": 17824,
+        "ReleaseDate": "09/20/2013"
+    },
+    {
+        "GameTitle": "Scribblenauts Unmasked: A DC Comics Adventure",
+        "id": 17925,
+        "ReleaseDate": "09/24/2013"
+    },
+    {
+        "GameTitle": "Deus Ex Human Revolution Director's Cut",
+        "id": 18012,
+        "ReleaseDate": "10/22/2013"
+    },
+    {
+        "GameTitle": "The Smurfs 2",
+        "id": 18110
+    },
+    {
+        "GameTitle": "Pac-Man and the Ghostly Adventures",
+        "id": 18166,
+        "ReleaseDate": "10/29/2013"
+    },
+    {
+        "GameTitle": "Tom Clancy's Splinter Cell: Blacklist",
+        "id": 18204,
+        "ReleaseDate": "08/20/2013"
+    },
+    {
+        "GameTitle": "Call of Duty: Ghosts",
+        "id": 18219,
+        "ReleaseDate": "11/05/2013"
+    },
+    {
+        "GameTitle": "Wii Party U",
+        "id": 18547,
+        "ReleaseDate": "10/25/2013"
+    },
+    {
+        "GameTitle": "Snoopy's Grand Adventure",
+        "id": 36359,
+        "ReleaseDate": "11/03/2015"
+    },
+    {
+        "GameTitle": "Donkey Kong Country: Tropical Freeze",
+        "id": 19536,
+        "ReleaseDate": "02/21/2014"
+    },
+    {
+        "GameTitle": "DuckTales Remastered",
+        "id": 19426,
+        "ReleaseDate": "08/13/2013"
+    },
+    {
+        "GameTitle": "New Super Mario Bros. U + New Super Luigi U",
+        "id": 19776,
+        "ReleaseDate": "11/01/2013"
+    },
+    {
+        "GameTitle": "TNT Racers - Nitro Machines Edition",
+        "id": 19827,
+        "ReleaseDate": "10/03/2013"
+    },
+    {
+        "GameTitle": "Child of Light",
+        "id": 20129,
+        "ReleaseDate": "04/30/2014"
+    },
+    {
+        "GameTitle": "Watch Dogs",
+        "id": 20490,
+        "ReleaseDate": "11/20/2014"
+    },
+    {
+        "GameTitle": "NES Remix",
+        "id": 20527,
+        "ReleaseDate": "12/18/2013"
+    },
+    {
+        "GameTitle": "NES Remix 2",
+        "id": 20528,
+        "ReleaseDate": "04/25/2014"
+    },
+    {
+        "GameTitle": "Zumba Fitness World Party",
+        "id": 20650,
+        "ReleaseDate": "11/05/2013"
+    },
+    {
+        "GameTitle": "Pullblox World",
+        "id": 21111,
+        "ReleaseDate": "06/19/2014"
+    },
+    {
+        "GameTitle": "Splatoon",
+        "id": 21148,
+        "ReleaseDate": "05/29/2015"
+    },
+    {
+        "GameTitle": "Shovel Knight",
+        "id": 21331,
+        "ReleaseDate": "06/26/2014"
+    },
+    {
+        "GameTitle": "Xenoblade Chronicles X",
+        "id": 33363,
+        "ReleaseDate": "12/04/2015"
+    },
+    {
+        "GameTitle": "One Piece: Unlimited World Red",
+        "id": 21458,
+        "ReleaseDate": "06/26/2014"
+    },
+    {
+        "GameTitle": "Adventure Time: Explore The Dungeon Because I Don't Know!",
+        "id": 21483,
+        "ReleaseDate": "11/19/2013"
+    },
+    {
+        "GameTitle": "Oddworld: New n Tasty",
+        "id": 21751
+    },
+    {
+        "GameTitle": "Yoshi's Woolly World",
+        "id": 22650,
+        "ReleaseDate": "03/01/2015"
+    },
+    {
+        "GameTitle": "Just Dance 2014",
+        "id": 22806
+    },
+    {
+        "GameTitle": "Skylanders Trap Team",
+        "id": 23310,
+        "ReleaseDate": "10/10/2014"
+    },
+    {
+        "GameTitle": "Captain Toad: Treasure Tracker",
+        "id": 23465,
+        "ReleaseDate": "12/05/2014"
+    },
+    {
+        "GameTitle": "LEGO Batman 3: Beyond Gotham",
+        "id": 23592
+    },
+    {
+        "GameTitle": "Teslagrad",
+        "id": 23859,
+        "ReleaseDate": "09/11/2014"
+    },
+    {
+        "GameTitle": "Wii Sports Club",
+        "id": 23982,
+        "ReleaseDate": "07/25/2014"
+    },
+    {
+        "GameTitle": "NES Remix Pack",
+        "id": 24048,
+        "ReleaseDate": "12/05/2014"
+    },
+    {
+        "GameTitle": "Bayonetta",
+        "id": 24217,
+        "ReleaseDate": "10/24/2014"
+    },
+    {
+        "GameTitle": "Lego: Marvel Super Heroes",
+        "id": 24259,
+        "ReleaseDate": "10/22/2013"
+    },
+    {
+        "GameTitle": "Just Dance 2015",
+        "id": 24411
+    },
+    {
+        "GameTitle": "Disney Infinity 2.0 Edition",
+        "id": 24753,
+        "ReleaseDate": "09/23/2014"
+    },
+    {
+        "GameTitle": "Mario Party 10",
+        "id": 25042,
+        "ReleaseDate": "03/20/2015"
+    },
+    {
+        "GameTitle": "Kirby & the Rainbow Curse",
+        "id": 25043
+    },
+    {
+        "GameTitle": "The Croods: Prehistoric Party!",
+        "id": 25428
+    },
+    {
+        "GameTitle": "Mario vs. Donkey Kong: Tipping Stars",
+        "id": 25825
+    },
+    {
+        "GameTitle": "How to Survive",
+        "id": 25953
+    },
+    {
+        "GameTitle": "1001 Spikes",
+        "id": 26734
+    },
+    {
+        "GameTitle": "Pushmo: World",
+        "id": 36399
+    },
+    {
+        "GameTitle": "LEGO Dimensions Starter Pack",
+        "id": 27130,
+        "ReleaseDate": "09/27/2015"
+    },
+    {
+        "GameTitle": "Sonic Boom: Rise of Lyric",
+        "id": 27460
+    },
+    {
+        "GameTitle": "Stealth Inc. 2: A Game of Clones",
+        "id": 27691,
+        "ReleaseDate": "10/30/2014"
+    },
+    {
+        "GameTitle": "LEGO Jurassic World",
+        "id": 29073
+    },
+    {
+        "GameTitle": "Pier Solar and the Great Architects",
+        "id": 29305
+    },
+    {
+        "GameTitle": "Road Redemption",
+        "id": 29820
+    },
+    {
+        "GameTitle": "Scram Kitty and His Buddy on Rails",
+        "id": 29971
+    },
+    {
+        "GameTitle": "The LEGO Movie Videogame",
+        "id": 30465,
+        "ReleaseDate": "02/07/2014"
+    },
+    {
+        "GameTitle": "Citizens of Earth",
+        "id": 30833
+    },
+    {
+        "GameTitle": "Bayonetta 2 - Special Edition",
+        "id": 31275,
+        "ReleaseDate": "10/24/2014"
+    },
+    {
+        "GameTitle": "Super Mario Maker",
+        "id": 31277,
+        "ReleaseDate": "09/11/2015"
+    },
+    {
+        "GameTitle": "Star Fox Zero",
+        "id": 31302,
+        "ReleaseDate": "11/20/2015"
+    },
+    {
+        "GameTitle": "Project Zero: Maiden of Black Water",
+        "id": 31822,
+        "ReleaseDate": "10/22/2015"
+    },
+    {
+        "GameTitle": "Skylanders SuperChargers",
+        "id": 32520
+    },
+    {
+        "GameTitle": "Adventure Time: Finn and Jake Investigations",
+        "id": 35560,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "Animal Crossing: Amiibo Festival",
+        "id": 32901,
+        "ReleaseDate": "11/13/2015"
+    },
+    {
+        "GameTitle": "Transformers: Rise of the Dark Spark",
+        "id": 32911,
+        "ReleaseDate": "06/24/2014"
+    },
+    {
+        "GameTitle": "Rodea The Sky Soldier",
+        "id": 33025,
+        "ReleaseDate": "11/10/2015"
+    },
+    {
+        "GameTitle": "Mario Tennis: Ultra Smash",
+        "id": 33065,
+        "ReleaseDate": "11/20/2015"
+    },
+    {
+        "GameTitle": "LEGO The Hobbit",
+        "id": 33560
+    },
+    {
+        "GameTitle": "Minecraft",
+        "id": 33627
+    },
+    {
+        "GameTitle": "The Legend of Zelda: Twilight Princess HD",
+        "id": 33799,
+        "ReleaseDate": "03/04/2016"
+    },
+    {
+        "GameTitle": "The Amazing Spider-Man 2",
+        "id": 34005,
+        "ReleaseDate": "04/29/2014"
+    },
+    {
+        "GameTitle": "Legend of Kay Anniversary",
+        "id": 34006,
+        "ReleaseDate": "07/28/2015"
+    },
+    {
+        "GameTitle": "Monster Hunter Frontier G",
+        "id": 34010
+    },
+    {
+        "GameTitle": "Fatal Frame: Maiden of Black Water",
+        "id": 34156
+    },
+    {
+        "GameTitle": "Disney Infinity: 2.0 Edition",
+        "id": 34243,
+        "ReleaseDate": "09/23/2014"
+    },
+    {
+        "GameTitle": "Kung Fu Rabbit",
+        "id": 34418
+    },
+    {
+        "GameTitle": "SteamWorld Dig",
+        "id": 34425
+    },
+    {
+        "GameTitle": "LEGO Marvel's Avengers",
+        "id": 34842,
+        "ReleaseDate": "01/26/2016"
+    },
+    {
+        "GameTitle": "Octodad: Dadliest Catch",
+        "id": 35015
+    },
+    {
+        "GameTitle": "Fix & Foxi:Seems like Old Times",
+        "id": 35555
+    },
+    {
+        "GameTitle": "Mighty No. 9",
+        "id": 35279
+    },
+    {
+        "GameTitle": "Mario & Sonic Rio 2016 Olympics",
+        "id": 35668,
+        "ReleaseDate": "03/18/2016"
+    },
+    {
+        "GameTitle": "Pokken Tournament",
+        "id": 35670,
+        "ReleaseDate": "03/18/2016"
+    },
+    {
+        "GameTitle": "Disney Infinity: 3.0 Edition",
+        "id": 36263
+    },
+    {
+        "GameTitle": "Pushmo World",
+        "id": 36367
+    },
+    {
+        "GameTitle": "Pixel Slime U",
+        "id": 36368
+    },
+    {
+        "GameTitle": "STARWHAL",
+        "id": 36369
+    },
+    {
+        "GameTitle": "Pac-Man",
+        "id": 36370
+    },
+    {
+        "GameTitle": "Super Mario Bros. 2: The Lost Levels",
+        "id": 36371
+    },
+    {
+        "GameTitle": "Mini Mario & Friends: Amiibo Challenge",
+        "id": 36372
+    },
+    {
+        "GameTitle": "Super Mario World",
+        "id": 36373
+    },
+    {
+        "GameTitle": "Donkey Kong",
+        "id": 36374
+    },
+    {
+        "GameTitle": "Giana Sisters Twisted Dreams Directors Cut",
+        "id": 36581,
+        "ReleaseDate": "09/05/2013"
+    },
+    {
+        "GameTitle": "Star Fox Guard",
+        "id": 36918,
+        "ReleaseDate": "04/22/2016"
+    },
+    {
+        "GameTitle": "Tokyo Mirage Sessions #FE",
+        "id": 37556,
+        "ReleaseDate": "06/24/2016"
+    },
+    {
+        "GameTitle": "Xenoblade Chronicles X - Limited Edition",
+        "id": 37578,
+        "ReleaseDate": "12/04/2015"
+    }
+]}}
+]

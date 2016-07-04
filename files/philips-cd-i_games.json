@@ -1,0 +1,830 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Beauty and the Beast",
+        "id": 22981,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Zelda: The Wand of Gamelon",
+        "id": 14753,
+        "ReleaseDate": "10/10/1993"
+    },
+    {
+        "GameTitle": "Link: The Faces of Evil",
+        "id": 14754,
+        "ReleaseDate": "10/10/1993"
+    },
+    {
+        "GameTitle": "Zelda's Adventure",
+        "id": 14755,
+        "ReleaseDate": "06/05/1994"
+    },
+    {
+        "GameTitle": "The 7th Guest",
+        "id": 14854,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Alice in Wonderland",
+        "id": 14855,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Alien Gate",
+        "id": 14856,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Apprentice",
+        "id": 14857,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Hotel Mario",
+        "id": 14904,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Myst",
+        "id": 14905,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "3rd Degree",
+        "id": 15070,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Atlantis: The Last Resort",
+        "id": 15087,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Dark Castle",
+        "id": 15088,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Dragon's Lair",
+        "id": 19091,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Dragon's Lair II: Time Warp",
+        "id": 19093,
+        "ReleaseDate": "06/16/1991"
+    },
+    {
+        "GameTitle": "Space Ace",
+        "id": 19094,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "A Great Day At The Races",
+        "id": 22972,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "A Visit to Sesame Street: Letters",
+        "id": 22973,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Accelerator",
+        "id": 22974,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Alfapet",
+        "id": 22975,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Arcade Classics - Namco Compilation: Galaxian, Galaga, Ms. Pac-Man",
+        "id": 22976,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Asterix: Caesar's Challenge",
+        "id": 22977,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Axis & Allies",
+        "id": 22978,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Backgammon",
+        "id": 22979,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Battleship",
+        "id": 22980,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Big Bang Show",
+        "id": 22982,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Brain Dead 13",
+        "id": 22983,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Brer Rabbit and the Wonderful Tar Baby",
+        "id": 22984,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Burn:Cycle",
+        "id": 22985,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Caesar's World of Boxing",
+        "id": 22986,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Caesar's World of Gambling",
+        "id": 22987,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Cartoon Carnival",
+        "id": 22988,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "CD Shoot",
+        "id": 22989,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Chaos Control",
+        "id": 22990,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Christmas Country",
+        "id": 22991,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Christmas Crisis",
+        "id": 22992,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Cluedo",
+        "id": 22993,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Cluedo: The Mysteries Continue",
+        "id": 22994,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Connect Four",
+        "id": 22995,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Crime Patrol",
+        "id": 22996,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Crime Patrol 2: Drug Wars",
+        "id": 22998,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Cyber Soldier Sharaku",
+        "id": 22999,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Defender of the Crown",
+        "id": 23000,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Dimo's Quest",
+        "id": 23001,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Earth Command",
+        "id": 23002,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Effacer: Hangman from the 25th Century",
+        "id": 23003,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Escape from Cyber City",
+        "id": 23004,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Family Games",
+        "id": 23005,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Family Games II: Junk Food Jive",
+        "id": 23007,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Flashback: The Quest for Identity",
+        "id": 23008,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Flintstones & Jetsons: Timewarp",
+        "id": 23009,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Foqus",
+        "id": 23010,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Frog Feast",
+        "id": 23011,
+        "ReleaseDate": "01/01/2007"
+    },
+    {
+        "GameTitle": "Go - Special Edition",
+        "id": 23013,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Karaoke Voetbal",
+        "id": 23014,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Golden Oldies 1: Guardian and Invaders",
+        "id": 23015,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Golden Oldies 2: Blockbuster and Bughunt",
+        "id": 23016,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Golf Tips",
+        "id": 23017,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Golgo 13",
+        "id": 23018,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Great American Golf",
+        "id": 23019,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Inca",
+        "id": 23022,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Inca II",
+        "id": 23023,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "International Tennis Open",
+        "id": 23024,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Invasion From The Planet Skyron",
+        "id": 23025,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Jack Sprite Vs The Crimson Ghost",
+        "id": 23026,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Jeopardy!",
+        "id": 23027,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Karaoke Klassics: Family Favorites",
+        "id": 23028,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Kether",
+        "id": 23029,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Kingdom: The Far Reaches",
+        "id": 23030,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Kingdom II: Shadoan",
+        "id": 23031,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Labyrinth Of Crete",
+        "id": 23032,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Laser Lords",
+        "id": 23033,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Lemmings",
+        "id": 23034,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Lettergreep",
+        "id": 23036,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Lingo",
+        "id": 23037,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Litil Divil",
+        "id": 23038,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Little Monster at School",
+        "id": 23039,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Lords of the Rising Sun",
+        "id": 23040,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Lost Eden",
+        "id": 23041,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Lucky Luke: The Video Game",
+        "id": 23042,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Mad Dog McCree",
+        "id": 23043,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Mad Dog II: The Lost Gold",
+        "id": 23044,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "MahJong",
+        "id": 23045
+    },
+    {
+        "GameTitle": "Marco Polo",
+        "id": 23046,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Master Labyrinth",
+        "id": 23047,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Max Magic",
+        "id": 23048,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Mega-Maze",
+        "id": 23049,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Merlin's Apprentice",
+        "id": 23050,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Micro Machines",
+        "id": 23051,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Mind Quest",
+        "id": 23052,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Mutant Rampage: Bodyslam",
+        "id": 23053,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Mystic Midway: Phantom Express",
+        "id": 23054,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Mystic Midway: Rest in Pieces",
+        "id": 23055,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Name That Tune",
+        "id": 23056,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "NFL Football Trivia Challenge ('94 - '95 Edition)",
+        "id": 23057,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "NFL Hall of Fame Football",
+        "id": 23058,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "NFL Instant Replay",
+        "id": 23059,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Othello",
+        "id": 23060,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "P.A.W.S.",
+        "id": 23061,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Pac-Panic",
+        "id": 23062,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Paint School II",
+        "id": 23063,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Pinball",
+        "id": 23064,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Plunderball",
+        "id": 23065,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "ABC Sports Presents: Power Hitter",
+        "id": 23066,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Pyramid Adventures",
+        "id": 23067,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Pyramid Episode 1 Treasures Of The Lost Pyramid",
+        "id": 23069,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Sargon Chess",
+        "id": 23070,
+        "ReleaseDate": "08/01/1991"
+    },
+    {
+        "GameTitle": "Scotland Yard Interactive",
+        "id": 23071,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Secret Mission",
+        "id": 23072,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Shaolin's Road",
+        "id": 23073,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Solar Crusade",
+        "id": 23074,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Space Ranger: Return to Earth",
+        "id": 23075,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Sport Freaks",
+        "id": 23076,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Steel Machine",
+        "id": 23077,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Striker Pro",
+        "id": 23078,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Surf City",
+        "id": 23079,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Tangram",
+        "id": 23080,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Tetris",
+        "id": 23081,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Tetsuo Gaiden",
+        "id": 23082,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Text Tiles",
+        "id": 23083,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Berenstein Bears: On Their Own, And You On Your Own",
+        "id": 23084,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Joker's Wild",
+        "id": 23085,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Joy of Sex",
+        "id": 23087,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Last Bounty Hunter",
+        "id": 23088,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "The Lost Ride",
+        "id": 23089,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "ABC Sports Presents: The Palm Spring Open",
+        "id": 23090,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "The Wacky World of Miniature Golf",
+        "id": 23091,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Thunder in Paradise",
+        "id": 23092,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Ultra CDi Soccer",
+        "id": 23094,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Uncover: Featuring Tatjanna",
+        "id": 23095,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Vegas Girls",
+        "id": 23096,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Video Speedway",
+        "id": 23097,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Voyeur",
+        "id": 23098,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Whack A Bubble",
+        "id": 23099,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Who Shot Johnny Rock?",
+        "id": 23100,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Wordplay",
+        "id": 23102,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "World Cup Golf: Hyatt Dorado Beach",
+        "id": 23103,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Zenith",
+        "id": 23104,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Zombie Dinos From Planet Zeltoid",
+        "id": 23105,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Drug Wars",
+        "id": 23130
+    },
+    {
+        "GameTitle": "Great American Golf 2",
+        "id": 23131,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Creature Shock",
+        "id": 23133,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Making the Grade",
+        "id": 23137
+    },
+    {
+        "GameTitle": "Strip Poker Live",
+        "id": 23145
+    },
+    {
+        "GameTitle": "Strip Poker Pro",
+        "id": 23146
+    },
+    {
+        "GameTitle": "Tic Tac Toe",
+        "id": 23150
+    },
+    {
+        "GameTitle": "Girl's Club",
+        "id": 23153,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Gnomes",
+        "id": 23154,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Ultimate Noah's Ark",
+        "id": 23156,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Sandy's Circus Adventure",
+        "id": 23157,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Jigsaw",
+        "id": 23159,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Children's Musical Theatre",
+        "id": 23161,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Golf My Way",
+        "id": 23162,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Dimos Quest",
+        "id": 23163,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Titanic An Interactive Exploration",
+        "id": 23164,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Paint School I",
+        "id": 23167,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Peanuts: Yearn 2 Learn",
+        "id": 23168,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Pecos Bill",
+        "id": 23169,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Pegasus",
+        "id": 23170,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Stickybear Math",
+        "id": 23172,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Stickybear Preschool",
+        "id": 23173,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Stickybear Reading",
+        "id": 23174,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Tell Me Why 1",
+        "id": 23175,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Tell Me Why 2",
+        "id": 23176,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "A Visit to Sesame Street: Numbers",
+        "id": 23177,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Ram Raid",
+        "id": 30147
+    },
+    {
+        "GameTitle": "Super Mario's Wacky Worlds",
+        "id": 35403
+    }
+]}}
+]

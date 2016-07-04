@@ -1,0 +1,501 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Taikyoku Igo: Heisei Kiin",
+        "id": 31927
+    },
+    {
+        "GameTitle": "Beatmania",
+        "id": 19545,
+        "ReleaseDate": "04/28/1999"
+    },
+    {
+        "GameTitle": "Chaos Gear: Michibi Kareshi Mono",
+        "id": 19546,
+        "ReleaseDate": "06/10/1999"
+    },
+    {
+        "GameTitle": "Crazy Climber",
+        "id": 19547,
+        "ReleaseDate": "07/29/1999"
+    },
+    {
+        "GameTitle": "Makaimura for WonderSwan",
+        "id": 19548,
+        "ReleaseDate": "07/22/1999"
+    },
+    {
+        "GameTitle": "Mobile Suit Gundam MSVS",
+        "id": 19549,
+        "ReleaseDate": "08/26/1999"
+    },
+    {
+        "GameTitle": "Buffers Evolution",
+        "id": 19613,
+        "ReleaseDate": "12/09/1999"
+    },
+    {
+        "GameTitle": "Glocal Hexcite",
+        "id": 19614,
+        "ReleaseDate": "06/29/2000"
+    },
+    {
+        "GameTitle": "Pocket Fighter",
+        "id": 19615,
+        "ReleaseDate": "04/06/2000"
+    },
+    {
+        "GameTitle": "RockMan & Forte",
+        "id": 19616,
+        "ReleaseDate": "10/28/1999"
+    },
+    {
+        "GameTitle": "Turntablist: DJ Battle",
+        "id": 27680,
+        "ReleaseDate": "11/25/1999"
+    },
+    {
+        "GameTitle": "Anchorz Field",
+        "id": 27587,
+        "ReleaseDate": "06/24/1999"
+    },
+    {
+        "GameTitle": "Armored Unit",
+        "id": 27588,
+        "ReleaseDate": "11/18/1999"
+    },
+    {
+        "GameTitle": "Bakusou Dekotora Densetsu",
+        "id": 27589,
+        "ReleaseDate": "12/29/1999"
+    },
+    {
+        "GameTitle": "Card Captor Sakura: Sakura to Fushigi na Clow Card",
+        "id": 27590,
+        "ReleaseDate": "12/02/1999"
+    },
+    {
+        "GameTitle": "Chocobo no Fushigi Dungeon",
+        "id": 27591,
+        "ReleaseDate": "03/04/1999"
+    },
+    {
+        "GameTitle": "Cho Aniki: Otoko no Tamafuda",
+        "id": 27592,
+        "ReleaseDate": "02/10/2000"
+    },
+    {
+        "GameTitle": "Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou",
+        "id": 27593,
+        "ReleaseDate": "12/16/1999"
+    },
+    {
+        "GameTitle": "Clock Tower",
+        "id": 27594,
+        "ReleaseDate": "12/06/1999"
+    },
+    {
+        "GameTitle": "D's Garage21 Kōbo Game: Tane o maku tori",
+        "id": 27595,
+        "ReleaseDate": "12/22/1999"
+    },
+    {
+        "GameTitle": "Densha de Go!",
+        "id": 27596,
+        "ReleaseDate": "03/04/1999"
+    },
+    {
+        "GameTitle": "Densha de Go! 2",
+        "id": 27597,
+        "ReleaseDate": "10/07/1999"
+    },
+    {
+        "GameTitle": "Digital Monster Ver. WonderSwan",
+        "id": 27598,
+        "ReleaseDate": "03/25/1999"
+    },
+    {
+        "GameTitle": "Digimon Adventure 02: Tag Tamers",
+        "id": 27599,
+        "ReleaseDate": "08/03/2000"
+    },
+    {
+        "GameTitle": "Digimon Adventure: Anode Tamer",
+        "id": 27600,
+        "ReleaseDate": "12/16/1999"
+    },
+    {
+        "GameTitle": "Digimon Adventure: Cathode Tamer",
+        "id": 27601,
+        "ReleaseDate": "01/20/2000"
+    },
+    {
+        "GameTitle": "Digital Partner",
+        "id": 27602,
+        "ReleaseDate": "05/25/2000"
+    },
+    {
+        "GameTitle": "Dokodemo Hamster",
+        "id": 27603,
+        "ReleaseDate": "01/06/2000"
+    },
+    {
+        "GameTitle": "Engacho!",
+        "id": 27604,
+        "ReleaseDate": "10/28/1999"
+    },
+    {
+        "GameTitle": "Final Lap 2000",
+        "id": 27605,
+        "ReleaseDate": "03/23/2000"
+    },
+    {
+        "GameTitle": "Fire Pro Wrestling for WonderSwan",
+        "id": 27606,
+        "ReleaseDate": "08/31/2000"
+    },
+    {
+        "GameTitle": "Fishing Freaks: BassRise for WonderSwan",
+        "id": 27607,
+        "ReleaseDate": "02/24/2000"
+    },
+    {
+        "GameTitle": "From the TV Animation:One Piece ~Mezase Kaizokuou!~",
+        "id": 27608,
+        "ReleaseDate": "07/19/2000"
+    },
+    {
+        "GameTitle": "Ganso JaJaMaru-kun",
+        "id": 27609,
+        "ReleaseDate": "04/15/1999"
+    },
+    {
+        "GameTitle": "Gomokunarabe & Reversi: Touryuumon",
+        "id": 27610,
+        "ReleaseDate": "01/13/2000"
+    },
+    {
+        "GameTitle": "Goraku Ou Tango!",
+        "id": 27611,
+        "ReleaseDate": "04/01/1999"
+    },
+    {
+        "GameTitle": "Gunpey",
+        "id": 27612,
+        "ReleaseDate": "03/04/1999"
+    },
+    {
+        "GameTitle": "Hanafuda Shiyouyo",
+        "id": 27613,
+        "ReleaseDate": "02/17/2000"
+    },
+    {
+        "GameTitle": "Harobots",
+        "id": 27614,
+        "ReleaseDate": "10/07/1999"
+    },
+    {
+        "GameTitle": "Hunter X Hunter: Ishi o Tsugomono",
+        "id": 27624,
+        "ReleaseDate": "06/01/2000"
+    },
+    {
+        "GameTitle": "Uzumaki: Denshi Kaiki-hen",
+        "id": 27625,
+        "ReleaseDate": "02/03/2000"
+    },
+    {
+        "GameTitle": "Uzumaki: Noroi Simulation",
+        "id": 27626,
+        "ReleaseDate": "03/04/2000"
+    },
+    {
+        "GameTitle": "Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen",
+        "id": 27627,
+        "ReleaseDate": "09/30/1999"
+    },
+    {
+        "GameTitle": "Kaze no Klonoa: Moonlight Museum",
+        "id": 27628,
+        "ReleaseDate": "05/20/1999"
+    },
+    {
+        "GameTitle": "KISS Yori... Seaside Serenade",
+        "id": 27629,
+        "ReleaseDate": "12/02/1999"
+    },
+    {
+        "GameTitle": "Kosodate Quiz Dokodemo: My Angel",
+        "id": 27630,
+        "ReleaseDate": "04/15/1999"
+    },
+    {
+        "GameTitle": "Kyousouba Ikusei Simulation: Keiba",
+        "id": 27631,
+        "ReleaseDate": "11/18/1999"
+    },
+    {
+        "GameTitle": "Langrisser Millennium WS: The Last Century",
+        "id": 27632,
+        "ReleaseDate": "03/09/2000"
+    },
+    {
+        "GameTitle": "Last Stand",
+        "id": 27633,
+        "ReleaseDate": "03/27/1999"
+    },
+    {
+        "GameTitle": "Lode Runner for WonderSwan",
+        "id": 27634,
+        "ReleaseDate": "04/20/2000"
+    },
+    {
+        "GameTitle": "Macross: True Love Song",
+        "id": 27635,
+        "ReleaseDate": "03/23/2000"
+    },
+    {
+        "GameTitle": "Magical Drop for WonderSwan",
+        "id": 27636,
+        "ReleaseDate": "10/14/1999"
+    },
+    {
+        "GameTitle": "Meta Communication Therapy: Nee Kiite!",
+        "id": 27638,
+        "ReleaseDate": "03/23/2000"
+    },
+    {
+        "GameTitle": "Medarot: Perfect Edition - Kabuto Version",
+        "id": 27639,
+        "ReleaseDate": "05/04/1999"
+    },
+    {
+        "GameTitle": "Medarot: Perfect Edition - Kuwagata Version",
+        "id": 27640,
+        "ReleaseDate": "05/04/1999"
+    },
+    {
+        "GameTitle": "Meitantei Conan: Majutsushi no Chousenjou!",
+        "id": 27641,
+        "ReleaseDate": "08/05/1999"
+    },
+    {
+        "GameTitle": "Meitantei Conan: Nishi no Meitantei Saidai no Kiki!?",
+        "id": 27642,
+        "ReleaseDate": "07/27/2000"
+    },
+    {
+        "GameTitle": "Mingle Magnet",
+        "id": 27643,
+        "ReleaseDate": "11/02/1999"
+    },
+    {
+        "GameTitle": "Moero!! Pro Yakyuu Rookies",
+        "id": 27644,
+        "ReleaseDate": "03/30/2000"
+    },
+    {
+        "GameTitle": "Nazo-Oh Pocket",
+        "id": 27645,
+        "ReleaseDate": "11/18/1999"
+    },
+    {
+        "GameTitle": "Neon Genesis Evangelion: Shito Ikusei",
+        "id": 27646,
+        "ReleaseDate": "07/22/1999"
+    },
+    {
+        "GameTitle": "Nice On",
+        "id": 27647,
+        "ReleaseDate": "04/08/1999"
+    },
+    {
+        "GameTitle": "Nobunaga no Yabou",
+        "id": 27648,
+        "ReleaseDate": "03/11/1999"
+    },
+    {
+        "GameTitle": "Ochan no Oekaki Logic",
+        "id": 27649,
+        "ReleaseDate": "01/06/2000"
+    },
+    {
+        "GameTitle": "Puyo Puyo Tsuu",
+        "id": 27650,
+        "ReleaseDate": "03/11/1999"
+    },
+    {
+        "GameTitle": "Puzzle Bobble",
+        "id": 27651,
+        "ReleaseDate": "07/01/1999"
+    },
+    {
+        "GameTitle": "Rainbow Islands: Putty's Party",
+        "id": 27652,
+        "ReleaseDate": "06/29/2000"
+    },
+    {
+        "GameTitle": "Ring: Infinity",
+        "id": 27653,
+        "ReleaseDate": "08/10/2000"
+    },
+    {
+        "GameTitle": "Sangokushi",
+        "id": 27654,
+        "ReleaseDate": "04/01/1999"
+    },
+    {
+        "GameTitle": "Sangokushi II",
+        "id": 27655,
+        "ReleaseDate": "04/06/2000"
+    },
+    {
+        "GameTitle": "SD Gundam: Emotional Jam",
+        "id": 27656,
+        "ReleaseDate": "05/27/1999"
+    },
+    {
+        "GameTitle": "SD Gundam G Generation: Gather Beat",
+        "id": 27657,
+        "ReleaseDate": "07/13/2000"
+    },
+    {
+        "GameTitle": "SD Gundam: Gashapon Senki Episode 1",
+        "id": 27658,
+        "ReleaseDate": "12/29/1999"
+    },
+    {
+        "GameTitle": "Senkaiden: TV Animation Senkaiden Houshin Engi Yori",
+        "id": 27659,
+        "ReleaseDate": "02/24/2000"
+    },
+    {
+        "GameTitle": "Sennou Millennium",
+        "id": 27660,
+        "ReleaseDate": "03/16/2000"
+    },
+    {
+        "GameTitle": "Shanghai Pocket",
+        "id": 27661,
+        "ReleaseDate": "04/01/1999"
+    },
+    {
+        "GameTitle": "Shin Nippon Pro Wrestling: Toukon Retsuden",
+        "id": 27662,
+        "ReleaseDate": "03/04/1999"
+    },
+    {
+        "GameTitle": "Side Pocket for WonderSwan",
+        "id": 27663,
+        "ReleaseDate": "11/25/1999"
+    },
+    {
+        "GameTitle": "Slither Link",
+        "id": 27664,
+        "ReleaseDate": "04/20/2000"
+    },
+    {
+        "GameTitle": "Soccer Yarou!: Challenge The World",
+        "id": 27665,
+        "ReleaseDate": "08/12/1999"
+    },
+    {
+        "GameTitle": "Sotsugyou Graduation for WonderSwan",
+        "id": 27666,
+        "ReleaseDate": "12/16/1999"
+    },
+    {
+        "GameTitle": "Space Invaders",
+        "id": 27667,
+        "ReleaseDate": "05/13/1999"
+    },
+    {
+        "GameTitle": "Super Robot Taisen Compact",
+        "id": 27668,
+        "ReleaseDate": "04/28/1999"
+    },
+    {
+        "GameTitle": "Super Robot Taisen Compact 2 Dai-1-Bu: Chijou Gekidou-hen",
+        "id": 27669,
+        "ReleaseDate": "03/30/2000"
+    },
+    {
+        "GameTitle": "Super Robot Taisen Compact 2 Dai-2-Bu: Uchuu Gekishin-hen",
+        "id": 27670,
+        "ReleaseDate": "09/14/2000"
+    },
+    {
+        "GameTitle": "Super Robot Taisen Compact 2 Dai-3-Bu: Ginga Kessen-hen",
+        "id": 27671,
+        "ReleaseDate": "01/28/2001"
+    },
+    {
+        "GameTitle": "Tanjou Debut for WonderSwan",
+        "id": 27672,
+        "ReleaseDate": "02/24/2000"
+    },
+    {
+        "GameTitle": "Tarepanda no Gunpey",
+        "id": 27673,
+        "ReleaseDate": "12/09/1999"
+    },
+    {
+        "GameTitle": "Tekken Card Challenge",
+        "id": 27674,
+        "ReleaseDate": "06/17/1999"
+    },
+    {
+        "GameTitle": "Terrors",
+        "id": 27675,
+        "ReleaseDate": "08/05/1999"
+    },
+    {
+        "GameTitle": "Tetsujin 28-gou",
+        "id": 27676,
+        "ReleaseDate": "12/22/1999"
+    },
+    {
+        "GameTitle": "Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo",
+        "id": 27677,
+        "ReleaseDate": "04/27/2000"
+    },
+    {
+        "GameTitle": "Tokyo Majin Gakuen: Fuju Houroku",
+        "id": 27678,
+        "ReleaseDate": "10/12/2000"
+    },
+    {
+        "GameTitle": "Umizuri ni Ikou!",
+        "id": 27681,
+        "ReleaseDate": "04/01/1999"
+    },
+    {
+        "GameTitle": "Vaitz Blade",
+        "id": 27682,
+        "ReleaseDate": "06/24/1999"
+    },
+    {
+        "GameTitle": "Wuz up b? Produce: Street Dancer",
+        "id": 27684,
+        "ReleaseDate": "04/27/2000"
+    },
+    {
+        "GameTitle": "Wonder Stadium",
+        "id": 27685,
+        "ReleaseDate": "03/11/1999"
+    },
+    {
+        "GameTitle": "Wonder Stadium '99",
+        "id": 27687,
+        "ReleaseDate": "09/30/1999"
+    },
+    {
+        "GameTitle": "WonderSwan Handy Sonar",
+        "id": 27688,
+        "ReleaseDate": "05/13/1999"
+    },
+    {
+        "GameTitle": "Tane Wo Maku Tori",
+        "id": 30154
+    }
+]}}
+]

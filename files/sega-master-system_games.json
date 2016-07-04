@@ -1,0 +1,1887 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "G-LOC Air Battle",
+        "id": 2798,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Flicky",
+        "id": 35504,
+        "ReleaseDate": "09/01/1991"
+    },
+    {
+        "GameTitle": "Laser Ghost",
+        "id": 2882,
+        "ReleaseDate": "12/01/1991"
+    },
+    {
+        "GameTitle": "Marble Madness",
+        "id": 2895,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Kenseiden",
+        "id": 2874,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Ecco the Dolphin",
+        "id": 2898,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "After Burner",
+        "id": 1613,
+        "ReleaseDate": "11/02/1987"
+    },
+    {
+        "GameTitle": "Andre Agassi Tennis",
+        "id": 1705,
+        "ReleaseDate": 1992
+    },
+    {
+        "GameTitle": "Dragon: The Bruce Lee Story",
+        "id": 1799,
+        "ReleaseDate": 1993
+    },
+    {
+        "GameTitle": "George Foreman's KO Boxing",
+        "id": 1838,
+        "ReleaseDate": 1992
+    },
+    {
+        "GameTitle": "Shinobi",
+        "id": 2071,
+        "ReleaseDate": "06/19/1988"
+    },
+    {
+        "GameTitle": "James Bond 007: The Duel",
+        "id": 2857,
+        "ReleaseDate": "04/07/1993"
+    },
+    {
+        "GameTitle": "Hang-On",
+        "id": 2817,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Kung Fu Kid",
+        "id": 2439,
+        "ReleaseDate": "05/17/1987"
+    },
+    {
+        "GameTitle": "Maze Hunter 3-D",
+        "id": 2502,
+        "ReleaseDate": 1987
+    },
+    {
+        "GameTitle": "Road Rash",
+        "id": 2557,
+        "ReleaseDate": "03/01/1994"
+    },
+    {
+        "GameTitle": "Golfamania",
+        "id": 2801,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Dick Tracy",
+        "id": 3088,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Olympic Gold: Barcelona '92",
+        "id": 2944,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Missile Defense 3-D",
+        "id": 2919,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Ace of Aces",
+        "id": 2676,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Action Fighter",
+        "id": 2677,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Aerial Assault",
+        "id": 2679,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Air Rescue",
+        "id": 2680,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Alex Kidd: BMX Trial",
+        "id": 2683,
+        "ReleaseDate": "11/15/1987"
+    },
+    {
+        "GameTitle": "Alex Kidd in Miracle World",
+        "id": 2684,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Alex Kidd in Shinobi World",
+        "id": 2685,
+        "ReleaseDate": "08/01/1990"
+    },
+    {
+        "GameTitle": "ALF",
+        "id": 2686,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Alien Storm",
+        "id": 2687,
+        "ReleaseDate": "06/28/1991"
+    },
+    {
+        "GameTitle": "American Baseball",
+        "id": 2688,
+        "ReleaseDate": "05/01/1988"
+    },
+    {
+        "GameTitle": "American Pro Football",
+        "id": 2689,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Ys: The Vanished Omens",
+        "id": 5501,
+        "ReleaseDate": "10/14/1988"
+    },
+    {
+        "GameTitle": "Arcade Smash Hits",
+        "id": 2691,
+        "ReleaseDate": "07/15/1992"
+    },
+    {
+        "GameTitle": "Argos no Juujiken",
+        "id": 2692,
+        "ReleaseDate": "03/25/1988"
+    },
+    {
+        "GameTitle": "Asterix and the Great Rescue",
+        "id": 2693,
+        "ReleaseDate": "11/15/1993"
+    },
+    {
+        "GameTitle": "Asterix and the Secret Mission",
+        "id": 2694,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Gokuaku Doumei Dump Matsumoto",
+        "id": 36020,
+        "ReleaseDate": "07/21/1986"
+    },
+    {
+        "GameTitle": "Astro Warrior",
+        "id": 2695,
+        "ReleaseDate": "12/14/1986"
+    },
+    {
+        "GameTitle": "Astro Warrior/Pit Pot",
+        "id": 2696,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Ayrton Senna's Super Monaco GP II",
+        "id": 2697,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Aztec Adventure",
+        "id": 2698,
+        "ReleaseDate": "09/20/1987"
+    },
+    {
+        "GameTitle": "Back to the Future Part II",
+        "id": 2699,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Back to the Future Part III",
+        "id": 2700,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Baku Baku Animal",
+        "id": 2701,
+        "ReleaseDate": "10/15/1998"
+    },
+    {
+        "GameTitle": "Bank Panic",
+        "id": 2702,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Basketball Nightmare",
+        "id": 2703,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Battle OutRun",
+        "id": 2704,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Battlemaniacs",
+        "id": 2705,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Black Belt",
+        "id": 2706,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Danan: The Jungle Fighter",
+        "id": 36019,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Blade Eagle 3-D",
+        "id": 2707,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Bomber Raid",
+        "id": 2708,
+        "ReleaseDate": "02/01/1989"
+    },
+    {
+        "GameTitle": "Bonanza Bros",
+        "id": 2709,
+        "ReleaseDate": "05/16/1991"
+    },
+    {
+        "GameTitle": "Bonkers Wax Up",
+        "id": 2710,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Buggy Run",
+        "id": 2711,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Captain Silver",
+        "id": 2712,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Casino Games",
+        "id": 2713,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Champions of Europe",
+        "id": 2714,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Championship Hockey",
+        "id": 2715,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Cheese Cat-Astrophe Starring Speedy Gonzales",
+        "id": 2716,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Choplifter",
+        "id": 2717,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Chuck Rock II: Son of Chuck",
+        "id": 2718,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Cloud Master",
+        "id": 2719,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Cosmic Spacehead",
+        "id": 2721,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Cyborg Hunter",
+        "id": 2722,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Daffy Duck in Hollywood",
+        "id": 2724,
+        "ReleaseDate": "02/01/1994"
+    },
+    {
+        "GameTitle": "Dead Angle",
+        "id": 2727,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Deep Duck Trouble Starring Donald Duck",
+        "id": 2728,
+        "ReleaseDate": "05/11/1993"
+    },
+    {
+        "GameTitle": "Desert Strike",
+        "id": 2730,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Dinobasher Starring Bignose the Caveman",
+        "id": 2731,
+        "ReleaseDate": "03/01/1994"
+    },
+    {
+        "GameTitle": "Double Hawk",
+        "id": 2732,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Dragon Crystal",
+        "id": 2733,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Dynamite Duke",
+        "id": 2734,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Dynamite Dux",
+        "id": 2735,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Dynamite Headdy",
+        "id": 2736,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Enduro Racer",
+        "id": 2737,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "E-SWAT",
+        "id": 2738,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "F1",
+        "id": 2739,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "F-16 Fighter",
+        "id": 2740,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Fantastic Dizzy",
+        "id": 2741,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Fantasy Zone: The Maze",
+        "id": 2742,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Fantasy Zone II",
+        "id": 2743,
+        "ReleaseDate": "12/31/1987"
+    },
+    {
+        "GameTitle": "Férias Frustradas do Pica Pau",
+        "id": 2744,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "FIFA International Soccer",
+        "id": 2745,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Fire & Forget II",
+        "id": 2746,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Fire & Ice",
+        "id": 2747,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Forgotten Worlds",
+        "id": 2748,
+        "ReleaseDate": "02/01/1991"
+    },
+    {
+        "GameTitle": "Gaegujangi Kkachi",
+        "id": 2750,
+        "ReleaseDate": "08/21/1993"
+    },
+    {
+        "GameTitle": "Gain Ground",
+        "id": 2751,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Galactic Protector",
+        "id": 2752,
+        "ReleaseDate": "02/21/1988"
+    },
+    {
+        "GameTitle": "Galaxy Force",
+        "id": 2753,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Gangster Town",
+        "id": 2754,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Gauntlet",
+        "id": 2755,
+        "ReleaseDate": "07/02/1990"
+    },
+    {
+        "GameTitle": "Bubble Bobble",
+        "id": 2777,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Ghost House",
+        "id": 2791,
+        "ReleaseDate": "04/21/1986"
+    },
+    {
+        "GameTitle": "Ghostbusters",
+        "id": 2793,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Ghouls'n Ghosts",
+        "id": 2795,
+        "ReleaseDate": "07/01/1990"
+    },
+    {
+        "GameTitle": "Global Defense",
+        "id": 2797,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Golden Axe",
+        "id": 2799,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Golden Axe Warrior",
+        "id": 2800,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Hong Kil Dong",
+        "id": 36021,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Golvellius: Valley of Doom",
+        "id": 2802,
+        "ReleaseDate": "08/14/1988"
+    },
+    {
+        "GameTitle": "GP Rider",
+        "id": 2803,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Great Baseball",
+        "id": 2804,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Great Basketball",
+        "id": 2806,
+        "ReleaseDate": "06/01/1987"
+    },
+    {
+        "GameTitle": "Great Football",
+        "id": 2808,
+        "ReleaseDate": "06/01/1987"
+    },
+    {
+        "GameTitle": "Great Golf",
+        "id": 2810,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Great Ice Hockey",
+        "id": 2812,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Great Soccer",
+        "id": 2814,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Great Volleyball",
+        "id": 2816,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Hang-On & Astro Warrior",
+        "id": 2819,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Hang-On & Safari Hunt",
+        "id": 2821,
+        "ReleaseDate": "08/08/1986"
+    },
+    {
+        "GameTitle": "Heavyweight Champ",
+        "id": 2822,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Heroes of the Lance",
+        "id": 2824,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "High School! Kimengumi",
+        "id": 2828,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Home Alone",
+        "id": 2829,
+        "ReleaseDate": "10/01/1991"
+    },
+    {
+        "GameTitle": "Hoshi wo Sagashite...",
+        "id": 2849,
+        "ReleaseDate": "04/02/1988"
+    },
+    {
+        "GameTitle": "Impossible Mission",
+        "id": 2852,
+        "ReleaseDate": "12/31/1988"
+    },
+    {
+        "GameTitle": "Indiana Jones and the Last Crusade",
+        "id": 2855,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "James Pond 2: Codename RoboCod",
+        "id": 2861,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Disney's Aladdin",
+        "id": 2867,
+        "ReleaseDate": "12/31/1994"
+    },
+    {
+        "GameTitle": "Joe Montana Football",
+        "id": 2870,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Jurassic Park",
+        "id": 2873,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "King's Quest: Quest for the Crown",
+        "id": 2875,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Klax",
+        "id": 2877,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Krusty's Fun House",
+        "id": 2879,
+        "ReleaseDate": "06/01/1992"
+    },
+    {
+        "GameTitle": "Land of Illusion Starring Mickey Mouse",
+        "id": 2881,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Double Dragon",
+        "id": 2883,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Legend of Illusion Starring Mickey Mouse",
+        "id": 2884,
+        "ReleaseDate": "01/13/1995"
+    },
+    {
+        "GameTitle": "Lemmings",
+        "id": 2885,
+        "ReleaseDate": "11/20/1992"
+    },
+    {
+        "GameTitle": "Les Schtroumpfs Autour du Monde",
+        "id": 2886,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Line of Fire",
+        "id": 2888,
+        "ReleaseDate": "12/01/1991"
+    },
+    {
+        "GameTitle": "Lord of the Sword",
+        "id": 2889,
+        "ReleaseDate": "04/01/1989"
+    },
+    {
+        "GameTitle": "Loretta no Shouzou",
+        "id": 2891,
+        "ReleaseDate": "02/18/1987"
+    },
+    {
+        "GameTitle": "Earthworm Jim",
+        "id": 2892,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Mahjong Sengoku Jidai",
+        "id": 2893,
+        "ReleaseDate": "10/18/1987"
+    },
+    {
+        "GameTitle": "Marksman Shooting & Trap Shooting",
+        "id": 2897,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Marksman Shooting / Trap Shooting / Safari Hunt",
+        "id": 2899,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Master of Darkness",
+        "id": 2901,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Masters of Combat",
+        "id": 2902,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Megumi Rescue",
+        "id": 2903,
+        "ReleaseDate": "07/30/1998"
+    },
+    {
+        "GameTitle": "Mercs",
+        "id": 2905,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Michael Jackson's Moonwalker",
+        "id": 2908,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Mick & Mack: Global Gladiators",
+        "id": 2910,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Mickey's Ultimate Challenge",
+        "id": 2913,
+        "ReleaseDate": "12/01/1998"
+    },
+    {
+        "GameTitle": "Micro Machines",
+        "id": 2915,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Miracle Warriors: Seal of the Dark Lord",
+        "id": 5500,
+        "ReleaseDate": "01/31/1988"
+    },
+    {
+        "GameTitle": "Monopoly",
+        "id": 2921,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Montezuma's Revenge Featuring Panama Joe",
+        "id": 2923,
+        "ReleaseDate": "06/01/1989"
+    },
+    {
+        "GameTitle": "Mortal Kombat",
+        "id": 2926,
+        "ReleaseDate": "09/13/1993"
+    },
+    {
+        "GameTitle": "Mortal Kombat 3",
+        "id": 2928,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Mortal Kombat II",
+        "id": 2929,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Ms. Pac-Man",
+        "id": 2932,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "My Hero",
+        "id": 2936,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Nekkyuu Koushien",
+        "id": 2940,
+        "ReleaseDate": "09/09/1988"
+    },
+    {
+        "GameTitle": "Ninja Gaiden",
+        "id": 2942,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Operation Wolf",
+        "id": 2946,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Out Run",
+        "id": 2947,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "OutRun 3-D",
+        "id": 2949,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "OutRun Europa",
+        "id": 2951,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Pac-Mania",
+        "id": 2953,
+        "ReleaseDate": "08/01/1991"
+    },
+    {
+        "GameTitle": "Paperboy",
+        "id": 2956,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Parlour Games",
+        "id": 2958,
+        "ReleaseDate": "05/01/1988"
+    },
+    {
+        "GameTitle": "Pat Riley Basketball",
+        "id": 2961,
+        "ReleaseDate": "08/01/1990"
+    },
+    {
+        "GameTitle": "Penguin Land",
+        "id": 2962,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "PGA Tour Golf",
+        "id": 2964,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Phantasy Star",
+        "id": 2965,
+        "ReleaseDate": "12/20/1987"
+    },
+    {
+        "GameTitle": "Pit-Fighter",
+        "id": 2966,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Alien 3",
+        "id": 2967,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Populous",
+        "id": 2968,
+        "ReleaseDate": "03/01/1991"
+    },
+    {
+        "GameTitle": "Poseidon Wars 3-D",
+        "id": 2971,
+        "ReleaseDate": "04/01/1989"
+    },
+    {
+        "GameTitle": "Power Strike",
+        "id": 2972,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Alien Syndrome",
+        "id": 2973,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Power Strike II",
+        "id": 2974,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Predator 2",
+        "id": 2975,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Prince of Persia",
+        "id": 2977,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Pro Wrestling",
+        "id": 2978,
+        "ReleaseDate": "12/01/1986"
+    },
+    {
+        "GameTitle": "Psychic World",
+        "id": 2979,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Psycho Fox",
+        "id": 2980,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Asterix",
+        "id": 2981,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Putt & Putter",
+        "id": 2982,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Quartet",
+        "id": 2983,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy",
+        "id": 2984,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "R.C. Grand Prix",
+        "id": 2985,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Rainbow Islands: Story of the Bubble Bobble 2",
+        "id": 2986,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Rambo III",
+        "id": 2987,
+        "ReleaseDate": "07/03/1989"
+    },
+    {
+        "GameTitle": "Rampage",
+        "id": 2988,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Rastan",
+        "id": 2989,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Renegade",
+        "id": 2990,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Rescue Mission",
+        "id": 2991,
+        "ReleaseDate": "04/01/1988"
+    },
+    {
+        "GameTitle": "RoboCop 3",
+        "id": 2993,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "RoboCop Versus The Terminator",
+        "id": 2994,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Rocky",
+        "id": 2995,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "R-Type",
+        "id": 2996,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Running Battle",
+        "id": 2997,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Sagaia",
+        "id": 2998,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Satellite 7",
+        "id": 3000,
+        "ReleaseDate": "12/20/1985"
+    },
+    {
+        "GameTitle": "Scramble Spirits",
+        "id": 3001,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Secret Command",
+        "id": 3002,
+        "ReleaseDate": "11/16/1986"
+    },
+    {
+        "GameTitle": "Sega Chess",
+        "id": 3003,
+        "ReleaseDate": "08/01/1991"
+    },
+    {
+        "GameTitle": "Sega World Tournament Golf",
+        "id": 3004,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Sensible Soccer",
+        "id": 3005,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Shadow of the Beast",
+        "id": 3007,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Shanghai",
+        "id": 3008,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Shooting Gallery",
+        "id": 3009,
+        "ReleaseDate": "03/01/1987"
+    },
+    {
+        "GameTitle": "Sitio do Picapau Amarelo",
+        "id": 3010,
+        "ReleaseDate": "08/01/1998"
+    },
+    {
+        "GameTitle": "Slap Shot",
+        "id": 3011,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Solomon no Kagi: Oujo Rihita no Namida",
+        "id": 3012,
+        "ReleaseDate": "04/17/1988"
+    },
+    {
+        "GameTitle": "Sonic Blast",
+        "id": 3013,
+        "ReleaseDate": "12/01/1997"
+    },
+    {
+        "GameTitle": "Sonic the Hedgehog Chaos",
+        "id": 3014,
+        "ReleaseDate": "10/25/1993"
+    },
+    {
+        "GameTitle": "Sonic the Hedgehog Spinball",
+        "id": 3015,
+        "ReleaseDate": "01/10/1995"
+    },
+    {
+        "GameTitle": "Sonic the Hedgehog",
+        "id": 3016,
+        "ReleaseDate": "06/23/1991"
+    },
+    {
+        "GameTitle": "Sonic the Hedgehog 2",
+        "id": 3017,
+        "ReleaseDate": "11/21/1992"
+    },
+    {
+        "GameTitle": "Sonic's Edusoft",
+        "id": 3018,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Space Gun",
+        "id": 3019,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Space Harrier",
+        "id": 3020,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Space Harrier 3-D",
+        "id": 3021,
+        "ReleaseDate": "02/29/1988"
+    },
+    {
+        "GameTitle": "Special Criminal Investigation",
+        "id": 3022,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Speedball",
+        "id": 3023,
+        "ReleaseDate": "03/01/1991"
+    },
+    {
+        "GameTitle": "Speedball 2",
+        "id": 3024,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "SpellCaster",
+        "id": 3025,
+        "ReleaseDate": "09/23/1988"
+    },
+    {
+        "GameTitle": "Spider-Man - Return of the Sinister Six",
+        "id": 3026,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Sports Pad Football",
+        "id": 3028,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Spy vs Spy",
+        "id": 3029,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Star Wars",
+        "id": 3030,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Street Fighter II",
+        "id": 3031,
+        "ReleaseDate": "09/01/1997"
+    },
+    {
+        "GameTitle": "Streets of Rage",
+        "id": 3032,
+        "ReleaseDate": "06/07/1993"
+    },
+    {
+        "GameTitle": "Streets of Rage II",
+        "id": 3033,
+        "ReleaseDate": "02/01/1994"
+    },
+    {
+        "GameTitle": "Strider",
+        "id": 3034,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Strider II",
+        "id": 3035,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Submarine Attack",
+        "id": 3036,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Sukeban Deka II: Shoujo Tekkamen Densetsu",
+        "id": 3037,
+        "ReleaseDate": "04/19/1987"
+    },
+    {
+        "GameTitle": "Summer Games",
+        "id": 3038,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Super Kick Off",
+        "id": 3039,
+        "ReleaseDate": "12/01/1991"
+    },
+    {
+        "GameTitle": "Super Monaco GP",
+        "id": 3040,
+        "ReleaseDate": "09/01/1990"
+    },
+    {
+        "GameTitle": "Super Off Road",
+        "id": 3041,
+        "ReleaseDate": "09/01/1993"
+    },
+    {
+        "GameTitle": "Super Racing",
+        "id": 3042,
+        "ReleaseDate": "07/02/1988"
+    },
+    {
+        "GameTitle": "Super Smash T.V.",
+        "id": 3043,
+        "ReleaseDate": "10/01/1992"
+    },
+    {
+        "GameTitle": "Super Space Invaders",
+        "id": 3044,
+        "ReleaseDate": "11/01/1991"
+    },
+    {
+        "GameTitle": "Super Tennis",
+        "id": 3045,
+        "ReleaseDate": "06/01/1986"
+    },
+    {
+        "GameTitle": "Superman: The Man of Steel",
+        "id": 3046,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Taito Chase H.Q.",
+        "id": 3047,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Taz in Escape from Mars",
+        "id": 3048,
+        "ReleaseDate": "03/01/1997"
+    },
+    {
+        "GameTitle": "Taz-Mania",
+        "id": 3049,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Tecmo World Cup '92",
+        "id": 3050,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Tecmo World Cup '93",
+        "id": 3051,
+        "ReleaseDate": "12/31/1993"
+    },
+    {
+        "GameTitle": "Teddy Boy",
+        "id": 3052,
+        "ReleaseDate": "10/20/1985"
+    },
+    {
+        "GameTitle": "Tennis Ace",
+        "id": 3053,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Tensai Bakabon",
+        "id": 3054,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Terminator 2: Judgment Day",
+        "id": 3055,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Addams Family",
+        "id": 3056,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "The Cyber Shinobi",
+        "id": 3057,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "The Dinosaur Dooley",
+        "id": 3058,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "The Flash",
+        "id": 3059,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Flintstones",
+        "id": 3060,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Incredible Crash Dummies",
+        "id": 3061,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Incredible Hulk",
+        "id": 3062,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Disney's The Jungle Book",
+        "id": 3063,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Lion King",
+        "id": 3064,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "The Lucky Dime Caper Starring Donald Duck",
+        "id": 3065,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "The New Zealand Story",
+        "id": 3066,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "The Ottifants",
+        "id": 3067,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Pro Yakyuu: Pennant Race",
+        "id": 3068,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "The Simpsons: Bart vs. The Space Mutants",
+        "id": 3069,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "The Simpsons: Bart vs. The World",
+        "id": 3070,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Smurfs",
+        "id": 3071,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "The Terminator",
+        "id": 3074,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Bram Stoker's Dracula",
+        "id": 3075,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "The Ninja",
+        "id": 3076,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Thunder Blade",
+        "id": 3077,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Time Soldiers",
+        "id": 3078,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Rambo: First Blood Part II",
+        "id": 5246,
+        "ReleaseDate": "11/16/1988"
+    },
+    {
+        "GameTitle": "California Games II",
+        "id": 3080,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Tom and Jerry - The Movie",
+        "id": 3081,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Toto World 3",
+        "id": 3082,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "TransBot",
+        "id": 3083,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Castle of Illusion Starring Mickey Mouse",
+        "id": 3084,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Columns",
+        "id": 3085,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Cool Spot",
+        "id": 3087,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Trivial Pursuit - Genus Edition",
+        "id": 3090,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Ultima IV: Quest of the Avatar",
+        "id": 3091,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Dr. Robotnik's Mean Bean Machine",
+        "id": 3092,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Ultimate Soccer",
+        "id": 3093,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Vigilante",
+        "id": 3094,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Virtua Fighter Animation",
+        "id": 3096,
+        "ReleaseDate": "03/01/1997"
+    },
+    {
+        "GameTitle": "Ecco: The Tides of Time",
+        "id": 3097,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Wanted",
+        "id": 3098,
+        "ReleaseDate": "12/31/1989"
+    },
+    {
+        "GameTitle": "Where in the World Is Carmen Sandiego?",
+        "id": 3099,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Wimbledon",
+        "id": 3101,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Fantasy Zone",
+        "id": 3102,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Wimbledon II",
+        "id": 3103,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Winter Olympics: Lillehammer '94",
+        "id": 3104,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Wolfchild",
+        "id": 3105,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Wonder Boy",
+        "id": 3106,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Wonder Boy III: The Dragon's Trap",
+        "id": 3108,
+        "ReleaseDate": "07/03/1989"
+    },
+    {
+        "GameTitle": "Wonder Boy in Monster Land",
+        "id": 3109,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Wonder Boy in Monster World",
+        "id": 3110,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Woody Pop: Shinjinrui no Block Kuzushi",
+        "id": 3111,
+        "ReleaseDate": "03/15/1987"
+    },
+    {
+        "GameTitle": "World Class Leader Board Golf",
+        "id": 3113,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "World Cup Italia '90",
+        "id": 3115,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "World Cup USA 94",
+        "id": 3116,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "World Games",
+        "id": 3117,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "World Grand Prix",
+        "id": 3118,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "World Soccer",
+        "id": 3119,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "WWF Wrestlemania Steel Cage Challenge",
+        "id": 3120,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Xenon 2: Megablast",
+        "id": 3121,
+        "ReleaseDate": "08/01/1989"
+    },
+    {
+        "GameTitle": "X-Men: Mojo World",
+        "id": 3123,
+        "ReleaseDate": "09/14/1996"
+    },
+    {
+        "GameTitle": "Zaxxon 3-D",
+        "id": 3124,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Zillion",
+        "id": 3125,
+        "ReleaseDate": "05/27/1987"
+    },
+    {
+        "GameTitle": "Zillion II: The Tri Formation",
+        "id": 3126,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "20 em 1",
+        "id": 3129,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Fushigi no Oshiro Pit Pot",
+        "id": 3130,
+        "ReleaseDate": "12/14/1985"
+    },
+    {
+        "GameTitle": "T2: The Arcade Game",
+        "id": 3132,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Mike Ditka Power Football",
+        "id": 4509,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Altered Beast",
+        "id": 5244,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Batman Returns",
+        "id": 5245,
+        "ReleaseDate": "09/18/1992"
+    },
+    {
+        "GameTitle": "Spider-Man",
+        "id": 5248,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Alex Kidd: The Lost Stars",
+        "id": 5498,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Shadow Dancer: The Secret of Shinobi",
+        "id": 5530,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Alex Kidd: High-Tech World",
+        "id": 5536,
+        "ReleaseDate": "08/01/1989"
+    },
+    {
+        "GameTitle": "Zool: Ninja of the 'Nth' Dimension",
+        "id": 7510,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "California Games",
+        "id": 7746,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Assault City",
+        "id": 11521,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Rampart",
+        "id": 11522,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Chuck Rock",
+        "id": 11762,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Desert Speedtrap starring Road Runner and Wile E. Coyote",
+        "id": 18804,
+        "ReleaseDate": "05/16/1994"
+    },
+    {
+        "GameTitle": "Reggie Jackson Baseball",
+        "id": 20615,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Walter Payton Football",
+        "id": 20619,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "James 'Buster' Douglas Knockout Boxing",
+        "id": 20682,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Mônica no Castelo do Dragão",
+        "id": 25942,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Aleste",
+        "id": 26016,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Ariel: The Little Mermaid",
+        "id": 26105,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "The Smurfs Travel The World",
+        "id": 26432,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Comical Machine Gun Joe",
+        "id": 26439,
+        "ReleaseDate": "04/21/1986"
+    },
+    {
+        "GameTitle": "Jang Pung 2",
+        "id": 26731,
+        "ReleaseDate": "12/01/1993"
+    },
+    {
+        "GameTitle": "General's Son",
+        "id": 26743,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Jang Pung 3",
+        "id": 26744,
+        "ReleaseDate": "10/01/1994"
+    },
+    {
+        "GameTitle": "Street Master",
+        "id": 26745,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Sangokushi 3",
+        "id": 26746,
+        "ReleaseDate": "11/01/1994"
+    },
+    {
+        "GameTitle": "Super Boy I",
+        "id": 26747,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Super Boy II",
+        "id": 26748,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Super Boy III",
+        "id": 26749,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Super Boy IV",
+        "id": 26750,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Super Bioman I",
+        "id": 26752,
+        "ReleaseDate": "12/01/1992"
+    },
+    {
+        "GameTitle": "Dallyeora Pigu-Wang",
+        "id": 27355,
+        "ReleaseDate": "12/01/1995"
+    },
+    {
+        "GameTitle": "The Three Dragon Story",
+        "id": 27357,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Anmitsu Hime",
+        "id": 27504,
+        "ReleaseDate": "07/19/1987"
+    },
+    {
+        "GameTitle": "Castelo Ra-Tim-Bum",
+        "id": 27505,
+        "ReleaseDate": "09/01/1997"
+    },
+    {
+        "GameTitle": "TV Colosso",
+        "id": 27506
+    },
+    {
+        "GameTitle": "Lode Runner",
+        "id": 27539
+    },
+    {
+        "GameTitle": "Hook",
+        "id": 27540
+    },
+    {
+        "GameTitle": "Turma da Monica em: O Resgate",
+        "id": 27903,
+        "ReleaseDate": "12/31/1993"
+    },
+    {
+        "GameTitle": "The Black Onyx",
+        "id": 28004
+    },
+    {
+        "GameTitle": "Rygar",
+        "id": 28986,
+        "ReleaseDate": "03/25/1988"
+    },
+    {
+        "GameTitle": "SDI",
+        "id": 28987,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Sapo Xulé: SOS Lagoa Poluída",
+        "id": 29435,
+        "ReleaseDate": "12/31/1995"
+    },
+    {
+        "GameTitle": "Chapolim X Dracula",
+        "id": 32145,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Chouon Senshi Borgman",
+        "id": 32146,
+        "ReleaseDate": "12/01/1988"
+    },
+    {
+        "GameTitle": "Geraldinho",
+        "id": 32147,
+        "ReleaseDate": "04/01/1995"
+    },
+    {
+        "GameTitle": "Sapo Xulé vs Os Invasores do Brejo",
+        "id": 32148,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Sapo Xulé: O Mestre do Kung Fu",
+        "id": 32149,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Digger Chan",
+        "id": 33921,
+        "ReleaseDate": "12/01/2006"
+    },
+    {
+        "GameTitle": "Super Tetris",
+        "id": 35258,
+        "ReleaseDate": "02/25/1988"
+    },
+    {
+        "GameTitle": "Pong Master 4k",
+        "id": 35261
+    },
+    {
+        "GameTitle": "The Excellent Dizzy Collection",
+        "id": 35369,
+        "ReleaseDate": "11/01/1993"
+    },
+    {
+        "GameTitle": "Jogos de Verão",
+        "id": 35589,
+        "ReleaseDate": "03/12/1987"
+    },
+    {
+        "GameTitle": "F-16 Fighting Falcon",
+        "id": 35590
+    },
+    {
+        "GameTitle": "Faixa Preta",
+        "id": 35591,
+        "ReleaseDate": "03/07/1986"
+    },
+    {
+        "GameTitle": "Game Box Série Esportes Radicais",
+        "id": 35592,
+        "ReleaseDate": "06/01/1996"
+    },
+    {
+        "GameTitle": "Hokuto No Ken",
+        "id": 35594,
+        "ReleaseDate": "07/20/1986"
+    },
+    {
+        "GameTitle": "Lemmings 2",
+        "id": 36134,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Snail Maze",
+        "id": 36132,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Porkpolis",
+        "id": 36133,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Bread and Butter",
+        "id": 36135,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "4 PAK All Action",
+        "id": 36903,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Out Run",
+        "id": 37160,
+        "ReleaseDate": "06/30/1987"
+    },
+    {
+        "GameTitle": "Ashura",
+        "id": 37377,
+        "ReleaseDate": "11/16/1986"
+    },
+    {
+        "GameTitle": "Dr. Hello",
+        "id": 37380,
+        "ReleaseDate": "06/01/1991"
+    }
+]}}
+]

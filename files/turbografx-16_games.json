@@ -1,0 +1,1364 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Air Zonk",
+        "id": 8185,
+        "ReleaseDate": "12/12/1992"
+    },
+    {
+        "GameTitle": "Alien Crush",
+        "id": 8186,
+        "ReleaseDate": "09/14/1988"
+    },
+    {
+        "GameTitle": "Andre Panza Kick Boxing",
+        "id": 8187,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Ballistix",
+        "id": 8188,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Battle Royale",
+        "id": 8189,
+        "ReleaseDate": "09/13/1990"
+    },
+    {
+        "GameTitle": "Splatterhouse",
+        "id": 3776,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Bonk's Adventure",
+        "id": 3777,
+        "ReleaseDate": "12/15/1989"
+    },
+    {
+        "GameTitle": "China Warrior",
+        "id": 4107,
+        "ReleaseDate": "11/21/1987"
+    },
+    {
+        "GameTitle": "Magical Chase",
+        "id": 4108,
+        "ReleaseDate": "11/15/1991"
+    },
+    {
+        "GameTitle": "Ordyne",
+        "id": 4109,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Vigilante",
+        "id": 4110,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Aero Blasters",
+        "id": 4909,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Blazing Lazers",
+        "id": 5657,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Bomberman",
+        "id": 5658,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Bonk's Revenge",
+        "id": 5661,
+        "ReleaseDate": "03/08/1991"
+    },
+    {
+        "GameTitle": "Deep Blue",
+        "id": 5662,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Devil's Crush",
+        "id": 5663,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Dragon Spirit",
+        "id": 5666,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Dungeon Explorer",
+        "id": 5667,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Fantasy Zone",
+        "id": 5669,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Final Lap Twin",
+        "id": 5670,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Galaga '90",
+        "id": 5671,
+        "ReleaseDate": "07/03/1989"
+    },
+    {
+        "GameTitle": "Ghost Manor",
+        "id": 5672,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Keith Courage in Alpha Zones",
+        "id": 5673,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "The Legendary Axe",
+        "id": 5674,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Legendary Axe II",
+        "id": 5675,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Military Madness",
+        "id": 5676,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Neutopia",
+        "id": 5677,
+        "ReleaseDate": "11/17/1989"
+    },
+    {
+        "GameTitle": "Ninja Spirit",
+        "id": 5678,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Pac-Land",
+        "id": 5679,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Samurai Ghost",
+        "id": 5680,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Side Arms: Hyper Dyne",
+        "id": 5682,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Tiger Road",
+        "id": 5683,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "TV Sports Football",
+        "id": 5684,
+        "ReleaseDate": "12/25/1990"
+    },
+    {
+        "GameTitle": "Victory Run",
+        "id": 5685,
+        "ReleaseDate": "01/19/1991"
+    },
+    {
+        "GameTitle": "Bloody Wolf",
+        "id": 8190,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Bomberman '93",
+        "id": 8191,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Bonk 3: Bonk's Big Adventure",
+        "id": 8192,
+        "ReleaseDate": "04/02/1993"
+    },
+    {
+        "GameTitle": "Boxyboy",
+        "id": 8193,
+        "ReleaseDate": "03/16/1990"
+    },
+    {
+        "GameTitle": "Bravoman",
+        "id": 8194,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Cadash",
+        "id": 8195,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Champions Forever Boxing",
+        "id": 8196,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Chase H.Q.",
+        "id": 8197,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Chew Man Fu",
+        "id": 8198,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Cratermaze",
+        "id": 8199,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Cyber-Core",
+        "id": 8200,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Darkwing Duck",
+        "id": 8201,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Davis Cup Tennis",
+        "id": 8202,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Dead Moon",
+        "id": 8203,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Double Dungeons",
+        "id": 8204,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Dragon's Curse",
+        "id": 8205,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Drop Off",
+        "id": 8206,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Falcon",
+        "id": 8207,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Gunboat",
+        "id": 8208,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Hit the Ice",
+        "id": 8209,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Impossamole",
+        "id": 8210,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "J.J. & Jeff",
+        "id": 8211,
+        "ReleaseDate": "11/30/1990"
+    },
+    {
+        "GameTitle": "Jack Nicklaus Turbo Golf",
+        "id": 8212,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Jackie Chan's Action Kung Fu",
+        "id": 8213,
+        "ReleaseDate": "01/18/1991"
+    },
+    {
+        "GameTitle": "King Of Casino",
+        "id": 8214,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Klax",
+        "id": 8215,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Legend of Hero Tonma",
+        "id": 8216,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Moto Roader",
+        "id": 8217,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Neutopia II",
+        "id": 8218,
+        "ReleaseDate": "09/27/1991"
+    },
+    {
+        "GameTitle": "New Adventure Island",
+        "id": 8219,
+        "ReleaseDate": "06/26/1992"
+    },
+    {
+        "GameTitle": "Night Creatures",
+        "id": 8220,
+        "ReleaseDate": "04/10/1992"
+    },
+    {
+        "GameTitle": "Dungeons & Dragons: Order of the Griffon",
+        "id": 8221,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Parasol Stars: The Story of Bubble Bobble III",
+        "id": 8222,
+        "ReleaseDate": "01/15/1991"
+    },
+    {
+        "GameTitle": "Power Golf",
+        "id": 8223,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Psychosis",
+        "id": 8224,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Raiden",
+        "id": 8225,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "R-Type",
+        "id": 8226,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Shockman",
+        "id": 8227,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Silent Debuggers",
+        "id": 8228,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Sinistron",
+        "id": 8229,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Soldier Blade",
+        "id": 8230,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Somer Assault",
+        "id": 8231,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Sonic Spike",
+        "id": 8232,
+        "ReleaseDate": "07/27/1990"
+    },
+    {
+        "GameTitle": "Space Harrier",
+        "id": 8233,
+        "ReleaseDate": "12/09/1988"
+    },
+    {
+        "GameTitle": "Super Star Soldier",
+        "id": 8234,
+        "ReleaseDate": "07/06/1990"
+    },
+    {
+        "GameTitle": "Super Volleyball",
+        "id": 8235,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Takin' it to the Hoop",
+        "id": 8236,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Time Cruise",
+        "id": 8238,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Timeball",
+        "id": 8239,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Tricky Kick",
+        "id": 8240,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Turrican",
+        "id": 8241,
+        "ReleaseDate": "08/01/1991"
+    },
+    {
+        "GameTitle": "TV Sports Basketball",
+        "id": 8242,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "TV Sports Hockey",
+        "id": 8243,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Veigues Tactical Gladiator",
+        "id": 8244,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "World Class Baseball",
+        "id": 8245,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "World Court Tennis",
+        "id": 8246,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "World Sports Competition",
+        "id": 8247,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Yo Bro",
+        "id": 8248,
+        "ReleaseDate": "01/31/1991"
+    },
+    {
+        "GameTitle": "Forgotten Worlds",
+        "id": 9994,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Lords of the Rising Sun",
+        "id": 10000,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Vasteel",
+        "id": 10012,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Energy",
+        "id": 34654,
+        "ReleaseDate": "04/19/1989"
+    },
+    {
+        "GameTitle": "It Came From The Desert",
+        "id": 9958,
+        "ReleaseDate": "05/01/1992"
+    },
+    {
+        "GameTitle": "SimEarth: The Living Planet",
+        "id": 13871,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Bubblegum Crash",
+        "id": 15198,
+        "ReleaseDate": "12/06/1991"
+    },
+    {
+        "GameTitle": "PC Kid",
+        "id": 17685,
+        "ReleaseDate": "12/16/1989"
+    },
+    {
+        "GameTitle": "PC Kid 2",
+        "id": 17690,
+        "ReleaseDate": "07/18/1990"
+    },
+    {
+        "GameTitle": "PC Kid 3",
+        "id": 17691,
+        "ReleaseDate": "04/02/1993"
+    },
+    {
+        "GameTitle": "Bouken Danshaku Don: The Lost Sunheart",
+        "id": 18400,
+        "ReleaseDate": "01/04/1992"
+    },
+    {
+        "GameTitle": "Burning Angels",
+        "id": 18401,
+        "ReleaseDate": "12/07/1990"
+    },
+    {
+        "GameTitle": "City Hunter",
+        "id": 18402,
+        "ReleaseDate": "03/02/1990"
+    },
+    {
+        "GameTitle": "Coryoon",
+        "id": 18403,
+        "ReleaseDate": "11/29/1991"
+    },
+    {
+        "GameTitle": "DOWNLOAD",
+        "id": 18404
+    },
+    {
+        "GameTitle": "F1 CIRCUS",
+        "id": 18405
+    },
+    {
+        "GameTitle": "F1 CIRCUS '92",
+        "id": 18406
+    },
+    {
+        "GameTitle": "FINAL BLASTER",
+        "id": 18407
+    },
+    {
+        "GameTitle": "FINAL SOLDIER",
+        "id": 18408,
+        "ReleaseDate": "08/23/1991"
+    },
+    {
+        "GameTitle": "GOKURAKU! CHUKA TAISEN",
+        "id": 18409
+    },
+    {
+        "GameTitle": "GUNHED",
+        "id": 18410,
+        "ReleaseDate": "07/07/1989"
+    },
+    {
+        "GameTitle": "JIGOKU MEGURI",
+        "id": 18411
+    },
+    {
+        "GameTitle": "MOTO ROADER II",
+        "id": 18412
+    },
+    {
+        "GameTitle": "NAXAT OPEN",
+        "id": 18413
+    },
+    {
+        "GameTitle": "OVERRIDE",
+        "id": 18414
+    },
+    {
+        "GameTitle": "SAINT DRAGON",
+        "id": 18415
+    },
+    {
+        "GameTitle": "TAKEDA SHINGEN",
+        "id": 18417
+    },
+    {
+        "GameTitle": "TERRA CRESTA II",
+        "id": 18418
+    },
+    {
+        "GameTitle": "W RING",
+        "id": 18419
+    },
+    {
+        "GameTitle": "MASHIN EIYUDEN WATARU",
+        "id": 18426
+    },
+    {
+        "GameTitle": "TOSHI TENSO KEIKAKU ETERNAL CITY",
+        "id": 18430
+    },
+    {
+        "GameTitle": "Bomberman '94",
+        "id": 18440
+    },
+    {
+        "GameTitle": "Circus Lido",
+        "id": 18441
+    },
+    {
+        "GameTitle": "Devil Crash",
+        "id": 18442
+    },
+    {
+        "GameTitle": "Dragon Egg!",
+        "id": 18443
+    },
+    {
+        "GameTitle": "Gekibo: Gekisha Boy",
+        "id": 18444,
+        "ReleaseDate": "10/02/1992"
+    },
+    {
+        "GameTitle": "Power Tennis",
+        "id": 18445
+    },
+    {
+        "GameTitle": "Power Drift",
+        "id": 35467,
+        "ReleaseDate": "04/13/1990"
+    },
+    {
+        "GameTitle": "Power League III",
+        "id": 35468,
+        "ReleaseDate": "08/10/1990"
+    },
+    {
+        "GameTitle": "Heavy Unit",
+        "id": 32231,
+        "ReleaseDate": "12/22/1989"
+    },
+    {
+        "GameTitle": "Wonder Boy III: Monster Lair",
+        "id": 18849,
+        "ReleaseDate": "08/01/1989"
+    },
+    {
+        "GameTitle": "R-Type II",
+        "id": 18853,
+        "ReleaseDate": "06/03/1988"
+    },
+    {
+        "GameTitle": "Parodius Da! - Shinwa Kara Owarai He",
+        "id": 18872,
+        "ReleaseDate": "02/21/1992"
+    },
+    {
+        "GameTitle": "Street Fighter II: Champion Edition",
+        "id": 18873,
+        "ReleaseDate": "06/12/1993"
+    },
+    {
+        "GameTitle": "Titan",
+        "id": 35970,
+        "ReleaseDate": "03/15/1991"
+    },
+    {
+        "GameTitle": "After Burner II",
+        "id": 20228,
+        "ReleaseDate": "09/28/1990"
+    },
+    {
+        "GameTitle": "Aoi Blink",
+        "id": 20230,
+        "ReleaseDate": "04/27/1990"
+    },
+    {
+        "GameTitle": "Appare! Gateball",
+        "id": 20231,
+        "ReleaseDate": "12/22/1988"
+    },
+    {
+        "GameTitle": "Formation Armed F",
+        "id": 20233,
+        "ReleaseDate": "03/23/1990"
+    },
+    {
+        "GameTitle": "Artist Tool",
+        "id": 20234,
+        "ReleaseDate": "10/18/1991"
+    },
+    {
+        "GameTitle": "Atomic Robo-Kid Special",
+        "id": 20235,
+        "ReleaseDate": "01/19/1990"
+    },
+    {
+        "GameTitle": "AV Poker: World Gambler",
+        "id": 20236,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Bari Bari Densetsu",
+        "id": 20241,
+        "ReleaseDate": "11/29/1989"
+    },
+    {
+        "GameTitle": "Barunba",
+        "id": 20242,
+        "ReleaseDate": "04/27/1990"
+    },
+    {
+        "GameTitle": "Batman",
+        "id": 20243,
+        "ReleaseDate": "10/12/1990"
+    },
+    {
+        "GameTitle": "Battle Lode Runner",
+        "id": 20244,
+        "ReleaseDate": "01/29/1993"
+    },
+    {
+        "GameTitle": "Benkei Gaiden",
+        "id": 20245,
+        "ReleaseDate": "12/22/1989"
+    },
+    {
+        "GameTitle": "Bikkuri Man World",
+        "id": 20246,
+        "ReleaseDate": "10/30/1987"
+    },
+    {
+        "GameTitle": "Break In",
+        "id": 20248,
+        "ReleaseDate": "08/10/1989"
+    },
+    {
+        "GameTitle": "Bull Fight: Ring no Haja",
+        "id": 20249,
+        "ReleaseDate": "12/08/1989"
+    },
+    {
+        "GameTitle": "Cyber Cross",
+        "id": 20250,
+        "ReleaseDate": "06/23/1989"
+    },
+    {
+        "GameTitle": "The New Zealand Story",
+        "id": 21546,
+        "ReleaseDate": "02/23/1990"
+    },
+    {
+        "GameTitle": "Kyuukyoku Tiger",
+        "id": 22393
+    },
+    {
+        "GameTitle": "Psycho Chaser",
+        "id": 22394
+    },
+    {
+        "GameTitle": "Salamander",
+        "id": 22395
+    },
+    {
+        "GameTitle": "Valkyrie no Densetsu",
+        "id": 22396
+    },
+    {
+        "GameTitle": "1941: Counter Attack",
+        "id": 23252,
+        "ReleaseDate": "02/01/1990"
+    },
+    {
+        "GameTitle": "1943: Kai",
+        "id": 23253,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Aldynes: The Misson Code for Rage Crisis",
+        "id": 23254,
+        "ReleaseDate": "02/22/1991"
+    },
+    {
+        "GameTitle": "Columns",
+        "id": 23255,
+        "ReleaseDate": "03/29/1991"
+    },
+    {
+        "GameTitle": "Cyber Knight",
+        "id": 23256,
+        "ReleaseDate": "10/10/1990"
+    },
+    {
+        "GameTitle": "Detana!! TwinBee",
+        "id": 23257,
+        "ReleaseDate": "02/28/1992"
+    },
+    {
+        "GameTitle": "Die Hard",
+        "id": 23276,
+        "ReleaseDate": "09/28/1990"
+    },
+    {
+        "GameTitle": "Digital Champ",
+        "id": 23277,
+        "ReleaseDate": "10/13/1989"
+    },
+    {
+        "GameTitle": "Don Doko Don",
+        "id": 23278,
+        "ReleaseDate": "05/31/1990"
+    },
+    {
+        "GameTitle": "Kaizou Choujin Shubibinman 2: Aratanaru Teki",
+        "id": 35421,
+        "ReleaseDate": "04/27/1991"
+    },
+    {
+        "GameTitle": "Kato Chan & Ken Chan",
+        "id": 24800,
+        "ReleaseDate": "11/30/1987"
+    },
+    {
+        "GameTitle": "Genji Tsuushin Agedama",
+        "id": 24801,
+        "ReleaseDate": "12/13/1991"
+    },
+    {
+        "GameTitle": "Gradius",
+        "id": 24802,
+        "ReleaseDate": "11/15/1991"
+    },
+    {
+        "GameTitle": "Mizubaku Daibouken",
+        "id": 24803,
+        "ReleaseDate": "01/17/1992"
+    },
+    {
+        "GameTitle": "Momotarou Katsugeki",
+        "id": 24804,
+        "ReleaseDate": "09/21/1990"
+    },
+    {
+        "GameTitle": "The Tower of Druaga",
+        "id": 24805,
+        "ReleaseDate": "06/25/1992"
+    },
+    {
+        "GameTitle": "Shinobi",
+        "id": 25033,
+        "ReleaseDate": "12/08/1989"
+    },
+    {
+        "GameTitle": "Out Run",
+        "id": 26094,
+        "ReleaseDate": "12/21/1990"
+    },
+    {
+        "GameTitle": "Ghouls & Ghosts",
+        "id": 26191,
+        "ReleaseDate": "07/27/1990"
+    },
+    {
+        "GameTitle": "Nekketsu Koukou Dodgeball Bu: PC Bangai hen",
+        "id": 26214,
+        "ReleaseDate": "03/30/1990"
+    },
+    {
+        "GameTitle": "Galaga '88",
+        "id": 26215,
+        "ReleaseDate": "07/05/1988"
+    },
+    {
+        "GameTitle": "Ninja Ryuukenden",
+        "id": 26642,
+        "ReleaseDate": "01/12/1992"
+    },
+    {
+        "GameTitle": "Strip Fighter II",
+        "id": 26649,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "TaleSpin",
+        "id": 26650,
+        "ReleaseDate": "10/25/1991"
+    },
+    {
+        "GameTitle": "Darius Plus",
+        "id": 27093,
+        "ReleaseDate": "03/16/1990"
+    },
+    {
+        "GameTitle": "Hana Taaka Daka!",
+        "id": 27541,
+        "ReleaseDate": "08/09/1991"
+    },
+    {
+        "GameTitle": "Darius Alpha",
+        "id": 27809,
+        "ReleaseDate": "03/16/1990"
+    },
+    {
+        "GameTitle": "Doraemon: Nobita no Dorabian Night",
+        "id": 27810,
+        "ReleaseDate": "12/06/1991"
+    },
+    {
+        "GameTitle": "Ninja Warriors",
+        "id": 27811,
+        "ReleaseDate": "06/30/1989"
+    },
+    {
+        "GameTitle": "Xevious: Fardraut Densetsu",
+        "id": 27812,
+        "ReleaseDate": "06/29/1990"
+    },
+    {
+        "GameTitle": "Juuouki",
+        "id": 28717,
+        "ReleaseDate": "09/29/1989"
+    },
+    {
+        "GameTitle": "Toilet Kids",
+        "id": 28974,
+        "ReleaseDate": "03/06/1992"
+    },
+    {
+        "GameTitle": "Spin Pair",
+        "id": 28976,
+        "ReleaseDate": "12/14/1990"
+    },
+    {
+        "GameTitle": "21-Emon",
+        "id": 29044,
+        "ReleaseDate": "12/16/1994"
+    },
+    {
+        "GameTitle": "Super Metal Crusher",
+        "id": 29045,
+        "ReleaseDate": "11/29/1991"
+    },
+    {
+        "GameTitle": "SUPER MOMOTARO DENTETSU",
+        "id": 29046,
+        "ReleaseDate": "09/15/1989"
+    },
+    {
+        "GameTitle": "Super Momotaro Densetsu II",
+        "id": 29047,
+        "ReleaseDate": "12/20/1991"
+    },
+    {
+        "GameTitle": "Rabio Lepus Special",
+        "id": 29048,
+        "ReleaseDate": "10/19/1990"
+    },
+    {
+        "GameTitle": "Special Criminal Investigation",
+        "id": 29049,
+        "ReleaseDate": "01/25/1991"
+    },
+    {
+        "GameTitle": "PC Pachislot Idol Gambler",
+        "id": 29050,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Lode Runner",
+        "id": 29051,
+        "ReleaseDate": "07/27/1990"
+    },
+    {
+        "GameTitle": "Battle Ace",
+        "id": 29052,
+        "ReleaseDate": "11/30/1989"
+    },
+    {
+        "GameTitle": "Sokoban World",
+        "id": 29081,
+        "ReleaseDate": "03/16/1990"
+    },
+    {
+        "GameTitle": "World Stadium",
+        "id": 29147,
+        "ReleaseDate": "05/20/1988"
+    },
+    {
+        "GameTitle": "World Circuit",
+        "id": 29481,
+        "ReleaseDate": "10/19/1991"
+    },
+    {
+        "GameTitle": "Blodia",
+        "id": 29482
+    },
+    {
+        "GameTitle": "Operation Wolf",
+        "id": 29483,
+        "ReleaseDate": "08/31/1990"
+    },
+    {
+        "GameTitle": "Body Conquest II ~The Messiah~",
+        "id": 29484,
+        "ReleaseDate": "07/01/1990"
+    },
+    {
+        "GameTitle": "Kaiser's Quest",
+        "id": 29485,
+        "ReleaseDate": "02/28/1992"
+    },
+    {
+        "GameTitle": "Mad Stalker: Full Metal Force",
+        "id": 29752
+    },
+    {
+        "GameTitle": "Dragon Saber",
+        "id": 32829
+    },
+    {
+        "GameTitle": "Tatsujin",
+        "id": 32833,
+        "ReleaseDate": "07/24/1992"
+    },
+    {
+        "GameTitle": "Ankoku Densetsu",
+        "id": 29872,
+        "ReleaseDate": "09/07/1990"
+    },
+    {
+        "GameTitle": "Be Ball",
+        "id": 29873,
+        "ReleaseDate": "03/30/1990"
+    },
+    {
+        "GameTitle": "Champion Wrestler",
+        "id": 29875,
+        "ReleaseDate": "12/14/1990"
+    },
+    {
+        "GameTitle": "Chibi Maruko - Quiz de Pihyara",
+        "id": 29876,
+        "ReleaseDate": "01/10/1992"
+    },
+    {
+        "GameTitle": "Alice in Wonderdream",
+        "id": 30101
+    },
+    {
+        "GameTitle": "Makai Prince Dorabochan",
+        "id": 30102
+    },
+    {
+        "GameTitle": "Gomola Speed",
+        "id": 31080,
+        "ReleaseDate": "09/28/1990"
+    },
+    {
+        "GameTitle": "P47 - The Freedom Fighter",
+        "id": 31081,
+        "ReleaseDate": "03/20/1989"
+    },
+    {
+        "GameTitle": "Power League II",
+        "id": 31082,
+        "ReleaseDate": "08/18/1989"
+    },
+    {
+        "GameTitle": "Cross Wiber: Cyber-Combat-Police",
+        "id": 31728,
+        "ReleaseDate": "12/21/1990"
+    },
+    {
+        "GameTitle": "Fire Pro Wrestling: Combination Tag",
+        "id": 31939,
+        "ReleaseDate": "06/22/1989"
+    },
+    {
+        "GameTitle": "Fire Pro Wrestling 2: 2nd Bout",
+        "id": 31940,
+        "ReleaseDate": "08/30/1991"
+    },
+    {
+        "GameTitle": "Fire Pro Wrestling 3: Legend Bout",
+        "id": 31941,
+        "ReleaseDate": "11/13/1992"
+    },
+    {
+        "GameTitle": "Maniac Pro Wrestling",
+        "id": 31950,
+        "ReleaseDate": "05/25/1990"
+    },
+    {
+        "GameTitle": "Monster Pro Wrestling",
+        "id": 31951,
+        "ReleaseDate": "01/31/1992"
+    },
+    {
+        "GameTitle": "Hanii on the Road",
+        "id": 34716,
+        "ReleaseDate": "09/07/1990"
+    },
+    {
+        "GameTitle": "Hanii in the Sky",
+        "id": 34715,
+        "ReleaseDate": "03/01/1989"
+    },
+    {
+        "GameTitle": "Zero Wing",
+        "id": 32158,
+        "ReleaseDate": "09/16/1992"
+    },
+    {
+        "GameTitle": "Zipang",
+        "id": 32159
+    },
+    {
+        "GameTitle": "Rastan Saga II",
+        "id": 32236,
+        "ReleaseDate": "07/01/1990"
+    },
+    {
+        "GameTitle": "Mr. Heli",
+        "id": 32237,
+        "ReleaseDate": "12/06/1987"
+    },
+    {
+        "GameTitle": "Magical King Granzort",
+        "id": 32238,
+        "ReleaseDate": "04/06/1990"
+    },
+    {
+        "GameTitle": "Paranoia",
+        "id": 32239,
+        "ReleaseDate": "03/01/1990"
+    },
+    {
+        "GameTitle": "Marchen Maze",
+        "id": 32240,
+        "ReleaseDate": "12/11/1990"
+    },
+    {
+        "GameTitle": "Gaia no Monshou",
+        "id": 32834,
+        "ReleaseDate": "09/23/1988"
+    },
+    {
+        "GameTitle": "Image Fight",
+        "id": 32835,
+        "ReleaseDate": "07/27/1990"
+    },
+    {
+        "GameTitle": "Thunder Blade",
+        "id": 32836,
+        "ReleaseDate": "12/07/1990"
+    },
+    {
+        "GameTitle": "Transforming Superhuman Shockman II - A New Transforming Enemy",
+        "id": 32839,
+        "ReleaseDate": "04/27/1991"
+    },
+    {
+        "GameTitle": "Daisenpū",
+        "id": 32840,
+        "ReleaseDate": "12/14/1990"
+    },
+    {
+        "GameTitle": "Daisenpū Custom",
+        "id": 33028,
+        "ReleaseDate": "07/26/1991"
+    },
+    {
+        "GameTitle": "Nexzr",
+        "id": 33031,
+        "ReleaseDate": "12/11/1992"
+    },
+    {
+        "GameTitle": "Nekketsu Koukou Dodgeball Bu: PC Soccer Hen",
+        "id": 33152,
+        "ReleaseDate": "04/03/1992"
+    },
+    {
+        "GameTitle": "Final Match Tennis",
+        "id": 33323,
+        "ReleaseDate": "03/01/1991"
+    },
+    {
+        "GameTitle": "Populous",
+        "id": 34655,
+        "ReleaseDate": "04/05/1991"
+    },
+    {
+        "GameTitle": "Maison Ikkoku",
+        "id": 33507,
+        "ReleaseDate": "08/04/1989"
+    },
+    {
+        "GameTitle": "Metal Stoker",
+        "id": 33508,
+        "ReleaseDate": "07/12/1991"
+    },
+    {
+        "GameTitle": "Adventure Island",
+        "id": 33520,
+        "ReleaseDate": "04/19/1991"
+    },
+    {
+        "GameTitle": "Knight Rider Special",
+        "id": 33988,
+        "ReleaseDate": "12/16/1994"
+    },
+    {
+        "GameTitle": "Niko Niko Pun",
+        "id": 35422,
+        "ReleaseDate": "12/13/1991"
+    },
+    {
+        "GameTitle": "Implode",
+        "id": 34131,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Bomberman '93 Special",
+        "id": 34670,
+        "ReleaseDate": "12/11/1992"
+    },
+    {
+        "GameTitle": "Bomberman Users Battle",
+        "id": 34671
+    },
+    {
+        "GameTitle": "Cyber Dodge",
+        "id": 34672,
+        "ReleaseDate": "01/31/1992"
+    },
+    {
+        "GameTitle": "Hono No Tokuji Dodge Danpei",
+        "id": 34717,
+        "ReleaseDate": "09/25/1992"
+    },
+    {
+        "GameTitle": "Kaizou Choujin Shubibinman",
+        "id": 34718,
+        "ReleaseDate": "03/18/1989"
+    },
+    {
+        "GameTitle": "Kick Ball",
+        "id": 34719,
+        "ReleaseDate": "11/23/1990"
+    },
+    {
+        "GameTitle": "Lady Sword: Ryakudatsusareta 10-nin no Otome",
+        "id": 34807,
+        "ReleaseDate": "05/15/1992"
+    },
+    {
+        "GameTitle": "Necromancer",
+        "id": 34809,
+        "ReleaseDate": "01/22/1988"
+    },
+    {
+        "GameTitle": "Momotarou Densetsu Turbo",
+        "id": 34810,
+        "ReleaseDate": "07/20/1990"
+    },
+    {
+        "GameTitle": "Reflectron",
+        "id": 35262
+    },
+    {
+        "GameTitle": "Santatlantean",
+        "id": 35263
+    },
+    {
+        "GameTitle": "Formation Soccer: Human Cup '90",
+        "id": 35466,
+        "ReleaseDate": "04/27/1990"
+    },
+    {
+        "GameTitle": "Puzzle Boy",
+        "id": 35469,
+        "ReleaseDate": "02/22/1991"
+    },
+    {
+        "GameTitle": "Puzznic",
+        "id": 35470,
+        "ReleaseDate": "06/29/1990"
+    },
+    {
+        "GameTitle": "Racing Damashii",
+        "id": 35471,
+        "ReleaseDate": "07/19/1991"
+    },
+    {
+        "GameTitle": "Ryuukyuu",
+        "id": 35472,
+        "ReleaseDate": "10/26/1990"
+    },
+    {
+        "GameTitle": "Skweek",
+        "id": 35527,
+        "ReleaseDate": "08/02/1991"
+    },
+    {
+        "GameTitle": "Lords of Thunder",
+        "id": 36253
+    },
+    {
+        "GameTitle": "Gate of Thunder",
+        "id": 36254
+    },
+    {
+        "GameTitle": "Super Darius II",
+        "id": 36256
+    },
+    {
+        "GameTitle": "Valis II",
+        "id": 36257
+    },
+    {
+        "GameTitle": "Hatris",
+        "id": 37257,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Kiki Kaikai",
+        "id": 37258,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "SonSon II",
+        "id": 37259,
+        "ReleaseDate": "01/27/1989"
+    },
+    {
+        "GameTitle": "Toy Shop Boys",
+        "id": 37260,
+        "ReleaseDate": "12/14/1990"
+    },
+    {
+        "GameTitle": "Doraemon: Meikyuu Daisakusen",
+        "id": 37261,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Power Sports",
+        "id": 37313,
+        "ReleaseDate": "10/10/1992"
+    },
+    {
+        "GameTitle": "Power League",
+        "id": 37314
+    },
+    {
+        "GameTitle": "Power League IV",
+        "id": 37315
+    }
+]}}
+]

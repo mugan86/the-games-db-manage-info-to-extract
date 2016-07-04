@@ -1,0 +1,338 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Ballblazer",
+        "id": 4893,
+        "ReleaseDate": "09/07/1988"
+    },
+    {
+        "GameTitle": "Choplifter",
+        "id": 4894,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Commando",
+        "id": 4896,
+        "ReleaseDate": "09/19/1985"
+    },
+    {
+        "GameTitle": "Desert Falcon",
+        "id": 4897,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Donkey Kong",
+        "id": 4898,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Galaga",
+        "id": 4899,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Impossible Mission",
+        "id": 4900,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Jinks",
+        "id": 4901,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Joust",
+        "id": 4902,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Karateka",
+        "id": 4903,
+        "ReleaseDate": "07/01/1984"
+    },
+    {
+        "GameTitle": "Mat Mania Challenge",
+        "id": 4905,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Pole Position II",
+        "id": 4906,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Tower Toppler",
+        "id": 4907,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Asteroids",
+        "id": 18177,
+        "ReleaseDate": "11/01/1987"
+    },
+    {
+        "GameTitle": "Xenophobe",
+        "id": 20609,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Winter Games",
+        "id": 20610,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Touchdown Football",
+        "id": 20612,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Title Match Pro Wrestling",
+        "id": 20613,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Super Skateboardin'",
+        "id": 20614,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Xevious",
+        "id": 20608,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Crack'ed",
+        "id": 21036,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Crossbow",
+        "id": 21037,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Dark Chambers",
+        "id": 21038,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Dig Dug",
+        "id": 21039,
+        "ReleaseDate": "06/01/1987"
+    },
+    {
+        "GameTitle": "Donkey Kong Junior",
+        "id": 21040,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Double Dragon",
+        "id": 21041,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Fatal Run",
+        "id": 21042,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Fight Night",
+        "id": 21043,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Food Fight",
+        "id": 21044,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Hat Trick",
+        "id": 21045,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Ikari Warriors",
+        "id": 21046,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Mario Bros.",
+        "id": 21047,
+        "ReleaseDate": "07/07/1988"
+    },
+    {
+        "GameTitle": "Mean 18 Ultimate Golf",
+        "id": 21048,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Meltdown",
+        "id": 21049,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Midnight Mutants",
+        "id": 21050,
+        "ReleaseDate": "10/10/1990"
+    },
+    {
+        "GameTitle": "Motor Psycho",
+        "id": 21051,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Ms. Pac-Man",
+        "id": 21052,
+        "ReleaseDate": "07/07/1987"
+    },
+    {
+        "GameTitle": "Ninja Golf",
+        "id": 21053,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "One-on-One Basketball",
+        "id": 21054,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "RealSports Baseball",
+        "id": 21055,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Robotron: 2084",
+        "id": 21056,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Scrapyard Dog",
+        "id": 21057,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Summer Games",
+        "id": 21058,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Super Huey UH-IX",
+        "id": 21059,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "F-18 Hornet",
+        "id": 21093,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Ace of Aces",
+        "id": 21095,
+        "ReleaseDate": "06/01/1988"
+    },
+    {
+        "GameTitle": "Alien Brigade",
+        "id": 21096,
+        "ReleaseDate": "07/02/1990"
+    },
+    {
+        "GameTitle": "Barnyard Blaster",
+        "id": 21097,
+        "ReleaseDate": "06/05/1988"
+    },
+    {
+        "GameTitle": "Basketbrawl",
+        "id": 21098,
+        "ReleaseDate": "06/03/1990"
+    },
+    {
+        "GameTitle": "Beef Drop 7800",
+        "id": 21099
+    },
+    {
+        "GameTitle": "Centipede",
+        "id": 21100,
+        "ReleaseDate": "06/01/1987"
+    },
+    {
+        "GameTitle": "Gato",
+        "id": 21101
+    },
+    {
+        "GameTitle": "Kung Fu Master",
+        "id": 21102,
+        "ReleaseDate": "06/01/1989"
+    },
+    {
+        "GameTitle": "Klax",
+        "id": 21103,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Pit Fighter",
+        "id": 21197,
+        "ReleaseDate": "05/27/1992"
+    },
+    {
+        "GameTitle": "Missing In Action",
+        "id": 22378,
+        "ReleaseDate": "05/27/1989"
+    },
+    {
+        "GameTitle": "Pete Rose Baseball",
+        "id": 22379,
+        "ReleaseDate": "05/27/1989"
+    },
+    {
+        "GameTitle": "Planet Smashers",
+        "id": 22380,
+        "ReleaseDate": "05/27/1989"
+    },
+    {
+        "GameTitle": "Plutos",
+        "id": 22382,
+        "ReleaseDate": "05/27/1990"
+    },
+    {
+        "GameTitle": "Rampage",
+        "id": 22383,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Rampart",
+        "id": 22384
+    },
+    {
+        "GameTitle": "Rescue on Fractalus",
+        "id": 22385
+    },
+    {
+        "GameTitle": "Sentinel",
+        "id": 22386,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Sirius",
+        "id": 22387
+    },
+    {
+        "GameTitle": "Tank Command",
+        "id": 22388,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Tomcat: The F-14 Fighter Simulator",
+        "id": 22389,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Water Ski",
+        "id": 22390,
+        "ReleaseDate": "05/27/1988"
+    },
+    {
+        "GameTitle": "Space Invaders",
+        "id": 28406,
+        "ReleaseDate": "01/01/2008"
+    }
+]}}
+]

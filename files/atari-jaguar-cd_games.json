@@ -1,0 +1,93 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Atomic",
+        "id": 5250,
+        "ReleaseDate": "02/18/2006"
+    },
+    {
+        "GameTitle": "Asteroids",
+        "id": 5251,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Baldies",
+        "id": 5252,
+        "ReleaseDate": "12/01/1995"
+    },
+    {
+        "GameTitle": "Battle Morph",
+        "id": 5254,
+        "ReleaseDate": "12/01/1995"
+    },
+    {
+        "GameTitle": "Black Ice/White Noise",
+        "id": 5255,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Blue Lightning",
+        "id": 5256,
+        "ReleaseDate": "08/01/1995"
+    },
+    {
+        "GameTitle": "Brain Dead 13",
+        "id": 5257,
+        "ReleaseDate": "03/01/1996"
+    },
+    {
+        "GameTitle": "Diam Jag",
+        "id": 5258,
+        "ReleaseDate": "01/01/2006"
+    },
+    {
+        "GameTitle": "Dragon's Lair",
+        "id": 5259,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Highlander: The Last of the MacLeods",
+        "id": 5260,
+        "ReleaseDate": "10/01/1995"
+    },
+    {
+        "GameTitle": "Hover Strike: Unconquered Lands",
+        "id": 5261,
+        "ReleaseDate": "10/01/1995"
+    },
+    {
+        "GameTitle": "Iron Soldier 2",
+        "id": 5262,
+        "ReleaseDate": "12/01/1997"
+    },
+    {
+        "GameTitle": "Myst",
+        "id": 5263,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Native",
+        "id": 5264,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Primal Rage",
+        "id": 5265,
+        "ReleaseDate": "12/01/1995"
+    },
+    {
+        "GameTitle": "Soulstar",
+        "id": 5266,
+        "ReleaseDate": "12/21/1994"
+    },
+    {
+        "GameTitle": "Space Ace",
+        "id": 5267,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "World Tour Racing",
+        "id": 5268,
+        "ReleaseDate": "05/01/1997"
+    }
+]}}
+]

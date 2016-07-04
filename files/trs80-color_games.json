@@ -1,0 +1,197 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Dungeons of Daggorath",
+        "id": 32384,
+        "ReleaseDate": "01/05/1982"
+    },
+    {
+        "GameTitle": "Androne",
+        "id": 32399
+    },
+    {
+        "GameTitle": "Arkanoid",
+        "id": 32400
+    },
+    {
+        "GameTitle": "Atom",
+        "id": 32401
+    },
+    {
+        "GameTitle": "Bustout",
+        "id": 32402
+    },
+    {
+        "GameTitle": "Canyon Climber",
+        "id": 32403
+    },
+    {
+        "GameTitle": "Castle Guard",
+        "id": 32404
+    },
+    {
+        "GameTitle": "Checkers",
+        "id": 32405
+    },
+    {
+        "GameTitle": "Chess",
+        "id": 32406
+    },
+    {
+        "GameTitle": "Clowns and Balloons",
+        "id": 32407
+    },
+    {
+        "GameTitle": "Bedlam",
+        "id": 32408
+    },
+    {
+        "GameTitle": "Color Baseball",
+        "id": 32409
+    },
+    {
+        "GameTitle": "Color Cubes",
+        "id": 32410
+    },
+    {
+        "GameTitle": "Demolition Derby",
+        "id": 32411
+    },
+    {
+        "GameTitle": "Demon Attack",
+        "id": 32412
+    },
+    {
+        "GameTitle": "Desert Rider",
+        "id": 32413
+    },
+    {
+        "GameTitle": "Dino Wars",
+        "id": 32414
+    },
+    {
+        "GameTitle": "Doubleback",
+        "id": 32415
+    },
+    {
+        "GameTitle": "Downland",
+        "id": 32416
+    },
+    {
+        "GameTitle": "Football",
+        "id": 32417
+    },
+    {
+        "GameTitle": "Galactic Attack",
+        "id": 32418
+    },
+    {
+        "GameTitle": "Gin Champion",
+        "id": 32419
+    },
+    {
+        "GameTitle": "Gomoku and Renju",
+        "id": 32420
+    },
+    {
+        "GameTitle": "Klendathu",
+        "id": 32421
+    },
+    {
+        "GameTitle": "Mega-Bug",
+        "id": 32422
+    },
+    {
+        "GameTitle": "Microbes",
+        "id": 32423
+    },
+    {
+        "GameTitle": "Monster Maze",
+        "id": 32424
+    },
+    {
+        "GameTitle": "Pinball",
+        "id": 32425
+    },
+    {
+        "GameTitle": "Polaris",
+        "id": 32426
+    },
+    {
+        "GameTitle": "Poltergeist",
+        "id": 32427
+    },
+    {
+        "GameTitle": "Popcorn",
+        "id": 32428
+    },
+    {
+        "GameTitle": "Project Nebula",
+        "id": 32429
+    },
+    {
+        "GameTitle": "Quasar Commander",
+        "id": 32430
+    },
+    {
+        "GameTitle": "Reactoid",
+        "id": 32431
+    },
+    {
+        "GameTitle": "Shooting Gallery",
+        "id": 32432
+    },
+    {
+        "GameTitle": "Skiing",
+        "id": 32433
+    },
+    {
+        "GameTitle": "Slay The Nereis",
+        "id": 32434
+    },
+    {
+        "GameTitle": "Space Assault",
+        "id": 32435
+    },
+    {
+        "GameTitle": "Starblaze",
+        "id": 32436
+    },
+    {
+        "GameTitle": "Temple of ROM",
+        "id": 32437
+    },
+    {
+        "GameTitle": "Tennis",
+        "id": 32438
+    },
+    {
+        "GameTitle": "Wildcatting",
+        "id": 32439
+    },
+    {
+        "GameTitle": "Rampage",
+        "id": 35149,
+        "ReleaseDate": "02/01/1989"
+    },
+    {
+        "GameTitle": "RoboCop",
+        "id": 35150,
+        "ReleaseDate": "02/01/1989"
+    },
+    {
+        "GameTitle": "Rad Warrior",
+        "id": 35151,
+        "ReleaseDate": "02/01/1988"
+    },
+    {
+        "GameTitle": "Dragonfire",
+        "id": 35771,
+        "ReleaseDate": "01/03/1984"
+    },
+    {
+        "GameTitle": "Pooyan",
+        "id": 35960,
+        "ReleaseDate": "01/01/1983"
+    }
+]}}
+]

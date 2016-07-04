@@ -1,0 +1,298 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Mine Storm",
+        "id": 32725,
+        "ReleaseDate": "11/05/1982"
+    },
+    {
+        "GameTitle": "Rip Off",
+        "id": 32726,
+        "ReleaseDate": "11/04/1982"
+    },
+    {
+        "GameTitle": "Web Wars",
+        "id": 35984,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Armor Attack",
+        "id": 32361,
+        "ReleaseDate": "11/01/1982"
+    },
+    {
+        "GameTitle": "Bedlam",
+        "id": 32362,
+        "ReleaseDate": "11/01/1983"
+    },
+    {
+        "GameTitle": "Berzerk",
+        "id": 32363
+    },
+    {
+        "GameTitle": "Blitz! - Action Football",
+        "id": 32364
+    },
+    {
+        "GameTitle": "Clean Sweep",
+        "id": 32365
+    },
+    {
+        "GameTitle": "Cosmic Chasm",
+        "id": 32366
+    },
+    {
+        "GameTitle": "Fortress of Narzod",
+        "id": 32367
+    },
+    {
+        "GameTitle": "Heads Up",
+        "id": 32368
+    },
+    {
+        "GameTitle": "Hyperchase Auto Race",
+        "id": 32369
+    },
+    {
+        "GameTitle": "AnimAction",
+        "id": 32648
+    },
+    {
+        "GameTitle": "Art Master",
+        "id": 32670
+    },
+    {
+        "GameTitle": "3D Crazy Coaster",
+        "id": 32671
+    },
+    {
+        "GameTitle": "Dark Tower",
+        "id": 32682
+    },
+    {
+        "GameTitle": "Moon Lander",
+        "id": 32683
+    },
+    {
+        "GameTitle": "Melody Master",
+        "id": 32684
+    },
+    {
+        "GameTitle": "Mine Storm 2",
+        "id": 32685
+    },
+    {
+        "GameTitle": "Narrow Escape",
+        "id": 32686,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Omega Chase",
+        "id": 32687
+    },
+    {
+        "GameTitle": "Polar Rescue",
+        "id": 32688
+    },
+    {
+        "GameTitle": "Pole Position",
+        "id": 32689,
+        "ReleaseDate": "11/05/1982"
+    },
+    {
+        "GameTitle": "Scramble",
+        "id": 32727,
+        "ReleaseDate": "11/03/1982"
+    },
+    {
+        "GameTitle": "Solar Quest",
+        "id": 32728,
+        "ReleaseDate": "11/17/1982"
+    },
+    {
+        "GameTitle": "Spin Ball",
+        "id": 32798
+    },
+    {
+        "GameTitle": "Space Wars",
+        "id": 32799
+    },
+    {
+        "GameTitle": "Spike Hoppin'",
+        "id": 32800
+    },
+    {
+        "GameTitle": "Spike",
+        "id": 32801
+    },
+    {
+        "GameTitle": "Star Castle",
+        "id": 32802
+    },
+    {
+        "GameTitle": "Star Trek - The Motion Picture",
+        "id": 32803
+    },
+    {
+        "GameTitle": "StarHawk",
+        "id": 32804
+    },
+    {
+        "GameTitle": "Vector Vaders",
+        "id": 32806
+    },
+    {
+        "GameTitle": "Star Ship",
+        "id": 33341
+    },
+    {
+        "GameTitle": "Webwarp",
+        "id": 33342,
+        "ReleaseDate": "12/06/1983"
+    },
+    {
+        "GameTitle": "3D Mine Storm",
+        "id": 36976,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "3D Narrow Escape",
+        "id": 36977,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Engine Analyzer",
+        "id": 36978,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Mail Plane",
+        "id": 36979,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Pitcher's Duel",
+        "id": 36980,
+        "ReleaseDate": "01/01/2007"
+    },
+    {
+        "GameTitle": "RA+A Spectrum I+ Stress Tester",
+        "id": 36981,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Sledge 3D",
+        "id": 36982,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Test Cartridge",
+        "id": 36983,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Tour De France",
+        "id": 36984,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "All Good Things",
+        "id": 37530,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Birds of Prey",
+        "id": 37531,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Gravitrex",
+        "id": 37532,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Patriots",
+        "id": 37533,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Repulse",
+        "id": 37534,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Patriots Remix",
+        "id": 37535,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Rockaroids Remix",
+        "id": 37536,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Star Hawk",
+        "id": 37537,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Vectrace",
+        "id": 37538,
+        "ReleaseDate": "07/01/2000"
+    },
+    {
+        "GameTitle": "Verzerk",
+        "id": 37539,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Space Frenzy",
+        "id": 37540,
+        "ReleaseDate": "01/01/2006"
+    },
+    {
+        "GameTitle": "Spike's Water Ballons Analog",
+        "id": 37541,
+        "ReleaseDate": "01/01/2001"
+    },
+    {
+        "GameTitle": "Vecmania",
+        "id": 37542,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Vectopia",
+        "id": 37543,
+        "ReleaseDate": "01/01/2001"
+    },
+    {
+        "GameTitle": "Nebula Commander",
+        "id": 37544,
+        "ReleaseDate": "01/01/2005"
+    },
+    {
+        "GameTitle": "Protector YASI",
+        "id": 37546,
+        "ReleaseDate": "01/01/2003"
+    },
+    {
+        "GameTitle": "Revector",
+        "id": 37547,
+        "ReleaseDate": "01/01/2004"
+    },
+    {
+        "GameTitle": "Thrust",
+        "id": 37548,
+        "ReleaseDate": "01/01/2004"
+    },
+    {
+        "GameTitle": "V-Frogger",
+        "id": 37550,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Vectrexagon",
+        "id": 37553,
+        "ReleaseDate": "01/01/2015"
+    }
+]}}
+]

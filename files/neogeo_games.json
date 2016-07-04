@@ -1,0 +1,849 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "DoDonPachi",
+        "id": 215,
+        "ReleaseDate": "02/05/1997"
+    },
+    {
+        "GameTitle": "Metal Slug",
+        "id": 222,
+        "ReleaseDate": "05/24/1996"
+    },
+    {
+        "GameTitle": "Metal Slug 2",
+        "id": 223,
+        "ReleaseDate": "04/02/1998"
+    },
+    {
+        "GameTitle": "Metal Slug 3",
+        "id": 224,
+        "ReleaseDate": "06/01/2000"
+    },
+    {
+        "GameTitle": "Metal Slug 4",
+        "id": 225,
+        "ReleaseDate": "07/19/2002"
+    },
+    {
+        "GameTitle": "Metal Slug 5",
+        "id": 226,
+        "ReleaseDate": "11/01/2003"
+    },
+    {
+        "GameTitle": "Aero Fighters 3 / Sonic Wings 3",
+        "id": 742,
+        "ReleaseDate": 1995
+    },
+    {
+        "GameTitle": "Aero Fighters 2 / Sonic Wings 2",
+        "id": 743,
+        "ReleaseDate": 1994
+    },
+    {
+        "GameTitle": "Samurai Shodown",
+        "id": 744,
+        "ReleaseDate": "08/11/1993"
+    },
+    {
+        "GameTitle": "Metal Slug X",
+        "id": 973,
+        "ReleaseDate": "03/18/1999"
+    },
+    {
+        "GameTitle": "Ghost Pilots",
+        "id": 976,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "The King of Fighters '94",
+        "id": 977,
+        "ReleaseDate": "10/01/1994"
+    },
+    {
+        "GameTitle": "The King of Fighters '95",
+        "id": 978,
+        "ReleaseDate": "09/01/1995"
+    },
+    {
+        "GameTitle": "The King of Fighters '96",
+        "id": 979,
+        "ReleaseDate": "07/30/1996"
+    },
+    {
+        "GameTitle": "The King of Fighters '97",
+        "id": 980,
+        "ReleaseDate": "09/25/1997"
+    },
+    {
+        "GameTitle": "The King of Fighters '99: Millennium Battle",
+        "id": 981,
+        "ReleaseDate": "09/23/1999"
+    },
+    {
+        "GameTitle": "Magical Drop II",
+        "id": 982,
+        "ReleaseDate": "04/19/1996"
+    },
+    {
+        "GameTitle": "Magical Drop III",
+        "id": 983,
+        "ReleaseDate": "04/25/1997"
+    },
+    {
+        "GameTitle": "Samurai Shodown II",
+        "id": 984,
+        "ReleaseDate": "10/28/1994"
+    },
+    {
+        "GameTitle": "Samurai Shodown IV",
+        "id": 985,
+        "ReleaseDate": "10/25/1996"
+    },
+    {
+        "GameTitle": "World Heroes",
+        "id": 988,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "World Heroes 2",
+        "id": 989,
+        "ReleaseDate": "06/04/1993"
+    },
+    {
+        "GameTitle": "World Heroes Perfect",
+        "id": 990,
+        "ReleaseDate": "06/07/1995"
+    },
+    {
+        "GameTitle": "Art of Fighting 2",
+        "id": 1334,
+        "ReleaseDate": "03/11/1994"
+    },
+    {
+        "GameTitle": "Burning Fight",
+        "id": 1335,
+        "ReleaseDate": "08/09/1991"
+    },
+    {
+        "GameTitle": "Garou: Mark of the Wolves",
+        "id": 1336,
+        "ReleaseDate": "02/25/2000"
+    },
+    {
+        "GameTitle": "Joy Joy Kid",
+        "id": 1337,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "NAM-1975",
+        "id": 1338,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Savage Reign",
+        "id": 1339,
+        "ReleaseDate": "05/26/1995"
+    },
+    {
+        "GameTitle": "Thrash Rally",
+        "id": 1340,
+        "ReleaseDate": "12/21/1991"
+    },
+    {
+        "GameTitle": "3 Count Bout",
+        "id": 1485,
+        "ReleaseDate": "04/23/1993"
+    },
+    {
+        "GameTitle": "2020 Super Baseball",
+        "id": 1486,
+        "ReleaseDate": "10/25/1991"
+    },
+    {
+        "GameTitle": "Aggressors of Dark Kombat",
+        "id": 1487,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Baseball Stars 2",
+        "id": 1488,
+        "ReleaseDate": "04/28/1992"
+    },
+    {
+        "GameTitle": "Baseball Stars Professional",
+        "id": 1489,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Ironclad",
+        "id": 1490,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Fatal Fury 3: Road to the Final Victory",
+        "id": 1491,
+        "ReleaseDate": "04/21/1995"
+    },
+    {
+        "GameTitle": "Fatal Fury Special",
+        "id": 1492,
+        "ReleaseDate": "09/16/1993"
+    },
+    {
+        "GameTitle": "Far East of Eden: Kabuki Klash",
+        "id": 1493,
+        "ReleaseDate": "07/02/1995"
+    },
+    {
+        "GameTitle": "Last Resort",
+        "id": 1494,
+        "ReleaseDate": "04/24/1992"
+    },
+    {
+        "GameTitle": "Magician Lord",
+        "id": 1495,
+        "ReleaseDate": "07/02/1991"
+    },
+    {
+        "GameTitle": "Mutation Nation",
+        "id": 1496,
+        "ReleaseDate": "04/22/1992"
+    },
+    {
+        "GameTitle": "Ninja Commando",
+        "id": 1497,
+        "ReleaseDate": "05/29/1992"
+    },
+    {
+        "GameTitle": "Ninja Master's",
+        "id": 1498,
+        "ReleaseDate": "06/28/1996"
+    },
+    {
+        "GameTitle": "Puzzle Bobble",
+        "id": 1499,
+        "ReleaseDate": "07/01/1999"
+    },
+    {
+        "GameTitle": "Robo Army",
+        "id": 1500,
+        "ReleaseDate": "12/20/1991"
+    },
+    {
+        "GameTitle": "Samurai Shodown III",
+        "id": 1504,
+        "ReleaseDate": "11/15/1995"
+    },
+    {
+        "GameTitle": "Street Slam",
+        "id": 1506,
+        "ReleaseDate": "12/09/1994"
+    },
+    {
+        "GameTitle": "The Last Blade",
+        "id": 1508,
+        "ReleaseDate": "01/29/1998"
+    },
+    {
+        "GameTitle": "The Last Blade 2",
+        "id": 1510,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Twinkle Star Sprites",
+        "id": 1512,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Viewpoint",
+        "id": 1513,
+        "ReleaseDate": "10/01/1992"
+    },
+    {
+        "GameTitle": "Voltage Fighter Gowcaizer",
+        "id": 1514,
+        "ReleaseDate": "10/24/1995"
+    },
+    {
+        "GameTitle": "WindJammers",
+        "id": 1516,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Fatal Fury: Wild Ambition",
+        "id": 8259,
+        "ReleaseDate": "01/28/1999"
+    },
+    {
+        "GameTitle": "League Bowling",
+        "id": 2608,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Fatal Fury 2",
+        "id": 2862,
+        "ReleaseDate": "03/05/1993"
+    },
+    {
+        "GameTitle": "Fatal Fury",
+        "id": 2907,
+        "ReleaseDate": "12/20/1991"
+    },
+    {
+        "GameTitle": "ASO II: Last Guardian",
+        "id": 6463,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Andro Dunos",
+        "id": 6464,
+        "ReleaseDate": "07/17/1992"
+    },
+    {
+        "GameTitle": "Art of Fighting 3: The Path of the Warrior",
+        "id": 6465,
+        "ReleaseDate": "04/26/1996"
+    },
+    {
+        "GameTitle": "Bang Bead",
+        "id": 6466,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "Battle Flip Shot",
+        "id": 6467,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Blazing Star",
+        "id": 6468,
+        "ReleaseDate": "02/19/1998"
+    },
+    {
+        "GameTitle": "Breakers",
+        "id": 6469,
+        "ReleaseDate": "03/21/1996"
+    },
+    {
+        "GameTitle": "Bust-A-Move Again",
+        "id": 6470,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Crossed Swords",
+        "id": 6471,
+        "ReleaseDate": "10/01/1991"
+    },
+    {
+        "GameTitle": "Cyber-Lip",
+        "id": 6472,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Fast Striker",
+        "id": 6474,
+        "ReleaseDate": "09/01/2010"
+    },
+    {
+        "GameTitle": "The King of Fighters 2003",
+        "id": 8261,
+        "ReleaseDate": "03/18/2004"
+    },
+    {
+        "GameTitle": "Kizuna Encounter",
+        "id": 8262,
+        "ReleaseDate": "11/06/1996"
+    },
+    {
+        "GameTitle": "Marvel Super Heroes",
+        "id": 8263,
+        "ReleaseDate": "10/24/1995"
+    },
+    {
+        "GameTitle": "Marvel Super Heroes vs. Street Fighter",
+        "id": 8264,
+        "ReleaseDate": "10/22/1998"
+    },
+    {
+        "GameTitle": "Samurai Shodown V Special",
+        "id": 8267,
+        "ReleaseDate": "06/15/2004"
+    },
+    {
+        "GameTitle": "Neo Geo Cup '98: The Road to the Victory",
+        "id": 8505,
+        "ReleaseDate": "03/03/1998"
+    },
+    {
+        "GameTitle": "King of the Monsters",
+        "id": 8673,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Neo Turf Masters",
+        "id": 8674,
+        "ReleaseDate": "03/01/1996"
+    },
+    {
+        "GameTitle": "Pulstar",
+        "id": 8675,
+        "ReleaseDate": "09/29/1995"
+    },
+    {
+        "GameTitle": "Riding Hero",
+        "id": 8676,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Sengoku",
+        "id": 8677,
+        "ReleaseDate": "07/01/2001"
+    },
+    {
+        "GameTitle": "Sengoku 2",
+        "id": 8678,
+        "ReleaseDate": "04/09/1993"
+    },
+    {
+        "GameTitle": "Street Hoop",
+        "id": 8680,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Super Sidekicks 3",
+        "id": 8681,
+        "ReleaseDate": "04/07/1995"
+    },
+    {
+        "GameTitle": "Alpha Mission II",
+        "id": 10036,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Blue's Journey",
+        "id": 10050,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Breakers Revenge",
+        "id": 10051,
+        "ReleaseDate": "07/02/1998"
+    },
+    {
+        "GameTitle": "Captain Tomaday",
+        "id": 10052,
+        "ReleaseDate": "05/27/1999"
+    },
+    {
+        "GameTitle": "EightMan",
+        "id": 10053,
+        "ReleaseDate": "11/10/1991"
+    },
+    {
+        "GameTitle": "Football Frenzy",
+        "id": 10054,
+        "ReleaseDate": "02/21/1992"
+    },
+    {
+        "GameTitle": "Fight Fever",
+        "id": 10055,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Galaxy Fight: Universal Warriors",
+        "id": 10056,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Ganryu",
+        "id": 10057,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Ghostlop",
+        "id": 10058,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Goal! Goal! Goal!",
+        "id": 10059,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Gururin",
+        "id": 10060,
+        "ReleaseDate": "05/25/1994"
+    },
+    {
+        "GameTitle": "Puzzled",
+        "id": 10061,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "The King of Fighters 2000",
+        "id": 10062,
+        "ReleaseDate": "12/21/2000"
+    },
+    {
+        "GameTitle": "The King of Fighters 2001",
+        "id": 10063,
+        "ReleaseDate": "03/14/2002"
+    },
+    {
+        "GameTitle": "The King of Fighters 2002",
+        "id": 10064,
+        "ReleaseDate": "10/10/2002"
+    },
+    {
+        "GameTitle": "King of the Monsters 2",
+        "id": 10065,
+        "ReleaseDate": "06/19/1992"
+    },
+    {
+        "GameTitle": "Legend of Success Joe",
+        "id": 10066,
+        "ReleaseDate": "08/30/1991"
+    },
+    {
+        "GameTitle": "Power Instinct Matrimelee",
+        "id": 10067,
+        "ReleaseDate": "05/01/2002"
+    },
+    {
+        "GameTitle": "Zed Blade",
+        "id": 10276,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Ninja Combat",
+        "id": 10450,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Neo Bomberman",
+        "id": 10451,
+        "ReleaseDate": "03/01/1997"
+    },
+    {
+        "GameTitle": "Neo Drift Out",
+        "id": 10452,
+        "ReleaseDate": "07/26/1996"
+    },
+    {
+        "GameTitle": "Neo Mr. Do!",
+        "id": 10453,
+        "ReleaseDate": "06/26/1997"
+    },
+    {
+        "GameTitle": "Nightmare in the Dark",
+        "id": 10454,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "OverTop",
+        "id": 10455,
+        "ReleaseDate": "05/24/1996"
+    },
+    {
+        "GameTitle": "Bomberman: Panic Bomber",
+        "id": 10456,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Pleasure Goal: 5 on 5 Mini Soccer",
+        "id": 10457,
+        "ReleaseDate": "06/19/1996"
+    },
+    {
+        "GameTitle": "Pochi & Nyaa",
+        "id": 10458,
+        "ReleaseDate": "12/24/2003"
+    },
+    {
+        "GameTitle": "Pop 'n Bounce",
+        "id": 10459,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Prehistoric Isle 2",
+        "id": 10460,
+        "ReleaseDate": "09/26/1999"
+    },
+    {
+        "GameTitle": "Power Spikes II",
+        "id": 10461,
+        "ReleaseDate": "03/18/1995"
+    },
+    {
+        "GameTitle": "Puzzle de Pon! R",
+        "id": 10462,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Puzzle De Pon!",
+        "id": 10463,
+        "ReleaseDate": "11/27/1995"
+    },
+    {
+        "GameTitle": "Ragnagard",
+        "id": 10464,
+        "ReleaseDate": "07/26/1996"
+    },
+    {
+        "GameTitle": "Real Bout Fatal Fury",
+        "id": 10465,
+        "ReleaseDate": "01/26/1996"
+    },
+    {
+        "GameTitle": "Real Bout Fatal Fury 2: The Newcomers",
+        "id": 10466,
+        "ReleaseDate": "04/29/1998"
+    },
+    {
+        "GameTitle": "Real Bout Fatal Fury Special",
+        "id": 10467,
+        "ReleaseDate": "02/28/1997"
+    },
+    {
+        "GameTitle": "Rage of the Dragons",
+        "id": 10468,
+        "ReleaseDate": "09/20/2002"
+    },
+    {
+        "GameTitle": "Strikers 1945 Plus",
+        "id": 10469,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Samurai Shodown V",
+        "id": 10470,
+        "ReleaseDate": "12/11/2003"
+    },
+    {
+        "GameTitle": "Super Dodge Ball",
+        "id": 10471,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Sengoku 3",
+        "id": 10472,
+        "ReleaseDate": "10/25/2001"
+    },
+    {
+        "GameTitle": "Shock Troopers: 2nd Squad",
+        "id": 10473,
+        "ReleaseDate": "06/24/1999"
+    },
+    {
+        "GameTitle": "Soccer Brawl",
+        "id": 10474,
+        "ReleaseDate": "03/13/1992"
+    },
+    {
+        "GameTitle": "Spinmaster",
+        "id": 10475,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Super Sidekicks",
+        "id": 10476,
+        "ReleaseDate": "02/19/1993"
+    },
+    {
+        "GameTitle": "Super Sidekicks 2",
+        "id": 10477,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "The Ultimate 11: SNK Football Championship",
+        "id": 10478,
+        "ReleaseDate": "12/20/1996"
+    },
+    {
+        "GameTitle": "Stakes Winner",
+        "id": 10479,
+        "ReleaseDate": "10/27/1995"
+    },
+    {
+        "GameTitle": "Stakes Winner 2",
+        "id": 10480,
+        "ReleaseDate": "12/13/1996"
+    },
+    {
+        "GameTitle": "The Super Spy",
+        "id": 10481,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "SNK vs. Capcom: SVC Chaos",
+        "id": 10482,
+        "ReleaseDate": "07/24/2003"
+    },
+    {
+        "GameTitle": "Top Hunter: Roddy & Cathy",
+        "id": 10483,
+        "ReleaseDate": "12/31/1994"
+    },
+    {
+        "GameTitle": "Top Player's Golf",
+        "id": 10484,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Tecmo World Soccer '96",
+        "id": 10485,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Waku Waku 7",
+        "id": 10486,
+        "ReleaseDate": "12/27/1996"
+    },
+    {
+        "GameTitle": "World Heroes 2 Jet",
+        "id": 10487,
+        "ReleaseDate": "06/10/1994"
+    },
+    {
+        "GameTitle": "Zupapa!",
+        "id": 10488,
+        "ReleaseDate": "01/01/2001"
+    },
+    {
+        "GameTitle": "Money Idol Exchanger",
+        "id": 17883,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Puzzle Bobble 2",
+        "id": 18531,
+        "ReleaseDate": "08/01/1999"
+    },
+    {
+        "GameTitle": "Double Dragon",
+        "id": 18532,
+        "ReleaseDate": "03/01/1987"
+    },
+    {
+        "GameTitle": "The King of Fighters '98",
+        "id": 18533,
+        "ReleaseDate": "09/23/1998"
+    },
+    {
+        "GameTitle": "Karnov's Revenge",
+        "id": 18534,
+        "ReleaseDate": "03/17/1994"
+    },
+    {
+        "GameTitle": "Art Of Fighting",
+        "id": 18829,
+        "ReleaseDate": "09/24/1992"
+    },
+    {
+        "GameTitle": "Bakatonosama Mahjong Manyuki",
+        "id": 18953,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Chibi Maruko-chan Deluxe Quiz",
+        "id": 18954,
+        "ReleaseDate": "11/27/1995"
+    },
+    {
+        "GameTitle": "Minnasan no Okagesama Desu! Dai Sugoroku Taikai",
+        "id": 18956,
+        "ReleaseDate": "07/25/1990"
+    },
+    {
+        "GameTitle": "Quiz Daisōsa Sen: The Last Count Down",
+        "id": 18957,
+        "ReleaseDate": "08/30/1991"
+    },
+    {
+        "GameTitle": "Quiz Meitantei Neo & Geo: Quiz Daisōsasen Part 2",
+        "id": 18958,
+        "ReleaseDate": "04/24/1992"
+    },
+    {
+        "GameTitle": "Quiz King of Fighters",
+        "id": 18959,
+        "ReleaseDate": "02/01/1995"
+    },
+    {
+        "GameTitle": "Shogi no Tatsujin",
+        "id": 18960,
+        "ReleaseDate": "09/28/1995"
+    },
+    {
+        "GameTitle": "The Irritating Maze",
+        "id": 18961,
+        "ReleaseDate": "08/25/1997"
+    },
+    {
+        "GameTitle": "Shock Troopers: 1st Squad",
+        "id": 19594,
+        "ReleaseDate": "01/01/1997"
+    },
+    {
+        "GameTitle": "Jockey Grand Prix",
+        "id": 20885,
+        "ReleaseDate": "01/01/2014"
+    },
+    {
+        "GameTitle": "Shinsetsu Samurai Spirits: Bushido Retsuden",
+        "id": 24149,
+        "ReleaseDate": "06/27/1997"
+    },
+    {
+        "GameTitle": "Jyanshin Densetsu - Quest of Jongmaster",
+        "id": 24619,
+        "ReleaseDate": "06/29/1994"
+    },
+    {
+        "GameTitle": "Minnasanno Okagesamadesu! Daisugorokutaikai",
+        "id": 24620,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Codename Blut Engel",
+        "id": 28905
+    },
+    {
+        "GameTitle": "Zintrick /  Oshidashi Zentrix",
+        "id": 29406,
+        "ReleaseDate": "03/23/1996"
+    },
+    {
+        "GameTitle": "Metal Slug 6",
+        "id": 29500,
+        "ReleaseDate": "02/24/2006"
+    },
+    {
+        "GameTitle": "Choutetsu Brikin'Ger",
+        "id": 29501,
+        "ReleaseDate": "03/12/2010"
+    },
+    {
+        "GameTitle": "King Of Gladiator",
+        "id": 29502,
+        "ReleaseDate": "05/13/2003"
+    },
+    {
+        "GameTitle": "The King Of Fighters Special Edition 2004",
+        "id": 29503
+    },
+    {
+        "GameTitle": "Digger Man",
+        "id": 31598
+    },
+    {
+        "GameTitle": "Snow Bros",
+        "id": 34152
+    },
+    {
+        "GameTitle": "Bust-A-Move",
+        "id": 35110,
+        "ReleaseDate": "12/01/1994"
+    }
+]}}
+]

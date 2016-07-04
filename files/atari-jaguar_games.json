@@ -1,0 +1,287 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Club Drive",
+        "id": 2517,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Cybermorph",
+        "id": 2518,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Zool 2",
+        "id": 2581,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Flashback: The Quest for Identity",
+        "id": 2846,
+        "ReleaseDate": "07/01/1995"
+    },
+    {
+        "GameTitle": "Doom",
+        "id": 2878,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Alien vs. Predator",
+        "id": 3962,
+        "ReleaseDate": "10/20/1994"
+    },
+    {
+        "GameTitle": "Atari Karts",
+        "id": 3963,
+        "ReleaseDate": "12/20/1995"
+    },
+    {
+        "GameTitle": "Bubsy in Fractured Furry Tales",
+        "id": 3964,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Cannon Fodder",
+        "id": 3965,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Double Dragon V: The Shadow Falls",
+        "id": 3966,
+        "ReleaseDate": "04/01/1995"
+    },
+    {
+        "GameTitle": "Dragon: The Bruce Lee Story",
+        "id": 3967,
+        "ReleaseDate": "11/01/1994"
+    },
+    {
+        "GameTitle": "Evolution: Dino Dudes",
+        "id": 3968,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Fight for Life",
+        "id": 3969,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Flip Out!",
+        "id": 3974,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Iron Soldier",
+        "id": 3975,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Kasumi Ninja",
+        "id": 3976,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "NBA Jam Tournament Edition",
+        "id": 3977,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Pinball Fantasies",
+        "id": 3978,
+        "ReleaseDate": "06/01/1995"
+    },
+    {
+        "GameTitle": "Pitfall: The Mayan Adventure",
+        "id": 3979,
+        "ReleaseDate": "10/01/1995"
+    },
+    {
+        "GameTitle": "Raiden",
+        "id": 3980,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Rayman",
+        "id": 3982,
+        "ReleaseDate": "09/08/1995"
+    },
+    {
+        "GameTitle": "Ruiner Pinball",
+        "id": 3983,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Super Burnout",
+        "id": 3984,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "SuperCross 3D",
+        "id": 3985,
+        "ReleaseDate": "12/01/1995"
+    },
+    {
+        "GameTitle": "Syndicate",
+        "id": 3986,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Tempest 2000",
+        "id": 3987,
+        "ReleaseDate": "04/01/1994"
+    },
+    {
+        "GameTitle": "Ultra Vortek",
+        "id": 3988,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "White Men Can't Jump",
+        "id": 3989,
+        "ReleaseDate": "06/01/1995"
+    },
+    {
+        "GameTitle": "Wolfenstein 3D",
+        "id": 3990,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Zoop",
+        "id": 3991,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Fever Pitch Soccer",
+        "id": 3992,
+        "ReleaseDate": "12/01/1995"
+    },
+    {
+        "GameTitle": "I-War",
+        "id": 3993,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Attack of the Mutant Penguins",
+        "id": 9849,
+        "ReleaseDate": "03/01/1996"
+    },
+    {
+        "GameTitle": "Towers II",
+        "id": 13355,
+        "ReleaseDate": "12/01/1996"
+    },
+    {
+        "GameTitle": "Zero 5",
+        "id": 13356,
+        "ReleaseDate": "09/01/1997"
+    },
+    {
+        "GameTitle": "Defender 2000",
+        "id": 13357,
+        "ReleaseDate": "01/01/1996"
+    },
+    {
+        "GameTitle": "Breakout 2000",
+        "id": 13358,
+        "ReleaseDate": "12/01/1996"
+    },
+    {
+        "GameTitle": "Theme Park",
+        "id": 14796,
+        "ReleaseDate": "03/01/1995"
+    },
+    {
+        "GameTitle": "Checkered Flag",
+        "id": 14797,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Power Drive Rally",
+        "id": 14798,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Val D'Isere Skiing and Snowboarding",
+        "id": 14800,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Brutal Sports Football",
+        "id": 14801,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "BattleSphere Gold",
+        "id": 20270
+    },
+    {
+        "GameTitle": "Hover Strike",
+        "id": 20271
+    },
+    {
+        "GameTitle": "Hyper Force",
+        "id": 20272,
+        "ReleaseDate": "08/04/2000"
+    },
+    {
+        "GameTitle": "Missile Command 3D",
+        "id": 20273
+    },
+    {
+        "GameTitle": "Protector - Special Edition",
+        "id": 20274
+    },
+    {
+        "GameTitle": "International Sensible Soccer",
+        "id": 20275,
+        "ReleaseDate": "05/27/1994"
+    },
+    {
+        "GameTitle": "Worms",
+        "id": 20276
+    },
+    {
+        "GameTitle": "Skyhammer",
+        "id": 20277
+    },
+    {
+        "GameTitle": "Soccer Kid",
+        "id": 20278
+    },
+    {
+        "GameTitle": "Space War 2000",
+        "id": 20279
+    },
+    {
+        "GameTitle": "Total Carnage",
+        "id": 20280
+    },
+    {
+        "GameTitle": "Trevor McFur in the Crescent Galaxy",
+        "id": 20281
+    },
+    {
+        "GameTitle": "Troy Aikman NFL Football",
+        "id": 20282
+    },
+    {
+        "GameTitle": "AirCars",
+        "id": 22351,
+        "ReleaseDate": "05/27/1997"
+    },
+    {
+        "GameTitle": "Iron Soldier 2",
+        "id": 22392,
+        "ReleaseDate": "05/27/1997"
+    },
+    {
+        "GameTitle": "BattleSphere",
+        "id": 30132,
+        "ReleaseDate": "02/29/2000"
+    },
+    {
+        "GameTitle": "Super Cross 3D",
+        "id": 37563,
+        "ReleaseDate": "01/01/1995"
+    }
+]}}
+]

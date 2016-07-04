@@ -1,0 +1,380 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Metroid",
+        "id": 32222,
+        "ReleaseDate": "08/06/1986"
+    },
+    {
+        "GameTitle": "Hikari Shinwa: Palutena no Kagami",
+        "id": 32214,
+        "ReleaseDate": "12/19/1986"
+    },
+    {
+        "GameTitle": "Famicom Grand Prix: F-1 Race",
+        "id": 32216,
+        "ReleaseDate": "10/30/1987"
+    },
+    {
+        "GameTitle": "Santa Claus no Takarabako",
+        "id": 33186,
+        "ReleaseDate": "04/12/1987"
+    },
+    {
+        "GameTitle": "Sylviana: Ai Ippai no Boukensha",
+        "id": 33187,
+        "ReleaseDate": "09/15/1989"
+    },
+    {
+        "GameTitle": "Seiken: Psycho Calibur",
+        "id": 32221,
+        "ReleaseDate": "05/19/1987"
+    },
+    {
+        "GameTitle": "Family Computer Golf: U.S. Course",
+        "id": 32218,
+        "ReleaseDate": "06/14/1987"
+    },
+    {
+        "GameTitle": "I Am a Teacher: Super Mario Sweater",
+        "id": 32219,
+        "ReleaseDate": "08/27/1986"
+    },
+    {
+        "GameTitle": "Bio Miracle Bokutte Upa",
+        "id": 32211,
+        "ReleaseDate": "04/22/1988"
+    },
+    {
+        "GameTitle": "Nazo no Murasame Jou",
+        "id": 32220,
+        "ReleaseDate": "04/14/1986"
+    },
+    {
+        "GameTitle": "Esper Dream",
+        "id": 33172,
+        "ReleaseDate": "02/20/1987"
+    },
+    {
+        "GameTitle": "Zelda no Densetsu: The Hyrule Fantasy",
+        "id": 19053,
+        "ReleaseDate": "02/21/1986"
+    },
+    {
+        "GameTitle": "Big Challenge! Gun Fighter",
+        "id": 33169,
+        "ReleaseDate": "03/28/1989"
+    },
+    {
+        "GameTitle": "Super Mario Brothers 2",
+        "id": 22771,
+        "ReleaseDate": "06/03/1986"
+    },
+    {
+        "GameTitle": "BodyConQuest I - Abakareshi Musume Tachi",
+        "id": 23375,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Ai Senshi Nicol",
+        "id": 23403,
+        "ReleaseDate": "04/24/1987"
+    },
+    {
+        "GameTitle": "Samurai Sword",
+        "id": 33185,
+        "ReleaseDate": "11/15/1988"
+    },
+    {
+        "GameTitle": "Exciting Soccer: Konami Cup",
+        "id": 33171,
+        "ReleaseDate": "09/09/1988"
+    },
+    {
+        "GameTitle": "Dirty Pair: Project Eden",
+        "id": 26451,
+        "ReleaseDate": "03/28/1987"
+    },
+    {
+        "GameTitle": "Monty on the Run",
+        "id": 26481,
+        "ReleaseDate": "07/31/1987"
+    },
+    {
+        "GameTitle": "Otocky",
+        "id": 26494,
+        "ReleaseDate": "03/27/1987"
+    },
+    {
+        "GameTitle": "Yume Koujou: Doki Doki Panic",
+        "id": 26522,
+        "ReleaseDate": "07/10/1987"
+    },
+    {
+        "GameTitle": "Koneko Monogatari: The Adventures of Chatran",
+        "id": 33183,
+        "ReleaseDate": "09/16/1986"
+    },
+    {
+        "GameTitle": "Knight Move",
+        "id": 33182,
+        "ReleaseDate": "06/05/1990"
+    },
+    {
+        "GameTitle": "KiKi KaiKai: Dotou Hen",
+        "id": 33181,
+        "ReleaseDate": "08/28/1987"
+    },
+    {
+        "GameTitle": "Relics: Ankoku Yousai",
+        "id": 33184,
+        "ReleaseDate": "04/10/1987"
+    },
+    {
+        "GameTitle": "Fire Bam",
+        "id": 33174,
+        "ReleaseDate": "02/01/1988"
+    },
+    {
+        "GameTitle": "Super Mario Brothers",
+        "id": 33175,
+        "ReleaseDate": "02/21/1986"
+    },
+    {
+        "GameTitle": "Final Commando: Akai Yousai",
+        "id": 33173,
+        "ReleaseDate": "05/02/1988"
+    },
+    {
+        "GameTitle": "Youkai Yashiki",
+        "id": 33189,
+        "ReleaseDate": "10/23/1987"
+    },
+    {
+        "GameTitle": "Kamen Rider Black: Taiketsu Shadow Moon",
+        "id": 33179,
+        "ReleaseDate": "04/15/1988"
+    },
+    {
+        "GameTitle": "Fuuun Shourin Ken",
+        "id": 33176,
+        "ReleaseDate": "04/27/1987"
+    },
+    {
+        "GameTitle": "Fuuun Shourin Ken: Ankoku no Maou",
+        "id": 33177,
+        "ReleaseDate": "04/22/1988"
+    },
+    {
+        "GameTitle": "Halley Wars",
+        "id": 33178,
+        "ReleaseDate": "01/14/1989"
+    },
+    {
+        "GameTitle": "Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi",
+        "id": 33188,
+        "ReleaseDate": "11/20/1987"
+    },
+    {
+        "GameTitle": "Family Computer Golf: Japan Course",
+        "id": 32217,
+        "ReleaseDate": "02/20/1987"
+    },
+    {
+        "GameTitle": "Eggerland",
+        "id": 32215,
+        "ReleaseDate": "01/27/1987"
+    },
+    {
+        "GameTitle": "Legend of Zelda 2: Adventure of Link",
+        "id": 32212,
+        "ReleaseDate": "01/14/1987"
+    },
+    {
+        "GameTitle": "Roger Rabbit",
+        "id": 32213,
+        "ReleaseDate": "02/16/1989"
+    },
+    {
+        "GameTitle": "Kidou Keisatsu Patlabor: Dai 2 Shoutai Shutsudou Seyo!",
+        "id": 33180,
+        "ReleaseDate": "01/24/1989"
+    },
+    {
+        "GameTitle": "Cocona World",
+        "id": 30480,
+        "ReleaseDate": "04/10/1987"
+    },
+    {
+        "GameTitle": "Famicom Grand Prix II: 3D Hot Rally",
+        "id": 30487,
+        "ReleaseDate": "04/14/1988"
+    },
+    {
+        "GameTitle": "Kaettekita Mario Bros.",
+        "id": 30867,
+        "ReleaseDate": "11/30/1988"
+    },
+    {
+        "GameTitle": "Akumajou Dracula",
+        "id": 32097,
+        "ReleaseDate": "09/26/1986"
+    },
+    {
+        "GameTitle": "Arumana no Kiseki",
+        "id": 32098,
+        "ReleaseDate": "08/11/1987"
+    },
+    {
+        "GameTitle": "Pro Wrestling",
+        "id": 32099,
+        "ReleaseDate": "10/21/1986"
+    },
+    {
+        "GameTitle": "Dracula II: Noroi no Fuuin",
+        "id": 32118,
+        "ReleaseDate": "08/27/1987"
+    },
+    {
+        "GameTitle": "All Night Nippon Super Mario Brothers",
+        "id": 32161,
+        "ReleaseDate": "10/22/1986"
+    },
+    {
+        "GameTitle": "Aliens: Alien 2",
+        "id": 32178,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Michael English Daibouken",
+        "id": 32203,
+        "ReleaseDate": "06/19/1987"
+    },
+    {
+        "GameTitle": "Hao-kun no Fushigi na Tabi",
+        "id": 32443,
+        "ReleaseDate": "05/01/1987"
+    },
+    {
+        "GameTitle": "Meikyuu Jiin Dababa",
+        "id": 32444,
+        "ReleaseDate": "05/29/1987"
+    },
+    {
+        "GameTitle": "Falsion",
+        "id": 32445,
+        "ReleaseDate": "10/21/1987"
+    },
+    {
+        "GameTitle": "Wardner no Mori",
+        "id": 32446,
+        "ReleaseDate": "03/25/1988"
+    },
+    {
+        "GameTitle": "Matou no Houkai",
+        "id": 32466,
+        "ReleaseDate": "09/02/1988"
+    },
+    {
+        "GameTitle": "Family Composer",
+        "id": 32467,
+        "ReleaseDate": "10/30/1987"
+    },
+    {
+        "GameTitle": "Kalin no Tsurugi",
+        "id": 32468,
+        "ReleaseDate": "10/02/1987"
+    },
+    {
+        "GameTitle": "Gal Force: Eternal Story",
+        "id": 32469,
+        "ReleaseDate": "12/10/1986"
+    },
+    {
+        "GameTitle": "Suishou no Dragon",
+        "id": 33242,
+        "ReleaseDate": "12/15/1986"
+    },
+    {
+        "GameTitle": "Smash Ping Pong",
+        "id": 33252,
+        "ReleaseDate": "05/30/1987"
+    },
+    {
+        "GameTitle": "Falsion",
+        "id": 37460,
+        "ReleaseDate": "10/21/1987"
+    },
+    {
+        "GameTitle": "Baseball",
+        "id": 34280,
+        "ReleaseDate": "02/21/1986"
+    },
+    {
+        "GameTitle": "Fairytale",
+        "id": 34283,
+        "ReleaseDate": "04/28/1989"
+    },
+    {
+        "GameTitle": "Apple Town Monogatari - Little Computer People",
+        "id": 34343,
+        "ReleaseDate": "04/03/1987"
+    },
+    {
+        "GameTitle": "Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen",
+        "id": 34384
+    },
+    {
+        "GameTitle": "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen",
+        "id": 34385
+    },
+    {
+        "GameTitle": "Dead Zone",
+        "id": 34386,
+        "ReleaseDate": "11/20/2016"
+    },
+    {
+        "GameTitle": "Dr. Chaos - Jigoku no Tobira",
+        "id": 34387,
+        "ReleaseDate": "06/18/2016"
+    },
+    {
+        "GameTitle": "Druid - Kyoufu no Tobira",
+        "id": 34388,
+        "ReleaseDate": "03/03/1989"
+    },
+    {
+        "GameTitle": "Exciting Baseball",
+        "id": 34389,
+        "ReleaseDate": "12/08/2016"
+    },
+    {
+        "GameTitle": "Famicom Mukashibanashi - Yuuyuuki - Kouhen",
+        "id": 34685,
+        "ReleaseDate": "10/14/1989"
+    },
+    {
+        "GameTitle": "Famicom Mukashibanashi - Yuuyuuki - Zenpen",
+        "id": 34688,
+        "ReleaseDate": "11/14/1989"
+    },
+    {
+        "GameTitle": "Famicom Tantei Club - Kieta Koukeisha - Kouhen",
+        "id": 34690,
+        "ReleaseDate": "04/27/1988"
+    },
+    {
+        "GameTitle": "Famicom Tantei Club - Kieta Koukeisha - Zenpen",
+        "id": 34691,
+        "ReleaseDate": "06/14/1988"
+    },
+    {
+        "GameTitle": "Game no Tatsujin - Money Wars",
+        "id": 34692
+    },
+    {
+        "GameTitle": "Golf",
+        "id": 34693,
+        "ReleaseDate": "02/21/1986"
+    }
+]}}
+]

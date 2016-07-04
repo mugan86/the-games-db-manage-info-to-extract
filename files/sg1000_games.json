@@ -1,0 +1,453 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "The Castle",
+        "id": 35127,
+        "ReleaseDate": "02/01/1986"
+    },
+    {
+        "GameTitle": "Girl's Garden",
+        "id": 33168,
+        "ReleaseDate": "04/13/1984"
+    },
+    {
+        "GameTitle": "H.E.R.O.",
+        "id": 33244,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "GOLGO 13",
+        "id": 33246,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Safari Hunting",
+        "id": 33247,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Bank Panic",
+        "id": 33324,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Borderline",
+        "id": 33326,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Chack'n Pop",
+        "id": 33327,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "C_So!",
+        "id": 35125,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Drol",
+        "id": 35128,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Gulkave",
+        "id": 35130,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Hustle Chumy",
+        "id": 35132,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Champion Billiards",
+        "id": 35134,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Champion Soccer",
+        "id": 35135,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Dragon Wang",
+        "id": 35136,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Star Jacker",
+        "id": 35137,
+        "ReleaseDate": "07/15/1983"
+    },
+    {
+        "GameTitle": "Ninja Princess",
+        "id": 35138,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Orguss",
+        "id": 35139,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Pitfall II: The Lost Caverns",
+        "id": 35140,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Safari Race",
+        "id": 35141,
+        "ReleaseDate": "02/01/1984"
+    },
+    {
+        "GameTitle": "Sega-Galaga",
+        "id": 35142,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Shinnyuushain Tooru-Kun",
+        "id": 35143,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Monaco GP",
+        "id": 35145,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "GP World",
+        "id": 35146,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "The Black Onyx",
+        "id": 36356,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Champion Baseball",
+        "id": 36357,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Champion Boxing",
+        "id": 36358,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Bomb Jack",
+        "id": 36620,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Challenge Derby",
+        "id": 36621,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Champion Golf",
+        "id": 36622,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Champion Ice Hockey",
+        "id": 36623,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Champion Pro Wrestling",
+        "id": 36624,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Champion Kendou",
+        "id": 36625,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Champion Tennis",
+        "id": 36626,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Championship Lode Runner",
+        "id": 36627,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Choplifter",
+        "id": 36628,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Congo Bongo",
+        "id": 36629,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Doki Doki Penguin Land",
+        "id": 36630,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Elevator Action",
+        "id": 36631,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Exerion",
+        "id": 36632,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Flicky",
+        "id": 36633,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Guzzler",
+        "id": 36634,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Hang On II",
+        "id": 36635,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Home Mahjong",
+        "id": 36636,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Zoom 909",
+        "id": 36637,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Zippy Race",
+        "id": 36638,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Zaxxon",
+        "id": 36639,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Hyper Sports",
+        "id": 36641,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "James Bond 007",
+        "id": 36642,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Lode Runner",
+        "id": 36643,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Mahjong",
+        "id": 36644,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "N-Sub",
+        "id": 36645,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Okamoto Ayako no Match Play Golf",
+        "id": 36646,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Othello",
+        "id": 36647,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Pacar",
+        "id": 36648,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Pachinko",
+        "id": 36649,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Pachinko II",
+        "id": 36650,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Pop Flamer",
+        "id": 36651,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Q*bert",
+        "id": 36652,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Rock n' Bolt",
+        "id": 36653,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Sannin Mahjong",
+        "id": 36654,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Sega Flipper",
+        "id": 36655,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Serizawa Hachidan no Tsumeshogi",
+        "id": 36656,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Sindbad Mystery",
+        "id": 36657,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Sokoban",
+        "id": 36658,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Space Invaders",
+        "id": 36659,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Space Mountain",
+        "id": 36660,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Space Slalom",
+        "id": 36661,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Star Force",
+        "id": 36662,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Super Tank",
+        "id": 36663,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Terebi Oekaki",
+        "id": 36664,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Wonder Boy",
+        "id": 36665,
+        "ReleaseDate": "05/01/1986"
+    },
+    {
+        "GameTitle": "Yamato",
+        "id": 36666,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Space Armor",
+        "id": 36667,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Astrododge",
+        "id": 36668,
+        "ReleaseDate": "02/22/2013"
+    },
+    {
+        "GameTitle": "BASIC Level II A",
+        "id": 36669,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "BASIC Level II B",
+        "id": 36670,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "BASIC SK-III",
+        "id": 36671,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Circus Charlie",
+        "id": 36674,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Yie Ar Kung-Fu II",
+        "id": 36694,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "TwinBee",
+        "id": 36695,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Tank Battalion",
+        "id": 36696,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Rally-X",
+        "id": 36697,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Road Fighter",
+        "id": 36698,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Knightmare",
+        "id": 36699,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Legend of Kage",
+        "id": 36700,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Bomberman Special",
+        "id": 36701,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "King's Valley",
+        "id": 36702,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Magical Kid Wiz",
+        "id": 36703,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "SG-1000 M2 Test Cartridge",
+        "id": 36704,
+        "ReleaseDate": "01/01/1984"
+    }
+]}}
+]

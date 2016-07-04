@@ -1,0 +1,361 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Super Skweek",
+        "id": 23744
+    },
+    {
+        "GameTitle": "Battle Wheels",
+        "id": 19539
+    },
+    {
+        "GameTitle": "Blue Lightning",
+        "id": 19540,
+        "ReleaseDate": "04/07/1989"
+    },
+    {
+        "GameTitle": "Crystal Mines II",
+        "id": 19541
+    },
+    {
+        "GameTitle": "Dirty Larry: Renegade Cop",
+        "id": 19542,
+        "ReleaseDate": "06/19/1992"
+    },
+    {
+        "GameTitle": "Dracula: The Undead",
+        "id": 19550
+    },
+    {
+        "GameTitle": "Electrocop",
+        "id": 19551
+    },
+    {
+        "GameTitle": "Gates of Zendocon",
+        "id": 19552
+    },
+    {
+        "GameTitle": "Lemmings",
+        "id": 19553
+    },
+    {
+        "GameTitle": "Scrapyard Dog",
+        "id": 19555
+    },
+    {
+        "GameTitle": "Todd's Adventures in Slime World",
+        "id": 19556,
+        "ReleaseDate": "09/14/1990"
+    },
+    {
+        "GameTitle": "Warbirds",
+        "id": 19557
+    },
+    {
+        "GameTitle": "Xenophobe",
+        "id": 19558
+    },
+    {
+        "GameTitle": "Xybots",
+        "id": 19559,
+        "ReleaseDate": "11/08/1991"
+    },
+    {
+        "GameTitle": "Zarlor Mercenary",
+        "id": 19560
+    },
+    {
+        "GameTitle": "California Games",
+        "id": 19608,
+        "ReleaseDate": "07/07/1989"
+    },
+    {
+        "GameTitle": "Checkered Flag",
+        "id": 19609,
+        "ReleaseDate": "02/11/1991"
+    },
+    {
+        "GameTitle": "Chip's Challenge",
+        "id": 19610,
+        "ReleaseDate": "04/03/1989"
+    },
+    {
+        "GameTitle": "Robo-Squash",
+        "id": 19611
+    },
+    {
+        "GameTitle": "Krazy Ace Miniature Golf",
+        "id": 19612
+    },
+    {
+        "GameTitle": "Alien vs. Predator",
+        "id": 22400,
+        "ReleaseDate": "03/13/2003"
+    },
+    {
+        "GameTitle": "A.P.B. - All Points Bulletin",
+        "id": 22401,
+        "ReleaseDate": "08/01/1991"
+    },
+    {
+        "GameTitle": "Baseball Heroes",
+        "id": 22402
+    },
+    {
+        "GameTitle": "Basketbrawl",
+        "id": 22403
+    },
+    {
+        "GameTitle": "Batman Returns",
+        "id": 22404,
+        "ReleaseDate": "04/12/1991"
+    },
+    {
+        "GameTitle": "Battlezone 2000",
+        "id": 22405
+    },
+    {
+        "GameTitle": "Bill & Ted's Excellent Adventure",
+        "id": 22406
+    },
+    {
+        "GameTitle": "Block Out",
+        "id": 22407
+    },
+    {
+        "GameTitle": "Bubble Trouble",
+        "id": 22408
+    },
+    {
+        "GameTitle": "Centipede",
+        "id": 22409
+    },
+    {
+        "GameTitle": "Daemonsgate",
+        "id": 22410
+    },
+    {
+        "GameTitle": "Desert Strike: Return to the Gulf",
+        "id": 22411
+    },
+    {
+        "GameTitle": "Dinolympics",
+        "id": 22412
+    },
+    {
+        "GameTitle": "Double Dragon",
+        "id": 22413
+    },
+    {
+        "GameTitle": "European Soccer Challenge",
+        "id": 22414
+    },
+    {
+        "GameTitle": "Eye of the Beholder",
+        "id": 22415
+    },
+    {
+        "GameTitle": "Fat Bobby",
+        "id": 22416
+    },
+    {
+        "GameTitle": "Fidelity Ultimate Chess Challenge",
+        "id": 22417
+    },
+    {
+        "GameTitle": "Gauntlet: The Third Encounter",
+        "id": 22418
+    },
+    {
+        "GameTitle": "Gordo 106",
+        "id": 22419
+    },
+    {
+        "GameTitle": "Hard Drivin'",
+        "id": 22420
+    },
+    {
+        "GameTitle": "Hockey",
+        "id": 22421
+    },
+    {
+        "GameTitle": "Hydra",
+        "id": 22422
+    },
+    {
+        "GameTitle": "Ishido: The Way of Stones",
+        "id": 22423
+    },
+    {
+        "GameTitle": "Jimmy Connors' Tennis",
+        "id": 22425
+    },
+    {
+        "GameTitle": "Joust",
+        "id": 22426
+    },
+    {
+        "GameTitle": "KLAX",
+        "id": 22427
+    },
+    {
+        "GameTitle": "Kung Food",
+        "id": 22428,
+        "ReleaseDate": "05/08/1992"
+    },
+    {
+        "GameTitle": "Lexis",
+        "id": 22429
+    },
+    {
+        "GameTitle": "Loopz",
+        "id": 22430
+    },
+    {
+        "GameTitle": "Lynx Casino",
+        "id": 22431
+    },
+    {
+        "GameTitle": "Malibu Bikini Volleyball",
+        "id": 22432,
+        "ReleaseDate": "05/13/1993"
+    },
+    {
+        "GameTitle": "Marlboro Go!",
+        "id": 22433
+    },
+    {
+        "GameTitle": "Ms. Pac-Man",
+        "id": 22434
+    },
+    {
+        "GameTitle": "NFL Football",
+        "id": 22435
+    },
+    {
+        "GameTitle": "Ninja Gaiden",
+        "id": 22436,
+        "ReleaseDate": "02/15/1991"
+    },
+    {
+        "GameTitle": "Ninja Gaiden III: Ancient Ship of Doom",
+        "id": 22437,
+        "ReleaseDate": "07/18/1991"
+    },
+    {
+        "GameTitle": "Road Riot 4WD",
+        "id": 22438
+    },
+    {
+        "GameTitle": "Awesome Golf",
+        "id": 23773,
+        "ReleaseDate": "03/14/1991"
+    },
+    {
+        "GameTitle": "Pac-Land",
+        "id": 23774
+    },
+    {
+        "GameTitle": "Paperboy",
+        "id": 23890,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Pinball Jam",
+        "id": 23891,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Pit Fighter",
+        "id": 23892,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Championship Rally",
+        "id": 27034
+    },
+    {
+        "GameTitle": "Rampage",
+        "id": 27035,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Rampart",
+        "id": 27036,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "RoadBlasters",
+        "id": 27037
+    },
+    {
+        "GameTitle": "Robotron: 2084",
+        "id": 27038
+    },
+    {
+        "GameTitle": "Rygar: Legendary Warrior",
+        "id": 27039
+    },
+    {
+        "GameTitle": "S.T.U.N. Runner",
+        "id": 27040
+    },
+    {
+        "GameTitle": "Shadow of the Beast",
+        "id": 27041
+    },
+    {
+        "GameTitle": "Steel Talons",
+        "id": 27042
+    },
+    {
+        "GameTitle": "Super Off Road",
+        "id": 27043
+    },
+    {
+        "GameTitle": "Switchblade II",
+        "id": 27044
+    },
+    {
+        "GameTitle": "Shanghai",
+        "id": 27045
+    },
+    {
+        "GameTitle": "Toki",
+        "id": 27046
+    },
+    {
+        "GameTitle": "Tournament Cyberball",
+        "id": 27047
+    },
+    {
+        "GameTitle": "Turbo Sub",
+        "id": 27048
+    },
+    {
+        "GameTitle": "Viking Child",
+        "id": 27049
+    },
+    {
+        "GameTitle": "World Class Soccer",
+        "id": 27050
+    },
+    {
+        "GameTitle": "Power Factor",
+        "id": 27051,
+        "ReleaseDate": "03/05/1992"
+    },
+    {
+        "GameTitle": "Qix",
+        "id": 27052
+    },
+    {
+        "GameTitle": "Super Asteroids & Missile Command",
+        "id": 27053
+    },
+    {
+        "GameTitle": "Raiden",
+        "id": 31701,
+        "ReleaseDate": "10/20/1997"
+    }
+]}}
+]

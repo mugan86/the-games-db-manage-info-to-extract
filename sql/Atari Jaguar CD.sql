@@ -1,0 +1,11 @@
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5251','Asteroids','01/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5252','Baldies','12/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5254','Battle Morph','12/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5256','Blue Lightning','08/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5257','Brain Dead 13','03/01/1996','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5260','Highlander: The Last of the MacLeods','10/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5261','Hover Strike: Unconquered Lands','10/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5263','Myst','01/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5264','Native','01/01/1997','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5265','Primal Rage','12/01/1995','29');
+INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES ('5268','World Tour Racing','05/01/1997','29');

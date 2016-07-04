@@ -1,0 +1,38 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Resident Evil 2",
+        "id": 32111,
+        "ReleaseDate": "11/11/1998"
+    },
+    {
+        "GameTitle": "Sonic Jam",
+        "id": 32112,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Fighters Megamix",
+        "id": 32113,
+        "ReleaseDate": "10/13/1998"
+    },
+    {
+        "GameTitle": "Mortal Kombat Trilogy",
+        "id": 32114,
+        "ReleaseDate": "01/01/1998"
+    },
+    {
+        "GameTitle": "Batman & Robin",
+        "id": 32115,
+        "ReleaseDate": "12/15/1997"
+    },
+    {
+        "GameTitle": "Duke Nukem 3D",
+        "id": 32116,
+        "ReleaseDate": "12/01/1997"
+    },
+    {
+        "GameTitle": "The Lost World: Jurassic Park",
+        "id": 32117,
+        "ReleaseDate": "10/08/1997"
+    }
+]}}
+]

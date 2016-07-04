@@ -1,0 +1,3430 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Avatar The Last Airbender",
+        "id": 34739
+    },
+    {
+        "GameTitle": "Bad Boys Miami Takedown",
+        "id": 34740
+    },
+    {
+        "GameTitle": "Barbie Horse Adventures Wild Horse Rescue",
+        "id": 34741
+    },
+    {
+        "GameTitle": "Charlie and the Chocolate Factory",
+        "id": 34742
+    },
+    {
+        "GameTitle": "Chessmaster",
+        "id": 34743
+    },
+    {
+        "GameTitle": "SSX 3",
+        "id": 15497,
+        "ReleaseDate": "10/20/2003"
+    },
+    {
+        "GameTitle": "Star Wars Jedi Knight II: Jedi Outcast",
+        "id": 7308,
+        "ReleaseDate": "11/19/2002"
+    },
+    {
+        "GameTitle": "Rayman 3: Hoodlum Havoc",
+        "id": 35212
+    },
+    {
+        "GameTitle": "Colin McRae Rally 2005",
+        "id": 6025,
+        "ReleaseDate": "10/28/2004"
+    },
+    {
+        "GameTitle": "Phantasy Star Online Episode I & II",
+        "id": 3368,
+        "ReleaseDate": "04/15/2003"
+    },
+    {
+        "GameTitle": "Thrillville",
+        "id": 6214,
+        "ReleaseDate": "11/15/2006"
+    },
+    {
+        "GameTitle": "Tiger Woods PGA Tour 07",
+        "id": 6215,
+        "ReleaseDate": "10/10/2006"
+    },
+    {
+        "GameTitle": "James Bond 007: Agent Under Fire",
+        "id": 5915,
+        "ReleaseDate": "03/26/2002"
+    },
+    {
+        "GameTitle": "James Bond 007: Everything or Nothing",
+        "id": 5916,
+        "ReleaseDate": "02/17/2004"
+    },
+    {
+        "GameTitle": "From Russia with Love",
+        "id": 5917,
+        "ReleaseDate": "11/01/2005"
+    },
+    {
+        "GameTitle": "James Bond 007: Nightfire",
+        "id": 5918,
+        "ReleaseDate": "11/18/2002"
+    },
+    {
+        "GameTitle": "25 To Life",
+        "id": 5919,
+        "ReleaseDate": "01/17/2006"
+    },
+    {
+        "GameTitle": "AFL Live 2003",
+        "id": 24991,
+        "ReleaseDate": "11/20/2002"
+    },
+    {
+        "GameTitle": "AFL Live 2004",
+        "id": 24992,
+        "ReleaseDate": "08/20/2003"
+    },
+    {
+        "GameTitle": "AFL Live Premiership Edition",
+        "id": 24993,
+        "ReleaseDate": "08/23/2004"
+    },
+    {
+        "GameTitle": "50 Cent: Bulletproof",
+        "id": 5920,
+        "ReleaseDate": "11/17/2005"
+    },
+    {
+        "GameTitle": "187 Ride or Die",
+        "id": 5921,
+        "ReleaseDate": "08/23/2005"
+    },
+    {
+        "GameTitle": "Halo: Combat Evolved",
+        "id": 3996,
+        "ReleaseDate": "11/15/2001"
+    },
+    {
+        "GameTitle": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "id": 4195,
+        "ReleaseDate": "03/23/2004"
+    },
+    {
+        "GameTitle": "Ninja Gaiden",
+        "id": 4197,
+        "ReleaseDate": "03/02/2004"
+    },
+    {
+        "GameTitle": "Area-51",
+        "id": 4257,
+        "ReleaseDate": "04/25/2005"
+    },
+    {
+        "GameTitle": "Mortal Kombat: Armageddon",
+        "id": 4259,
+        "ReleaseDate": "10/09/2006"
+    },
+    {
+        "GameTitle": "Far Cry Instincts",
+        "id": 4567,
+        "ReleaseDate": "09/27/2005"
+    },
+    {
+        "GameTitle": "Need for Speed: Most Wanted",
+        "id": 5273,
+        "ReleaseDate": "11/15/2005"
+    },
+    {
+        "GameTitle": "Advent Rising",
+        "id": 5937,
+        "ReleaseDate": "05/31/2005"
+    },
+    {
+        "GameTitle": "Aeon Flux",
+        "id": 5938,
+        "ReleaseDate": "11/15/2005"
+    },
+    {
+        "GameTitle": "Aggressive Inline",
+        "id": 5939,
+        "ReleaseDate": "07/30/2002"
+    },
+    {
+        "GameTitle": "AJAX Club Football 2005",
+        "id": 5940,
+        "ReleaseDate": "10/15/2004"
+    },
+    {
+        "GameTitle": "Alias",
+        "id": 5941,
+        "ReleaseDate": "04/06/2004"
+    },
+    {
+        "GameTitle": "Aliens Versus Predator: Extinction",
+        "id": 5942,
+        "ReleaseDate": "07/30/2003"
+    },
+    {
+        "GameTitle": "All-Star Baseball 2004",
+        "id": 5943,
+        "ReleaseDate": "02/28/2003"
+    },
+    {
+        "GameTitle": "Alter Echo",
+        "id": 5944,
+        "ReleaseDate": "08/18/2003"
+    },
+    {
+        "GameTitle": "American Chopper",
+        "id": 5945,
+        "ReleaseDate": "12/03/2004"
+    },
+    {
+        "GameTitle": "American Chopper 2: Full Throttle",
+        "id": 5946,
+        "ReleaseDate": "11/16/2005"
+    },
+    {
+        "GameTitle": "America's Army: Rise of a Soldier",
+        "id": 5947,
+        "ReleaseDate": "11/17/2005"
+    },
+    {
+        "GameTitle": "AMF Bowling 2004",
+        "id": 5948,
+        "ReleaseDate": "11/14/2003"
+    },
+    {
+        "GameTitle": "Amped: Freestyle Snowboarding",
+        "id": 5949,
+        "ReleaseDate": "11/19/2001"
+    },
+    {
+        "GameTitle": "Amped 2",
+        "id": 5972,
+        "ReleaseDate": "10/28/2003"
+    },
+    {
+        "GameTitle": "Apex",
+        "id": 5973,
+        "ReleaseDate": "02/18/2003"
+    },
+    {
+        "GameTitle": "Aquaman",
+        "id": 5974,
+        "ReleaseDate": "07/23/2003"
+    },
+    {
+        "GameTitle": "Armed and Dangerous",
+        "id": 5975,
+        "ReleaseDate": "12/02/2003"
+    },
+    {
+        "GameTitle": "ATV Quad Power Racing 2",
+        "id": 5976,
+        "ReleaseDate": "01/28/2003"
+    },
+    {
+        "GameTitle": "Azurik: Rise of Perathia",
+        "id": 5977,
+        "ReleaseDate": "12/15/2001"
+    },
+    {
+        "GameTitle": "Backyard Wrestling: Don't Try This at Home",
+        "id": 5978,
+        "ReleaseDate": "10/07/2003"
+    },
+    {
+        "GameTitle": "Baldur's Gate: Dark Alliance II",
+        "id": 5979,
+        "ReleaseDate": "01/20/2004"
+    },
+    {
+        "GameTitle": "Batman Begins",
+        "id": 5980,
+        "ReleaseDate": "06/14/2005"
+    },
+    {
+        "GameTitle": "Batman: Dark Tomorrow",
+        "id": 5981,
+        "ReleaseDate": "03/18/2003"
+    },
+    {
+        "GameTitle": "Batman: Rise of Sin Tzu",
+        "id": 5982,
+        "ReleaseDate": "10/16/2003"
+    },
+    {
+        "GameTitle": "Battle Engine Aquila",
+        "id": 5983,
+        "ReleaseDate": "01/20/2003"
+    },
+    {
+        "GameTitle": "Battlefield 2: Modern Combat",
+        "id": 5984,
+        "ReleaseDate": "10/24/2005"
+    },
+    {
+        "GameTitle": "Battlestar Galactica",
+        "id": 5985,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "Beyond Good & Evil",
+        "id": 5986,
+        "ReleaseDate": "11/11/2003"
+    },
+    {
+        "GameTitle": "Big Bumpin'",
+        "id": 5987,
+        "ReleaseDate": "11/19/2006"
+    },
+    {
+        "GameTitle": "Big Mutha Truckers",
+        "id": 5988,
+        "ReleaseDate": "06/23/2003"
+    },
+    {
+        "GameTitle": "Big Mutha Truckers 2",
+        "id": 5989,
+        "ReleaseDate": "08/28/2005"
+    },
+    {
+        "GameTitle": "Bionicle: The Game",
+        "id": 5990,
+        "ReleaseDate": "10/20/2003"
+    },
+    {
+        "GameTitle": "Black",
+        "id": 5991,
+        "ReleaseDate": "02/28/2006"
+    },
+    {
+        "GameTitle": "Black Stone: Magic & Steel",
+        "id": 5992,
+        "ReleaseDate": "03/19/2003"
+    },
+    {
+        "GameTitle": "Blade II",
+        "id": 5993,
+        "ReleaseDate": "09/02/2002"
+    },
+    {
+        "GameTitle": "Blazing Angels: Squadrons of WWII",
+        "id": 5994,
+        "ReleaseDate": "03/20/2007"
+    },
+    {
+        "GameTitle": "Blinx 2: Masters of Time and Space",
+        "id": 5995,
+        "ReleaseDate": "11/18/2004"
+    },
+    {
+        "GameTitle": "Blinx: The Time Sweeper",
+        "id": 5996,
+        "ReleaseDate": "10/07/2002"
+    },
+    {
+        "GameTitle": "BloodRayne",
+        "id": 5997,
+        "ReleaseDate": "10/15/2002"
+    },
+    {
+        "GameTitle": "BloodRayne 2",
+        "id": 5998,
+        "ReleaseDate": "10/13/2004"
+    },
+    {
+        "GameTitle": "Blood Wake",
+        "id": 5999,
+        "ReleaseDate": "12/28/2001"
+    },
+    {
+        "GameTitle": "Bloody Roar: Extreme",
+        "id": 6000,
+        "ReleaseDate": "05/27/2003"
+    },
+    {
+        "GameTitle": "Blowout",
+        "id": 6001,
+        "ReleaseDate": "11/26/2003"
+    },
+    {
+        "GameTitle": "BMX XXX",
+        "id": 6002,
+        "ReleaseDate": "11/10/2002"
+    },
+    {
+        "GameTitle": "Brothers in Arms: Earned in Blood",
+        "id": 6003,
+        "ReleaseDate": "10/04/2005"
+    },
+    {
+        "GameTitle": "Brothers in Arms: Road to Hill 30",
+        "id": 6004,
+        "ReleaseDate": "03/01/2005"
+    },
+    {
+        "GameTitle": "Bruce Lee: Quest of the Dragon",
+        "id": 6005,
+        "ReleaseDate": "07/02/2002"
+    },
+    {
+        "GameTitle": "Brute Force",
+        "id": 6006,
+        "ReleaseDate": "05/27/2003"
+    },
+    {
+        "GameTitle": "Buffy the Vampire Slayer",
+        "id": 6007,
+        "ReleaseDate": "08/19/2012"
+    },
+    {
+        "GameTitle": "Buffy the Vampire Slayer: Chaos Bleeds",
+        "id": 6008,
+        "ReleaseDate": "08/27/2003"
+    },
+    {
+        "GameTitle": "Burnout",
+        "id": 6009,
+        "ReleaseDate": "08/30/2002"
+    },
+    {
+        "GameTitle": "Burnout 2: Point of Impact",
+        "id": 6010,
+        "ReleaseDate": "05/01/2003"
+    },
+    {
+        "GameTitle": "Burnout 3 Takedown",
+        "id": 6011,
+        "ReleaseDate": "09/07/2004"
+    },
+    {
+        "GameTitle": "Burnout Revenge",
+        "id": 6012,
+        "ReleaseDate": "09/13/2005"
+    },
+    {
+        "GameTitle": "The Bard's Tale",
+        "id": 6013,
+        "ReleaseDate": "10/26/2004"
+    },
+    {
+        "GameTitle": "Cabela's Dangerous Hunts",
+        "id": 6014,
+        "ReleaseDate": "11/12/2003"
+    },
+    {
+        "GameTitle": "Cabela's Deer Hunt: 2005 Season",
+        "id": 6015,
+        "ReleaseDate": "06/15/2006"
+    },
+    {
+        "GameTitle": "Cabela's Outdoor Adventures",
+        "id": 6016,
+        "ReleaseDate": "09/14/2005"
+    },
+    {
+        "GameTitle": "Call of Duty 2: Big Red One",
+        "id": 6017,
+        "ReleaseDate": "11/01/2005"
+    },
+    {
+        "GameTitle": "Call of Duty: Finest Hour",
+        "id": 6018,
+        "ReleaseDate": "11/16/2004"
+    },
+    {
+        "GameTitle": "Capcom Fighting Evolution",
+        "id": 6019,
+        "ReleaseDate": "06/14/2005"
+    },
+    {
+        "GameTitle": "Cars",
+        "id": 6020,
+        "ReleaseDate": "06/06/2006"
+    },
+    {
+        "GameTitle": "Cel Damage",
+        "id": 6021,
+        "ReleaseDate": "11/14/2001"
+    },
+    {
+        "GameTitle": "Circus Maximus: Chariot Wars",
+        "id": 6022,
+        "ReleaseDate": "07/05/2005"
+    },
+    {
+        "GameTitle": "Cold Fear",
+        "id": 6023,
+        "ReleaseDate": "03/15/2005"
+    },
+    {
+        "GameTitle": "Combat Elite: WWII Paratroopers",
+        "id": 6026,
+        "ReleaseDate": "11/21/2005"
+    },
+    {
+        "GameTitle": "Conflict: Global Terror",
+        "id": 6027,
+        "ReleaseDate": "10/03/2005"
+    },
+    {
+        "GameTitle": "Conflict: Vietnam",
+        "id": 6028,
+        "ReleaseDate": "10/05/2004"
+    },
+    {
+        "GameTitle": "Conker: Live & Reloaded",
+        "id": 6029,
+        "ReleaseDate": "06/21/2005"
+    },
+    {
+        "GameTitle": "Counter-Strike",
+        "id": 6030,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "Crash 'n Burn",
+        "id": 6031,
+        "ReleaseDate": "11/16/2004"
+    },
+    {
+        "GameTitle": "Baldur's Gate: Dark Alliance",
+        "id": 6033,
+        "ReleaseDate": "10/22/2002"
+    },
+    {
+        "GameTitle": "Crash Nitro Kart",
+        "id": 6034,
+        "ReleaseDate": "11/11/2003"
+    },
+    {
+        "GameTitle": "Crazy Taxi 3: High Roller",
+        "id": 6035,
+        "ReleaseDate": "07/23/2003"
+    },
+    {
+        "GameTitle": "Curse: The Eye of Isis",
+        "id": 6036,
+        "ReleaseDate": "10/21/2003"
+    },
+    {
+        "GameTitle": "Dance Dance Revolution: Ultramix 3",
+        "id": 6037,
+        "ReleaseDate": "11/15/2005"
+    },
+    {
+        "GameTitle": "Darkwatch",
+        "id": 6038,
+        "ReleaseDate": "08/16/2005"
+    },
+    {
+        "GameTitle": "Dance Dance Revolution: Ultramix",
+        "id": 6039,
+        "ReleaseDate": "11/20/2003"
+    },
+    {
+        "GameTitle": "Dead Man's Hand",
+        "id": 6040,
+        "ReleaseDate": "03/02/2004"
+    },
+    {
+        "GameTitle": "Dead or Alive Ultimate",
+        "id": 6041,
+        "ReleaseDate": "10/26/2004"
+    },
+    {
+        "GameTitle": "Dead or Alive 2 Ultimate",
+        "id": 6042,
+        "ReleaseDate": "10/26/2004"
+    },
+    {
+        "GameTitle": "Dead or Alive 3",
+        "id": 6043,
+        "ReleaseDate": "08/19/2003"
+    },
+    {
+        "GameTitle": "Dead to Rights II",
+        "id": 6044,
+        "ReleaseDate": "04/12/2005"
+    },
+    {
+        "GameTitle": "Def Jam: Fight for NY",
+        "id": 6045,
+        "ReleaseDate": "09/20/2004"
+    },
+    {
+        "GameTitle": "Delta Force: Black Hawk Down",
+        "id": 6046,
+        "ReleaseDate": "07/26/2005"
+    },
+    {
+        "GameTitle": "Destroy All Humans!",
+        "id": 6047,
+        "ReleaseDate": "06/21/2005"
+    },
+    {
+        "GameTitle": "Destroy All Humans! 2",
+        "id": 6048,
+        "ReleaseDate": "10/17/2006"
+    },
+    {
+        "GameTitle": "Dino Crisis 3",
+        "id": 6049,
+        "ReleaseDate": "09/16/2003"
+    },
+    {
+        "GameTitle": "Doom 3",
+        "id": 6050,
+        "ReleaseDate": "04/03/2005"
+    },
+    {
+        "GameTitle": "Doom 3: Resurrection of Evil",
+        "id": 6051,
+        "ReleaseDate": "10/05/2005"
+    },
+    {
+        "GameTitle": "Dragon Ball Z: Sagas",
+        "id": 6052,
+        "ReleaseDate": "03/22/2005"
+    },
+    {
+        "GameTitle": "Eragon",
+        "id": 6053,
+        "ReleaseDate": "11/14/2006"
+    },
+    {
+        "GameTitle": "Winter X-Games Snowboarding 2002",
+        "id": 6054,
+        "ReleaseDate": "03/04/2002"
+    },
+    {
+        "GameTitle": "Fable",
+        "id": 6055,
+        "ReleaseDate": "02/14/2003"
+    },
+    {
+        "GameTitle": "Fable: The Lost Chapters",
+        "id": 6056,
+        "ReleaseDate": "10/18/2005"
+    },
+    {
+        "GameTitle": "Family Guy Video Game!",
+        "id": 6057,
+        "ReleaseDate": "10/17/2006"
+    },
+    {
+        "GameTitle": "Fatal Frame",
+        "id": 6058,
+        "ReleaseDate": "11/22/2002"
+    },
+    {
+        "GameTitle": "Fatal Frame II: Crimson Butterfly",
+        "id": 6059,
+        "ReleaseDate": "11/01/2004"
+    },
+    {
+        "GameTitle": "FIFA Soccer 07",
+        "id": 6060,
+        "ReleaseDate": "10/03/2006"
+    },
+    {
+        "GameTitle": "FIFA Street",
+        "id": 6061,
+        "ReleaseDate": "02/22/2005"
+    },
+    {
+        "GameTitle": "Fight Club",
+        "id": 6062,
+        "ReleaseDate": "11/16/2004"
+    },
+    {
+        "GameTitle": "Fight Night 2004",
+        "id": 6063,
+        "ReleaseDate": "04/05/2004"
+    },
+    {
+        "GameTitle": "Fight Night Round 2",
+        "id": 6064,
+        "ReleaseDate": "03/01/2005"
+    },
+    {
+        "GameTitle": "FlatOut",
+        "id": 6065,
+        "ReleaseDate": "07/12/2005"
+    },
+    {
+        "GameTitle": "FlatOut 2",
+        "id": 6066,
+        "ReleaseDate": "08/01/2006"
+    },
+    {
+        "GameTitle": "Forza Motorsport",
+        "id": 6067,
+        "ReleaseDate": "05/03/2005"
+    },
+    {
+        "GameTitle": "Freedom Fighters",
+        "id": 6068,
+        "ReleaseDate": "10/01/2003"
+    },
+    {
+        "GameTitle": "Furious Karting",
+        "id": 6069,
+        "ReleaseDate": "03/18/2003"
+    },
+    {
+        "GameTitle": "Fuzion Frenzy",
+        "id": 6070,
+        "ReleaseDate": "10/24/2001"
+    },
+    {
+        "GameTitle": "Gauntlet: Seven Sorrows",
+        "id": 6071,
+        "ReleaseDate": "12/12/2005"
+    },
+    {
+        "GameTitle": "Genma Onimusha",
+        "id": 6072,
+        "ReleaseDate": "01/30/2002"
+    },
+    {
+        "GameTitle": "Godzilla: Save the Earth",
+        "id": 6073,
+        "ReleaseDate": "11/16/2004"
+    },
+    {
+        "GameTitle": "GoldenEye: Rogue Agent",
+        "id": 6074,
+        "ReleaseDate": "11/22/2004"
+    },
+    {
+        "GameTitle": "Grand Theft Auto III",
+        "id": 6075,
+        "ReleaseDate": "10/23/2001"
+    },
+    {
+        "GameTitle": "Grand Theft Auto: San Andreas",
+        "id": 6076,
+        "ReleaseDate": "06/07/2005"
+    },
+    {
+        "GameTitle": "Grand Theft Auto: Vice City",
+        "id": 6077,
+        "ReleaseDate": "10/31/2003"
+    },
+    {
+        "GameTitle": "Guilty Gear X2 Reload",
+        "id": 6078,
+        "ReleaseDate": "09/14/2004"
+    },
+    {
+        "GameTitle": "Halo 2",
+        "id": 6079,
+        "ReleaseDate": "11/09/2004"
+    },
+    {
+        "GameTitle": "Heroes of the Pacific",
+        "id": 6080,
+        "ReleaseDate": "09/30/2005"
+    },
+    {
+        "GameTitle": "Ice Age 2: The Meltdown",
+        "id": 6081,
+        "ReleaseDate": "03/14/2006"
+    },
+    {
+        "GameTitle": "Jet Set Radio Future",
+        "id": 6082,
+        "ReleaseDate": "02/25/2002"
+    },
+    {
+        "GameTitle": "Kung Fu Chaos",
+        "id": 6083,
+        "ReleaseDate": "02/24/2003"
+    },
+    {
+        "GameTitle": "Lego Star Wars: The Video Game",
+        "id": 6084,
+        "ReleaseDate": "04/05/2005"
+    },
+    {
+        "GameTitle": "Lego Star Wars II: The Original Trilogy",
+        "id": 6085,
+        "ReleaseDate": "09/12/2006"
+    },
+    {
+        "GameTitle": "Leisure Suit Larry: Magna Cum Laude",
+        "id": 6086,
+        "ReleaseDate": "10/13/2004"
+    },
+    {
+        "GameTitle": "Major League Baseball 2K7",
+        "id": 6087,
+        "ReleaseDate": "02/27/2007"
+    },
+    {
+        "GameTitle": "Marvel: Ultimate Alliance",
+        "id": 6088,
+        "ReleaseDate": "10/24/2006"
+    },
+    {
+        "GameTitle": "Marvel vs. Capcom 2: New Age of Heroes",
+        "id": 6089,
+        "ReleaseDate": "03/27/2003"
+    },
+    {
+        "GameTitle": "MechAssault",
+        "id": 6090,
+        "ReleaseDate": "11/12/2002"
+    },
+    {
+        "GameTitle": "MechAssault 2: Lone Wolf",
+        "id": 6091,
+        "ReleaseDate": "12/28/2004"
+    },
+    {
+        "GameTitle": "Medal of Honor: European Assault",
+        "id": 6092,
+        "ReleaseDate": "06/07/2005"
+    },
+    {
+        "GameTitle": "Metal Arms: Glitch in the System",
+        "id": 6093,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "Major League Baseball 2K6",
+        "id": 6094,
+        "ReleaseDate": "04/10/2006"
+    },
+    {
+        "GameTitle": "Mortal Kombat",
+        "id": 6095,
+        "ReleaseDate": "10/04/2004"
+    },
+    {
+        "GameTitle": "NASCAR 07",
+        "id": 6096,
+        "ReleaseDate": "09/06/2006"
+    },
+    {
+        "GameTitle": "NBA 2K7",
+        "id": 6097,
+        "ReleaseDate": "09/25/2006"
+    },
+    {
+        "GameTitle": "NBA Inside Drive 2004",
+        "id": 6098,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "NBA Live 07",
+        "id": 6099,
+        "ReleaseDate": "09/25/2006"
+    },
+    {
+        "GameTitle": "NCAA Football 2005",
+        "id": 6100,
+        "ReleaseDate": "07/12/2004"
+    },
+    {
+        "GameTitle": "Need for Speed: Carbon",
+        "id": 6101,
+        "ReleaseDate": "10/31/2006"
+    },
+    {
+        "GameTitle": "NFL Fever 2004",
+        "id": 6102,
+        "ReleaseDate": "08/26/2003"
+    },
+    {
+        "GameTitle": "NHL 07",
+        "id": 6103,
+        "ReleaseDate": "09/12/2006"
+    },
+    {
+        "GameTitle": "NHL Rivals 2004",
+        "id": 6104,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "Ninja Gaiden Black",
+        "id": 6105,
+        "ReleaseDate": "09/20/2005"
+    },
+    {
+        "GameTitle": "Otogi: Myth of Demons",
+        "id": 6106,
+        "ReleaseDate": "08/27/2003"
+    },
+    {
+        "GameTitle": "Otogi 2: Immortal Warriors",
+        "id": 6107,
+        "ReleaseDate": "10/19/2004"
+    },
+    {
+        "GameTitle": "Outlaw Golf: 9 More Holes of X-Mas",
+        "id": 6108,
+        "ReleaseDate": "11/15/2003"
+    },
+    {
+        "GameTitle": "Outlaw Volleyball",
+        "id": 6109,
+        "ReleaseDate": "06/09/2003"
+    },
+    {
+        "GameTitle": "OutRun 2",
+        "id": 6110,
+        "ReleaseDate": "10/25/2004"
+    },
+    {
+        "GameTitle": "Painkiller: Hell Wars",
+        "id": 6111,
+        "ReleaseDate": "07/24/2006"
+    },
+    {
+        "GameTitle": "Panzer Dragoon Orta",
+        "id": 6112,
+        "ReleaseDate": "01/14/2003"
+    },
+    {
+        "GameTitle": "PocketBike Racer",
+        "id": 6113,
+        "ReleaseDate": "11/19/2006"
+    },
+    {
+        "GameTitle": "Prince of Persia: The Sands of Time",
+        "id": 6114,
+        "ReleaseDate": "11/12/2003"
+    },
+    {
+        "GameTitle": "Prince of Persia: The Two Thrones",
+        "id": 6115,
+        "ReleaseDate": "11/30/2005"
+    },
+    {
+        "GameTitle": "Project Gotham Racing 2",
+        "id": 6116,
+        "ReleaseDate": "11/17/2003"
+    },
+    {
+        "GameTitle": "Psychonauts",
+        "id": 6117,
+        "ReleaseDate": "04/19/2005"
+    },
+    {
+        "GameTitle": "Rallisport Challenge 2",
+        "id": 6118,
+        "ReleaseDate": "05/04/2004"
+    },
+    {
+        "GameTitle": "Reservoir Dogs",
+        "id": 6119,
+        "ReleaseDate": "10/24/2006"
+    },
+    {
+        "GameTitle": "Return to Castle Wolfenstein: Tides of War",
+        "id": 6120,
+        "ReleaseDate": "05/06/2003"
+    },
+    {
+        "GameTitle": "Robotech: Invasion",
+        "id": 6121,
+        "ReleaseDate": "10/05/2004"
+    },
+    {
+        "GameTitle": "Tom Clancy's Ghost Recon 2",
+        "id": 6183,
+        "ReleaseDate": "11/16/2004"
+    },
+    {
+        "GameTitle": "Tom Clancy's Ghost Recon 2: Summit Strike",
+        "id": 6184,
+        "ReleaseDate": "08/02/2005"
+    },
+    {
+        "GameTitle": "Tom Clancy's Ghost Recon Advanced Warfighter",
+        "id": 6185,
+        "ReleaseDate": "03/07/2006"
+    },
+    {
+        "GameTitle": "Rogue Trooper",
+        "id": 6186,
+        "ReleaseDate": "05/23/2006"
+    },
+    {
+        "GameTitle": "Scarface: The World Is Yours",
+        "id": 6187,
+        "ReleaseDate": "10/10/2006"
+    },
+    {
+        "GameTitle": "Serious Sam",
+        "id": 6188,
+        "ReleaseDate": "11/12/2002"
+    },
+    {
+        "GameTitle": "Shadow the Hedgehog",
+        "id": 6189,
+        "ReleaseDate": "11/15/2005"
+    },
+    {
+        "GameTitle": "Shenmue II",
+        "id": 6190,
+        "ReleaseDate": "10/29/2002"
+    },
+    {
+        "GameTitle": "Sid Meier's Pirates!",
+        "id": 6191,
+        "ReleaseDate": "11/22/2004"
+    },
+    {
+        "GameTitle": "Soul Calibur II",
+        "id": 6192,
+        "ReleaseDate": "08/27/2003"
+    },
+    {
+        "GameTitle": "Spawn: Armageddon",
+        "id": 6193,
+        "ReleaseDate": "11/21/2003"
+    },
+    {
+        "GameTitle": "Spider-Man",
+        "id": 6194,
+        "ReleaseDate": "04/15/2002"
+    },
+    {
+        "GameTitle": "Spider-Man 2",
+        "id": 6195,
+        "ReleaseDate": "06/28/2004"
+    },
+    {
+        "GameTitle": "Splat Renegade Paintball",
+        "id": 6196,
+        "ReleaseDate": "10/11/2005"
+    },
+    {
+        "GameTitle": "Tom Clancy's Splinter Cell: Double Agent",
+        "id": 6197,
+        "ReleaseDate": "10/24/2006"
+    },
+    {
+        "GameTitle": "Star Wars: Battlefront",
+        "id": 6198,
+        "ReleaseDate": "09/20/2004"
+    },
+    {
+        "GameTitle": "Star Wars: Battlefront II",
+        "id": 6199,
+        "ReleaseDate": "11/01/2005"
+    },
+    {
+        "GameTitle": "Star Wars: Episode III - Revenge of the Sith",
+        "id": 6200,
+        "ReleaseDate": "05/04/2005"
+    },
+    {
+        "GameTitle": "Star Wars Jedi Knight: Jedi Academy",
+        "id": 6201,
+        "ReleaseDate": "09/17/2003"
+    },
+    {
+        "GameTitle": "Star Wars: Jedi Starfighter",
+        "id": 6202,
+        "ReleaseDate": "03/10/2002"
+    },
+    {
+        "GameTitle": "Star Wars: Knights of the Old Republic",
+        "id": 6203,
+        "ReleaseDate": "07/17/2003"
+    },
+    {
+        "GameTitle": "Star Wars: Knights of the Old Republic II The Sith Lords",
+        "id": 6204,
+        "ReleaseDate": "12/06/2004"
+    },
+    {
+        "GameTitle": "Star Wars: Republic Commando",
+        "id": 6205,
+        "ReleaseDate": "02/28/2005"
+    },
+    {
+        "GameTitle": "Star Wars: Starfighter",
+        "id": 6206,
+        "ReleaseDate": "11/16/2001"
+    },
+    {
+        "GameTitle": "Steel Battalion",
+        "id": 6207,
+        "ReleaseDate": "11/21/2002"
+    },
+    {
+        "GameTitle": "Strike Force Bowling",
+        "id": 6208,
+        "ReleaseDate": "03/15/2005"
+    },
+    {
+        "GameTitle": "Stubbs the Zombie in Rebel Without a Pulse",
+        "id": 6209,
+        "ReleaseDate": "10/18/2005"
+    },
+    {
+        "GameTitle": "The Chronicles of Riddick: Escape from Butcher Bay",
+        "id": 6210,
+        "ReleaseDate": "06/01/2004"
+    },
+    {
+        "GameTitle": "The Godfather",
+        "id": 6211,
+        "ReleaseDate": "03/21/2006"
+    },
+    {
+        "GameTitle": "The Incredibles: Rise of the Underminer",
+        "id": 6212,
+        "ReleaseDate": "11/01/2005"
+    },
+    {
+        "GameTitle": "The Punisher",
+        "id": 6213,
+        "ReleaseDate": "01/17/2005"
+    },
+    {
+        "GameTitle": "TimeSplitters: Future Perfect",
+        "id": 6216,
+        "ReleaseDate": "03/21/2005"
+    },
+    {
+        "GameTitle": "Tomb Raider: Legend",
+        "id": 6217,
+        "ReleaseDate": "04/11/2006"
+    },
+    {
+        "GameTitle": "Tony Hawk's Project 8",
+        "id": 6218,
+        "ReleaseDate": "11/07/2006"
+    },
+    {
+        "GameTitle": "Tony Hawk's Pro Skater 2X",
+        "id": 6219,
+        "ReleaseDate": "11/14/2001"
+    },
+    {
+        "GameTitle": "Tony Hawk's Pro Skater 4",
+        "id": 6220,
+        "ReleaseDate": "10/23/2002"
+    },
+    {
+        "GameTitle": "Without Warning",
+        "id": 6221,
+        "ReleaseDate": "11/01/2005"
+    },
+    {
+        "GameTitle": "XGRA: Extreme-G Racing Association",
+        "id": 6222,
+        "ReleaseDate": "09/17/2003"
+    },
+    {
+        "GameTitle": "Zathura",
+        "id": 6223,
+        "ReleaseDate": "11/02/2005"
+    },
+    {
+        "GameTitle": "Mortal Kombat: Deadly Alliance",
+        "id": 8023,
+        "ReleaseDate": "11/18/2002"
+    },
+    {
+        "GameTitle": "Murakumo: Renegade Mech Pursuit",
+        "id": 8024,
+        "ReleaseDate": "03/05/2003"
+    },
+    {
+        "GameTitle": "Myst III: Exile",
+        "id": 8025,
+        "ReleaseDate": "09/22/2002"
+    },
+    {
+        "GameTitle": "Myst IV: Revelation",
+        "id": 8026,
+        "ReleaseDate": "03/28/2005"
+    },
+    {
+        "GameTitle": "NARC",
+        "id": 8027,
+        "ReleaseDate": "03/25/2005"
+    },
+    {
+        "GameTitle": "NBA Jam",
+        "id": 8028,
+        "ReleaseDate": "09/23/2003"
+    },
+    {
+        "GameTitle": "NightCaster: Defeat the Darkness",
+        "id": 8029,
+        "ReleaseDate": "01/21/2002"
+    },
+    {
+        "GameTitle": "Sudeki",
+        "id": 7776,
+        "ReleaseDate": "07/20/2004"
+    },
+    {
+        "GameTitle": "NHL 2002",
+        "id": 7786,
+        "ReleaseDate": "12/10/2001"
+    },
+    {
+        "GameTitle": "Triple Play 2002",
+        "id": 7787,
+        "ReleaseDate": "03/01/2002"
+    },
+    {
+        "GameTitle": "Starsky & Hutch",
+        "id": 7788,
+        "ReleaseDate": "09/09/2003"
+    },
+    {
+        "GameTitle": "The Simpsons: Hit & Run",
+        "id": 7794,
+        "ReleaseDate": "09/08/2006"
+    },
+    {
+        "GameTitle": "The Sims 2",
+        "id": 24978,
+        "ReleaseDate": "10/24/2005"
+    },
+    {
+        "GameTitle": "GunValkyrie",
+        "id": 7795,
+        "ReleaseDate": "03/18/2002"
+    },
+    {
+        "GameTitle": "Call of Cthulhu: Dark Corners of the Earth",
+        "id": 7978,
+        "ReleaseDate": "10/24/2005"
+    },
+    {
+        "GameTitle": "Crouching Tiger, Hidden Dragon",
+        "id": 7980,
+        "ReleaseDate": "12/09/2003"
+    },
+    {
+        "GameTitle": "CSI: Crime Scene Investigation",
+        "id": 7981,
+        "ReleaseDate": "03/26/2003"
+    },
+    {
+        "GameTitle": "Dark Angel",
+        "id": 7982,
+        "ReleaseDate": "11/19/2002"
+    },
+    {
+        "GameTitle": "Dreamfall: The Longest Journey",
+        "id": 7983,
+        "ReleaseDate": "04/17/2006"
+    },
+    {
+        "GameTitle": "Ed, Edd n Eddy: The Mis-Edventures",
+        "id": 7984,
+        "ReleaseDate": "11/03/2005"
+    },
+    {
+        "GameTitle": "The Haunted Mansion",
+        "id": 7985,
+        "ReleaseDate": "10/14/2003"
+    },
+    {
+        "GameTitle": "Kabuki Warriors",
+        "id": 7986,
+        "ReleaseDate": "10/02/2001"
+    },
+    {
+        "GameTitle": "Kingdom Under Fire: The Crusaders",
+        "id": 7987,
+        "ReleaseDate": "10/12/2004"
+    },
+    {
+        "GameTitle": "KOF: Maximum Impact - Maniax",
+        "id": 7988,
+        "ReleaseDate": "06/28/2005"
+    },
+    {
+        "GameTitle": "Legacy of Kain: Defiance",
+        "id": 7989,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "Legends of Wrestling",
+        "id": 7990,
+        "ReleaseDate": "05/27/2002"
+    },
+    {
+        "GameTitle": "Tom Clancy's Rainbow Six: Lockdown",
+        "id": 7991,
+        "ReleaseDate": "09/06/2005"
+    },
+    {
+        "GameTitle": "The Lord of the Rings: The Fellowship of the Ring",
+        "id": 8002,
+        "ReleaseDate": "09/24/2002"
+    },
+    {
+        "GameTitle": "The Lord of the Rings: The Return of the King",
+        "id": 8003,
+        "ReleaseDate": "11/05/2003"
+    },
+    {
+        "GameTitle": "The Lord of the Rings: The Third Age",
+        "id": 8004,
+        "ReleaseDate": "11/02/2004"
+    },
+    {
+        "GameTitle": "The Lord of the Rings: The Two Towers",
+        "id": 8005,
+        "ReleaseDate": "12/30/2002"
+    },
+    {
+        "GameTitle": "Mace Griffin: Bounty Hunter",
+        "id": 8006,
+        "ReleaseDate": "01/07/2004"
+    },
+    {
+        "GameTitle": "Mafia: The City of Lost Heaven",
+        "id": 8007,
+        "ReleaseDate": "03/13/2004"
+    },
+    {
+        "GameTitle": "Magic: The Gathering - Battlegrounds",
+        "id": 8008,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "Malice",
+        "id": 8009,
+        "ReleaseDate": "06/02/2004"
+    },
+    {
+        "GameTitle": "Manhunt",
+        "id": 8010,
+        "ReleaseDate": "04/20/2004"
+    },
+    {
+        "GameTitle": "Marvel Nemesis: Rise of the Imperfects",
+        "id": 8011,
+        "ReleaseDate": "09/20/2005"
+    },
+    {
+        "GameTitle": "Max Payne 2: The Fall of Max Payne",
+        "id": 8012,
+        "ReleaseDate": "11/25/2003"
+    },
+    {
+        "GameTitle": "Medal of Honor: Rising Sun",
+        "id": 8013,
+        "ReleaseDate": "11/11/2003"
+    },
+    {
+        "GameTitle": "Men of Valor",
+        "id": 8014,
+        "ReleaseDate": "10/19/2004"
+    },
+    {
+        "GameTitle": "Mercenaries: Playground of Destruction",
+        "id": 8015,
+        "ReleaseDate": "06/15/2006"
+    },
+    {
+        "GameTitle": "Metal Dungeon",
+        "id": 8016,
+        "ReleaseDate": "12/03/2002"
+    },
+    {
+        "GameTitle": "Metal Gear Solid 2: Substance",
+        "id": 8017,
+        "ReleaseDate": "11/05/2002"
+    },
+    {
+        "GameTitle": "Metal Slug 3",
+        "id": 8018,
+        "ReleaseDate": "05/25/2004"
+    },
+    {
+        "GameTitle": "Metal Slug 4 & 5",
+        "id": 8019,
+        "ReleaseDate": "05/24/2005"
+    },
+    {
+        "GameTitle": "Midtown Madness 3",
+        "id": 8020,
+        "ReleaseDate": "06/17/2003"
+    },
+    {
+        "GameTitle": "Minority Report: Everybody Runs",
+        "id": 8021,
+        "ReleaseDate": "11/19/2002"
+    },
+    {
+        "GameTitle": "Mission: Impossible \u2013 Operation Surma",
+        "id": 8022,
+        "ReleaseDate": "12/02/2003"
+    },
+    {
+        "GameTitle": "ObsCure",
+        "id": 8030,
+        "ReleaseDate": "04/06/2005"
+    },
+    {
+        "GameTitle": "Oddworld: Stranger's Wrath",
+        "id": 8031,
+        "ReleaseDate": "01/25/2005"
+    },
+    {
+        "GameTitle": "Pariah",
+        "id": 8032,
+        "ReleaseDate": "05/05/2005"
+    },
+    {
+        "GameTitle": "Prince of Persia: Warrior Within",
+        "id": 8033,
+        "ReleaseDate": "12/02/2004"
+    },
+    {
+        "GameTitle": "Project: Snowblind",
+        "id": 8034,
+        "ReleaseDate": "02/23/2005"
+    },
+    {
+        "GameTitle": "Pure Pinball",
+        "id": 8035,
+        "ReleaseDate": "08/05/2004"
+    },
+    {
+        "GameTitle": "Quantum Redshift",
+        "id": 8036,
+        "ReleaseDate": "09/17/2002"
+    },
+    {
+        "GameTitle": "Tom Clancy's Rainbow Six 3: Black Arrow",
+        "id": 8037,
+        "ReleaseDate": "08/05/2004"
+    },
+    {
+        "GameTitle": "Rayman Arena",
+        "id": 8038,
+        "ReleaseDate": "09/24/2002"
+    },
+    {
+        "GameTitle": "Red Dead Revolver",
+        "id": 8039,
+        "ReleaseDate": "04/27/2004"
+    },
+    {
+        "GameTitle": "Run Like Hell: Hunt or Be Hunted",
+        "id": 8040,
+        "ReleaseDate": "09/27/2002"
+    },
+    {
+        "GameTitle": "RoboCop",
+        "id": 8041,
+        "ReleaseDate": "07/15/2003"
+    },
+    {
+        "GameTitle": "Rogue Ops",
+        "id": 8042,
+        "ReleaseDate": "10/28/2003"
+    },
+    {
+        "GameTitle": "Samurai Shodown V",
+        "id": 8043,
+        "ReleaseDate": "01/17/2006"
+    },
+    {
+        "GameTitle": "SeaBlade",
+        "id": 8044,
+        "ReleaseDate": "11/20/2002"
+    },
+    {
+        "GameTitle": "Serious Sam II",
+        "id": 8045,
+        "ReleaseDate": "10/11/2005"
+    },
+    {
+        "GameTitle": "The Simpsons: Road Rage",
+        "id": 8046,
+        "ReleaseDate": "12/01/2001"
+    },
+    {
+        "GameTitle": "Soldier of Fortune II: Double Helix",
+        "id": 8047,
+        "ReleaseDate": "06/18/2003"
+    },
+    {
+        "GameTitle": "Sonic Heroes",
+        "id": 8048,
+        "ReleaseDate": "01/27/2004"
+    },
+    {
+        "GameTitle": "Sphinx and the Cursed Mummy",
+        "id": 8049,
+        "ReleaseDate": "11/10/2003"
+    },
+    {
+        "GameTitle": "SpongeBob SquarePants: Battle for Bikini Bottom",
+        "id": 8050,
+        "ReleaseDate": "10/31/2003"
+    },
+    {
+        "GameTitle": "Spy vs. Spy",
+        "id": 8051,
+        "ReleaseDate": "04/07/2005"
+    },
+    {
+        "GameTitle": "Star Wars: Obi-Wan",
+        "id": 8052,
+        "ReleaseDate": "12/19/2001"
+    },
+    {
+        "GameTitle": "Still Life",
+        "id": 8053,
+        "ReleaseDate": "04/15/2005"
+    },
+    {
+        "GameTitle": "Stolen",
+        "id": 8054,
+        "ReleaseDate": "04/22/2005"
+    },
+    {
+        "GameTitle": "The Suffering",
+        "id": 8055,
+        "ReleaseDate": "03/09/2004"
+    },
+    {
+        "GameTitle": "The Suffering: Ties That Bind",
+        "id": 8056,
+        "ReleaseDate": "09/26/2005"
+    },
+    {
+        "GameTitle": "Super Bubble Pop",
+        "id": 8057,
+        "ReleaseDate": "12/17/2002"
+    },
+    {
+        "GameTitle": "Tak 2: The Staff of Dreams",
+        "id": 8058,
+        "ReleaseDate": "10/11/2004"
+    },
+    {
+        "GameTitle": "Teen Titans",
+        "id": 8059,
+        "ReleaseDate": "10/16/2005"
+    },
+    {
+        "GameTitle": "Tenchu: Return From Darkness",
+        "id": 8060,
+        "ReleaseDate": "03/10/2004"
+    },
+    {
+        "GameTitle": "Terminator 3: The Redemption",
+        "id": 8061,
+        "ReleaseDate": "11/01/2004"
+    },
+    {
+        "GameTitle": "Thief: Deadly Shadows",
+        "id": 8062,
+        "ReleaseDate": "05/27/2003"
+    },
+    {
+        "GameTitle": "TimeSplitters 2",
+        "id": 8064,
+        "ReleaseDate": "10/08/2002"
+    },
+    {
+        "GameTitle": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+        "id": 8066,
+        "ReleaseDate": "10/19/2004"
+    },
+    {
+        "GameTitle": "Teenage Mutant Ninja Turtles",
+        "id": 8067,
+        "ReleaseDate": "10/21/2003"
+    },
+    {
+        "GameTitle": "Tork: Prehistoric Punk",
+        "id": 8068,
+        "ReleaseDate": "01/12/2005"
+    },
+    {
+        "GameTitle": "Trigger Man",
+        "id": 8069,
+        "ReleaseDate": "10/05/2004"
+    },
+    {
+        "GameTitle": "Tron 2.0: Killer App",
+        "id": 8070,
+        "ReleaseDate": "11/02/2004"
+    },
+    {
+        "GameTitle": "True Crime: Streets of LA",
+        "id": 8071,
+        "ReleaseDate": "11/03/2003"
+    },
+    {
+        "GameTitle": "Driver: Parallel Lines",
+        "id": 8072,
+        "ReleaseDate": "03/14/2006"
+    },
+    {
+        "GameTitle": "Crash Bandicoot: The Wrath of Cortex",
+        "id": 8324,
+        "ReleaseDate": "10/29/2001"
+    },
+    {
+        "GameTitle": "Tony Hawk's American Wasteland",
+        "id": 8556,
+        "ReleaseDate": "10/18/2005"
+    },
+    {
+        "GameTitle": "Digimon World 4",
+        "id": 8559,
+        "ReleaseDate": "06/02/2005"
+    },
+    {
+        "GameTitle": "Driv3r",
+        "id": 8563,
+        "ReleaseDate": "06/21/2004"
+    },
+    {
+        "GameTitle": "ESPN College Hoops 2K5",
+        "id": 8565,
+        "ReleaseDate": "11/17/2004"
+    },
+    {
+        "GameTitle": "Forgotten Realms: Demon Stone",
+        "id": 8569,
+        "ReleaseDate": "11/16/2004"
+    },
+    {
+        "GameTitle": "Madagascar",
+        "id": 8720,
+        "ReleaseDate": "05/23/2005"
+    },
+    {
+        "GameTitle": "Mortal Kombat: Shaolin Monks",
+        "id": 8779,
+        "ReleaseDate": "09/16/2005"
+    },
+    {
+        "GameTitle": "The Elder Scrolls III: Morrowind",
+        "id": 8787,
+        "ReleaseDate": "11/14/2002"
+    },
+    {
+        "GameTitle": "Juiced",
+        "id": 9472,
+        "ReleaseDate": "06/13/2005"
+    },
+    {
+        "GameTitle": "Fight Night Round 3",
+        "id": 9689,
+        "ReleaseDate": "02/23/2006"
+    },
+    {
+        "GameTitle": "MotoGP 3",
+        "id": 9736,
+        "ReleaseDate": "08/30/2005"
+    },
+    {
+        "GameTitle": "AND 1 Streetball",
+        "id": 9975,
+        "ReleaseDate": "06/06/2006"
+    },
+    {
+        "GameTitle": "Arctic Thunder",
+        "id": 9976,
+        "ReleaseDate": "11/15/2001"
+    },
+    {
+        "GameTitle": "Links 2004",
+        "id": 10285,
+        "ReleaseDate": "11/11/2003"
+    },
+    {
+        "GameTitle": "Oddworld: Munch's Oddysee",
+        "id": 10395,
+        "ReleaseDate": "11/09/2001"
+    },
+    {
+        "GameTitle": "2006 FIFA World Cup",
+        "id": 10400,
+        "ReleaseDate": "04/24/2006"
+    },
+    {
+        "GameTitle": "OutRun 2006: Coast 2 Coast",
+        "id": 10590,
+        "ReleaseDate": "03/17/2006"
+    },
+    {
+        "GameTitle": "Breakdown",
+        "id": 10594,
+        "ReleaseDate": "03/16/2004"
+    },
+    {
+        "GameTitle": "Capcom vs. SNK 2 EO",
+        "id": 10595,
+        "ReleaseDate": "02/11/2003"
+    },
+    {
+        "GameTitle": "SNK vs. Capcom: SVC Chaos",
+        "id": 10596,
+        "ReleaseDate": "10/07/2004"
+    },
+    {
+        "GameTitle": "Dead To Rights",
+        "id": 10597,
+        "ReleaseDate": "06/03/2002"
+    },
+    {
+        "GameTitle": "Indigo Prophecy (Fahrenheit)",
+        "id": 10598,
+        "ReleaseDate": "09/20/2005"
+    },
+    {
+        "GameTitle": "Headhunter: Redemption",
+        "id": 10599,
+        "ReleaseDate": "09/21/2004"
+    },
+    {
+        "GameTitle": "Second Sight",
+        "id": 10600,
+        "ReleaseDate": "09/21/2004"
+    },
+    {
+        "GameTitle": "Spikeout: Battle Street",
+        "id": 10601,
+        "ReleaseDate": "03/29/2005"
+    },
+    {
+        "GameTitle": "Whiplash",
+        "id": 10602,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "XIII",
+        "id": 10603,
+        "ReleaseDate": "11/24/2003"
+    },
+    {
+        "GameTitle": "The King of Fighters 2002",
+        "id": 10604,
+        "ReleaseDate": "12/18/2002"
+    },
+    {
+        "GameTitle": "Harry Potter and the Chamber of Secrets",
+        "id": 16727,
+        "ReleaseDate": "11/14/2002"
+    },
+    {
+        "GameTitle": "The Incredible Hulk: Ultimate Destruction",
+        "id": 17122,
+        "ReleaseDate": "05/17/2004"
+    },
+    {
+        "GameTitle": "Cabela's Deer Hunt: 2004 Season",
+        "id": 11918,
+        "ReleaseDate": "08/26/2003"
+    },
+    {
+        "GameTitle": "Lands of Lore III",
+        "id": 11923,
+        "ReleaseDate": "03/03/1999"
+    },
+    {
+        "GameTitle": "Castlevania: Curse of Darkness",
+        "id": 11967,
+        "ReleaseDate": "11/01/2005"
+    },
+    {
+        "GameTitle": "Jurassic Park: Operation Genesis",
+        "id": 13278,
+        "ReleaseDate": "03/11/2003"
+    },
+    {
+        "GameTitle": "Reign of Fire",
+        "id": 12433,
+        "ReleaseDate": "11/06/2002"
+    },
+    {
+        "GameTitle": "Stake: Fortune Fighters",
+        "id": 12435,
+        "ReleaseDate": "05/05/2003"
+    },
+    {
+        "GameTitle": "Turok: Evolution",
+        "id": 12438,
+        "ReleaseDate": "09/02/2002"
+    },
+    {
+        "GameTitle": "The Warriors",
+        "id": 12510,
+        "ReleaseDate": "10/17/2005"
+    },
+    {
+        "GameTitle": "Ever17: Out of Infinity",
+        "id": 12545
+    },
+    {
+        "GameTitle": "The Sims: Bustin' Out",
+        "id": 13776,
+        "ReleaseDate": "12/15/2003"
+    },
+    {
+        "GameTitle": "Test Drive: Eve of Destruction",
+        "id": 13027,
+        "ReleaseDate": "08/25/2004"
+    },
+    {
+        "GameTitle": "The Dukes of Hazzard: Return of the General Lee",
+        "id": 13028,
+        "ReleaseDate": "09/28/2004"
+    },
+    {
+        "GameTitle": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "id": 13289,
+        "ReleaseDate": "03/28/2005"
+    },
+    {
+        "GameTitle": "Tom Clancy's Splinter Cell",
+        "id": 13497,
+        "ReleaseDate": "11/18/2002"
+    },
+    {
+        "GameTitle": "Mortal Kombat: Deception",
+        "id": 13498,
+        "ReleaseDate": "10/04/2004"
+    },
+    {
+        "GameTitle": "Tim Burton's The Nightmare Before Christmas: Oogie's Revenge",
+        "id": 13506,
+        "ReleaseDate": "10/11/2005"
+    },
+    {
+        "GameTitle": "Evil Dead: A Fistful of Boomstick",
+        "id": 13724,
+        "ReleaseDate": "06/17/2003"
+    },
+    {
+        "GameTitle": "Evil Dead: Regeneration",
+        "id": 13725,
+        "ReleaseDate": "09/13/2005"
+    },
+    {
+        "GameTitle": "The Thing",
+        "id": 13726,
+        "ReleaseDate": "09/09/2002"
+    },
+    {
+        "GameTitle": "Blood Omen 2",
+        "id": 13774,
+        "ReleaseDate": "07/17/2003"
+    },
+    {
+        "GameTitle": "Hitman: Contracts",
+        "id": 13878,
+        "ReleaseDate": "04/20/2005"
+    },
+    {
+        "GameTitle": "Hitman: Blood Money",
+        "id": 13879,
+        "ReleaseDate": "05/30/2007"
+    },
+    {
+        "GameTitle": "Hitman 2: Silent Assassin",
+        "id": 13880,
+        "ReleaseDate": "09/30/2002"
+    },
+    {
+        "GameTitle": "Max Payne",
+        "id": 13911,
+        "ReleaseDate": "12/06/2001"
+    },
+    {
+        "GameTitle": "Whacked!",
+        "id": 13932,
+        "ReleaseDate": "10/08/2002"
+    },
+    {
+        "GameTitle": "Red Ninja: End of Honor",
+        "id": 13941,
+        "ReleaseDate": "03/29/2005"
+    },
+    {
+        "GameTitle": "Crimson Sea",
+        "id": 13947,
+        "ReleaseDate": "12/16/2002"
+    },
+    {
+        "GameTitle": "Syberia 2",
+        "id": 13959,
+        "ReleaseDate": "10/05/2004"
+    },
+    {
+        "GameTitle": "Syberia",
+        "id": 13960,
+        "ReleaseDate": "12/23/2003"
+    },
+    {
+        "GameTitle": "Tiger Woods PGA Tour 2004",
+        "id": 13982,
+        "ReleaseDate": "09/22/2003"
+    },
+    {
+        "GameTitle": "Jade Empire",
+        "id": 14045,
+        "ReleaseDate": "04/12/2005"
+    },
+    {
+        "GameTitle": "Midway Arcade Treasures",
+        "id": 14115,
+        "ReleaseDate": "11/18/2003"
+    },
+    {
+        "GameTitle": "Midway Arcade Treasures 2",
+        "id": 14117,
+        "ReleaseDate": "10/11/2004"
+    },
+    {
+        "GameTitle": "Midway Arcade Treasures 3",
+        "id": 14118,
+        "ReleaseDate": "09/26/2005"
+    },
+    {
+        "GameTitle": "The Hobbit",
+        "id": 14140,
+        "ReleaseDate": "09/23/2003"
+    },
+    {
+        "GameTitle": "Enter the Matrix",
+        "id": 14161,
+        "ReleaseDate": "05/14/2003"
+    },
+    {
+        "GameTitle": "MVP Baseball 2004",
+        "id": 14178,
+        "ReleaseDate": "03/02/2004"
+    },
+    {
+        "GameTitle": "Kill Switch",
+        "id": 14256,
+        "ReleaseDate": "10/28/2003"
+    },
+    {
+        "GameTitle": "Pirates of the Caribbean",
+        "id": 14260,
+        "ReleaseDate": "07/02/2003"
+    },
+    {
+        "GameTitle": "Chicago Enforcer",
+        "id": 14273,
+        "ReleaseDate": "07/13/2004"
+    },
+    {
+        "GameTitle": "Jade Empire: Limited Edition",
+        "id": 14321,
+        "ReleaseDate": "04/12/2005"
+    },
+    {
+        "GameTitle": "ESPN NFL 2K5",
+        "id": 14363,
+        "ReleaseDate": "07/20/2004"
+    },
+    {
+        "GameTitle": "NCAA Football 2005 / Top Spin Combo",
+        "id": 14364,
+        "ReleaseDate": "12/31/2004"
+    },
+    {
+        "GameTitle": "Madden NFL 06",
+        "id": 14365,
+        "ReleaseDate": "09/08/2006"
+    },
+    {
+        "GameTitle": "Madden NFL 2005",
+        "id": 14366,
+        "ReleaseDate": "08/10/2004"
+    },
+    {
+        "GameTitle": "Mojo!",
+        "id": 14514,
+        "ReleaseDate": "08/26/2003"
+    },
+    {
+        "GameTitle": "Halo 2 Limited Collector's Edition",
+        "id": 14578,
+        "ReleaseDate": "11/09/2004"
+    },
+    {
+        "GameTitle": "Atari Anthology",
+        "id": 14579,
+        "ReleaseDate": "11/16/2004"
+    },
+    {
+        "GameTitle": "NCAA Football 06",
+        "id": 14580,
+        "ReleaseDate": "07/11/2005"
+    },
+    {
+        "GameTitle": "Top Spin",
+        "id": 14581,
+        "ReleaseDate": "10/28/2003"
+    },
+    {
+        "GameTitle": "Ultra Bust-A-Move",
+        "id": 14582,
+        "ReleaseDate": "11/03/2004"
+    },
+    {
+        "GameTitle": "NASCAR Chase for the Cup 2005",
+        "id": 14583,
+        "ReleaseDate": "08/31/2004"
+    },
+    {
+        "GameTitle": "MechAssault 2: Lone Wolf Limited Edition",
+        "id": 14584,
+        "ReleaseDate": "12/28/2004"
+    },
+    {
+        "GameTitle": "Tiger Woods PGA Tour 2005",
+        "id": 14585,
+        "ReleaseDate": "08/25/2005"
+    },
+    {
+        "GameTitle": "Tetris Worlds",
+        "id": 14586,
+        "ReleaseDate": "06/25/2002"
+    },
+    {
+        "GameTitle": "Sega GT Online",
+        "id": 14587,
+        "ReleaseDate": "12/25/2003"
+    },
+    {
+        "GameTitle": "Sega GT 2002 / Jet Set Radio Future",
+        "id": 14588,
+        "ReleaseDate": "09/02/2002"
+    },
+    {
+        "GameTitle": "Playboy: The Mansion",
+        "id": 14591,
+        "ReleaseDate": "01/25/2005"
+    },
+    {
+        "GameTitle": "Tom Clancy's Rainbow Six 3",
+        "id": 14606,
+        "ReleaseDate": "10/29/2003"
+    },
+    {
+        "GameTitle": "Unreal Championship 2: The Liandri Conflict",
+        "id": 14875,
+        "ReleaseDate": "04/18/2005"
+    },
+    {
+        "GameTitle": "Savage Skies",
+        "id": 14930,
+        "ReleaseDate": "04/02/2002"
+    },
+    {
+        "GameTitle": "Outlaw Golf",
+        "id": 15036,
+        "ReleaseDate": "06/11/2002"
+    },
+    {
+        "GameTitle": "Outlaw Golf 2",
+        "id": 15037,
+        "ReleaseDate": "10/19/2004"
+    },
+    {
+        "GameTitle": "Voodoo Vince",
+        "id": 15038,
+        "ReleaseDate": "09/23/2003"
+    },
+    {
+        "GameTitle": "Silent Hill 2: Restless Dreams",
+        "id": 16733,
+        "ReleaseDate": "12/20/2001"
+    },
+    {
+        "GameTitle": "Wrath Unleashed",
+        "id": 15097,
+        "ReleaseDate": "02/10/2004"
+    },
+    {
+        "GameTitle": "Deus Ex: Invisible War",
+        "id": 15100,
+        "ReleaseDate": "02/12/2003"
+    },
+    {
+        "GameTitle": "Crash Tag Team Racing",
+        "id": 15120,
+        "ReleaseDate": "10/19/2005"
+    },
+    {
+        "GameTitle": "Intellivision Lives!",
+        "id": 15173,
+        "ReleaseDate": "02/03/2004"
+    },
+    {
+        "GameTitle": "Mega Man Anniversary Collection",
+        "id": 15209,
+        "ReleaseDate": "03/15/2005"
+    },
+    {
+        "GameTitle": "Capcom Classics Collection Volume 2",
+        "id": 15493,
+        "ReleaseDate": "11/24/2006"
+    },
+    {
+        "GameTitle": "Capcom Classics Collection Vol.1",
+        "id": 15494,
+        "ReleaseDate": "09/27/2005"
+    },
+    {
+        "GameTitle": "SSX on Tour",
+        "id": 15498,
+        "ReleaseDate": "10/11/2005"
+    },
+    {
+        "GameTitle": "Dead or Alive Xtreme Beach Volleyball",
+        "id": 15547,
+        "ReleaseDate": "01/22/2003"
+    },
+    {
+        "GameTitle": "Dynasty Warriors 3",
+        "id": 15548,
+        "ReleaseDate": "11/26/2001"
+    },
+    {
+        "GameTitle": "The Matrix: Path Of Neo",
+        "id": 15577,
+        "ReleaseDate": "11/11/2005"
+    },
+    {
+        "GameTitle": "Terminator: Dawn of Fate",
+        "id": 15788,
+        "ReleaseDate": "09/16/2002"
+    },
+    {
+        "GameTitle": "Madden NFL 07",
+        "id": 15815,
+        "ReleaseDate": "08/22/2006"
+    },
+    {
+        "GameTitle": "Madden NFL 08",
+        "id": 15826,
+        "ReleaseDate": "08/14/2007"
+    },
+    {
+        "GameTitle": "Need for Speed: Underground",
+        "id": 15947,
+        "ReleaseDate": "11/17/2003"
+    },
+    {
+        "GameTitle": "NCAA Football 08",
+        "id": 16017,
+        "ReleaseDate": "07/17/2007"
+    },
+    {
+        "GameTitle": "NHL 2K7",
+        "id": 16044,
+        "ReleaseDate": "09/12/2006"
+    },
+    {
+        "GameTitle": "ToeJam & Earl III: Mission to Earth",
+        "id": 16490,
+        "ReleaseDate": "10/23/2002"
+    },
+    {
+        "GameTitle": "Harry Potter: Quidditch World Cup",
+        "id": 16622,
+        "ReleaseDate": "10/28/2003"
+    },
+    {
+        "GameTitle": "Scrapland",
+        "id": 16734,
+        "ReleaseDate": "02/28/2005"
+    },
+    {
+        "GameTitle": "Silent Hill 4: The Room",
+        "id": 16801,
+        "ReleaseDate": "09/07/2004"
+    },
+    {
+        "GameTitle": "Gun",
+        "id": 16928,
+        "ReleaseDate": "11/08/2005"
+    },
+    {
+        "GameTitle": "Unreal II: The Awakening",
+        "id": 16990,
+        "ReleaseDate": "02/10/2004"
+    },
+    {
+        "GameTitle": "Harry Potter and the Prisoner of Azkaban",
+        "id": 17034,
+        "ReleaseDate": "06/02/2004"
+    },
+    {
+        "GameTitle": "Shrek 2",
+        "id": 17036,
+        "ReleaseDate": "05/03/2004"
+    },
+    {
+        "GameTitle": "NBA Street Vol.2",
+        "id": 17037,
+        "ReleaseDate": "04/28/2003"
+    },
+    {
+        "GameTitle": "Tak: The Great Juju Challenge",
+        "id": 17038,
+        "ReleaseDate": "09/19/2005"
+    },
+    {
+        "GameTitle": "Blitz: The League",
+        "id": 17062,
+        "ReleaseDate": "03/12/2003"
+    },
+    {
+        "GameTitle": "Vexx",
+        "id": 17063,
+        "ReleaseDate": "04/14/2004"
+    },
+    {
+        "GameTitle": "Gladiator: Sword of Vengeance",
+        "id": 17064,
+        "ReleaseDate": "12/16/2003"
+    },
+    {
+        "GameTitle": "Hunter: The Reckoning",
+        "id": 17065,
+        "ReleaseDate": "05/23/2003"
+    },
+    {
+        "GameTitle": "Outlaw Tennis",
+        "id": 17066,
+        "ReleaseDate": "05/19/2004"
+    },
+    {
+        "GameTitle": "Psi Ops: The Mindgate Conspiracy",
+        "id": 17067,
+        "ReleaseDate": "11/15/2004"
+    },
+    {
+        "GameTitle": "State of Emergency",
+        "id": 17068,
+        "ReleaseDate": "03/25/2003"
+    },
+    {
+        "GameTitle": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+        "id": 17069,
+        "ReleaseDate": "05/22/2006"
+    },
+    {
+        "GameTitle": "Conflict desert storm 2",
+        "id": 31764
+    },
+    {
+        "GameTitle": "Galleon",
+        "id": 31765
+    },
+    {
+        "GameTitle": "New Legends",
+        "id": 31766
+    },
+    {
+        "GameTitle": "Doom 3: Limited Collectors Edition",
+        "id": 17331,
+        "ReleaseDate": "06/20/2002"
+    },
+    {
+        "GameTitle": "AirForce Delta Storm",
+        "id": 17394,
+        "ReleaseDate": "11/14/2001"
+    },
+    {
+        "GameTitle": "All-Star Baseball 2005",
+        "id": 17395
+    },
+    {
+        "GameTitle": "All-Star Baseball 2003",
+        "id": 17396
+    },
+    {
+        "GameTitle": "Arena Football",
+        "id": 17397
+    },
+    {
+        "GameTitle": "Army Men: Major Malfunction",
+        "id": 17398,
+        "ReleaseDate": "04/14/2006"
+    },
+    {
+        "GameTitle": "Beat Down: Fists of Vengeance",
+        "id": 17399
+    },
+    {
+        "GameTitle": "Crusty Demons",
+        "id": 17400
+    },
+    {
+        "GameTitle": "Dai Senryaku VII: Modern Military Tactics",
+        "id": 17401
+    },
+    {
+        "GameTitle": "Dance Dance Revolution Ultramix 4",
+        "id": 17402,
+        "ReleaseDate": "11/14/2006"
+    },
+    {
+        "GameTitle": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "id": 17403,
+        "ReleaseDate": "11/14/2005"
+    },
+    {
+        "GameTitle": "Drake of the 99 Dragons",
+        "id": 17415
+    },
+    {
+        "GameTitle": "Fallout: Brotherhood of Steel",
+        "id": 17448,
+        "ReleaseDate": "01/14/2004"
+    },
+    {
+        "GameTitle": "Major League Baseball 2k5: World Series edition",
+        "id": 17538,
+        "ReleaseDate": "10/18/2005"
+    },
+    {
+        "GameTitle": "Namco Museum",
+        "id": 17539,
+        "ReleaseDate": "10/08/2002"
+    },
+    {
+        "GameTitle": "NHL Hitz 2003",
+        "id": 17540,
+        "ReleaseDate": "09/15/2002"
+    },
+    {
+        "GameTitle": "Mad Dash Racing",
+        "id": 17866,
+        "ReleaseDate": "11/15/2001"
+    },
+    {
+        "GameTitle": "NBA Inside Drive 2002",
+        "id": 29032
+    },
+    {
+        "GameTitle": "Phantom Crash",
+        "id": 29033,
+        "ReleaseDate": "11/11/2001"
+    },
+    {
+        "GameTitle": "Spartan: Total Warrior",
+        "id": 29034
+    },
+    {
+        "GameTitle": "True Crime: New York City - Limited Edition",
+        "id": 29035
+    },
+    {
+        "GameTitle": "Halo 2 Multiplayer Map Pack",
+        "id": 18226,
+        "ReleaseDate": "07/05/2005"
+    },
+    {
+        "GameTitle": "Grabbed by the Ghoulies",
+        "id": 18370,
+        "ReleaseDate": "10/15/2003"
+    },
+    {
+        "GameTitle": "Powerdrome",
+        "id": 18371,
+        "ReleaseDate": "06/16/2004"
+    },
+    {
+        "GameTitle": "Shark Tale",
+        "id": 18372
+    },
+    {
+        "GameTitle": "Super Monkey Ball Deluxe",
+        "id": 18373,
+        "ReleaseDate": "03/15/2005"
+    },
+    {
+        "GameTitle": "Total Immersion Racing",
+        "id": 18374,
+        "ReleaseDate": "11/19/2002"
+    },
+    {
+        "GameTitle": "Robin Hood: Defender of the Crown",
+        "id": 18375,
+        "ReleaseDate": "11/11/2003"
+    },
+    {
+        "GameTitle": "Prisoner of War",
+        "id": 18377,
+        "ReleaseDate": "08/20/2002"
+    },
+    {
+        "GameTitle": "Red Faction II",
+        "id": 18378,
+        "ReleaseDate": "03/30/2003"
+    },
+    {
+        "GameTitle": "Robotech: Battlecry",
+        "id": 18379,
+        "ReleaseDate": "09/23/2002"
+    },
+    {
+        "GameTitle": "Dancing Stage Unleashed 2",
+        "id": 18383,
+        "ReleaseDate": "05/13/2005"
+    },
+    {
+        "GameTitle": "Championship Manager: Season 01/02",
+        "id": 18384,
+        "ReleaseDate": "04/14/2002"
+    },
+    {
+        "GameTitle": "Half-Life 2",
+        "id": 18385,
+        "ReleaseDate": "11/15/2005"
+    },
+    {
+        "GameTitle": "NFL Fever 2002",
+        "id": 18467
+    },
+    {
+        "GameTitle": "Total Club Manager 2005",
+        "id": 18524,
+        "ReleaseDate": "10/22/2004"
+    },
+    {
+        "GameTitle": "Full Spectrum Warrior",
+        "id": 18914,
+        "ReleaseDate": "06/01/2004"
+    },
+    {
+        "GameTitle": "Medal of Honor: Frontline",
+        "id": 18915,
+        "ReleaseDate": "05/28/2002"
+    },
+    {
+        "GameTitle": "ESPN College Hoops",
+        "id": 19275,
+        "ReleaseDate": "11/13/2003"
+    },
+    {
+        "GameTitle": "NBA 2K3",
+        "id": 19278,
+        "ReleaseDate": "10/08/2002"
+    },
+    {
+        "GameTitle": "Sonic Mega Collection Plus",
+        "id": 20164
+    },
+    {
+        "GameTitle": "Pro Evolution Soccer 5",
+        "id": 20177,
+        "ReleaseDate": "02/07/2006"
+    },
+    {
+        "GameTitle": "Sniper Elite",
+        "id": 20193,
+        "ReleaseDate": "10/18/2005"
+    },
+    {
+        "GameTitle": "Steel Battalion: Line of Contact",
+        "id": 20204,
+        "ReleaseDate": "02/27/2004"
+    },
+    {
+        "GameTitle": "Call of Duty 3",
+        "id": 20649,
+        "ReleaseDate": "11/07/2006"
+    },
+    {
+        "GameTitle": "Phantom Dust",
+        "id": 20769,
+        "ReleaseDate": "03/15/2005"
+    },
+    {
+        "GameTitle": "Tony Hawk's Underground 2",
+        "id": 20844,
+        "ReleaseDate": "10/04/2004"
+    },
+    {
+        "GameTitle": "Tony Hawk's Underground",
+        "id": 20845,
+        "ReleaseDate": "11/21/2003"
+    },
+    {
+        "GameTitle": "Roller Coaster Tycoon",
+        "id": 21004,
+        "ReleaseDate": "03/25/2003"
+    },
+    {
+        "GameTitle": "IndyCar Series",
+        "id": 21005,
+        "ReleaseDate": "06/26/2003"
+    },
+    {
+        "GameTitle": "SegaGT 2002",
+        "id": 21006,
+        "ReleaseDate": "09/02/2002"
+    },
+    {
+        "GameTitle": "Legends of Wrestling II",
+        "id": 21011
+    },
+    {
+        "GameTitle": "Colin Mcrae Rally 04",
+        "id": 21230,
+        "ReleaseDate": "09/01/2003"
+    },
+    {
+        "GameTitle": "NCAA Football 2004",
+        "id": 21231,
+        "ReleaseDate": "07/16/2003"
+    },
+    {
+        "GameTitle": "MX Unleashed",
+        "id": 21253,
+        "ReleaseDate": "02/17/2004"
+    },
+    {
+        "GameTitle": "Project Gotham Racing",
+        "id": 21254,
+        "ReleaseDate": "11/14/2001"
+    },
+    {
+        "GameTitle": "Ratatouille",
+        "id": 21255,
+        "ReleaseDate": "06/26/2007"
+    },
+    {
+        "GameTitle": "Dungeons & Dragons: Heroes",
+        "id": 21436,
+        "ReleaseDate": "09/07/2003"
+    },
+    {
+        "GameTitle": "Gladius",
+        "id": 21437,
+        "ReleaseDate": "10/28/2003"
+    },
+    {
+        "GameTitle": "I-Ninja",
+        "id": 21438,
+        "ReleaseDate": "11/09/2004"
+    },
+    {
+        "GameTitle": "Indiana Jones and the Emperor's Tomb",
+        "id": 21439,
+        "ReleaseDate": "03/25/2003"
+    },
+    {
+        "GameTitle": "Superman Returns",
+        "id": 21514
+    },
+    {
+        "GameTitle": "NHL 2005",
+        "id": 21515
+    },
+    {
+        "GameTitle": "Peter Jackson's King Kong: The Official Game of the Movie",
+        "id": 22372
+    },
+    {
+        "GameTitle": "Army Men: Sarge's War",
+        "id": 22373,
+        "ReleaseDate": "07/23/2004"
+    },
+    {
+        "GameTitle": "X-Men Legends II: Rise of Apocalypse",
+        "id": 22374,
+        "ReleaseDate": "09/20/2005"
+    },
+    {
+        "GameTitle": "Unreal Championship",
+        "id": 22375
+    },
+    {
+        "GameTitle": "Tiger Woods PGA Tour 06",
+        "id": 22522
+    },
+    {
+        "GameTitle": "Wrestle Mania 21",
+        "id": 22523,
+        "ReleaseDate": "04/20/2005"
+    },
+    {
+        "GameTitle": "Zapper One Wicked Cricket!",
+        "id": 22692
+    },
+    {
+        "GameTitle": "L.A. Rush",
+        "id": 22699,
+        "ReleaseDate": "10/10/2005"
+    },
+    {
+        "GameTitle": "Midnight Club II",
+        "id": 22700,
+        "ReleaseDate": "09/04/2003"
+    },
+    {
+        "GameTitle": "Need for Speed: Hot Pursuit 2",
+        "id": 22701,
+        "ReleaseDate": "08/10/2002"
+    },
+    {
+        "GameTitle": "Need for Speed: Underground 2",
+        "id": 22702,
+        "ReleaseDate": "11/15/2004"
+    },
+    {
+        "GameTitle": "Just Cause",
+        "id": 22703,
+        "ReleaseDate": "09/27/2006"
+    },
+    {
+        "GameTitle": "Die Hard: Vendetta",
+        "id": 22704,
+        "ReleaseDate": "11/20/2002"
+    },
+    {
+        "GameTitle": "DTM Race Driver 2",
+        "id": 22705,
+        "ReleaseDate": "02/02/2004"
+    },
+    {
+        "GameTitle": "UEFA Champions League 2004-2005",
+        "id": 22706,
+        "ReleaseDate": "04/02/2005"
+    },
+    {
+        "GameTitle": "Pitfall: The Lost Expedition",
+        "id": 22707,
+        "ReleaseDate": "02/17/2004"
+    },
+    {
+        "GameTitle": "Virtual Pool: Tournament Edition",
+        "id": 22708,
+        "ReleaseDate": "09/08/2006"
+    },
+    {
+        "GameTitle": "UFC Tapout",
+        "id": 22709,
+        "ReleaseDate": "02/17/2002"
+    },
+    {
+        "GameTitle": "Goblin Commander - Unleash the Horde",
+        "id": 23297,
+        "ReleaseDate": "11/11/2003"
+    },
+    {
+        "GameTitle": "The Elder Scrolls III: Morrowind Game of the Year Edition",
+        "id": 23445,
+        "ReleaseDate": "10/27/2003"
+    },
+    {
+        "GameTitle": "Star Wars: The Clone Wars/ Tetris Worlds",
+        "id": 23446
+    },
+    {
+        "GameTitle": "Red Card 2003",
+        "id": 23519
+    },
+    {
+        "GameTitle": "Tom Clancy's Ghost Recon",
+        "id": 23520,
+        "ReleaseDate": "11/11/2002"
+    },
+    {
+        "GameTitle": "NHL 2003",
+        "id": 23521,
+        "ReleaseDate": "10/09/2002"
+    },
+    {
+        "GameTitle": "MVP 06 NCAA Baseball",
+        "id": 23522,
+        "ReleaseDate": "09/08/2006"
+    },
+    {
+        "GameTitle": "Tennis Masters Series 2003",
+        "id": 23524
+    },
+    {
+        "GameTitle": "TOCA Race Driver 2",
+        "id": 23537,
+        "ReleaseDate": "04/13/2004"
+    },
+    {
+        "GameTitle": "The House of the Dead 3",
+        "id": 23718
+    },
+    {
+        "GameTitle": "The Da Vinci Code",
+        "id": 23745,
+        "ReleaseDate": "05/19/2006"
+    },
+    {
+        "GameTitle": "The Urbz: Sims in the City",
+        "id": 23750,
+        "ReleaseDate": "11/09/2004"
+    },
+    {
+        "GameTitle": "Land of the Dead: Road to Fiddler's Green",
+        "id": 23813,
+        "ReleaseDate": "10/20/2005"
+    },
+    {
+        "GameTitle": "Raze's Hell",
+        "id": 23904,
+        "ReleaseDate": "04/21/2005"
+    },
+    {
+        "GameTitle": "Dave Mirra Freestyle BMX 2",
+        "id": 23905
+    },
+    {
+        "GameTitle": "Justice League Heroes",
+        "id": 23943,
+        "ReleaseDate": "10/17/2006"
+    },
+    {
+        "GameTitle": "TransWorld Snowboarding",
+        "id": 23957,
+        "ReleaseDate": "10/15/2002"
+    },
+    {
+        "GameTitle": "Close Combat First to Fight",
+        "id": 24059,
+        "ReleaseDate": "04/05/2005"
+    },
+    {
+        "GameTitle": "NHL 06",
+        "id": 24067,
+        "ReleaseDate": "09/06/2005"
+    },
+    {
+        "GameTitle": "Tom Clancy's Ghost Recon: Island Thunder",
+        "id": 24136,
+        "ReleaseDate": "08/05/2003"
+    },
+    {
+        "GameTitle": "Finding Nemo",
+        "id": 24156,
+        "ReleaseDate": "05/12/2003"
+    },
+    {
+        "GameTitle": "NFL Head Coach",
+        "id": 24157,
+        "ReleaseDate": "06/20/2006"
+    },
+    {
+        "GameTitle": "Broken Sword: The Sleeping Dragon",
+        "id": 24286,
+        "ReleaseDate": "11/13/2003"
+    },
+    {
+        "GameTitle": "Cold War",
+        "id": 24295,
+        "ReleaseDate": "10/05/2005"
+    },
+    {
+        "GameTitle": "Dynasty Warriors 4",
+        "id": 24296,
+        "ReleaseDate": "11/01/2003"
+    },
+    {
+        "GameTitle": "Dynasty Warriors 5",
+        "id": 24297,
+        "ReleaseDate": "07/01/2005"
+    },
+    {
+        "GameTitle": "Enclave",
+        "id": 24298,
+        "ReleaseDate": "08/30/2002"
+    },
+    {
+        "GameTitle": "Gun Metal",
+        "id": 24299,
+        "ReleaseDate": "06/12/2002"
+    },
+    {
+        "GameTitle": "Samurai Warriors",
+        "id": 24300,
+        "ReleaseDate": "06/24/2004"
+    },
+    {
+        "GameTitle": "Shadow of Memories",
+        "id": 24301,
+        "ReleaseDate": "03/01/2001"
+    },
+    {
+        "GameTitle": "ShellShock : Nam '67",
+        "id": 24302,
+        "ReleaseDate": "09/03/2004"
+    },
+    {
+        "GameTitle": "Silent Scope Complete",
+        "id": 24303,
+        "ReleaseDate": "02/01/2004"
+    },
+    {
+        "GameTitle": "Street Racing Syndicate",
+        "id": 24304,
+        "ReleaseDate": "03/04/2005"
+    },
+    {
+        "GameTitle": "TOCA Race Driver",
+        "id": 24305,
+        "ReleaseDate": "08/24/2002"
+    },
+    {
+        "GameTitle": "TOCA Race Driver 3",
+        "id": 24306,
+        "ReleaseDate": "02/23/2006"
+    },
+    {
+        "GameTitle": "Toxic Grind",
+        "id": 24307,
+        "ReleaseDate": "12/01/2003"
+    },
+    {
+        "GameTitle": "True Crime: New York City",
+        "id": 24308,
+        "ReleaseDate": "12/02/2005"
+    },
+    {
+        "GameTitle": "Neighbours From Hell",
+        "id": 24309,
+        "ReleaseDate": "11/17/2005"
+    },
+    {
+        "GameTitle": "Urban Chaos",
+        "id": 24310,
+        "ReleaseDate": "11/16/2006"
+    },
+    {
+        "GameTitle": "Wreckless : Missions Yakuzas",
+        "id": 24311,
+        "ReleaseDate": "03/14/2002"
+    },
+    {
+        "GameTitle": "Xbox Music Mixer",
+        "id": 24312,
+        "ReleaseDate": "12/11/2003"
+    },
+    {
+        "GameTitle": "Jet Set Radio Future / Sega GT 2002",
+        "id": 24314,
+        "ReleaseDate": "12/01/2002"
+    },
+    {
+        "GameTitle": "Pinball Hall of Fame: The Gottlieb Collection",
+        "id": 24556,
+        "ReleaseDate": "11/18/2004"
+    },
+    {
+        "GameTitle": "Splashdown",
+        "id": 24718,
+        "ReleaseDate": "06/25/2002"
+    },
+    {
+        "GameTitle": "Pac-Man World 2",
+        "id": 24724,
+        "ReleaseDate": "10/15/2002"
+    },
+    {
+        "GameTitle": "Pac-Man World 3",
+        "id": 24725,
+        "ReleaseDate": "11/17/2005"
+    },
+    {
+        "GameTitle": "Taito Legends",
+        "id": 24965,
+        "ReleaseDate": "10/25/2005"
+    },
+    {
+        "GameTitle": "TD Overdrive: The Brotherhood of Speed",
+        "id": 24966,
+        "ReleaseDate": "05/27/2002"
+    },
+    {
+        "GameTitle": "Terminator 3: Rise Of The Machines",
+        "id": 24967,
+        "ReleaseDate": "11/11/2003"
+    },
+    {
+        "GameTitle": "Test Drive",
+        "id": 24968,
+        "ReleaseDate": "08/25/2004"
+    },
+    {
+        "GameTitle": "Test Drive: Off-Road Wide Open",
+        "id": 24969,
+        "ReleaseDate": "11/14/2001"
+    },
+    {
+        "GameTitle": "The Great Escape",
+        "id": 24970,
+        "ReleaseDate": "07/22/2003"
+    },
+    {
+        "GameTitle": "The Guy Game",
+        "id": 24971,
+        "ReleaseDate": "08/30/2004"
+    },
+    {
+        "GameTitle": "The Incredibles",
+        "id": 24973,
+        "ReleaseDate": "11/01/2004"
+    },
+    {
+        "GameTitle": "The Italian Job",
+        "id": 24974,
+        "ReleaseDate": "06/24/2003"
+    },
+    {
+        "GameTitle": "The King of Fighters 2003",
+        "id": 24975,
+        "ReleaseDate": "12/12/2003"
+    },
+    {
+        "GameTitle": "The Red Star",
+        "id": 24976
+    },
+    {
+        "GameTitle": "The Sims",
+        "id": 24977,
+        "ReleaseDate": "03/24/2003"
+    },
+    {
+        "GameTitle": "The Legend of Spyro: A New Beginning",
+        "id": 24979,
+        "ReleaseDate": "10/10/2006"
+    },
+    {
+        "GameTitle": "Tom & Jerry in War of the Whiskers",
+        "id": 24980,
+        "ReleaseDate": "12/06/2003"
+    },
+    {
+        "GameTitle": "Tony Hawk's Pro Skater 3",
+        "id": 24981,
+        "ReleaseDate": "03/04/2002"
+    },
+    {
+        "GameTitle": "Torino 2006 - The Official Video Game of the XX Olympic Winter Games",
+        "id": 24982,
+        "ReleaseDate": "01/24/2006"
+    },
+    {
+        "GameTitle": "Total Overdose: A Gunslinger's Tale in Mexico",
+        "id": 24983,
+        "ReleaseDate": "09/27/2005"
+    },
+    {
+        "GameTitle": "Totaled!",
+        "id": 24984,
+        "ReleaseDate": "07/29/2002"
+    },
+    {
+        "GameTitle": "TransWorld Surf",
+        "id": 24986,
+        "ReleaseDate": "11/14/2001"
+    },
+    {
+        "GameTitle": "Ty the Tasmanian Tiger",
+        "id": 24987,
+        "ReleaseDate": "09/10/2002"
+    },
+    {
+        "GameTitle": "Ty the Tasmanian Tiger 2: Bush Rescue",
+        "id": 24988,
+        "ReleaseDate": "10/12/2004"
+    },
+    {
+        "GameTitle": "Ty the Tasmanian Tiger 3: Night of the Quinkan",
+        "id": 24989,
+        "ReleaseDate": "10/11/2005"
+    },
+    {
+        "GameTitle": "4X4 EVO 2",
+        "id": 24990,
+        "ReleaseDate": "11/14/2001"
+    },
+    {
+        "GameTitle": "Alien Hominid",
+        "id": 24994,
+        "ReleaseDate": "05/27/2005"
+    },
+    {
+        "GameTitle": "AMF Xtreme Bowling",
+        "id": 24997,
+        "ReleaseDate": "06/28/2008"
+    },
+    {
+        "GameTitle": "Codename: Kids Next Door \u2013 Operation: V.I.D.E.O.G.A.M.E.",
+        "id": 25796,
+        "ReleaseDate": "10/11/2005"
+    },
+    {
+        "GameTitle": "Chase Hollywood Stunt Driver",
+        "id": 34735
+    },
+    {
+        "GameTitle": "Animaniacs The Great Edgar Hunt",
+        "id": 34736
+    },
+    {
+        "GameTitle": "Antz Extreme Racing",
+        "id": 34737
+    },
+    {
+        "GameTitle": "Auto Modellista",
+        "id": 34738
+    },
+    {
+        "GameTitle": "Ford Racing 3",
+        "id": 27231,
+        "ReleaseDate": "03/22/2005"
+    },
+    {
+        "GameTitle": "Arx Fatalis",
+        "id": 27499
+    },
+    {
+        "GameTitle": "Barbarian",
+        "id": 27503
+    },
+    {
+        "GameTitle": "Xbox Live Arcade",
+        "id": 27547
+    },
+    {
+        "GameTitle": "Exclusive Adventure Pack",
+        "id": 28448
+    },
+    {
+        "GameTitle": "Exclusive Agent Pack",
+        "id": 28449
+    },
+    {
+        "GameTitle": "Backyard Wrestling 2: There Goes the Neighborhood",
+        "id": 28450
+    },
+    {
+        "GameTitle": "Carve",
+        "id": 28453
+    },
+    {
+        "GameTitle": "Catwoman",
+        "id": 28454
+    },
+    {
+        "GameTitle": "Championship Manager: Season 02/03",
+        "id": 28455
+    },
+    {
+        "GameTitle": "Disney's Chicken Little",
+        "id": 28456
+    },
+    {
+        "GameTitle": "Commandos: Strike Force",
+        "id": 28457
+    },
+    {
+        "GameTitle": "Dance UK",
+        "id": 28458
+    },
+    {
+        "GameTitle": "Dancing Stage Unleashed",
+        "id": 28459
+    },
+    {
+        "GameTitle": "Dark Summit",
+        "id": 28460
+    },
+    {
+        "GameTitle": "EA Sports Cricket 2005",
+        "id": 28461
+    },
+    {
+        "GameTitle": "ESPN NFL Football 2K4",
+        "id": 28462
+    },
+    {
+        "GameTitle": "ESPN NHL 2K5",
+        "id": 28463
+    },
+    {
+        "GameTitle": "Fantastic 4",
+        "id": 28464,
+        "ReleaseDate": "06/27/2005"
+    },
+    {
+        "GameTitle": "FIFA 07",
+        "id": 28465
+    },
+    {
+        "GameTitle": "FIFA Football 2003",
+        "id": 28466
+    },
+    {
+        "GameTitle": "FIFA Football 2004",
+        "id": 28467
+    },
+    {
+        "GameTitle": "Freestyle Metal X",
+        "id": 28468
+    },
+    {
+        "GameTitle": "Dragon's Lair 3D: Return to the Lair",
+        "id": 28471
+    },
+    {
+        "GameTitle": "Grand Theft Auto Double Pack",
+        "id": 28472,
+        "ReleaseDate": "11/04/2003"
+    },
+    {
+        "GameTitle": "Harry Potter and the Goblet of Fire",
+        "id": 28473
+    },
+    {
+        "GameTitle": "Hunter: The Reckoning - Redeemer",
+        "id": 28474
+    },
+    {
+        "GameTitle": "Knockout Kings 2002",
+        "id": 28475
+    },
+    {
+        "GameTitle": "Largo Winch: Empire under Threat",
+        "id": 28476
+    },
+    {
+        "GameTitle": "LMA Manager 2003",
+        "id": 28477
+    },
+    {
+        "GameTitle": "Midnight Club 3: Dub Edition",
+        "id": 28478,
+        "ReleaseDate": "04/12/2005"
+    },
+    {
+        "GameTitle": "MTV Celebrity Deathmatch",
+        "id": 28479
+    },
+    {
+        "GameTitle": "NBA Live 2002",
+        "id": 28480
+    },
+    {
+        "GameTitle": "NBA Live 2004",
+        "id": 28481
+    },
+    {
+        "GameTitle": "NHL 2K3",
+        "id": 28482
+    },
+    {
+        "GameTitle": "Predator: Concrete Jungle",
+        "id": 28485
+    },
+    {
+        "GameTitle": "Pro Beach Soccer",
+        "id": 28486
+    },
+    {
+        "GameTitle": "Pro Evolution Soccer 4",
+        "id": 28487
+    },
+    {
+        "GameTitle": "Project Zero",
+        "id": 28488
+    },
+    {
+        "GameTitle": "Richard Burns Rally",
+        "id": 28490
+    },
+    {
+        "GameTitle": "Shadow Ops: Red Mercury",
+        "id": 28491
+    },
+    {
+        "GameTitle": "Shattered Union",
+        "id": 28492
+    },
+    {
+        "GameTitle": "Silent Hill 2: Inner Fears",
+        "id": 28494
+    },
+    {
+        "GameTitle": "Sonic Riders",
+        "id": 28496
+    },
+    {
+        "GameTitle": "SpyHunter 2",
+        "id": 28497
+    },
+    {
+        "GameTitle": "Spyro: A Hero's Tail",
+        "id": 28500
+    },
+    {
+        "GameTitle": "SWAT: Global Strike Team",
+        "id": 28501,
+        "ReleaseDate": "10/28/2003"
+    },
+    {
+        "GameTitle": "Total Club Manager 2004",
+        "id": 28511
+    },
+    {
+        "GameTitle": "UEFA Euro 2004",
+        "id": 28512,
+        "ReleaseDate": "05/04/2005"
+    },
+    {
+        "GameTitle": "Ultimate Spider-Man",
+        "id": 28513,
+        "ReleaseDate": "09/22/2005"
+    },
+    {
+        "GameTitle": "Vietcong: Purple Haze",
+        "id": 28514
+    },
+    {
+        "GameTitle": "World War II Combat: Road to Berlin",
+        "id": 28516,
+        "ReleaseDate": "11/08/2005"
+    },
+    {
+        "GameTitle": "Worms 4: Mayhem",
+        "id": 28521,
+        "ReleaseDate": "10/04/2005"
+    },
+    {
+        "GameTitle": "X2: Wolverine's Revenge",
+        "id": 28522,
+        "ReleaseDate": "04/15/2003"
+    },
+    {
+        "GameTitle": "Arsenal Club Football 2005",
+        "id": 29026
+    },
+    {
+        "GameTitle": "Constantine",
+        "id": 29027
+    },
+    {
+        "GameTitle": "David Beckham Soccer",
+        "id": 29028
+    },
+    {
+        "GameTitle": "Final Fight Streetwise",
+        "id": 29029
+    },
+    {
+        "GameTitle": "Yu-Gi-Oh! Dawn of Destiny",
+        "id": 29074
+    },
+    {
+        "GameTitle": "Conflict: Desert Storm",
+        "id": 29149
+    },
+    {
+        "GameTitle": "Sega Soccer Slam",
+        "id": 29407,
+        "ReleaseDate": "03/19/2002"
+    },
+    {
+        "GameTitle": "Colin McRae Rally 3",
+        "id": 29408,
+        "ReleaseDate": "04/22/2003"
+    },
+    {
+        "GameTitle": "RalliSport Challenge",
+        "id": 29411,
+        "ReleaseDate": "03/05/2002"
+    },
+    {
+        "GameTitle": "Mashed: Fully Loaded",
+        "id": 29412
+    },
+    {
+        "GameTitle": "Crimson Skies: High Road To Revenge",
+        "id": 30255
+    },
+    {
+        "GameTitle": "Brian Lara International Cricket 2005",
+        "id": 30337
+    },
+    {
+        "GameTitle": "SpyHunter",
+        "id": 30517
+    },
+    {
+        "GameTitle": "Sneakers",
+        "id": 30741
+    },
+    {
+        "GameTitle": "Xyanide",
+        "id": 32752
+    },
+    {
+        "GameTitle": "V8 Supercars 2",
+        "id": 32994,
+        "ReleaseDate": "04/02/2004"
+    },
+    {
+        "GameTitle": "Street Fighter Anniversary Collection",
+        "id": 33352,
+        "ReleaseDate": "02/22/2005"
+    },
+    {
+        "GameTitle": "Batman Vengeance",
+        "id": 34761,
+        "ReleaseDate": "12/18/2001"
+    },
+    {
+        "GameTitle": "Carmen Sandiego The Secret of the Stolen Drums",
+        "id": 34762,
+        "ReleaseDate": "09/13/2004"
+    },
+    {
+        "GameTitle": "Commandos 2 Men of Courage",
+        "id": 34763,
+        "ReleaseDate": "09/18/2002"
+    },
+    {
+        "GameTitle": "Crime Life: Gang Wars",
+        "id": 34764,
+        "ReleaseDate": "11/22/2005"
+    },
+    {
+        "GameTitle": "Curious George",
+        "id": 34765,
+        "ReleaseDate": "02/01/2006"
+    },
+    {
+        "GameTitle": "Corvette",
+        "id": 34766,
+        "ReleaseDate": "12/10/2003"
+    },
+    {
+        "GameTitle": "Dakar 2: The World's Ultimate Rally",
+        "id": 34767
+    },
+    {
+        "GameTitle": "Defender",
+        "id": 34768
+    },
+    {
+        "GameTitle": "MX vs. ATV Unleashed",
+        "id": 33561
+    },
+    {
+        "GameTitle": "Tao Feng: Fist of the Lotus",
+        "id": 34200,
+        "ReleaseDate": "03/18/2003"
+    },
+    {
+        "GameTitle": "NHL 2K6",
+        "id": 34201,
+        "ReleaseDate": "08/06/2005"
+    },
+    {
+        "GameTitle": "Kingdom Under Fire: Heroes",
+        "id": 34203,
+        "ReleaseDate": "09/20/2005"
+    },
+    {
+        "GameTitle": "Gauntlet: Dark Legacy",
+        "id": 34256,
+        "ReleaseDate": "04/23/2002"
+    },
+    {
+        "GameTitle": "Futurama",
+        "id": 34257,
+        "ReleaseDate": "08/13/2003"
+    },
+    {
+        "GameTitle": "Bass Pro Shops: Trophy Bass 2007",
+        "id": 34885,
+        "ReleaseDate": "11/21/2006"
+    },
+    {
+        "GameTitle": "Bass Pro Shops: Trophy Hunter 2007",
+        "id": 34886,
+        "ReleaseDate": "11/20/2006"
+    },
+    {
+        "GameTitle": "Avalaunch",
+        "id": 35093
+    },
+    {
+        "GameTitle": "X-Men Legends",
+        "id": 35095
+    },
+    {
+        "GameTitle": "Wallace & Gromit in Project Zoo",
+        "id": 35096,
+        "ReleaseDate": "10/14/2003"
+    },
+    {
+        "GameTitle": "Deathrow",
+        "id": 35097
+    },
+    {
+        "GameTitle": "Dr. Muto",
+        "id": 35102
+    },
+    {
+        "GameTitle": "Full Spectrum Warrior: Ten Hammers",
+        "id": 35406,
+        "ReleaseDate": "03/28/2006"
+    },
+    {
+        "GameTitle": "WWE Raw 2",
+        "id": 35868,
+        "ReleaseDate": "10/10/2003"
+    },
+    {
+        "GameTitle": "2002 FIFA World Cup",
+        "id": 35962,
+        "ReleaseDate": "04/22/2002"
+    },
+    {
+        "GameTitle": "Iron Phoenix",
+        "id": 35981,
+        "ReleaseDate": "03/25/2005"
+    },
+    {
+        "GameTitle": "World War II Combat: Iwo Jima",
+        "id": 36179,
+        "ReleaseDate": "07/18/2006"
+    },
+    {
+        "GameTitle": "Combat: Task Force 121",
+        "id": 36180,
+        "ReleaseDate": "03/22/2005"
+    }
+]}}
+]

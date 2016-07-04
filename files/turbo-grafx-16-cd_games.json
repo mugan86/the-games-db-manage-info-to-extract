@@ -1,0 +1,553 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Akumajou Dracula X: Chi no Rondo",
+        "id": 16793,
+        "ReleaseDate": "10/29/1993"
+    },
+    {
+        "GameTitle": "Asuka 120% Maxima BURNING Fest",
+        "id": 33022,
+        "ReleaseDate": "07/28/1995"
+    },
+    {
+        "GameTitle": "Ane-san",
+        "id": 35197,
+        "ReleaseDate": "02/24/1995"
+    },
+    {
+        "GameTitle": "Beyond Shadowgate",
+        "id": 5656,
+        "ReleaseDate": "04/23/1993"
+    },
+    {
+        "GameTitle": "Dragon Slayer: The Legend of Heroes",
+        "id": 5665,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Shadow of the Beast",
+        "id": 5681,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Ys Book I & II",
+        "id": 5686,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Ys III: Wanderers from Ys",
+        "id": 5687,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "The Addams Family",
+        "id": 9986,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Buster Bros.",
+        "id": 9987,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Cotton: Fantastic Night Dreams",
+        "id": 9989,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Dungeon Master: Theron's Quest",
+        "id": 9990,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Exile: Wicked Phenomenon",
+        "id": 37464,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Final Zone II",
+        "id": 9993,
+        "ReleaseDate": "03/23/1990"
+    },
+    {
+        "GameTitle": "Gate of Thunder",
+        "id": 9995,
+        "ReleaseDate": "02/21/1992"
+    },
+    {
+        "GameTitle": "J.B. Harold Murder Club",
+        "id": 9996,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "John Madden Duo CD Football",
+        "id": 9997,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Last Alert",
+        "id": 9998,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Loom",
+        "id": 9999,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Lords of Thunder",
+        "id": 10001,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Might and Magic III: Isles of Terra",
+        "id": 10002,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Prince of Persia",
+        "id": 10003,
+        "ReleaseDate": "11/06/1991"
+    },
+    {
+        "GameTitle": "Riot Zone",
+        "id": 10004,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Splash Lake",
+        "id": 10008,
+        "ReleaseDate": "06/28/1991"
+    },
+    {
+        "GameTitle": "Super Air Zonk",
+        "id": 10009,
+        "ReleaseDate": "07/30/1993"
+    },
+    {
+        "GameTitle": "Valis II",
+        "id": 10010,
+        "ReleaseDate": "06/23/1989"
+    },
+    {
+        "GameTitle": "Valis III",
+        "id": 10011,
+        "ReleaseDate": "09/07/1990"
+    },
+    {
+        "GameTitle": "Xak III: The Eternal Recurrence",
+        "id": 10013,
+        "ReleaseDate": "09/30/1994"
+    },
+    {
+        "GameTitle": "Ys IV: The Dawn of Ys",
+        "id": 10014,
+        "ReleaseDate": "12/22/1993"
+    },
+    {
+        "GameTitle": "The Space Adventure",
+        "id": 11037,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Cho Aniki",
+        "id": 12286,
+        "ReleaseDate": "12/25/1995"
+    },
+    {
+        "GameTitle": "Hellfire S",
+        "id": 12904,
+        "ReleaseDate": "04/12/1991"
+    },
+    {
+        "GameTitle": "Snatcher",
+        "id": 12914,
+        "ReleaseDate": "10/23/1992"
+    },
+    {
+        "GameTitle": "Bonk 3: Bonk's Big Adventure",
+        "id": 13876,
+        "ReleaseDate": "12/01/1994"
+    },
+    {
+        "GameTitle": "Syd Mead's Terraforming",
+        "id": 13877,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Ginga Fukei Densetsu Sapphire",
+        "id": 18391,
+        "ReleaseDate": "11/24/1995"
+    },
+    {
+        "GameTitle": "Kaze Kiri: Ninja Action",
+        "id": 18392,
+        "ReleaseDate": "04/28/1994"
+    },
+    {
+        "GameTitle": "LEMMINGS",
+        "id": 18393
+    },
+    {
+        "GameTitle": "MOTOROADER MC",
+        "id": 18394
+    },
+    {
+        "GameTitle": "Psychic Storm",
+        "id": 18395
+    },
+    {
+        "GameTitle": "SEIREI SENSHI SPRIGGAN",
+        "id": 18396
+    },
+    {
+        "GameTitle": "Spriggan Mark 2: Re-Terraform Project",
+        "id": 18397,
+        "ReleaseDate": "05/01/1992"
+    },
+    {
+        "GameTitle": "STEAM HEARTS",
+        "id": 18399
+    },
+    {
+        "GameTitle": "Star Parodier",
+        "id": 18446,
+        "ReleaseDate": "04/24/1992"
+    },
+    {
+        "GameTitle": "Tengai Makyou: Kabuki Ittou Ryoudan",
+        "id": 18447,
+        "ReleaseDate": "02/24/1995"
+    },
+    {
+        "GameTitle": "Godzilla",
+        "id": 18848,
+        "ReleaseDate": "02/26/1993"
+    },
+    {
+        "GameTitle": "Valis IV",
+        "id": 18850,
+        "ReleaseDate": "08/23/1991"
+    },
+    {
+        "GameTitle": "4 In 1 Super CD",
+        "id": 18851,
+        "ReleaseDate": "10/10/1992"
+    },
+    {
+        "GameTitle": "Dynastic Hero",
+        "id": 18852,
+        "ReleaseDate": "05/20/1994"
+    },
+    {
+        "GameTitle": "Flash Hiders",
+        "id": 35923,
+        "ReleaseDate": "12/19/1993"
+    },
+    {
+        "GameTitle": "Dragon Ball Z: Idainaru Son Goku Densetsu",
+        "id": 20227,
+        "ReleaseDate": "11/11/1994"
+    },
+    {
+        "GameTitle": "Sylphia",
+        "id": 33161,
+        "ReleaseDate": "10/22/1993"
+    },
+    {
+        "GameTitle": "Mugen Senshi Valis: The Legend of A Fantasm Soldier",
+        "id": 24786,
+        "ReleaseDate": "03/19/1992"
+    },
+    {
+        "GameTitle": "Ai Cho Aniki",
+        "id": 24799,
+        "ReleaseDate": "02/24/1995"
+    },
+    {
+        "GameTitle": "Fray CD: Xak Gaiden",
+        "id": 25034,
+        "ReleaseDate": "03/30/1994"
+    },
+    {
+        "GameTitle": "Hyper Dyne Side Arms Special",
+        "id": 25035,
+        "ReleaseDate": "12/15/1989"
+    },
+    {
+        "GameTitle": "L-Dis",
+        "id": 25036,
+        "ReleaseDate": "04/05/1991"
+    },
+    {
+        "GameTitle": "Popful Mail: Magical Fantasy Adventure",
+        "id": 25037,
+        "ReleaseDate": "08/12/1994"
+    },
+    {
+        "GameTitle": "Rayxanber II",
+        "id": 25038,
+        "ReleaseDate": "06/07/1991"
+    },
+    {
+        "GameTitle": "Rayxanber III",
+        "id": 25039,
+        "ReleaseDate": "06/26/1992"
+    },
+    {
+        "GameTitle": "Kaizou Choujin Shubibinman 3: Ikai no Princess",
+        "id": 25538,
+        "ReleaseDate": "02/28/1992"
+    },
+    {
+        "GameTitle": "R-Type Complete CD",
+        "id": 25539,
+        "ReleaseDate": "12/20/1991"
+    },
+    {
+        "GameTitle": "Gradius II: Gofer no Yabou",
+        "id": 25540,
+        "ReleaseDate": "12/18/1992"
+    },
+    {
+        "GameTitle": "Kakutou Haou Densetsu Algunos",
+        "id": 35409,
+        "ReleaseDate": "01/28/1994"
+    },
+    {
+        "GameTitle": "Choujikuu Yousai Macross 2036",
+        "id": 25541,
+        "ReleaseDate": "04/03/1992"
+    },
+    {
+        "GameTitle": "DOWNLOAD 2",
+        "id": 25542,
+        "ReleaseDate": "03/29/1991"
+    },
+    {
+        "GameTitle": "Double Dragon II: The Revenge",
+        "id": 26638,
+        "ReleaseDate": "03/12/1993"
+    },
+    {
+        "GameTitle": "Fighting Street",
+        "id": 26639,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Jim Power",
+        "id": 26640,
+        "ReleaseDate": "03/19/1993"
+    },
+    {
+        "GameTitle": "Camp California",
+        "id": 26651,
+        "ReleaseDate": "01/01/1993"
+    },
+    {
+        "GameTitle": "Super Darius II",
+        "id": 27100,
+        "ReleaseDate": "02/17/2009"
+    },
+    {
+        "GameTitle": "Xanadu",
+        "id": 33162,
+        "ReleaseDate": "02/18/1994"
+    },
+    {
+        "GameTitle": "Xanadu II",
+        "id": 33163,
+        "ReleaseDate": "06/16/1995"
+    },
+    {
+        "GameTitle": "ADVANCED V.G.",
+        "id": 35196,
+        "ReleaseDate": "07/22/1994"
+    },
+    {
+        "GameTitle": "Shape Shifter",
+        "id": 28978,
+        "ReleaseDate": "09/25/1992"
+    },
+    {
+        "GameTitle": "Doraemon: Nobita no Dorabian Nights",
+        "id": 35389,
+        "ReleaseDate": "12/06/1991"
+    },
+    {
+        "GameTitle": "Cyber City Oedo 808: Attribute of the Beast",
+        "id": 29743
+    },
+    {
+        "GameTitle": "Sailor Moon",
+        "id": 29744
+    },
+    {
+        "GameTitle": "Dragon Half",
+        "id": 29745
+    },
+    {
+        "GameTitle": "Golden Axe",
+        "id": 29746
+    },
+    {
+        "GameTitle": "Ghost Sweeper Mikami",
+        "id": 29747
+    },
+    {
+        "GameTitle": "Metal Angel",
+        "id": 29748
+    },
+    {
+        "GameTitle": "Metal Angel II",
+        "id": 29749
+    },
+    {
+        "GameTitle": "Metamor Jupiter",
+        "id": 29750
+    },
+    {
+        "GameTitle": "Ranma 1/2",
+        "id": 29751
+    },
+    {
+        "GameTitle": "Art of Fighting",
+        "id": 29753
+    },
+    {
+        "GameTitle": "Yū Yū Hakusho Yamishōbu!! Ankoku Bujutsu Kai",
+        "id": 29754
+    },
+    {
+        "GameTitle": "Fausetté amour",
+        "id": 35407,
+        "ReleaseDate": "03/26/1993"
+    },
+    {
+        "GameTitle": "Wrestling Universe: Fire Pro Women: Dome Super Female Big Battle: All Japan Women VS J.W.P.",
+        "id": 31942,
+        "ReleaseDate": "02/03/1995"
+    },
+    {
+        "GameTitle": "Shin Nihon Pro Wrestling '94: Battlefield in Tokyo Dome",
+        "id": 31943,
+        "ReleaseDate": "11/25/1994"
+    },
+    {
+        "GameTitle": "Wrestle Angels: Double Impact",
+        "id": 31952,
+        "ReleaseDate": "05/15/1995"
+    },
+    {
+        "GameTitle": "Downtown Nekketsu Monogatari",
+        "id": 32729,
+        "ReleaseDate": "12/24/1993"
+    },
+    {
+        "GameTitle": "Image Fight II - Operation Deepstriker",
+        "id": 33029,
+        "ReleaseDate": "12/18/1992"
+    },
+    {
+        "GameTitle": "Startling Odyssey II",
+        "id": 33033,
+        "ReleaseDate": "10/21/1994"
+    },
+    {
+        "GameTitle": "Travel Eple",
+        "id": 35411,
+        "ReleaseDate": "09/04/1992"
+    },
+    {
+        "GameTitle": "Strider Hiryū",
+        "id": 33034,
+        "ReleaseDate": "09/22/1994"
+    },
+    {
+        "GameTitle": "Super Darius",
+        "id": 33035,
+        "ReleaseDate": "03/16/1990"
+    },
+    {
+        "GameTitle": "Super Raiden",
+        "id": 33036
+    },
+    {
+        "GameTitle": "Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai",
+        "id": 33148,
+        "ReleaseDate": "12/11/1992"
+    },
+    {
+        "GameTitle": "Nekketsu Koukou Dodgeball Bu: CD Soccer Hen",
+        "id": 33151,
+        "ReleaseDate": "12/20/1991"
+    },
+    {
+        "GameTitle": "Motteke Tamago",
+        "id": 33509,
+        "ReleaseDate": "04/16/1997"
+    },
+    {
+        "GameTitle": "Magical Dinosaur Tour",
+        "id": 34132,
+        "ReleaseDate": "08/24/1990"
+    },
+    {
+        "GameTitle": "Gain Ground SX",
+        "id": 34508
+    },
+    {
+        "GameTitle": "Dead of the Brain",
+        "id": 34509
+    },
+    {
+        "GameTitle": "Kiaidan 00",
+        "id": 34510
+    },
+    {
+        "GameTitle": "Langrisser: Kouki no Matsuei",
+        "id": 34511
+    },
+    {
+        "GameTitle": "Madou Monogatari I",
+        "id": 34512
+    },
+    {
+        "GameTitle": "Neo Nectaris",
+        "id": 34513
+    },
+    {
+        "GameTitle": "Renny Blaster",
+        "id": 34514
+    },
+    {
+        "GameTitle": "Space Fantasy Zone",
+        "id": 34515
+    },
+    {
+        "GameTitle": "Xak I + II",
+        "id": 34806,
+        "ReleaseDate": "12/25/1992"
+    },
+    {
+        "GameTitle": "Cosmic Fantasy: Bouken Shounen Yuu",
+        "id": 34808,
+        "ReleaseDate": "03/30/1990"
+    },
+    {
+        "GameTitle": "Mahjong Lemon Angel",
+        "id": 35111,
+        "ReleaseDate": "02/25/1994"
+    },
+    {
+        "GameTitle": "Cosmic Fantasy 2",
+        "id": 35689,
+        "ReleaseDate": "09/01/1992"
+    },
+    {
+        "GameTitle": "Tengai Makyou: Ziria",
+        "id": 36706,
+        "ReleaseDate": "06/30/1989"
+    }
+]}}
+]

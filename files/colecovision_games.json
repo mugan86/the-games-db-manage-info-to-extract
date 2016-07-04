@@ -1,0 +1,710 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Pippols",
+        "id": 35952,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Carnival",
+        "id": 3998
+    },
+    {
+        "GameTitle": "Cosmic Avenger",
+        "id": 3999
+    },
+    {
+        "GameTitle": "Donkey Kong",
+        "id": 4000
+    },
+    {
+        "GameTitle": "Donkey Kong Junior",
+        "id": 4001
+    },
+    {
+        "GameTitle": "Frenzy",
+        "id": 4002
+    },
+    {
+        "GameTitle": "Front Line",
+        "id": 4003
+    },
+    {
+        "GameTitle": "Gorf",
+        "id": 4004
+    },
+    {
+        "GameTitle": "Lady Bug",
+        "id": 4005
+    },
+    {
+        "GameTitle": "Looping",
+        "id": 4006
+    },
+    {
+        "GameTitle": "Mouse Trap",
+        "id": 4008
+    },
+    {
+        "GameTitle": "Mr. Do!",
+        "id": 4009
+    },
+    {
+        "GameTitle": "Nova Blast",
+        "id": 4010
+    },
+    {
+        "GameTitle": "Omega Race",
+        "id": 4011
+    },
+    {
+        "GameTitle": "Pepper II",
+        "id": 4012
+    },
+    {
+        "GameTitle": "Pitfall!",
+        "id": 4013
+    },
+    {
+        "GameTitle": "Q*bert",
+        "id": 4014
+    },
+    {
+        "GameTitle": "River Raid",
+        "id": 4015,
+        "ReleaseDate": "06/06/1984"
+    },
+    {
+        "GameTitle": "Rocky",
+        "id": 4016,
+        "ReleaseDate": "12/31/1983"
+    },
+    {
+        "GameTitle": "Roc 'N Rope",
+        "id": 4017
+    },
+    {
+        "GameTitle": "Slither",
+        "id": 4018
+    },
+    {
+        "GameTitle": "Smurf",
+        "id": 4019
+    },
+    {
+        "GameTitle": "Space Fury",
+        "id": 4020
+    },
+    {
+        "GameTitle": "SubRoc",
+        "id": 4021
+    },
+    {
+        "GameTitle": "Time Pilot",
+        "id": 4022
+    },
+    {
+        "GameTitle": "Turbo",
+        "id": 4023,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Zaxxon",
+        "id": 4024
+    },
+    {
+        "GameTitle": "Pooyan",
+        "id": 35953,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Zenji",
+        "id": 8257
+    },
+    {
+        "GameTitle": "James Bond 007",
+        "id": 10114
+    },
+    {
+        "GameTitle": "Joust",
+        "id": 10116
+    },
+    {
+        "GameTitle": "Gyruss",
+        "id": 10117
+    },
+    {
+        "GameTitle": "Frogger",
+        "id": 10118
+    },
+    {
+        "GameTitle": "Frogger II: Threeedeep!",
+        "id": 10119
+    },
+    {
+        "GameTitle": "Fraction Fever",
+        "id": 10121
+    },
+    {
+        "GameTitle": "Dig Dug",
+        "id": 10123
+    },
+    {
+        "GameTitle": "Alcazar: The Forgotten Fortress",
+        "id": 10253
+    },
+    {
+        "GameTitle": "Amazing Bumpman",
+        "id": 10254,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Antarctic Adventure",
+        "id": 10255,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Aquattack",
+        "id": 10256
+    },
+    {
+        "GameTitle": "Artillery Duel",
+        "id": 10257,
+        "ReleaseDate": "03/16/1983"
+    },
+    {
+        "GameTitle": "2010: The Graphic Action Game",
+        "id": 10258
+    },
+    {
+        "GameTitle": "B.C. II: Grog's Revenge",
+        "id": 10259
+    },
+    {
+        "GameTitle": "Beamrider",
+        "id": 10260
+    },
+    {
+        "GameTitle": "Blockade Runner",
+        "id": 10261
+    },
+    {
+        "GameTitle": "Boulder Dash",
+        "id": 10262
+    },
+    {
+        "GameTitle": "Brain Strainers",
+        "id": 10263
+    },
+    {
+        "GameTitle": "Buck Rogers: Planet of Zoom",
+        "id": 10264
+    },
+    {
+        "GameTitle": "Bump 'n' Jump",
+        "id": 10265
+    },
+    {
+        "GameTitle": "BurgerTime",
+        "id": 10266
+    },
+    {
+        "GameTitle": "Campaign '84",
+        "id": 10267
+    },
+    {
+        "GameTitle": "Centipede",
+        "id": 10268
+    },
+    {
+        "GameTitle": "Choplifter",
+        "id": 10269
+    },
+    {
+        "GameTitle": "Chuck Norris Superkicks",
+        "id": 10270
+    },
+    {
+        "GameTitle": "WarGames",
+        "id": 10278
+    },
+    {
+        "GameTitle": "Galaxian",
+        "id": 10280
+    },
+    {
+        "GameTitle": "Congo Bongo",
+        "id": 10281
+    },
+    {
+        "GameTitle": "Death Race",
+        "id": 10282
+    },
+    {
+        "GameTitle": "Defender",
+        "id": 10283
+    },
+    {
+        "GameTitle": "Cosmic Crisis",
+        "id": 10318
+    },
+    {
+        "GameTitle": "The Dam Busters",
+        "id": 10319
+    },
+    {
+        "GameTitle": "Dance Fantasy",
+        "id": 10320
+    },
+    {
+        "GameTitle": "Decathlon",
+        "id": 10321
+    },
+    {
+        "GameTitle": "Destructor",
+        "id": 10322
+    },
+    {
+        "GameTitle": "Dr. Seuss' Fix-Up the Mix-Up Puzzler",
+        "id": 10323
+    },
+    {
+        "GameTitle": "Dragonfire",
+        "id": 10324,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "The Dukes of Hazzard",
+        "id": 10325
+    },
+    {
+        "GameTitle": "Escape from the Mindmaster",
+        "id": 10326
+    },
+    {
+        "GameTitle": "Evolution",
+        "id": 10327
+    },
+    {
+        "GameTitle": "Facemaker",
+        "id": 10328
+    },
+    {
+        "GameTitle": "Fathom",
+        "id": 10329
+    },
+    {
+        "GameTitle": "Flipper Slipper",
+        "id": 10330,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Fortune Builder",
+        "id": 10331
+    },
+    {
+        "GameTitle": "Frantic Freddy",
+        "id": 10332
+    },
+    {
+        "GameTitle": "Tarzan",
+        "id": 10333,
+        "ReleaseDate": "05/09/1984"
+    },
+    {
+        "GameTitle": "Gateway to Apshai",
+        "id": 10336
+    },
+    {
+        "GameTitle": "Gulkave",
+        "id": 10337
+    },
+    {
+        "GameTitle": "Gust Buster",
+        "id": 10338
+    },
+    {
+        "GameTitle": "H.E.R.O.",
+        "id": 10339
+    },
+    {
+        "GameTitle": "The Heist",
+        "id": 10340
+    },
+    {
+        "GameTitle": "Illusions",
+        "id": 10341,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "It's Only Rock 'N Roll",
+        "id": 10342
+    },
+    {
+        "GameTitle": "Jukebox",
+        "id": 10343
+    },
+    {
+        "GameTitle": "Jumpman Junior",
+        "id": 10344,
+        "ReleaseDate": "12/01/1984"
+    },
+    {
+        "GameTitle": "Jungle Hunt",
+        "id": 10345,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Ken Uston's Blackjack/Poker",
+        "id": 10346,
+        "ReleaseDate": "12/01/1982"
+    },
+    {
+        "GameTitle": "Keystone Kapers",
+        "id": 10348
+    },
+    {
+        "GameTitle": "Learning with Leeper",
+        "id": 10349,
+        "ReleaseDate": "12/08/1984"
+    },
+    {
+        "GameTitle": "Linking Logic",
+        "id": 10350
+    },
+    {
+        "GameTitle": "Logic Levels",
+        "id": 10351
+    },
+    {
+        "GameTitle": "Memory Manor",
+        "id": 10402
+    },
+    {
+        "GameTitle": "Meteoric Shower",
+        "id": 10403
+    },
+    {
+        "GameTitle": "Miner 2049er",
+        "id": 10404
+    },
+    {
+        "GameTitle": "Monkey Academy",
+        "id": 10405,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Montezuma's Revenge",
+        "id": 10406
+    },
+    {
+        "GameTitle": "Moonsweeper",
+        "id": 10407
+    },
+    {
+        "GameTitle": "Motocross Racer",
+        "id": 10408
+    },
+    {
+        "GameTitle": "Mountain King",
+        "id": 10409
+    },
+    {
+        "GameTitle": "Mr. Do's Castle",
+        "id": 10410
+    },
+    {
+        "GameTitle": "Pitfall II: Lost Caverns",
+        "id": 10411,
+        "ReleaseDate": "12/01/1984"
+    },
+    {
+        "GameTitle": "Pitstop",
+        "id": 10412
+    },
+    {
+        "GameTitle": "Popeye",
+        "id": 10413
+    },
+    {
+        "GameTitle": "Q*bert's Qubes",
+        "id": 10414
+    },
+    {
+        "GameTitle": "Quest for Quintana Roo",
+        "id": 10415,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Robin Hood",
+        "id": 10416
+    },
+    {
+        "GameTitle": "Rock 'N Bolt",
+        "id": 10417
+    },
+    {
+        "GameTitle": "Rocky Super Action Boxing",
+        "id": 10418
+    },
+    {
+        "GameTitle": "Rolloverture",
+        "id": 10419
+    },
+    {
+        "GameTitle": "Sammy Lightfoot",
+        "id": 10420
+    },
+    {
+        "GameTitle": "Sector Alpha",
+        "id": 10421,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Sewer Sam",
+        "id": 10422
+    },
+    {
+        "GameTitle": "Sir Lancelot",
+        "id": 10423
+    },
+    {
+        "GameTitle": "Slurpy",
+        "id": 10424,
+        "ReleaseDate": "09/20/1984"
+    },
+    {
+        "GameTitle": "Smurf Paint 'n' Play Workshop",
+        "id": 10425
+    },
+    {
+        "GameTitle": "Smurf: Rescue in Gargamel's Castle",
+        "id": 10426
+    },
+    {
+        "GameTitle": "Space Panic",
+        "id": 10427
+    },
+    {
+        "GameTitle": "Spectron",
+        "id": 10428
+    },
+    {
+        "GameTitle": "Star Trek: Strategic Operations Simulator",
+        "id": 10429,
+        "ReleaseDate": "12/01/1984"
+    },
+    {
+        "GameTitle": "Star Wars: The Arcade Game",
+        "id": 10430
+    },
+    {
+        "GameTitle": "Steamroller",
+        "id": 10431
+    },
+    {
+        "GameTitle": "Strike It!",
+        "id": 10432
+    },
+    {
+        "GameTitle": "Super Action Baseball",
+        "id": 10433
+    },
+    {
+        "GameTitle": "Super Action Football",
+        "id": 10434
+    },
+    {
+        "GameTitle": "Super Action Soccer",
+        "id": 10435
+    },
+    {
+        "GameTitle": "Super Cross Force",
+        "id": 10436,
+        "ReleaseDate": "12/01/1983"
+    },
+    {
+        "GameTitle": "Tank Wars",
+        "id": 10437
+    },
+    {
+        "GameTitle": "Telly Turtle",
+        "id": 10438
+    },
+    {
+        "GameTitle": "Threshold",
+        "id": 10439
+    },
+    {
+        "GameTitle": "Tomarc the Barbarian",
+        "id": 10440
+    },
+    {
+        "GameTitle": "Tournament Tennis",
+        "id": 10441
+    },
+    {
+        "GameTitle": "Tutankham",
+        "id": 10443
+    },
+    {
+        "GameTitle": "Up'n Down",
+        "id": 10444
+    },
+    {
+        "GameTitle": "Victory",
+        "id": 10445
+    },
+    {
+        "GameTitle": "War Room",
+        "id": 10446
+    },
+    {
+        "GameTitle": "Wing War",
+        "id": 10447
+    },
+    {
+        "GameTitle": "The Wizard of Id's Wiz Math",
+        "id": 10448
+    },
+    {
+        "GameTitle": "Word Feud",
+        "id": 10449
+    },
+    {
+        "GameTitle": "Cabbage Patch Kids: Adventures in the Park",
+        "id": 12962,
+        "ReleaseDate": "12/01/1984"
+    },
+    {
+        "GameTitle": "Cabbage Patch Kids: Picture Show",
+        "id": 12963
+    },
+    {
+        "GameTitle": "Oil's Well",
+        "id": 12964
+    },
+    {
+        "GameTitle": "Squish 'Em Featuring Sam",
+        "id": 18663,
+        "ReleaseDate": "05/01/1984"
+    },
+    {
+        "GameTitle": "B.C.'s Quest for Tires",
+        "id": 18664,
+        "ReleaseDate": "04/02/2013"
+    },
+    {
+        "GameTitle": "Venture",
+        "id": 18665,
+        "ReleaseDate": "04/06/1982"
+    },
+    {
+        "GameTitle": "Root Beer Tapper",
+        "id": 28146
+    },
+    {
+        "GameTitle": "Alphabet Zoo",
+        "id": 32931,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "One-on-One Basketball",
+        "id": 32932,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Skiing",
+        "id": 32933
+    },
+    {
+        "GameTitle": "Spy Hunter",
+        "id": 32934,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Super Cobra",
+        "id": 32935,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "M.A.S.H",
+        "id": 36771,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Adam's Musicbox Demo",
+        "id": 36815,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "ColecoVision Monitor Test",
+        "id": 36820,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Fall Guy",
+        "id": 36821,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Final Test Cartridge",
+        "id": 36822,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Moon Patrol",
+        "id": 36823,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Ms. Space Fury",
+        "id": 36824,
+        "ReleaseDate": "01/01/2001"
+    },
+    {
+        "GameTitle": "Pac-Man",
+        "id": 36825,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Porky's",
+        "id": 36826,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Power Lords - Quest for Volcan",
+        "id": 36827,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Super Controller Tester",
+        "id": 36828,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Super DK!",
+        "id": 36829,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Super DK! Junior",
+        "id": 36830,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Tunnels & Trolls",
+        "id": 36831,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Video Hustler",
+        "id": 36833,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "The Yolk's on You",
+        "id": 36834,
+        "ReleaseDate": "01/01/1983"
+    }
+]}}
+]

@@ -1,0 +1,609 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Dynasty",
+        "id": 22838,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Helicopter Rescue",
+        "id": 22846,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Hockey / Soccer",
+        "id": 22847,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Invaders from Hyperspace",
+        "id": 22848,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "I've Got Your Number",
+        "id": 22849,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "K.C. Munchkin",
+        "id": 22850,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Cosmic Conflict",
+        "id": 22834,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Football!",
+        "id": 22842,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Frogger",
+        "id": 22844,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "4 in 1 Row",
+        "id": 22809,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Air-Sea War / Battle",
+        "id": 22810,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Alien Invaders Plus",
+        "id": 22811,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Alpine Skiing",
+        "id": 22812,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "AMOK!",
+        "id": 22813
+    },
+    {
+        "GameTitle": "Armada",
+        "id": 22814,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Atlantis",
+        "id": 22816,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Attack of the Timelord",
+        "id": 22817,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Baseball",
+        "id": 22818,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Backgammon",
+        "id": 22819,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Blackjack!",
+        "id": 22820
+    },
+    {
+        "GameTitle": "Blobbers",
+        "id": 22821,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Blockout / Breakdown",
+        "id": 22822,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Bowling / Basketball",
+        "id": 22823,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Casino Slot Machine",
+        "id": 22824,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Catch the Ball / Noughts and Crosses",
+        "id": 22825,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Chez Maxime",
+        "id": 22826,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Chinese Logic",
+        "id": 22827,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Clay Pigeon!",
+        "id": 22828,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Comando Noturno",
+        "id": 22830,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Computer Golf",
+        "id": 22831,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Computer Intro",
+        "id": 22832,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Conquest of the World",
+        "id": 22833,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Demon Attack",
+        "id": 22836,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Depth Charge / Marksman",
+        "id": 22837,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Didi na Mina Encantada",
+        "id": 22839
+    },
+    {
+        "GameTitle": "Electronic Table Soccer",
+        "id": 22840,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Exojet +",
+        "id": 22841,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Freedom Fighters",
+        "id": 22843,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Great Wall Street Fortune Hunt",
+        "id": 22845,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "K.C.'s Krazy Chase",
+        "id": 22851,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Keyboard Creations",
+        "id": 22852,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Killer Bees",
+        "id": 22853,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Kinder im Verkehr 1",
+        "id": 22854,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Labyrinth Game / Supermind",
+        "id": 22855,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Las Vegas Blackjack",
+        "id": 22856,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Le Trésor Englouti +",
+        "id": 22857,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Loony Balloon",
+        "id": 22858,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Matchmaker / Buzzword / Logix",
+        "id": 22859,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Math-A-Magic / Echo",
+        "id": 22860,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Monkeyshines",
+        "id": 22861,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Morse",
+        "id": 22862,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Moto-Crash +",
+        "id": 22863,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "The Mousing Cat",
+        "id": 22864,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Musician",
+        "id": 22865,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Neutron Star",
+        "id": 22866,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Nightmare",
+        "id": 22867,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Nimble Numbers Ned",
+        "id": 22868,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Norseman",
+        "id": 22869,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Out of this World / Helicopter Rescue",
+        "id": 22870,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Pachinko",
+        "id": 22871,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Pick Axe Pete",
+        "id": 22872,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Pocket Billiards",
+        "id": 22873,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Popeye",
+        "id": 22874,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Power Lords",
+        "id": 22875,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "P.T. Barnum's Acrobats",
+        "id": 22876,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Q*Bert",
+        "id": 22877,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Race / Spin-Out / Cryptogram",
+        "id": 22879,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "SID the Spellbinder",
+        "id": 22880
+    },
+    {
+        "GameTitle": "Secret of the Pharaohs",
+        "id": 22881,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Showdown in 2100 AD",
+        "id": 22882,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Smithereens",
+        "id": 22883,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Speedway / Spin-Out / Crypto-Logic",
+        "id": 22884,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Armored Encounter / Sub Chase",
+        "id": 22885
+    },
+    {
+        "GameTitle": "Super Bee",
+        "id": 22886,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Super Cobra",
+        "id": 22887,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Syracuse",
+        "id": 22888,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Take the Money and Run",
+        "id": 22889,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Thunderball",
+        "id": 22890,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Trans American Rally",
+        "id": 22891,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Turtles",
+        "id": 22892,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Type & Tell",
+        "id": 22893,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "UFO!",
+        "id": 22894,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Volleyball",
+        "id": 22895,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "War of Nerves",
+        "id": 22896,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Mr. Roboto!",
+        "id": 22897
+    },
+    {
+        "GameTitle": "Planet Lander!",
+        "id": 22898
+    },
+    {
+        "GameTitle": "Puzzle Piece Panic!",
+        "id": 22899
+    },
+    {
+        "GameTitle": "The Quest for the Rings",
+        "id": 22900,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Calculator",
+        "id": 22901
+    },
+    {
+        "GameTitle": "Pinball",
+        "id": 22903
+    },
+    {
+        "GameTitle": "Pong",
+        "id": 22904
+    },
+    {
+        "GameTitle": "Tutankham",
+        "id": 22905
+    },
+    {
+        "GameTitle": "Electronic Volleyball",
+        "id": 22906
+    },
+    {
+        "GameTitle": "Stone Sling",
+        "id": 22909
+    },
+    {
+        "GameTitle": "Spider-Man",
+        "id": 22910
+    },
+    {
+        "GameTitle": "Skiing",
+        "id": 22911
+    },
+    {
+        "GameTitle": "Shark Hunter",
+        "id": 22912
+    },
+    {
+        "GameTitle": "Satellite Attack",
+        "id": 22913
+    },
+    {
+        "GameTitle": "Samurai",
+        "id": 22914
+    },
+    {
+        "GameTitle": "Robot City",
+        "id": 22915
+    },
+    {
+        "GameTitle": "Red Baron",
+        "id": 22916
+    },
+    {
+        "GameTitle": "Prendre l'Argent et Fuir",
+        "id": 22917
+    },
+    {
+        "GameTitle": "Pairs / Space Rendezvous / Logic",
+        "id": 22918
+    },
+    {
+        "GameTitle": "O Segredo do Farao",
+        "id": 22919
+    },
+    {
+        "GameTitle": "O Malabarista / Jogo da Velha",
+        "id": 22920
+    },
+    {
+        "GameTitle": "Night Fighter",
+        "id": 22921
+    },
+    {
+        "GameTitle": "Newscaster",
+        "id": 22922
+    },
+    {
+        "GameTitle": "Le Mur Magique",
+        "id": 22923
+    },
+    {
+        "GameTitle": "Munchkin",
+        "id": 22924
+    },
+    {
+        "GameTitle": "Missão Impossível / Viagem Programada",
+        "id": 22925
+    },
+    {
+        "GameTitle": "Mathematician / Echo",
+        "id": 22926,
+        "ReleaseDate": "01/01/1978"
+    },
+    {
+        "GameTitle": "Martian Threat",
+        "id": 22927
+    },
+    {
+        "GameTitle": "Laser War",
+        "id": 22928
+    },
+    {
+        "GameTitle": "Las Vegas Gambling",
+        "id": 22929
+    },
+    {
+        "GameTitle": "Jumping Acrobats",
+        "id": 22930
+    },
+    {
+        "GameTitle": "Tenpin Bowling / Basketball",
+        "id": 22931
+    },
+    {
+        "GameTitle": "Interpol",
+        "id": 22932
+    },
+    {
+        "GameTitle": "Gunfighter",
+        "id": 22933
+    },
+    {
+        "GameTitle": "Golf",
+        "id": 22934
+    },
+    {
+        "GameTitle": "Computer Programmer",
+        "id": 22936
+    },
+    {
+        "GameTitle": "Buraco Negro!",
+        "id": 22937
+    },
+    {
+        "GameTitle": "Bombardeio Submarino / Tiro ao Alvo",
+        "id": 22938
+    },
+    {
+        "GameTitle": "Billiard Americain",
+        "id": 22939
+    },
+    {
+        "GameTitle": "Flipper Game",
+        "id": 22940
+    },
+    {
+        "GameTitle": "Chat et Souris",
+        "id": 37121,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Chess",
+        "id": 37122,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Playtag",
+        "id": 37123,
+        "ReleaseDate": "11/01/1996"
+    },
+    {
+        "GameTitle": "Verkehrsspiele 1",
+        "id": 37124,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Verkehrsspiele 2",
+        "id": 37125,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Desafio Chinês!",
+        "id": 37582
+    }
+]}}
+]

@@ -1,0 +1,458 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Tonpuusou",
+        "id": 31925,
+        "ReleaseDate": "06/28/2001"
+    },
+    {
+        "GameTitle": "Blue Wing Blitz",
+        "id": 19544,
+        "ReleaseDate": "07/15/2001"
+    },
+    {
+        "GameTitle": "Battle Spirit: Digimon Frontier",
+        "id": 19633,
+        "ReleaseDate": "12/07/2002"
+    },
+    {
+        "GameTitle": "Dicing Knight Period",
+        "id": 19634,
+        "ReleaseDate": "05/31/2004"
+    },
+    {
+        "GameTitle": "Battle Spirit: Digimon Tamers Ver 1.5",
+        "id": 19635,
+        "ReleaseDate": "04/27/2002"
+    },
+    {
+        "GameTitle": "Final Lap Special: GT & Formula Machine",
+        "id": 19636,
+        "ReleaseDate": "11/15/2001"
+    },
+    {
+        "GameTitle": "Guilty Gear Petit 2",
+        "id": 19637,
+        "ReleaseDate": "09/27/2001"
+    },
+    {
+        "GameTitle": "Judgement Silversword: Rebirth Edition",
+        "id": 19638,
+        "ReleaseDate": "02/02/2004"
+    },
+    {
+        "GameTitle": "One Piece Grand Battle: Swan Colosseum",
+        "id": 19639,
+        "ReleaseDate": "07/12/2002"
+    },
+    {
+        "GameTitle": "RockMan EXE WS",
+        "id": 19640,
+        "ReleaseDate": "02/08/2003"
+    },
+    {
+        "GameTitle": "Run=Dim: Return to Earth",
+        "id": 19641,
+        "ReleaseDate": "02/07/2002"
+    },
+    {
+        "GameTitle": "Ultraman: Hikari no Kuni no Shisha",
+        "id": 19642,
+        "ReleaseDate": "06/21/2001"
+    },
+    {
+        "GameTitle": "Wonder Classic",
+        "id": 19643,
+        "ReleaseDate": "01/18/2001"
+    },
+    {
+        "GameTitle": "Dragon Ball",
+        "id": 19796,
+        "ReleaseDate": "11/20/2003"
+    },
+    {
+        "GameTitle": "Final Fantasy",
+        "id": 19797,
+        "ReleaseDate": "12/09/2000"
+    },
+    {
+        "GameTitle": "Mr. Driller",
+        "id": 19798,
+        "ReleaseDate": "04/15/2001"
+    },
+    {
+        "GameTitle": "Alchemist Marie & Elie: Futari no Atelier",
+        "id": 27693,
+        "ReleaseDate": "10/25/2001"
+    },
+    {
+        "GameTitle": "Another Heaven: Memory of Those Days",
+        "id": 27694,
+        "ReleaseDate": "12/21/2000"
+    },
+    {
+        "GameTitle": "Arc the Lad: Kijin Fukkatsu",
+        "id": 27695,
+        "ReleaseDate": "07/04/2002"
+    },
+    {
+        "GameTitle": "Digimon Tamers: Battle Spirit",
+        "id": 27696,
+        "ReleaseDate": "10/05/2001"
+    },
+    {
+        "GameTitle": "Dark Eyes: BattleGate",
+        "id": 27697,
+        "ReleaseDate": "03/15/2001"
+    },
+    {
+        "GameTitle": "Digimon Anode/Cathode Tamer: Veedramon Version",
+        "id": 27698,
+        "ReleaseDate": "09/18/2001"
+    },
+    {
+        "GameTitle": "Digimon Adventure 02: D-1 Tamers",
+        "id": 27699,
+        "ReleaseDate": "12/09/2000"
+    },
+    {
+        "GameTitle": "Digimon Tamers: Brave Tamer",
+        "id": 27700,
+        "ReleaseDate": "12/29/2001"
+    },
+    {
+        "GameTitle": "Digimon Tamers: Digimon Medley",
+        "id": 27701,
+        "ReleaseDate": "07/12/2001"
+    },
+    {
+        "GameTitle": "Digital Monsters: D Project",
+        "id": 27702,
+        "ReleaseDate": "08/03/2002"
+    },
+    {
+        "GameTitle": "Digital Monsters Card Game Ver. WonderSwan Color",
+        "id": 27703,
+        "ReleaseDate": "03/16/2002"
+    },
+    {
+        "GameTitle": "Dokodemo Hamster 3: O Dekake Safuran",
+        "id": 27704,
+        "ReleaseDate": "12/14/2000"
+    },
+    {
+        "GameTitle": "Final Fantasy II",
+        "id": 27705,
+        "ReleaseDate": "05/02/2001"
+    },
+    {
+        "GameTitle": "Final Fantasy IV",
+        "id": 27706,
+        "ReleaseDate": "03/29/2002"
+    },
+    {
+        "GameTitle": "Flash Koibito-Kun",
+        "id": 27707,
+        "ReleaseDate": "12/28/2000"
+    },
+    {
+        "GameTitle": "One Piece: Chopper no Daibouken",
+        "id": 27708,
+        "ReleaseDate": "10/16/2003"
+    },
+    {
+        "GameTitle": "One Piece: Niji no Shima Densetsu",
+        "id": 27709,
+        "ReleaseDate": "09/13/2001"
+    },
+    {
+        "GameTitle": "One Piece: Treasure Wars",
+        "id": 27710,
+        "ReleaseDate": "01/02/2002"
+    },
+    {
+        "GameTitle": "One Piece: Treasure Wars 2: Buggyland e Youkoso",
+        "id": 27711,
+        "ReleaseDate": "12/20/2002"
+    },
+    {
+        "GameTitle": "Front Mission",
+        "id": 27712,
+        "ReleaseDate": "07/12/2002"
+    },
+    {
+        "GameTitle": "Gekitou! Crash Gear Turbo: Gear Champion League",
+        "id": 27713,
+        "ReleaseDate": "08/10/2002"
+    },
+    {
+        "GameTitle": "Gensou Maden Saiyuuki Retribution: Hi no Ataru Basho De",
+        "id": 27714,
+        "ReleaseDate": "06/07/2001"
+    },
+    {
+        "GameTitle": "Golden Axe",
+        "id": 27715,
+        "ReleaseDate": "02/28/2002"
+    },
+    {
+        "GameTitle": "Gransta Chronicle",
+        "id": 27716,
+        "ReleaseDate": "06/13/2002"
+    },
+    {
+        "GameTitle": "Guilty Gear Petit",
+        "id": 27717,
+        "ReleaseDate": "01/25/2001"
+    },
+    {
+        "GameTitle": "Gunpey EX",
+        "id": 27718,
+        "ReleaseDate": "12/09/2000"
+    },
+    {
+        "GameTitle": "Hanjuku Hero: Aa, Sekaiyo Hanjukunare...!",
+        "id": 27719,
+        "ReleaseDate": "02/14/2002"
+    },
+    {
+        "GameTitle": "Hataraku Chocobo",
+        "id": 27720,
+        "ReleaseDate": "09/21/2000"
+    },
+    {
+        "GameTitle": "Hunter X Hunter: Greed Island",
+        "id": 27721,
+        "ReleaseDate": "04/24/2003"
+    },
+    {
+        "GameTitle": "Hunter X Hunter: Michibi Kareshi Mono",
+        "id": 27722,
+        "ReleaseDate": "08/23/2001"
+    },
+    {
+        "GameTitle": "Hunter X Hunter: Sorezore no Ketsui",
+        "id": 27724,
+        "ReleaseDate": "04/26/2001"
+    },
+    {
+        "GameTitle": "Inuyasha: Fuuun Emaki",
+        "id": 27725,
+        "ReleaseDate": "07/27/2002"
+    },
+    {
+        "GameTitle": "Inuyasha: Kagome no Sengoku Nikki",
+        "id": 27726,
+        "ReleaseDate": "11/02/2001"
+    },
+    {
+        "GameTitle": "Inuyasha: Kagome no Yume Nikki",
+        "id": 27727,
+        "ReleaseDate": "11/16/2002"
+    },
+    {
+        "GameTitle": "Kidou Senshi Gundam Seed",
+        "id": 27728,
+        "ReleaseDate": "03/15/2003"
+    },
+    {
+        "GameTitle": "Kidou Senshi Gundam Vol. 1 SIDE7",
+        "id": 27729,
+        "ReleaseDate": "02/01/2001"
+    },
+    {
+        "GameTitle": "Kidou Senshi Gundam Vol. 2 Jaburo",
+        "id": 27730,
+        "ReleaseDate": "08/16/2001"
+    },
+    {
+        "GameTitle": "Kidou Senshi Gundam Vol. 3 A Baoa Qu",
+        "id": 27731,
+        "ReleaseDate": "05/25/2002"
+    },
+    {
+        "GameTitle": "Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha",
+        "id": 27732,
+        "ReleaseDate": "05/02/2003"
+    },
+    {
+        "GameTitle": "Kinnikuman Nisei: Choujin Seisenshi",
+        "id": 27733,
+        "ReleaseDate": "01/30/2003"
+    },
+    {
+        "GameTitle": "Kinnikuman Nisei: Dream Tag Match",
+        "id": 27734,
+        "ReleaseDate": "03/02/2002"
+    },
+    {
+        "GameTitle": "Kurupara!",
+        "id": 27735,
+        "ReleaseDate": "06/14/2001"
+    },
+    {
+        "GameTitle": "Last Alive",
+        "id": 27736,
+        "ReleaseDate": "07/26/2001"
+    },
+    {
+        "GameTitle": "Makai Toushi SaGa",
+        "id": 27738,
+        "ReleaseDate": "03/20/2002"
+    },
+    {
+        "GameTitle": "Meitantei Conan: Yuugure no Ouju",
+        "id": 27739,
+        "ReleaseDate": "04/15/2001"
+    },
+    {
+        "GameTitle": "Memories Off Festa",
+        "id": 27740,
+        "ReleaseDate": "03/08/2001"
+    },
+    {
+        "GameTitle": "Mikeneko Holmes: Ghost Panic",
+        "id": 27741,
+        "ReleaseDate": "04/26/2001"
+    },
+    {
+        "GameTitle": "Namco Super Wars",
+        "id": 27742,
+        "ReleaseDate": "10/31/2002"
+    },
+    {
+        "GameTitle": "Naruto: Konoha Ninpouchou",
+        "id": 27743,
+        "ReleaseDate": "03/27/2003"
+    },
+    {
+        "GameTitle": "Pocket no Naka no Doraemon",
+        "id": 27744,
+        "ReleaseDate": "05/24/2001"
+    },
+    {
+        "GameTitle": "Raku Jongg",
+        "id": 27745,
+        "ReleaseDate": "05/31/2001"
+    },
+    {
+        "GameTitle": "Rhyme Rider Kerorican",
+        "id": 27747,
+        "ReleaseDate": "12/06/2000"
+    },
+    {
+        "GameTitle": "Riviera: Yakusoku no Chi Riviera",
+        "id": 27748,
+        "ReleaseDate": "07/12/2002"
+    },
+    {
+        "GameTitle": "RockMan EXE N1 Battle",
+        "id": 27749,
+        "ReleaseDate": "08/08/2003"
+    },
+    {
+        "GameTitle": "Romancing SaGa",
+        "id": 27750,
+        "ReleaseDate": "12/20/2001"
+    },
+    {
+        "GameTitle": "Saint Seiya: Ougon Densetsuhen Perfect Edition",
+        "id": 27751,
+        "ReleaseDate": "07/31/2003"
+    },
+    {
+        "GameTitle": "SD Gundam Eiyuuden: Kishi Densetsu",
+        "id": 27752,
+        "ReleaseDate": "03/15/2001"
+    },
+    {
+        "GameTitle": "SD Gundam Eiyuuden: Musha Densetsu",
+        "id": 27753,
+        "ReleaseDate": "03/15/2001"
+    },
+    {
+        "GameTitle": "SD Gundam: Operation U.C.",
+        "id": 27754,
+        "ReleaseDate": "02/16/2002"
+    },
+    {
+        "GameTitle": "SD Gundam G Generation: Gather Beat 2",
+        "id": 27755,
+        "ReleaseDate": "06/14/2001"
+    },
+    {
+        "GameTitle": "SD Gundam G Generation: Mono-Eye Gundams",
+        "id": 27756,
+        "ReleaseDate": "09/26/2002"
+    },
+    {
+        "GameTitle": "Shaman King: Asu e no Ishi",
+        "id": 27757,
+        "ReleaseDate": "08/29/2002"
+    },
+    {
+        "GameTitle": "Soroban Gu",
+        "id": 27760,
+        "ReleaseDate": "12/09/2000"
+    },
+    {
+        "GameTitle": "Star Hearts: Hoshi to Daichi no Shisha",
+        "id": 27761,
+        "ReleaseDate": "09/27/2001"
+    },
+    {
+        "GameTitle": "Super Robot Taisen Compact 3",
+        "id": 27762,
+        "ReleaseDate": "07/17/2003"
+    },
+    {
+        "GameTitle": "Super Robot Taisen Compact for WonderSwan Color",
+        "id": 27763,
+        "ReleaseDate": "12/13/2001"
+    },
+    {
+        "GameTitle": "Terrors 2",
+        "id": 27764,
+        "ReleaseDate": "12/21/2000"
+    },
+    {
+        "GameTitle": "Tetris",
+        "id": 27765,
+        "ReleaseDate": "04/18/2002"
+    },
+    {
+        "GameTitle": "Uchuu Senkan Yamato",
+        "id": 27766,
+        "ReleaseDate": "02/08/2001"
+    },
+    {
+        "GameTitle": "Wild Card",
+        "id": 27767,
+        "ReleaseDate": "03/29/2001"
+    },
+    {
+        "GameTitle": "X: Card of Fate",
+        "id": 27768,
+        "ReleaseDate": "06/27/2002"
+    },
+    {
+        "GameTitle": "With You: Mitsumete Itai",
+        "id": 27769,
+        "ReleaseDate": "01/25/2001"
+    },
+    {
+        "GameTitle": "Wizardry Scenario #1: Proving Grounds of the Mad Overlord",
+        "id": 27770,
+        "ReleaseDate": "03/01/2001"
+    },
+    {
+        "GameTitle": "XI (sai) Little",
+        "id": 27771,
+        "ReleaseDate": "12/20/2001"
+    },
+    {
+        "GameTitle": "Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori",
+        "id": 34145,
+        "ReleaseDate": "12/21/2000"
+    }
+]}}
+]

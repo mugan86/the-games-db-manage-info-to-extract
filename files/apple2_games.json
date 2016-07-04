@@ -1,0 +1,74 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "The Bilestoad",
+        "id": 35243,
+        "ReleaseDate": "02/02/1982"
+    },
+    {
+        "GameTitle": "Castle Wolfenstein",
+        "id": 32733,
+        "ReleaseDate": "06/17/1981"
+    },
+    {
+        "GameTitle": "Beyond Castle Wolfenstein",
+        "id": 32734,
+        "ReleaseDate": "02/09/1984"
+    },
+    {
+        "GameTitle": "Bolo",
+        "id": 35244,
+        "ReleaseDate": "02/01/1982"
+    },
+    {
+        "GameTitle": "Star Blazer",
+        "id": 35245,
+        "ReleaseDate": "02/02/1982"
+    },
+    {
+        "GameTitle": "Ultima I",
+        "id": 35786,
+        "ReleaseDate": "03/03/1981"
+    },
+    {
+        "GameTitle": "Wizardry",
+        "id": 35787
+    },
+    {
+        "GameTitle": "Swashbuckler",
+        "id": 35788
+    },
+    {
+        "GameTitle": "Choplifter",
+        "id": 35789
+    },
+    {
+        "GameTitle": "Lode Runner",
+        "id": 35791
+    },
+    {
+        "GameTitle": "Cavern Creatures",
+        "id": 35792
+    },
+    {
+        "GameTitle": "Karateka",
+        "id": 35794
+    },
+    {
+        "GameTitle": "The Oregon Trail",
+        "id": 35795
+    },
+    {
+        "GameTitle": "The Bard's Tale",
+        "id": 35796
+    },
+    {
+        "GameTitle": "Prince of Persia",
+        "id": 35797,
+        "ReleaseDate": "10/03/1989"
+    },
+    {
+        "GameTitle": "Pinball Construction Set",
+        "id": 35798
+    }
+]}}
+]

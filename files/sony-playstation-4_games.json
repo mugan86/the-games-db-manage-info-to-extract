@@ -1,0 +1,2105 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Samurai Warriors 4",
+        "id": 23882,
+        "ReleaseDate": "10/21/2014"
+    },
+    {
+        "GameTitle": "Bloodborne: The Old Hunters",
+        "id": 35213,
+        "ReleaseDate": "11/22/2015"
+    },
+    {
+        "GameTitle": "The Witness",
+        "id": 17111
+    },
+    {
+        "GameTitle": "Handball 16",
+        "id": 35158,
+        "ReleaseDate": "11/30/2015"
+    },
+    {
+        "GameTitle": "Life is Strange - Limited Edition",
+        "id": 35162,
+        "ReleaseDate": "01/19/2016"
+    },
+    {
+        "GameTitle": "Mighty No. 9",
+        "id": 35161,
+        "ReleaseDate": "06/21/2016"
+    },
+    {
+        "GameTitle": "Peanuts Movie: Snoopy's Grand Adventure",
+        "id": 35156,
+        "ReleaseDate": "11/03/2015"
+    },
+    {
+        "GameTitle": "République - Contraband Edition",
+        "id": 35157,
+        "ReleaseDate": "03/04/2016"
+    },
+    {
+        "GameTitle": "The Witcher 3: Hearts of Stone",
+        "id": 34529,
+        "ReleaseDate": "10/12/2015"
+    },
+    {
+        "GameTitle": "Saint Seiya: Soldiers\u2019 Soul",
+        "id": 35159,
+        "ReleaseDate": "10/06/2015"
+    },
+    {
+        "GameTitle": "Tom Clancy's: The Division Collector's Edition",
+        "id": 35415,
+        "ReleaseDate": "03/08/2016"
+    },
+    {
+        "GameTitle": "Just Dance 2016",
+        "id": 33060,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "Resident Evil 6",
+        "id": 35888,
+        "ReleaseDate": "03/29/2016"
+    },
+    {
+        "GameTitle": "Assassin's Creed IV: Black Flag",
+        "id": 18150,
+        "ReleaseDate": "11/12/2013"
+    },
+    {
+        "GameTitle": "PES 2015",
+        "id": 36040
+    },
+    {
+        "GameTitle": "The Witcher 3: Wild Hunt",
+        "id": 16489,
+        "ReleaseDate": "05/19/2015"
+    },
+    {
+        "GameTitle": "Rime",
+        "id": 23231
+    },
+    {
+        "GameTitle": "Need for Speed: Rivals",
+        "id": 17228,
+        "ReleaseDate": "11/19/2013"
+    },
+    {
+        "GameTitle": "Knack",
+        "id": 17445,
+        "ReleaseDate": "11/15/2013"
+    },
+    {
+        "GameTitle": "Final Fantasy XIV Online: A Realm Reborn",
+        "id": 23219,
+        "ReleaseDate": "04/14/2014"
+    },
+    {
+        "GameTitle": "Don't Starve",
+        "id": 23220
+    },
+    {
+        "GameTitle": "Sportsfriends",
+        "id": 23221,
+        "ReleaseDate": "05/07/2014"
+    },
+    {
+        "GameTitle": "The Order: 1886",
+        "id": 18051,
+        "ReleaseDate": "02/20/2015"
+    },
+    {
+        "GameTitle": "DriveClub",
+        "id": 18091,
+        "ReleaseDate": "10/08/2014"
+    },
+    {
+        "GameTitle": "Battlefield 4",
+        "id": 18164,
+        "ReleaseDate": "11/12/2013"
+    },
+    {
+        "GameTitle": "Call of Duty: Ghosts",
+        "id": 18218,
+        "ReleaseDate": "11/05/2013"
+    },
+    {
+        "GameTitle": "Killzone: Shadow Fall",
+        "id": 18223,
+        "ReleaseDate": "10/29/2013"
+    },
+    {
+        "GameTitle": "NBA 2K14",
+        "id": 18398,
+        "ReleaseDate": "11/15/2013"
+    },
+    {
+        "GameTitle": "Injustice Gods Among Us Ultimate Edition",
+        "id": 18420,
+        "ReleaseDate": "11/12/2013"
+    },
+    {
+        "GameTitle": "Magicka 2",
+        "id": 31763,
+        "ReleaseDate": "05/26/2015"
+    },
+    {
+        "GameTitle": "Destiny: House of Wolves",
+        "id": 35920
+    },
+    {
+        "GameTitle": "Resogun",
+        "id": 18528,
+        "ReleaseDate": "11/15/2013"
+    },
+    {
+        "GameTitle": "LEGO Marvel Super Heroes",
+        "id": 18573,
+        "ReleaseDate": "11/13/2013"
+    },
+    {
+        "GameTitle": "Watch Dogs",
+        "id": 18574,
+        "ReleaseDate": "05/27/2014"
+    },
+    {
+        "GameTitle": "Mad Max",
+        "id": 18576
+    },
+    {
+        "GameTitle": "Thief",
+        "id": 18577,
+        "ReleaseDate": "02/25/2014"
+    },
+    {
+        "GameTitle": "Fez",
+        "id": 23223,
+        "ReleaseDate": "05/27/2014"
+    },
+    {
+        "GameTitle": "Mercenary Kings",
+        "id": 23224
+    },
+    {
+        "GameTitle": "Warriors Orochi 3 Ultimate",
+        "id": 23228,
+        "ReleaseDate": "09/02/2014"
+    },
+    {
+        "GameTitle": "Chivalry: Medieval Warfare",
+        "id": 33354,
+        "ReleaseDate": "12/01/2015"
+    },
+    {
+        "GameTitle": "The Crew",
+        "id": 20804,
+        "ReleaseDate": "12/01/2014"
+    },
+    {
+        "GameTitle": "Valiant Hearts: The Great War",
+        "id": 20808,
+        "ReleaseDate": "06/25/2014"
+    },
+    {
+        "GameTitle": "Far Cry 4: Limited Edition",
+        "id": 20812,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Batman: Arkham Knight",
+        "id": 20814,
+        "ReleaseDate": "06/23/2015"
+    },
+    {
+        "GameTitle": "FIFA 14",
+        "id": 18865,
+        "ReleaseDate": "09/17/2013"
+    },
+    {
+        "GameTitle": "Tom Clancy's: The Division",
+        "id": 18904,
+        "ReleaseDate": "03/08/2016"
+    },
+    {
+        "GameTitle": "The Pinball Arcade",
+        "id": 18985,
+        "ReleaseDate": "12/10/2013"
+    },
+    {
+        "GameTitle": "flOw",
+        "id": 18990,
+        "ReleaseDate": "12/17/2013"
+    },
+    {
+        "GameTitle": "Flower",
+        "id": 18991,
+        "ReleaseDate": "11/12/2013"
+    },
+    {
+        "GameTitle": "Metal Gear Solid V Ground Zeroes",
+        "id": 19064,
+        "ReleaseDate": "03/18/2014"
+    },
+    {
+        "GameTitle": "Dark Souls III Collector's Edition",
+        "id": 35568,
+        "ReleaseDate": "04/12/2016"
+    },
+    {
+        "GameTitle": "Infamous: Second Son Limited Edition",
+        "id": 19565,
+        "ReleaseDate": "03/21/2014"
+    },
+    {
+        "GameTitle": "Shadow of the Beast",
+        "id": 19566
+    },
+    {
+        "GameTitle": "Contrast",
+        "id": 19162,
+        "ReleaseDate": "11/29/2013"
+    },
+    {
+        "GameTitle": "Tomb Raider: Definitive Edition",
+        "id": 19197,
+        "ReleaseDate": "01/28/2014"
+    },
+    {
+        "GameTitle": "Dark Souls III Apocalypse Edition",
+        "id": 36004,
+        "ReleaseDate": "04/12/2016"
+    },
+    {
+        "GameTitle": "Rayman Legends",
+        "id": 19529,
+        "ReleaseDate": "02/18/2014"
+    },
+    {
+        "GameTitle": "Dead Nation: Apocalypse Edition",
+        "id": 19808,
+        "ReleaseDate": "03/04/2014"
+    },
+    {
+        "GameTitle": "Outlast",
+        "id": 19830,
+        "ReleaseDate": "02/04/2014"
+    },
+    {
+        "GameTitle": "Sound Shapes",
+        "id": 20015
+    },
+    {
+        "GameTitle": "Trials Fusion",
+        "id": 20110,
+        "ReleaseDate": "04/15/2014"
+    },
+    {
+        "GameTitle": "Child of Light",
+        "id": 20127,
+        "ReleaseDate": "04/30/2014"
+    },
+    {
+        "GameTitle": "Dragon Age: Inquisition",
+        "id": 20213,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
+        "id": 20240,
+        "ReleaseDate": "04/03/2014"
+    },
+    {
+        "GameTitle": "Tour de France 2015",
+        "id": 35869,
+        "ReleaseDate": "06/23/2015"
+    },
+    {
+        "GameTitle": "Sebastien Loeb Rally Evo",
+        "id": 35870,
+        "ReleaseDate": "03/22/2016"
+    },
+    {
+        "GameTitle": "Wolfenstein: The New Order",
+        "id": 20493,
+        "ReleaseDate": "05/20/2014"
+    },
+    {
+        "GameTitle": "Transistor",
+        "id": 20554,
+        "ReleaseDate": "05/20/2014"
+    },
+    {
+        "GameTitle": "Diablo III Reaper of Souls: Ultimate Evil Edition",
+        "id": 20599,
+        "ReleaseDate": "08/19/2014"
+    },
+    {
+        "GameTitle": "Bound by Flame",
+        "id": 20621,
+        "ReleaseDate": "05/08/2014"
+    },
+    {
+        "GameTitle": "Evolve",
+        "id": 20645,
+        "ReleaseDate": "02/10/2015"
+    },
+    {
+        "GameTitle": "Strider",
+        "id": 20654,
+        "ReleaseDate": "02/18/2014"
+    },
+    {
+        "GameTitle": "Murdered: Soul Suspect",
+        "id": 20741,
+        "ReleaseDate": "06/03/2014"
+    },
+    {
+        "GameTitle": "EA Sports UFC",
+        "id": 20745,
+        "ReleaseDate": "06/17/2014"
+    },
+    {
+        "GameTitle": "Sniper Elite III",
+        "id": 20750,
+        "ReleaseDate": "06/27/2014"
+    },
+    {
+        "GameTitle": "The Evil Within",
+        "id": 20777,
+        "ReleaseDate": "10/21/2014"
+    },
+    {
+        "GameTitle": "Homefront: The Revolution",
+        "id": 20847
+    },
+    {
+        "GameTitle": "The Swapper",
+        "id": 20914,
+        "ReleaseDate": "06/25/2014"
+    },
+    {
+        "GameTitle": "Lords of the Fallen",
+        "id": 20946,
+        "ReleaseDate": "10/28/2014"
+    },
+    {
+        "GameTitle": "Destiny",
+        "id": 20950,
+        "ReleaseDate": "09/09/2014"
+    },
+    {
+        "GameTitle": "Grand Theft Auto V",
+        "id": 20954,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Oddworld: New n Tasty",
+        "id": 20959,
+        "ReleaseDate": "07/23/2014"
+    },
+    {
+        "GameTitle": "Bloodborne",
+        "id": 20960,
+        "ReleaseDate": "03/24/2015"
+    },
+    {
+        "GameTitle": "The Last of Us Remastered",
+        "id": 21182,
+        "ReleaseDate": "07/29/2014"
+    },
+    {
+        "GameTitle": "Alien: Isolation",
+        "id": 21192,
+        "ReleaseDate": "10/07/2014"
+    },
+    {
+        "GameTitle": "Risen 3: Titan Lords - Enhanced Edition",
+        "id": 34853,
+        "ReleaseDate": "08/21/2015"
+    },
+    {
+        "GameTitle": "Akiba's Trip 2",
+        "id": 21264,
+        "ReleaseDate": "07/01/2014"
+    },
+    {
+        "GameTitle": "Destiny: Ghost Edition",
+        "id": 21397,
+        "ReleaseDate": "09/09/2014"
+    },
+    {
+        "GameTitle": "Rise of the Tomb Raider",
+        "id": 21399
+    },
+    {
+        "GameTitle": "Middle-Earth: Shadow of Mordor",
+        "id": 21400,
+        "ReleaseDate": "09/30/2014"
+    },
+    {
+        "GameTitle": "Dragon Age Inquisition: Deluxe Edition",
+        "id": 21403,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Metro Redux",
+        "id": 21405,
+        "ReleaseDate": "08/26/2014"
+    },
+    {
+        "GameTitle": "Call of Duty: Advanced Warfare",
+        "id": 21407,
+        "ReleaseDate": "11/04/2014"
+    },
+    {
+        "GameTitle": "Final Fantasy Type-0 HD",
+        "id": 21409,
+        "ReleaseDate": "03/15/2015"
+    },
+    {
+        "GameTitle": "Natural Doctrine",
+        "id": 21410,
+        "ReleaseDate": "09/30/2014"
+    },
+    {
+        "GameTitle": "Assassin's Creed: Unity",
+        "id": 21411,
+        "ReleaseDate": "10/28/2014"
+    },
+    {
+        "GameTitle": "Final Fantasy XV",
+        "id": 21414
+    },
+    {
+        "GameTitle": "Uncharted 4: A Thief's End",
+        "id": 21416,
+        "ReleaseDate": "05/10/2016"
+    },
+    {
+        "GameTitle": "Digimon Story: Cyber Sleuth",
+        "id": 32692,
+        "ReleaseDate": "02/02/2016"
+    },
+    {
+        "GameTitle": "Uncharted: The Nathan Drake Collection",
+        "id": 31758,
+        "ReleaseDate": "10/09/2015"
+    },
+    {
+        "GameTitle": "Entwined",
+        "id": 21501,
+        "ReleaseDate": "06/09/2014"
+    },
+    {
+        "GameTitle": "Plants vs. Zombies: Garden Warfare",
+        "id": 21970,
+        "ReleaseDate": "02/23/2016"
+    },
+    {
+        "GameTitle": "Rogue Legacy",
+        "id": 22274,
+        "ReleaseDate": "07/29/2014"
+    },
+    {
+        "GameTitle": "Shadow Warrior (2013)",
+        "id": 22349,
+        "ReleaseDate": "10/24/2014"
+    },
+    {
+        "GameTitle": "Little Big Planet 3",
+        "id": 22354,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "TowerFall Ascension",
+        "id": 22454,
+        "ReleaseDate": "03/19/2014"
+    },
+    {
+        "GameTitle": "PixelJunk Shooter Ultimate",
+        "id": 22518,
+        "ReleaseDate": "06/03/2014"
+    },
+    {
+        "GameTitle": "Doki-Doki Universe",
+        "id": 22545,
+        "ReleaseDate": "12/10/2013"
+    },
+    {
+        "GameTitle": "Road Not Taken",
+        "id": 22609,
+        "ReleaseDate": "08/05/2014"
+    },
+    {
+        "GameTitle": "Blacklight Retribution",
+        "id": 22636,
+        "ReleaseDate": "11/15/2013"
+    },
+    {
+        "GameTitle": "Dying Light",
+        "id": 22673,
+        "ReleaseDate": "01/27/2015"
+    },
+    {
+        "GameTitle": "Hohokum",
+        "id": 22675,
+        "ReleaseDate": "08/12/2014"
+    },
+    {
+        "GameTitle": "Octodad: Dadliest Catch",
+        "id": 22689,
+        "ReleaseDate": "04/22/2014"
+    },
+    {
+        "GameTitle": "Hellblade",
+        "id": 22721
+    },
+    {
+        "GameTitle": "Cyberpunk 2077",
+        "id": 22722
+    },
+    {
+        "GameTitle": "Call of Duty: Advanced Warfare Atlas Pro Edition",
+        "id": 22723,
+        "ReleaseDate": "11/03/2014"
+    },
+    {
+        "GameTitle": "DC Universe Online",
+        "id": 22724
+    },
+    {
+        "GameTitle": "Warframe",
+        "id": 22725,
+        "ReleaseDate": "11/15/2013"
+    },
+    {
+        "GameTitle": "Never Alone Kisima Ingitchuna",
+        "id": 22770,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "FIFA 15",
+        "id": 22788,
+        "ReleaseDate": "09/23/2014"
+    },
+    {
+        "GameTitle": "Madden NFL 15",
+        "id": 22778,
+        "ReleaseDate": "08/26/2014"
+    },
+    {
+        "GameTitle": "NBA 2K15",
+        "id": 22779,
+        "ReleaseDate": "10/07/2014"
+    },
+    {
+        "GameTitle": "NBA Live 15",
+        "id": 22786,
+        "ReleaseDate": "10/07/2014"
+    },
+    {
+        "GameTitle": "Infamous: First Light",
+        "id": 22941,
+        "ReleaseDate": "08/26/2014"
+    },
+    {
+        "GameTitle": "CounterSpy",
+        "id": 22943,
+        "ReleaseDate": "08/20/2014"
+    },
+    {
+        "GameTitle": "The Vanishing of Ethan Carter",
+        "id": 22949,
+        "ReleaseDate": "09/25/2014"
+    },
+    {
+        "GameTitle": "Divinity: Original Sin - Enhanced Edition",
+        "id": 32233,
+        "ReleaseDate": "10/27/2015"
+    },
+    {
+        "GameTitle": "Velocity 2X",
+        "id": 23191,
+        "ReleaseDate": "09/02/2014"
+    },
+    {
+        "GameTitle": "Lego The Hobbit",
+        "id": 23244,
+        "ReleaseDate": "04/11/2014"
+    },
+    {
+        "GameTitle": "Surgeon Simulator Anniversary Edition",
+        "id": 23275,
+        "ReleaseDate": "08/24/2014"
+    },
+    {
+        "GameTitle": "Sleeping Dogs: Definitive Edition",
+        "id": 23302,
+        "ReleaseDate": "10/14/2014"
+    },
+    {
+        "GameTitle": "Skylanders Trap Team",
+        "id": 23308,
+        "ReleaseDate": "10/05/2014"
+    },
+    {
+        "GameTitle": "Minecraft: PlayStation 4 Edition",
+        "id": 23313,
+        "ReleaseDate": "09/04/2014"
+    },
+    {
+        "GameTitle": "Mortal Kombat X",
+        "id": 23433,
+        "ReleaseDate": "04/14/2015"
+    },
+    {
+        "GameTitle": "Metal Gear Solid V: The Phantom Pain",
+        "id": 23466,
+        "ReleaseDate": "09/01/2015"
+    },
+    {
+        "GameTitle": "Skylanders Swap Force",
+        "id": 23551,
+        "ReleaseDate": "11/12/2013"
+    },
+    {
+        "GameTitle": "Transformers: Rise of the Dark Spark",
+        "id": 23552,
+        "ReleaseDate": "06/24/2014"
+    },
+    {
+        "GameTitle": "Escape Plan",
+        "id": 23618,
+        "ReleaseDate": "12/03/2013"
+    },
+    {
+        "GameTitle": "Disney Infinity 2.0 Edition",
+        "id": 23628,
+        "ReleaseDate": "09/23/2014"
+    },
+    {
+        "GameTitle": "Stick it to the Man!",
+        "id": 23676
+    },
+    {
+        "GameTitle": "The Golf Club",
+        "id": 23691
+    },
+    {
+        "GameTitle": "Dust: An Elysian Tail",
+        "id": 23775,
+        "ReleaseDate": "10/07/2014"
+    },
+    {
+        "GameTitle": "The Binding of Isaac: Rebirth",
+        "id": 23778,
+        "ReleaseDate": "11/04/2014"
+    },
+    {
+        "GameTitle": "Hotline Miami",
+        "id": 23788,
+        "ReleaseDate": "08/20/2014"
+    },
+    {
+        "GameTitle": "Pix the Cat",
+        "id": 23793,
+        "ReleaseDate": "10/08/2014"
+    },
+    {
+        "GameTitle": "Spelunky",
+        "id": 23796,
+        "ReleaseDate": "10/08/2014"
+    },
+    {
+        "GameTitle": "SteamWorld Dig",
+        "id": 23805,
+        "ReleaseDate": "03/18/2014"
+    },
+    {
+        "GameTitle": "The Unfinished Swan",
+        "id": 23806,
+        "ReleaseDate": "10/28/2014"
+    },
+    {
+        "GameTitle": "Madden NFL 25",
+        "id": 23873
+    },
+    {
+        "GameTitle": "LEGO Batman 3: Beyond Gotham",
+        "id": 23993,
+        "ReleaseDate": "11/11/2014"
+    },
+    {
+        "GameTitle": "Rocksmith",
+        "id": 24010,
+        "ReleaseDate": "11/04/2014"
+    },
+    {
+        "GameTitle": "Adventure Time: Finn and Jake Investigations",
+        "id": 35559,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "The Walking Dead: The Complete First Season",
+        "id": 24139,
+        "ReleaseDate": "10/14/2014"
+    },
+    {
+        "GameTitle": "The Walking Dead: Season 2",
+        "id": 24140,
+        "ReleaseDate": "10/21/2014"
+    },
+    {
+        "GameTitle": "The Wolf Among Us",
+        "id": 24141,
+        "ReleaseDate": "11/04/2014"
+    },
+    {
+        "GameTitle": "Dark Souls II: Scholar of the First Sin",
+        "id": 24142,
+        "ReleaseDate": "04/07/2015"
+    },
+    {
+        "GameTitle": "Sherlock Holmes: Crimes & Punishments",
+        "id": 24150,
+        "ReleaseDate": "09/30/2014"
+    },
+    {
+        "GameTitle": "Lara Croft and the Temple of Osiris",
+        "id": 24226,
+        "ReleaseDate": "12/09/2014"
+    },
+    {
+        "GameTitle": "Until Dawn",
+        "id": 24327,
+        "ReleaseDate": "08/25/2015"
+    },
+    {
+        "GameTitle": "Shovel Knight",
+        "id": 24328,
+        "ReleaseDate": "01/26/2015"
+    },
+    {
+        "GameTitle": "Secret Ponchos",
+        "id": 24362,
+        "ReleaseDate": "12/02/2014"
+    },
+    {
+        "GameTitle": "Final Fantasy X / X-2 HD Remaster",
+        "id": 24451,
+        "ReleaseDate": "05/12/2015"
+    },
+    {
+        "GameTitle": "Grim Fandango Remastered",
+        "id": 24765,
+        "ReleaseDate": "01/27/2015"
+    },
+    {
+        "GameTitle": "Terraria",
+        "id": 24893,
+        "ReleaseDate": "12/02/2014"
+    },
+    {
+        "GameTitle": "Omega Quintet",
+        "id": 25075,
+        "ReleaseDate": "04/28/2015"
+    },
+    {
+        "GameTitle": "Resident Evil HD Remaster",
+        "id": 25076,
+        "ReleaseDate": "01/20/2015"
+    },
+    {
+        "GameTitle": "Saints Row IV: Re-Elected",
+        "id": 25103,
+        "ReleaseDate": "01/20/2015"
+    },
+    {
+        "GameTitle": "Life is Strange",
+        "id": 25254,
+        "ReleaseDate": "01/30/2015"
+    },
+    {
+        "GameTitle": "The Elder Scrolls Online Tamriel Unlimited Imperial Edition",
+        "id": 25434,
+        "ReleaseDate": "06/09/2015"
+    },
+    {
+        "GameTitle": "The Elder Scrolls Online Tamriel Unlimited",
+        "id": 25437,
+        "ReleaseDate": "06/09/2015"
+    },
+    {
+        "GameTitle": "Apotheon",
+        "id": 25573,
+        "ReleaseDate": "02/03/2015"
+    },
+    {
+        "GameTitle": "FLOCKERS",
+        "id": 25615
+    },
+    {
+        "GameTitle": "Dead or Alive 5 Last Round",
+        "id": 25624,
+        "ReleaseDate": "02/20/2015"
+    },
+    {
+        "GameTitle": "Unmechanical: Extended",
+        "id": 25629,
+        "ReleaseDate": "02/11/2015"
+    },
+    {
+        "GameTitle": "Dragon Ball: Xenoverse",
+        "id": 25642,
+        "ReleaseDate": "02/27/2015"
+    },
+    {
+        "GameTitle": "Dynasty Warriors 8 Empires",
+        "id": 25644,
+        "ReleaseDate": "02/27/2015"
+    },
+    {
+        "GameTitle": "Don Bradman Cricket",
+        "id": 25648,
+        "ReleaseDate": "02/01/2015"
+    },
+    {
+        "GameTitle": "WWE 2K15",
+        "id": 25670,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Resident Evil: Revelations 2",
+        "id": 25725,
+        "ReleaseDate": "02/25/2015"
+    },
+    {
+        "GameTitle": "Rocksmith 2014 Edition",
+        "id": 25754
+    },
+    {
+        "GameTitle": "Darkest Dungeon",
+        "id": 25807,
+        "ReleaseDate": "08/31/2016"
+    },
+    {
+        "GameTitle": "Helldivers",
+        "id": 25810
+    },
+    {
+        "GameTitle": "Pure Pool",
+        "id": 25814
+    },
+    {
+        "GameTitle": "Worms Battlegrounds",
+        "id": 25817
+    },
+    {
+        "GameTitle": "Nuclear Throne",
+        "id": 25944
+    },
+    {
+        "GameTitle": "How to Survive",
+        "id": 25952
+    },
+    {
+        "GameTitle": "DmC Devil May Cry Definitive Edition",
+        "id": 26128,
+        "ReleaseDate": "03/17/2015"
+    },
+    {
+        "GameTitle": "Battlefield Hardline",
+        "id": 26192
+    },
+    {
+        "GameTitle": "LittleBigPlanet 3",
+        "id": 26197
+    },
+    {
+        "GameTitle": "War Thunder",
+        "id": 26198
+    },
+    {
+        "GameTitle": "LEGO Jurassic World",
+        "id": 26237,
+        "ReleaseDate": "06/30/2015"
+    },
+    {
+        "GameTitle": "Borderlands: The Handsome Collection",
+        "id": 26270
+    },
+    {
+        "GameTitle": "P.T.",
+        "id": 26370,
+        "ReleaseDate": "08/12/2014"
+    },
+    {
+        "GameTitle": "Tetris Ultimate",
+        "id": 26703
+    },
+    {
+        "GameTitle": "1001 Spikes",
+        "id": 26736
+    },
+    {
+        "GameTitle": "Pro Evolution Soccer 2015",
+        "id": 26910,
+        "ReleaseDate": "11/11/2014"
+    },
+    {
+        "GameTitle": "Titan Souls",
+        "id": 26998
+    },
+    {
+        "GameTitle": "LEGO Dimensions Starter Pack",
+        "id": 27126,
+        "ReleaseDate": "09/27/2015"
+    },
+    {
+        "GameTitle": "Toukiden: Kiwami",
+        "id": 27135
+    },
+    {
+        "GameTitle": "Star Wars Battlefront",
+        "id": 27208,
+        "ReleaseDate": "11/17/2015"
+    },
+    {
+        "GameTitle": "Axiom Verge",
+        "id": 27457
+    },
+    {
+        "GameTitle": "Rollers of the Realm",
+        "id": 27618
+    },
+    {
+        "GameTitle": "Race The Sun",
+        "id": 28384
+    },
+    {
+        "GameTitle": "Guacamelee",
+        "id": 35177
+    },
+    {
+        "GameTitle": "Back to the Future: The Game",
+        "id": 37476,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Toren",
+        "id": 28938
+    },
+    {
+        "GameTitle": "ETHER One",
+        "id": 28940
+    },
+    {
+        "GameTitle": "Angry Birds Star Wars",
+        "id": 29005,
+        "ReleaseDate": "11/15/2013"
+    },
+    {
+        "GameTitle": "Game of Thrones: A Telltale Games Series",
+        "id": 29190,
+        "ReleaseDate": "12/02/2014"
+    },
+    {
+        "GameTitle": "Tekken 7",
+        "id": 29191
+    },
+    {
+        "GameTitle": "Wolfenstein: The Old Blood",
+        "id": 29203
+    },
+    {
+        "GameTitle": "Final Fantasy VII Remake",
+        "id": 29221
+    },
+    {
+        "GameTitle": "Fallout 4",
+        "id": 29225,
+        "ReleaseDate": "11/10/2015"
+    },
+    {
+        "GameTitle": "Call of Duty: Black Ops III",
+        "id": 29237,
+        "ReleaseDate": "11/06/2015"
+    },
+    {
+        "GameTitle": "Mirror's Edge Catalyst",
+        "id": 29272,
+        "ReleaseDate": "06/07/2016"
+    },
+    {
+        "GameTitle": "No Man's Sky",
+        "id": 29274,
+        "ReleaseDate": "08/09/2016"
+    },
+    {
+        "GameTitle": "Ratchet & Clank",
+        "id": 29275,
+        "ReleaseDate": "04/12/2016"
+    },
+    {
+        "GameTitle": "FIFA 16",
+        "id": 29277,
+        "ReleaseDate": "09/22/2015"
+    },
+    {
+        "GameTitle": "Pier Solar and the Great Architects",
+        "id": 29304
+    },
+    {
+        "GameTitle": "NBA Live 16",
+        "id": 29367,
+        "ReleaseDate": "09/29/2015"
+    },
+    {
+        "GameTitle": "NBA 2K16",
+        "id": 29369,
+        "ReleaseDate": "09/29/2015"
+    },
+    {
+        "GameTitle": "Destiny: The Taken King",
+        "id": 29375,
+        "ReleaseDate": "09/15/2015"
+    },
+    {
+        "GameTitle": "The Amazing Spider-Man 2",
+        "id": 29379,
+        "ReleaseDate": "04/14/2014"
+    },
+    {
+        "GameTitle": "Dynasty Warriors 8",
+        "id": 29386
+    },
+    {
+        "GameTitle": "The LEGO Movie Videogame",
+        "id": 29427,
+        "ReleaseDate": "02/07/2014"
+    },
+    {
+        "GameTitle": "Disgaea 5: Alliance of Vengeance",
+        "id": 29431,
+        "ReleaseDate": "10/06/2015"
+    },
+    {
+        "GameTitle": "Rocket League",
+        "id": 29479,
+        "ReleaseDate": "07/07/2015"
+    },
+    {
+        "GameTitle": "Final Fantasy XIV Online: Heavensward",
+        "id": 29515,
+        "ReleaseDate": "06/23/2015"
+    },
+    {
+        "GameTitle": "Horizon Zero Dawn",
+        "id": 29523,
+        "ReleaseDate": "02/28/2017"
+    },
+    {
+        "GameTitle": "PlanetSide 2",
+        "id": 29551
+    },
+    {
+        "GameTitle": "Farming Simulator 15",
+        "id": 29553
+    },
+    {
+        "GameTitle": "Wasteland 2: Director's Cut",
+        "id": 32209,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Aaru's Awakening",
+        "id": 29732
+    },
+    {
+        "GameTitle": "Anomaly 2",
+        "id": 29734
+    },
+    {
+        "GameTitle": "Project CARS",
+        "id": 29812,
+        "ReleaseDate": "05/12/2015"
+    },
+    {
+        "GameTitle": "Bastion",
+        "id": 29817
+    },
+    {
+        "GameTitle": "PayDay 2: Crimewave Edition",
+        "id": 29870,
+        "ReleaseDate": "06/16/2015"
+    },
+    {
+        "GameTitle": "Guilty Gear Xrd",
+        "id": 30198
+    },
+    {
+        "GameTitle": "Defense Grid 2",
+        "id": 30201
+    },
+    {
+        "GameTitle": "Guitar Hero Live",
+        "id": 33302,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "Battle Islands",
+        "id": 30272
+    },
+    {
+        "GameTitle": "Madden NFL 16",
+        "id": 30276,
+        "ReleaseDate": "08/25/2015"
+    },
+    {
+        "GameTitle": "Beyond: Two Souls",
+        "id": 33301,
+        "ReleaseDate": "11/24/2015"
+    },
+    {
+        "GameTitle": "OlliOlli2: Welcome to Olliwood",
+        "id": 30318
+    },
+    {
+        "GameTitle": "Rolie,Polie,Olie Legends 2",
+        "id": 30462,
+        "ReleaseDate": "01/03/2016"
+    },
+    {
+        "GameTitle": "F1 2015",
+        "id": 30548,
+        "ReleaseDate": "07/21/2015"
+    },
+    {
+        "GameTitle": "MXGP: The Official Motocross Videogame",
+        "id": 30549,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "MotoGP 15",
+        "id": 30550,
+        "ReleaseDate": "06/24/2015"
+    },
+    {
+        "GameTitle": "Tearaway Unfolded Crafted Edition",
+        "id": 30636,
+        "ReleaseDate": "09/08/2015"
+    },
+    {
+        "GameTitle": "Sword Art Online: Lost Song",
+        "id": 30640,
+        "ReleaseDate": "11/17/2015"
+    },
+    {
+        "GameTitle": "Destiny: The Dark Below",
+        "id": 35919
+    },
+    {
+        "GameTitle": "One Piece: Pirate Warriors 3",
+        "id": 30678
+    },
+    {
+        "GameTitle": "Everybody's Gone to the Rapture",
+        "id": 30739,
+        "ReleaseDate": "08/11/2015"
+    },
+    {
+        "GameTitle": "Uncharted Waters Online",
+        "id": 30760
+    },
+    {
+        "GameTitle": "God of War III Remastered",
+        "id": 30763
+    },
+    {
+        "GameTitle": "Citizens of Earth",
+        "id": 30834,
+        "ReleaseDate": "01/21/2015"
+    },
+    {
+        "GameTitle": "SingStar: Ultimate Party",
+        "id": 30863
+    },
+    {
+        "GameTitle": "Tales of Zestiria Collectors Edition",
+        "id": 30977,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "Goat Simulator",
+        "id": 31113
+    },
+    {
+        "GameTitle": "Tropico 5",
+        "id": 31202,
+        "ReleaseDate": "04/28/2015"
+    },
+    {
+        "GameTitle": "Brothers: A Tale of Two Sons",
+        "id": 31238,
+        "ReleaseDate": "08/11/2015"
+    },
+    {
+        "GameTitle": "Final Fantasy VII",
+        "id": 31303
+    },
+    {
+        "GameTitle": "Volume",
+        "id": 31306
+    },
+    {
+        "GameTitle": "Disney Infinity: 3.0 Edition",
+        "id": 31420,
+        "ReleaseDate": "08/30/2015"
+    },
+    {
+        "GameTitle": "Need for Speed",
+        "id": 31532,
+        "ReleaseDate": "11/07/2015"
+    },
+    {
+        "GameTitle": "Super Mega Baseball",
+        "id": 31537
+    },
+    {
+        "GameTitle": "MLB 15: The Show",
+        "id": 31540
+    },
+    {
+        "GameTitle": "Street Fighter V",
+        "id": 31573
+    },
+    {
+        "GameTitle": "Pro Evolution Soccer 2016",
+        "id": 31580,
+        "ReleaseDate": "09/15/2015"
+    },
+    {
+        "GameTitle": "Star Ocean: Integrity and Faithlessness",
+        "id": 31637
+    },
+    {
+        "GameTitle": "Onechanbara Z2: Chaos",
+        "id": 31666
+    },
+    {
+        "GameTitle": "SOMA",
+        "id": 31670
+    },
+    {
+        "GameTitle": "Rabbids Invasion",
+        "id": 31708,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "WWE 2k16",
+        "id": 31714,
+        "ReleaseDate": "10/27/2015"
+    },
+    {
+        "GameTitle": "Tom Clancy's Rainbow Six Siege",
+        "id": 31740,
+        "ReleaseDate": "12/01/2015"
+    },
+    {
+        "GameTitle": "Deadpool",
+        "id": 31741,
+        "ReleaseDate": "11/17/2015"
+    },
+    {
+        "GameTitle": "Just Dance 2015",
+        "id": 31803,
+        "ReleaseDate": "10/23/2014"
+    },
+    {
+        "GameTitle": "Journey: Collector's Edition",
+        "id": 31807,
+        "ReleaseDate": "09/30/2015"
+    },
+    {
+        "GameTitle": "Tony Hawk's Pro Skater 5",
+        "id": 31808,
+        "ReleaseDate": "09/29/2015"
+    },
+    {
+        "GameTitle": "Blood Bowl 2",
+        "id": 31809,
+        "ReleaseDate": "09/22/2015"
+    },
+    {
+        "GameTitle": "NHL 15",
+        "id": 31812,
+        "ReleaseDate": "09/09/2014"
+    },
+    {
+        "GameTitle": "Metal Gear Solid V: The Phantom Pain Collector's Edition",
+        "id": 32092,
+        "ReleaseDate": "09/01/2015"
+    },
+    {
+        "GameTitle": "The Last Guardian",
+        "id": 34990
+    },
+    {
+        "GameTitle": "Tales of Zestiria",
+        "id": 32091,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "Far Cry 4 Kyrat Edition",
+        "id": 32094,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Assassin's Creed Syndicate",
+        "id": 32131,
+        "ReleaseDate": "10/23/2015"
+    },
+    {
+        "GameTitle": "NHL 16",
+        "id": 32137
+    },
+    {
+        "GameTitle": "Deus Ex: Mankind Divided",
+        "id": 32156,
+        "ReleaseDate": "08/23/2016"
+    },
+    {
+        "GameTitle": "Broken Age",
+        "id": 35101
+    },
+    {
+        "GameTitle": "Dishonored Definitive Edition",
+        "id": 32475,
+        "ReleaseDate": "08/28/2015"
+    },
+    {
+        "GameTitle": "WRC 5",
+        "id": 32389,
+        "ReleaseDate": "10/16/2015"
+    },
+    {
+        "GameTitle": "Skylanders SuperChargers",
+        "id": 32516
+    },
+    {
+        "GameTitle": "Ultra Street Fighter IV",
+        "id": 32521,
+        "ReleaseDate": "05/26/2015"
+    },
+    {
+        "GameTitle": "Battleborn",
+        "id": 32636,
+        "ReleaseDate": "05/03/2016"
+    },
+    {
+        "GameTitle": "Minecraft: Story Mode",
+        "id": 32691,
+        "ReleaseDate": "10/27/2015"
+    },
+    {
+        "GameTitle": "Fallout 4: Pip-Boy Edition",
+        "id": 32812,
+        "ReleaseDate": "11/10/2015"
+    },
+    {
+        "GameTitle": "Zombie Army Trilogy",
+        "id": 32843,
+        "ReleaseDate": "07/21/2015"
+    },
+    {
+        "GameTitle": "Ride",
+        "id": 32849,
+        "ReleaseDate": "10/06/2015"
+    },
+    {
+        "GameTitle": "Just Cause 3",
+        "id": 32951,
+        "ReleaseDate": "12/01/2015"
+    },
+    {
+        "GameTitle": "The Witcher 3: Wild Hunt Collector's Edition",
+        "id": 33017,
+        "ReleaseDate": "05/19/2015"
+    },
+    {
+        "GameTitle": "Call of Duty: Black Ops III Juggernog Edition",
+        "id": 33158,
+        "ReleaseDate": "11/06/2015"
+    },
+    {
+        "GameTitle": "Dragon Quest Heroes",
+        "id": 33239,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Until Dawn: Extended Edition",
+        "id": 33298,
+        "ReleaseDate": "08/25/2015"
+    },
+    {
+        "GameTitle": "Until Dawn: Steelbook Edition",
+        "id": 33299,
+        "ReleaseDate": "08/25/2015"
+    },
+    {
+        "GameTitle": "Among the Sleep",
+        "id": 33362,
+        "ReleaseDate": "12/08/2015"
+    },
+    {
+        "GameTitle": "Far Cry Primal",
+        "id": 33337,
+        "ReleaseDate": "02/23/2016"
+    },
+    {
+        "GameTitle": "Dark Souls III",
+        "id": 33364,
+        "ReleaseDate": "04/12/2016"
+    },
+    {
+        "GameTitle": "The Talos Principle",
+        "id": 33383,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Nitroplus Blasterz: Heroines Infinite Duel",
+        "id": 37016,
+        "ReleaseDate": "02/02/2016"
+    },
+    {
+        "GameTitle": "Rock Band 4",
+        "id": 33590,
+        "ReleaseDate": "10/06/2015"
+    },
+    {
+        "GameTitle": "J-Stars Victory Vs+",
+        "id": 33607,
+        "ReleaseDate": "06/30/2015"
+    },
+    {
+        "GameTitle": "Samurai Warriors 4-II",
+        "id": 33832,
+        "ReleaseDate": "02/11/2015"
+    },
+    {
+        "GameTitle": "Monopoly Family Fun Pack",
+        "id": 33833,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Desert Ashes",
+        "id": 33892
+    },
+    {
+        "GameTitle": "Godzilla",
+        "id": 34136,
+        "ReleaseDate": "07/14/2015"
+    },
+    {
+        "GameTitle": "Gravity Rush Remastered",
+        "id": 34142,
+        "ReleaseDate": "02/09/2016"
+    },
+    {
+        "GameTitle": "Transformers: Devastation",
+        "id": 34153
+    },
+    {
+        "GameTitle": "Super Meat Boy",
+        "id": 34181
+    },
+    {
+        "GameTitle": "Arcania: The Complete Tale",
+        "id": 34204,
+        "ReleaseDate": "05/29/2015"
+    },
+    {
+        "GameTitle": "Just Cause 3 Collector's Edition",
+        "id": 34217,
+        "ReleaseDate": "12/01/2015"
+    },
+    {
+        "GameTitle": "The Talos Principle: Deluxe Edition",
+        "id": 34228,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Grand Ages: Medieval Limited Special Edition",
+        "id": 34230,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Legend of Kay Anniversary",
+        "id": 34234,
+        "ReleaseDate": "07/28/2015"
+    },
+    {
+        "GameTitle": "Tower of Guns",
+        "id": 34236,
+        "ReleaseDate": "04/07/2015"
+    },
+    {
+        "GameTitle": "Tower of Guns Steelbook Limited Edition",
+        "id": 34238,
+        "ReleaseDate": "04/07/2015"
+    },
+    {
+        "GameTitle": "Assassin's Creed Chronicles",
+        "id": 35160,
+        "ReleaseDate": "02/09/2016"
+    },
+    {
+        "GameTitle": "Bloodborne Nightmare Edition",
+        "id": 34251,
+        "ReleaseDate": "03/24/2015"
+    },
+    {
+        "GameTitle": "The Book of Unwritten Tales 2",
+        "id": 34261,
+        "ReleaseDate": "09/18/2015"
+    },
+    {
+        "GameTitle": "The Elder Scrolls Online",
+        "id": 34277
+    },
+    {
+        "GameTitle": "MLB 16: The Show",
+        "id": 34287,
+        "ReleaseDate": "03/29/2016"
+    },
+    {
+        "GameTitle": "BlazBlue: Chrono Phantasma Extend",
+        "id": 34403,
+        "ReleaseDate": "06/30/2015"
+    },
+    {
+        "GameTitle": "Sword Art Online: Hollow Fragment",
+        "id": 34412
+    },
+    {
+        "GameTitle": "Saints Row: Gat Out of Hell",
+        "id": 34505
+    },
+    {
+        "GameTitle": "Heavy Rain & Beyond: Two Souls Collection",
+        "id": 34537,
+        "ReleaseDate": "03/16/2016"
+    },
+    {
+        "GameTitle": "Air Conflicts: Vietnam Ultimate Edition",
+        "id": 34757,
+        "ReleaseDate": "09/16/2014"
+    },
+    {
+        "GameTitle": "Dragon Age: Inquisition - Game of the Year Edition",
+        "id": 34829,
+        "ReleaseDate": "10/06/2015"
+    },
+    {
+        "GameTitle": "LEGO Marvel's Avengers",
+        "id": 34839,
+        "ReleaseDate": "01/26/2016"
+    },
+    {
+        "GameTitle": "This War of Mine: The Little Ones",
+        "id": 34881,
+        "ReleaseDate": "01/29/2016"
+    },
+    {
+        "GameTitle": "Zombi",
+        "id": 34882,
+        "ReleaseDate": "08/28/2015"
+    },
+    {
+        "GameTitle": "Laserlife",
+        "id": 34935
+    },
+    {
+        "GameTitle": "Gauntlet (2014)",
+        "id": 34937
+    },
+    {
+        "GameTitle": "Dying Light: The Following",
+        "id": 34954,
+        "ReleaseDate": "02/09/2016"
+    },
+    {
+        "GameTitle": "World of Tanks",
+        "id": 34964
+    },
+    {
+        "GameTitle": "Resident Evil: Origins Collection",
+        "id": 34967
+    },
+    {
+        "GameTitle": "The Crew: Wild Run",
+        "id": 34969
+    },
+    {
+        "GameTitle": "Disney Infinity: 2.0 Edition",
+        "id": 34996,
+        "ReleaseDate": "09/23/2014"
+    },
+    {
+        "GameTitle": "Naruto Shippuden: Ultimate Ninja Storm 4",
+        "id": 35002,
+        "ReleaseDate": "02/09/2016"
+    },
+    {
+        "GameTitle": "Tom Clancy's Ghost Recon: Wildlands",
+        "id": 35041
+    },
+    {
+        "GameTitle": "Heavy Rain",
+        "id": 35042,
+        "ReleaseDate": "03/01/2016"
+    },
+    {
+        "GameTitle": "Firewatch",
+        "id": 35045,
+        "ReleaseDate": "02/09/2016"
+    },
+    {
+        "GameTitle": "Overwatch",
+        "id": 35047,
+        "ReleaseDate": "05/24/2016"
+    },
+    {
+        "GameTitle": "Persona 5",
+        "id": 35049
+    },
+    {
+        "GameTitle": "NieR: Automata",
+        "id": 35050
+    },
+    {
+        "GameTitle": "Dishonored 2",
+        "id": 35051
+    },
+    {
+        "GameTitle": "Assassin's Creed Chronicles: China",
+        "id": 35055
+    },
+    {
+        "GameTitle": "Assassin's Creed Chronicles: India",
+        "id": 35059
+    },
+    {
+        "GameTitle": "Assassin's Creed Chronicles: Russia",
+        "id": 35061
+    },
+    {
+        "GameTitle": "The Walking Dead: Michonne",
+        "id": 35078,
+        "ReleaseDate": "02/23/2016"
+    },
+    {
+        "GameTitle": "Tales from the Borderlands",
+        "id": 35083,
+        "ReleaseDate": "11/25/2014"
+    },
+    {
+        "GameTitle": "Rolie Polie Olie Edge",
+        "id": 35090,
+        "ReleaseDate": "04/28/2016"
+    },
+    {
+        "GameTitle": "Unravel",
+        "id": 35112,
+        "ReleaseDate": "02/09/2016"
+    },
+    {
+        "GameTitle": "Far Cry Primal Collector's Edition",
+        "id": 35147,
+        "ReleaseDate": "02/23/2016"
+    },
+    {
+        "GameTitle": "Bloodborne Collector's Edition",
+        "id": 35214,
+        "ReleaseDate": "03/24/2015"
+    },
+    {
+        "GameTitle": "Arslan: The Warriors of Legend",
+        "id": 35247,
+        "ReleaseDate": "02/16/2016"
+    },
+    {
+        "GameTitle": "DOOM (2016)",
+        "id": 35284
+    },
+    {
+        "GameTitle": "Lichdom: Battlemage",
+        "id": 35289
+    },
+    {
+        "GameTitle": "Uncharted 4: A Thief's End Collector's Edition",
+        "id": 35301,
+        "ReleaseDate": "04/26/2016"
+    },
+    {
+        "GameTitle": "Yasai Ninja",
+        "id": 35351,
+        "ReleaseDate": "07/21/2015"
+    },
+    {
+        "GameTitle": "Pure Chess",
+        "id": 35352,
+        "ReleaseDate": "04/15/2014"
+    },
+    {
+        "GameTitle": "Giana Sisters: Twisted Dreams - Director's Cut",
+        "id": 35353,
+        "ReleaseDate": "12/09/2014"
+    },
+    {
+        "GameTitle": "Plants vs Zombies: Garden Warfare 2",
+        "id": 35453
+    },
+    {
+        "GameTitle": "Galak-Z: The Dimensional",
+        "id": 35550,
+        "ReleaseDate": "08/04/2015"
+    },
+    {
+        "GameTitle": "Broforce",
+        "id": 35551,
+        "ReleaseDate": "03/01/2016"
+    },
+    {
+        "GameTitle": "Mega Man Legacy Collection",
+        "id": 35662,
+        "ReleaseDate": "02/23/2016"
+    },
+    {
+        "GameTitle": "Alekhine's Gun",
+        "id": 35665,
+        "ReleaseDate": "03/01/2016"
+    },
+    {
+        "GameTitle": "Witch and the Hundred Knight: Revival Edition",
+        "id": 35667,
+        "ReleaseDate": "03/01/2016"
+    },
+    {
+        "GameTitle": "Trackmania Turbo",
+        "id": 35672
+    },
+    {
+        "GameTitle": "Aegis of Earth: Protonovus Assault",
+        "id": 35675
+    },
+    {
+        "GameTitle": "Nights of Azure",
+        "id": 35677,
+        "ReleaseDate": "03/29/2016"
+    },
+    {
+        "GameTitle": "Odin Sphere Leifthrasir",
+        "id": 35678,
+        "ReleaseDate": "04/12/2016"
+    },
+    {
+        "GameTitle": "One Piece: Burning Blood",
+        "id": 35681,
+        "ReleaseDate": "05/31/2016"
+    },
+    {
+        "GameTitle": "Valkyria Chronicles Remastered",
+        "id": 35684,
+        "ReleaseDate": "05/17/2016"
+    },
+    {
+        "GameTitle": "Lego Star Wars: The Force Awakens",
+        "id": 35686,
+        "ReleaseDate": "06/28/2016"
+    },
+    {
+        "GameTitle": "Senran Kagura: Estival Versus",
+        "id": 35722,
+        "ReleaseDate": "03/15/2016"
+    },
+    {
+        "GameTitle": "The Peppercorn Family:The Interactive TV Show",
+        "id": 35768,
+        "ReleaseDate": "07/04/2016"
+    },
+    {
+        "GameTitle": "Onigiri",
+        "id": 35777
+    },
+    {
+        "GameTitle": "SMITE",
+        "id": 35779,
+        "ReleaseDate": "05/31/2016"
+    },
+    {
+        "GameTitle": "The Four Kings Casino and Slots",
+        "id": 35781
+    },
+    {
+        "GameTitle": "Layers of Fear",
+        "id": 35783,
+        "ReleaseDate": "02/16/2016"
+    },
+    {
+        "GameTitle": "Gundam Breaker 3",
+        "id": 35879,
+        "ReleaseDate": "03/03/2016"
+    },
+    {
+        "GameTitle": "EA Sports UFC 2",
+        "id": 35883,
+        "ReleaseDate": "03/15/2016"
+    },
+    {
+        "GameTitle": "Tearaway Unfolded",
+        "id": 36034,
+        "ReleaseDate": "09/08/2015"
+    },
+    {
+        "GameTitle": "Alienation",
+        "id": 36051,
+        "ReleaseDate": "04/26/2016"
+    },
+    {
+        "GameTitle": "Salt and Sanctuary",
+        "id": 36181,
+        "ReleaseDate": "03/15/2016"
+    },
+    {
+        "GameTitle": "Paragon",
+        "id": 36251,
+        "ReleaseDate": "12/31/2016"
+    },
+    {
+        "GameTitle": "Rainbow Moon",
+        "id": 36428
+    },
+    {
+        "GameTitle": "Rory McIlroy PGA Tour",
+        "id": 36494
+    },
+    {
+        "GameTitle": "Amplitude",
+        "id": 36610
+    },
+    {
+        "GameTitle": "Call of Duty Infinite Warfare",
+        "id": 36616,
+        "ReleaseDate": "11/04/2016"
+    },
+    {
+        "GameTitle": "BattleField 1",
+        "id": 36619,
+        "ReleaseDate": "10/21/2016"
+    },
+    {
+        "GameTitle": "Dirt Rally",
+        "id": 36677,
+        "ReleaseDate": "04/27/2015"
+    },
+    {
+        "GameTitle": "Skulls of the Shogun: Bone-A-Fide Edition",
+        "id": 36705
+    },
+    {
+        "GameTitle": "Emily Wants To Play",
+        "id": 36936
+    },
+    {
+        "GameTitle": "Rugby World Cup 2015",
+        "id": 36946,
+        "ReleaseDate": "09/04/2015"
+    },
+    {
+        "GameTitle": "Doom: Collector's Edition",
+        "id": 36948,
+        "ReleaseDate": "05/13/2016"
+    },
+    {
+        "GameTitle": "Adam's Venture: Origins",
+        "id": 36950,
+        "ReleaseDate": "04/01/2016"
+    },
+    {
+        "GameTitle": "WRC 5 Esports Edition",
+        "id": 36988,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Dirt Rally Legend Edition",
+        "id": 37018,
+        "ReleaseDate": "04/06/2016"
+    },
+    {
+        "GameTitle": "Agatha Christie's The ABC Murders",
+        "id": 37019,
+        "ReleaseDate": "02/23/2016"
+    },
+    {
+        "GameTitle": "Gone Home",
+        "id": 37022
+    },
+    {
+        "GameTitle": "Atelier Sophie: The Alchemist of the Mysterious Book",
+        "id": 37243,
+        "ReleaseDate": "06/07/2016"
+    },
+    {
+        "GameTitle": "Naruto Shippuden: Ultimate Ninja Storm 4 Collector's Edition",
+        "id": 37233,
+        "ReleaseDate": "02/09/2016"
+    },
+    {
+        "GameTitle": "Mafia III",
+        "id": 37235,
+        "ReleaseDate": "10/07/2016"
+    },
+    {
+        "GameTitle": "Batman: The Telltale Series",
+        "id": 37239
+    },
+    {
+        "GameTitle": "Batman: Return To Arkham",
+        "id": 37240,
+        "ReleaseDate": "07/26/2016"
+    },
+    {
+        "GameTitle": "Anima: Gate of Memories",
+        "id": 37244,
+        "ReleaseDate": "06/07/2016"
+    },
+    {
+        "GameTitle": "Hard Reset: Redux",
+        "id": 37263,
+        "ReleaseDate": "06/03/2016"
+    },
+    {
+        "GameTitle": "Batman: Arkham VR",
+        "id": 37279
+    },
+    {
+        "GameTitle": "Steins;Gate 0",
+        "id": 37287
+    },
+    {
+        "GameTitle": "Deadlight Director's Cut",
+        "id": 37293,
+        "ReleaseDate": "06/21/2016"
+    },
+    {
+        "GameTitle": "Resident Evil: Umbrella Corps",
+        "id": 37301,
+        "ReleaseDate": "06/21/2016"
+    },
+    {
+        "GameTitle": "The Technomancer",
+        "id": 37305,
+        "ReleaseDate": "06/28/2016"
+    },
+    {
+        "GameTitle": "7 Days to Die",
+        "id": 37307,
+        "ReleaseDate": "06/28/2016"
+    },
+    {
+        "GameTitle": "Tom Clancy's The Division",
+        "id": 37391
+    },
+    {
+        "GameTitle": "Far Cry 4: Complete Edition",
+        "id": 37398,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Attack on Titan",
+        "id": 37432,
+        "ReleaseDate": "08/30/2016"
+    },
+    {
+        "GameTitle": "Ark: Survival of the Fittest",
+        "id": 37491,
+        "ReleaseDate": "07/19/2016"
+    },
+    {
+        "GameTitle": "Grand Kingdom",
+        "id": 37559,
+        "ReleaseDate": "06/21/2016"
+    },
+    {
+        "GameTitle": "Romance of the Three Kingdoms 13",
+        "id": 37508,
+        "ReleaseDate": "07/05/2016"
+    },
+    {
+        "GameTitle": "Rocket League Collector's Edition",
+        "id": 37510,
+        "ReleaseDate": "07/05/2016"
+    },
+    {
+        "GameTitle": "Song of the Deep",
+        "id": 37516,
+        "ReleaseDate": "07/11/2016"
+    },
+    {
+        "GameTitle": "Kill Strain",
+        "id": 37517,
+        "ReleaseDate": "07/17/2016"
+    },
+    {
+        "GameTitle": "The Banner Saga 2",
+        "id": 37520,
+        "ReleaseDate": "07/26/2016"
+    },
+    {
+        "GameTitle": "Valentino Rossi The Game",
+        "id": 37523,
+        "ReleaseDate": "07/26/2016"
+    },
+    {
+        "GameTitle": "Abzu",
+        "id": 37561,
+        "ReleaseDate": "08/02/2016"
+    },
+    {
+        "GameTitle": "Livelock",
+        "id": 37566,
+        "ReleaseDate": "08/02/2016"
+    },
+    {
+        "GameTitle": "Assetto Corsa",
+        "id": 37569,
+        "ReleaseDate": "08/30/2016"
+    },
+    {
+        "GameTitle": "Verdun",
+        "id": 37571,
+        "ReleaseDate": "08/30/2016"
+    },
+    {
+        "GameTitle": "Bladestorm nightmare",
+        "id": 37573
+    },
+    {
+        "GameTitle": "Mega dimension neptunia VII",
+        "id": 37575
+    },
+    {
+        "GameTitle": "Odin Sphere Leifthrasir Storybook Edition",
+        "id": 37593,
+        "ReleaseDate": "06/07/2016"
+    },
+    {
+        "GameTitle": "Valkyria Chronicles Remastered (Europa Edition)",
+        "id": 37595,
+        "ReleaseDate": "05/17/2016"
+    }
+]}}
+]

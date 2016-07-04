@@ -1,0 +1,52 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Loom",
+        "id": 36010,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Terramex",
+        "id": 33317,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Bomb Jack",
+        "id": 32104,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Cannon Fodder",
+        "id": 32157
+    },
+    {
+        "GameTitle": "Sundog: Frozen Legacy",
+        "id": 33532,
+        "ReleaseDate": "09/06/1985"
+    },
+    {
+        "GameTitle": "Oids",
+        "id": 33538,
+        "ReleaseDate": "03/11/1987"
+    },
+    {
+        "GameTitle": "Time Bandit",
+        "id": 33539,
+        "ReleaseDate": "08/20/1985"
+    },
+    {
+        "GameTitle": "Lethal Xcess",
+        "id": 33541,
+        "ReleaseDate": "12/09/1991"
+    },
+    {
+        "GameTitle": "Barbarian: The Ultimate Warrior",
+        "id": 36836,
+        "ReleaseDate": "10/01/1987"
+    },
+    {
+        "GameTitle": "Interphase",
+        "id": 37029,
+        "ReleaseDate": "05/01/1989"
+    }
+]}}
+]

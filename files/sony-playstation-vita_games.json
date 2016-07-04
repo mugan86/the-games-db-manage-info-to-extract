@@ -1,0 +1,1262 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Borderlands 2",
+        "id": 20566,
+        "ReleaseDate": "05/13/2014"
+    },
+    {
+        "GameTitle": "The Amazing Spider-Man",
+        "id": 36022,
+        "ReleaseDate": "11/19/2013"
+    },
+    {
+        "GameTitle": "Wipeout 2048",
+        "id": 3924,
+        "ReleaseDate": "02/13/2012"
+    },
+    {
+        "GameTitle": "hToL#NiQ: The Firefly Diary",
+        "id": 25104,
+        "ReleaseDate": "02/24/2015"
+    },
+    {
+        "GameTitle": "Gravity Rush",
+        "id": 8330,
+        "ReleaseDate": "06/12/2012"
+    },
+    {
+        "GameTitle": "Atelier Escha & Logy Plus: Alchemist of Dusk Sky",
+        "id": 34674,
+        "ReleaseDate": "01/19/2016"
+    },
+    {
+        "GameTitle": "LEGO Ninjago: Shadow of Ronin",
+        "id": 25552,
+        "ReleaseDate": "03/24/2015"
+    },
+    {
+        "GameTitle": "Little Deviants",
+        "id": 9238,
+        "ReleaseDate": "02/15/2012"
+    },
+    {
+        "GameTitle": "ModNation Racers: Road Trip",
+        "id": 9239,
+        "ReleaseDate": "02/15/2012"
+    },
+    {
+        "GameTitle": "Rayman Origins",
+        "id": 9240,
+        "ReleaseDate": "02/14/2012"
+    },
+    {
+        "GameTitle": "Uncharted: Golden Abyss",
+        "id": 9241,
+        "ReleaseDate": "02/13/2012"
+    },
+    {
+        "GameTitle": "Mortal Kombat",
+        "id": 10784,
+        "ReleaseDate": "05/01/2012"
+    },
+    {
+        "GameTitle": "Dynasty Warriors Next",
+        "id": 13279,
+        "ReleaseDate": "02/22/2012"
+    },
+    {
+        "GameTitle": "Madden NFL 13",
+        "id": 13280,
+        "ReleaseDate": "08/28/2012"
+    },
+    {
+        "GameTitle": "FIFA Soccer 13",
+        "id": 13281,
+        "ReleaseDate": "09/25/2012"
+    },
+    {
+        "GameTitle": "FIFA Soccer",
+        "id": 13282,
+        "ReleaseDate": "02/14/2012"
+    },
+    {
+        "GameTitle": "Street Fighter X Tekken",
+        "id": 13283,
+        "ReleaseDate": "10/23/2012"
+    },
+    {
+        "GameTitle": "Escape Plan",
+        "id": 11741,
+        "ReleaseDate": "02/21/2012"
+    },
+    {
+        "GameTitle": "Ragnarok Odyssey",
+        "id": 11746,
+        "ReleaseDate": "10/30/2012"
+    },
+    {
+        "GameTitle": "Metal Gear Solid HD Collection",
+        "id": 11974,
+        "ReleaseDate": "06/12/2012"
+    },
+    {
+        "GameTitle": "Resistance: Burning Skies",
+        "id": 12027,
+        "ReleaseDate": "05/29/2012"
+    },
+    {
+        "GameTitle": "PlayStation All-Stars Battle Royale",
+        "id": 12243,
+        "ReleaseDate": "11/20/2012"
+    },
+    {
+        "GameTitle": "Assassin's Creed III: Liberation",
+        "id": 12392,
+        "ReleaseDate": "10/30/2012"
+    },
+    {
+        "GameTitle": "BlazBlue: Continuum Shift Extend",
+        "id": 12402,
+        "ReleaseDate": "02/22/2012"
+    },
+    {
+        "GameTitle": "Disgaea 3: Absence of Detention",
+        "id": 12408,
+        "ReleaseDate": "04/20/2012"
+    },
+    {
+        "GameTitle": "Lumines: Electronic Symphony",
+        "id": 12425,
+        "ReleaseDate": "02/22/2012"
+    },
+    {
+        "GameTitle": "Ninja Gaiden Sigma Plus",
+        "id": 12429,
+        "ReleaseDate": "02/22/2012"
+    },
+    {
+        "GameTitle": "Rainbow Moon",
+        "id": 12434,
+        "ReleaseDate": "12/03/2013"
+    },
+    {
+        "GameTitle": "Shinobido 2: Revenge of Zen",
+        "id": 12444,
+        "ReleaseDate": "02/21/2012"
+    },
+    {
+        "GameTitle": "Silent Hill: Book of Memories",
+        "id": 12446,
+        "ReleaseDate": "10/16/2012"
+    },
+    {
+        "GameTitle": "Spy Hunter",
+        "id": 12451,
+        "ReleaseDate": "10/09/2012"
+    },
+    {
+        "GameTitle": "Ultimate Marvel Vs. Capcom 3",
+        "id": 12463,
+        "ReleaseDate": "02/15/2012"
+    },
+    {
+        "GameTitle": "LittleBigPlanet",
+        "id": 12549,
+        "ReleaseDate": "09/19/2012"
+    },
+    {
+        "GameTitle": "Zero Escape: Virtue's Last Reward",
+        "id": 12550,
+        "ReleaseDate": "10/22/2012"
+    },
+    {
+        "GameTitle": "Army Corps of Hell",
+        "id": 12552,
+        "ReleaseDate": "02/22/2012"
+    },
+    {
+        "GameTitle": "Persona 4 Golden",
+        "id": 12554,
+        "ReleaseDate": "11/20/2012"
+    },
+    {
+        "GameTitle": "Dungeon Hunter: Alliance",
+        "id": 12555,
+        "ReleaseDate": "02/14/2012"
+    },
+    {
+        "GameTitle": "Super Monkey Ball: Banana Splitz",
+        "id": 12556,
+        "ReleaseDate": "10/23/2012"
+    },
+    {
+        "GameTitle": "Touch My Katamari",
+        "id": 12557,
+        "ReleaseDate": "02/21/2012"
+    },
+    {
+        "GameTitle": "Unit 13",
+        "id": 12558,
+        "ReleaseDate": "03/06/2012"
+    },
+    {
+        "GameTitle": "LEGO Batman 2: DC Super Heroes",
+        "id": 12564,
+        "ReleaseDate": "06/19/2012"
+    },
+    {
+        "GameTitle": "LEGO The Lord of the Rings",
+        "id": 12567,
+        "ReleaseDate": "11/13/2012"
+    },
+    {
+        "GameTitle": "Smart as...",
+        "id": 12572,
+        "ReleaseDate": "10/23/2012"
+    },
+    {
+        "GameTitle": "Need for Speed Most Wanted",
+        "id": 12574,
+        "ReleaseDate": "10/30/2012"
+    },
+    {
+        "GameTitle": "Call of Duty: Black Ops Declassified",
+        "id": 12575,
+        "ReleaseDate": "11/13/2012"
+    },
+    {
+        "GameTitle": "F1 2011",
+        "id": 12576,
+        "ReleaseDate": "02/15/2012"
+    },
+    {
+        "GameTitle": "Hot Shots Golf: World Invitational",
+        "id": 12577,
+        "ReleaseDate": "02/14/2012"
+    },
+    {
+        "GameTitle": "LEGO Harry Potter: Years 5-7",
+        "id": 12578,
+        "ReleaseDate": "03/06/2012"
+    },
+    {
+        "GameTitle": "MLB 12: The Show",
+        "id": 12579,
+        "ReleaseDate": "03/06/2012"
+    },
+    {
+        "GameTitle": "Sonic & All-Stars Racing Transformed",
+        "id": 12874,
+        "ReleaseDate": "12/11/2012"
+    },
+    {
+        "GameTitle": "Ridge Racer",
+        "id": 13284,
+        "ReleaseDate": "03/13/2012"
+    },
+    {
+        "GameTitle": "Asphalt Injection",
+        "id": 13285,
+        "ReleaseDate": "02/14/2012"
+    },
+    {
+        "GameTitle": "Supremacy MMA: Unrestricted",
+        "id": 13286,
+        "ReleaseDate": "03/27/2012"
+    },
+    {
+        "GameTitle": "MLB 13: The Show",
+        "id": 13312,
+        "ReleaseDate": "03/05/2013"
+    },
+    {
+        "GameTitle": "Ben 10: Galactic Racing",
+        "id": 13313,
+        "ReleaseDate": "02/15/2012"
+    },
+    {
+        "GameTitle": "Virtua Tennis 4: World Tour Edition",
+        "id": 13315,
+        "ReleaseDate": "02/14/2012"
+    },
+    {
+        "GameTitle": "Soul Sacrifice",
+        "id": 13316,
+        "ReleaseDate": "03/30/2013"
+    },
+    {
+        "GameTitle": "Sly Cooper: Thieves in Time",
+        "id": 13317,
+        "ReleaseDate": "02/05/2013"
+    },
+    {
+        "GameTitle": "Michael Jackson: The Experience",
+        "id": 13319,
+        "ReleaseDate": "02/15/2012"
+    },
+    {
+        "GameTitle": "Reality Fighters",
+        "id": 13320,
+        "ReleaseDate": "03/13/2012"
+    },
+    {
+        "GameTitle": "New Little King's Story",
+        "id": 13451,
+        "ReleaseDate": "10/02/2012"
+    },
+    {
+        "GameTitle": "Earth Defense Force 2017 Portable",
+        "id": 14350,
+        "ReleaseDate": "01/08/2013"
+    },
+    {
+        "GameTitle": "Phantasy Star Online 2",
+        "id": 14437,
+        "ReleaseDate": "12/31/2013"
+    },
+    {
+        "GameTitle": "Uncharted: Fight for Fortune",
+        "id": 14873,
+        "ReleaseDate": "12/04/2012"
+    },
+    {
+        "GameTitle": "Doctor Who: The Eternity Clock",
+        "id": 15444,
+        "ReleaseDate": "10/09/2012"
+    },
+    {
+        "GameTitle": "Dragon's Crown",
+        "id": 15449,
+        "ReleaseDate": "08/06/2013"
+    },
+    {
+        "GameTitle": "Ninja Gaiden Sigma 2 Plus",
+        "id": 15514,
+        "ReleaseDate": "02/26/2013"
+    },
+    {
+        "GameTitle": "Gundam Breaker",
+        "id": 15642,
+        "ReleaseDate": "07/31/2013"
+    },
+    {
+        "GameTitle": "Hatsune Miku: Project DIVA f",
+        "id": 15659,
+        "ReleaseDate": "08/30/2012"
+    },
+    {
+        "GameTitle": "Jikkyou Powerful Pro Yakyuu 2012",
+        "id": 15716,
+        "ReleaseDate": "07/14/2012"
+    },
+    {
+        "GameTitle": "Jikkyou Powerful Pro Yakyuu 2012 Ketteiban",
+        "id": 15719,
+        "ReleaseDate": "12/13/2012"
+    },
+    {
+        "GameTitle": "Atelier Meruru Plus: The Apprentice of Arland",
+        "id": 15802,
+        "ReleaseDate": "09/03/2013"
+    },
+    {
+        "GameTitle": "Moe Moe Daisensou * Gendaiban++",
+        "id": 15912,
+        "ReleaseDate": "08/02/2012"
+    },
+    {
+        "GameTitle": "MUD: FIM Motocross World Championship",
+        "id": 15928,
+        "ReleaseDate": "02/26/2013"
+    },
+    {
+        "GameTitle": "Oddworld: Stranger's Wrath HD",
+        "id": 16063,
+        "ReleaseDate": "12/18/2012"
+    },
+    {
+        "GameTitle": "Oddworld: Munch's Oddysee HD",
+        "id": 16114,
+        "ReleaseDate": "12/31/2014"
+    },
+    {
+        "GameTitle": "Jet Set Radio",
+        "id": 16160,
+        "ReleaseDate": "11/20/2012"
+    },
+    {
+        "GameTitle": "Pro Yakyuu Spirits 2012",
+        "id": 16235,
+        "ReleaseDate": "03/29/2012"
+    },
+    {
+        "GameTitle": "Dead or Alive 5 Plus",
+        "id": 16254,
+        "ReleaseDate": "03/19/2013"
+    },
+    {
+        "GameTitle": "Retro City Rampage",
+        "id": 16336,
+        "ReleaseDate": "10/08/2012"
+    },
+    {
+        "GameTitle": "Rocketbirds: Hardboiled Chicken",
+        "id": 16374,
+        "ReleaseDate": "01/12/2013"
+    },
+    {
+        "GameTitle": "San Goku Shi 12",
+        "id": 16419,
+        "ReleaseDate": "02/07/2013"
+    },
+    {
+        "GameTitle": "Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage",
+        "id": 16502,
+        "ReleaseDate": "01/31/2013"
+    },
+    {
+        "GameTitle": "Shin Kamaitachi no Yoru: 11 Hitome no Suspect",
+        "id": 16521,
+        "ReleaseDate": "12/17/2011"
+    },
+    {
+        "GameTitle": "Sine Mora",
+        "id": 16553,
+        "ReleaseDate": "11/20/2012"
+    },
+    {
+        "GameTitle": "Ragnarok Odyssey Mercenary Edition",
+        "id": 16624,
+        "ReleaseDate": "10/30/2012"
+    },
+    {
+        "GameTitle": "Sound Shapes",
+        "id": 16677,
+        "ReleaseDate": "08/07/2012"
+    },
+    {
+        "GameTitle": "Guacamelee!",
+        "id": 16780,
+        "ReleaseDate": "04/09/2013"
+    },
+    {
+        "GameTitle": "Jak and Daxter Collection",
+        "id": 17230,
+        "ReleaseDate": "06/18/2013"
+    },
+    {
+        "GameTitle": "Muramasa Rebirth",
+        "id": 17273,
+        "ReleaseDate": "06/25/2013"
+    },
+    {
+        "GameTitle": "Rayman Legends",
+        "id": 17274,
+        "ReleaseDate": "09/03/2013"
+    },
+    {
+        "GameTitle": "Ys: Memories of Celceta",
+        "id": 17275,
+        "ReleaseDate": "11/26/2013"
+    },
+    {
+        "GameTitle": "Divekick",
+        "id": 17659,
+        "ReleaseDate": "08/20/2013"
+    },
+    {
+        "GameTitle": "Hotline Miami",
+        "id": 18228,
+        "ReleaseDate": "06/25/2013"
+    },
+    {
+        "GameTitle": "Sorcery Saga: The Curse of the Great Curry God",
+        "id": 18466,
+        "ReleaseDate": "12/10/2013"
+    },
+    {
+        "GameTitle": "Tearaway",
+        "id": 18521,
+        "ReleaseDate": "11/22/2013"
+    },
+    {
+        "GameTitle": "Atelier Totori Plus: The Adventurer of Arland",
+        "id": 19148,
+        "ReleaseDate": "03/19/2013"
+    },
+    {
+        "GameTitle": "Danganronpa: Trigger Happy Havoc",
+        "id": 19151,
+        "ReleaseDate": "02/11/2014"
+    },
+    {
+        "GameTitle": "Toukiden: The Age of Demons",
+        "id": 19152,
+        "ReleaseDate": "02/11/2014"
+    },
+    {
+        "GameTitle": "Demon Gaze",
+        "id": 19154,
+        "ReleaseDate": "04/22/2014"
+    },
+    {
+        "GameTitle": "Conception II: Children of the Seven Stars",
+        "id": 19155,
+        "ReleaseDate": "04/15/2014"
+    },
+    {
+        "GameTitle": "Blast Off",
+        "id": 19295,
+        "ReleaseDate": "11/24/2009"
+    },
+    {
+        "GameTitle": "Killzone Mercenary",
+        "id": 19432,
+        "ReleaseDate": "09/10/2013"
+    },
+    {
+        "GameTitle": "Lone Survivor: The Director's Cut",
+        "id": 19807,
+        "ReleaseDate": "09/24/2013"
+    },
+    {
+        "GameTitle": "Batman: Arkham Origins Blackgate",
+        "id": 19963,
+        "ReleaseDate": "10/25/2013"
+    },
+    {
+        "GameTitle": "Rymdkapsel",
+        "id": 19964
+    },
+    {
+        "GameTitle": "Ragnarok Odyssey ACE",
+        "id": 19974,
+        "ReleaseDate": "04/01/2014"
+    },
+    {
+        "GameTitle": "Final Fantasy X/X-2 HD Remaster",
+        "id": 20118,
+        "ReleaseDate": "12/26/2013"
+    },
+    {
+        "GameTitle": "LEGO The Hobbit",
+        "id": 20163,
+        "ReleaseDate": "04/08/2014"
+    },
+    {
+        "GameTitle": "Luftrausers",
+        "id": 20581,
+        "ReleaseDate": "03/18/2014"
+    },
+    {
+        "GameTitle": "God of War Collection",
+        "id": 20620,
+        "ReleaseDate": "05/05/2014"
+    },
+    {
+        "GameTitle": "The Walking Dead: The Complete First Season",
+        "id": 20629,
+        "ReleaseDate": "08/20/2013"
+    },
+    {
+        "GameTitle": "Mind Zero",
+        "id": 20735,
+        "ReleaseDate": "05/27/2014"
+    },
+    {
+        "GameTitle": "Hyperdimension Neptunia PP",
+        "id": 20736,
+        "ReleaseDate": "06/03/2014"
+    },
+    {
+        "GameTitle": "LIMBO",
+        "id": 20770,
+        "ReleaseDate": "06/21/2010"
+    },
+    {
+        "GameTitle": "Cytus Lambda",
+        "id": 20874,
+        "ReleaseDate": "06/26/2013"
+    },
+    {
+        "GameTitle": "Injustice: Gods Among Us - Ultimate Edition",
+        "id": 20881,
+        "ReleaseDate": "11/12/2013"
+    },
+    {
+        "GameTitle": "The Swapper",
+        "id": 20913,
+        "ReleaseDate": "06/25/2014"
+    },
+    {
+        "GameTitle": "BlazBlue: Chrono Phantasma",
+        "id": 21088,
+        "ReleaseDate": "06/24/2014"
+    },
+    {
+        "GameTitle": "Senran Kagura: Shinovi Versus",
+        "id": 21090,
+        "ReleaseDate": "09/30/2014"
+    },
+    {
+        "GameTitle": "Senran Kagura: Bon Appetit",
+        "id": 21091,
+        "ReleaseDate": "12/31/2014"
+    },
+    {
+        "GameTitle": "Freedom Wars",
+        "id": 21092,
+        "ReleaseDate": "12/31/2014"
+    },
+    {
+        "GameTitle": "Akiba's Trip: Undead & Undressed",
+        "id": 21149,
+        "ReleaseDate": "08/05/2014"
+    },
+    {
+        "GameTitle": "Danganronpa 2: Goodbye Despair",
+        "id": 21150,
+        "ReleaseDate": "09/02/2014"
+    },
+    {
+        "GameTitle": "Child of Light",
+        "id": 21183,
+        "ReleaseDate": "07/02/2014"
+    },
+    {
+        "GameTitle": "Invizimals: The Alliance",
+        "id": 31459,
+        "ReleaseDate": "09/30/2014"
+    },
+    {
+        "GameTitle": "PhotoKano Kiss",
+        "id": 21338,
+        "ReleaseDate": "04/25/2013"
+    },
+    {
+        "GameTitle": "Arcana Heart 3: LOVEMAX!!!!!",
+        "id": 21339,
+        "ReleaseDate": "05/29/2014"
+    },
+    {
+        "GameTitle": "Genkai Totsuki Moero Chronicle",
+        "id": 21424,
+        "ReleaseDate": "05/15/2014"
+    },
+    {
+        "GameTitle": "DJ Max Technika Tune",
+        "id": 21425,
+        "ReleaseDate": "12/07/2012"
+    },
+    {
+        "GameTitle": "One Piece: Unlimited World Red",
+        "id": 21426,
+        "ReleaseDate": "07/14/2014"
+    },
+    {
+        "GameTitle": "Monster Monpiece",
+        "id": 21429,
+        "ReleaseDate": "06/27/2014"
+    },
+    {
+        "GameTitle": "Fifa 14",
+        "id": 21453
+    },
+    {
+        "GameTitle": "The Ratchet & Clank Trilogy HD",
+        "id": 21498,
+        "ReleaseDate": "07/02/2014"
+    },
+    {
+        "GameTitle": "Girls und Panzer: Senshado, Kiwamemasu!",
+        "id": 21504,
+        "ReleaseDate": "06/26/2014"
+    },
+    {
+        "GameTitle": "TxK",
+        "id": 21558,
+        "ReleaseDate": "02/11/2014"
+    },
+    {
+        "GameTitle": "Velocity Ultra",
+        "id": 21559,
+        "ReleaseDate": "12/12/2013"
+    },
+    {
+        "GameTitle": "Thomas Was Alone",
+        "id": 21561,
+        "ReleaseDate": "04/23/2013"
+    },
+    {
+        "GameTitle": "Machinarium",
+        "id": 21562,
+        "ReleaseDate": "03/26/2013"
+    },
+    {
+        "GameTitle": "Deception IV: Blood Ties",
+        "id": 21578,
+        "ReleaseDate": "03/25/2014"
+    },
+    {
+        "GameTitle": "Rogue Legacy",
+        "id": 21579,
+        "ReleaseDate": "07/29/2014"
+    },
+    {
+        "GameTitle": "XBLAZE Code: Embryo",
+        "id": 21580,
+        "ReleaseDate": "06/24/2014"
+    },
+    {
+        "GameTitle": "Golden Time: Vivid Memories",
+        "id": 21582,
+        "ReleaseDate": "03/27/2014"
+    },
+    {
+        "GameTitle": "Metrico",
+        "id": 21584,
+        "ReleaseDate": "08/05/2014"
+    },
+    {
+        "GameTitle": "J-Stars Victory Vs",
+        "id": 22540,
+        "ReleaseDate": "03/19/2014"
+    },
+    {
+        "GameTitle": "Road Not Taken",
+        "id": 22611,
+        "ReleaseDate": "08/05/2014"
+    },
+    {
+        "GameTitle": "Atelier Rorona Plus: The Alchemist of Arland",
+        "id": 22641,
+        "ReleaseDate": "07/22/2014"
+    },
+    {
+        "GameTitle": "Hohokum",
+        "id": 22676,
+        "ReleaseDate": "08/12/2014"
+    },
+    {
+        "GameTitle": "FIFA 15",
+        "id": 22790,
+        "ReleaseDate": "09/23/2014"
+    },
+    {
+        "GameTitle": "The Sly Collection",
+        "id": 22902,
+        "ReleaseDate": "05/27/2014"
+    },
+    {
+        "GameTitle": "CounterSpy",
+        "id": 22944,
+        "ReleaseDate": "08/20/2014"
+    },
+    {
+        "GameTitle": "Disgaea 4: A Promise Revisited",
+        "id": 22950,
+        "ReleaseDate": "08/12/2014"
+    },
+    {
+        "GameTitle": "Terraria",
+        "id": 23185,
+        "ReleaseDate": "12/17/2013"
+    },
+    {
+        "GameTitle": "Velocity 2X",
+        "id": 23192,
+        "ReleaseDate": "09/02/2014"
+    },
+    {
+        "GameTitle": "Minecraft: Playstation Vita Edition",
+        "id": 23314,
+        "ReleaseDate": "12/31/2014"
+    },
+    {
+        "GameTitle": "Epic Mickey 2: The Power Of Two",
+        "id": 23493,
+        "ReleaseDate": "06/18/2013"
+    },
+    {
+        "GameTitle": "Total Recoil",
+        "id": 23505,
+        "ReleaseDate": "07/09/2013"
+    },
+    {
+        "GameTitle": "Super Stardust Delta",
+        "id": 23597,
+        "ReleaseDate": "02/15/2012"
+    },
+    {
+        "GameTitle": "Natural Doctrine",
+        "id": 23735,
+        "ReleaseDate": "09/30/2014"
+    },
+    {
+        "GameTitle": "The Binding of Isaac: Rebirth",
+        "id": 23779,
+        "ReleaseDate": "11/04/2014"
+    },
+    {
+        "GameTitle": "Doki-Doki Universe",
+        "id": 23782,
+        "ReleaseDate": "12/10/2013"
+    },
+    {
+        "GameTitle": "Everybody's Golf",
+        "id": 23783,
+        "ReleaseDate": "02/22/2012"
+    },
+    {
+        "GameTitle": "The Hungry Horde",
+        "id": 23789,
+        "ReleaseDate": "11/05/2014"
+    },
+    {
+        "GameTitle": "Joe Danger",
+        "id": 23790,
+        "ReleaseDate": "09/02/2014"
+    },
+    {
+        "GameTitle": "MotorStorm RC",
+        "id": 23791,
+        "ReleaseDate": "02/22/2012"
+    },
+    {
+        "GameTitle": "Pix the Cat",
+        "id": 23792,
+        "ReleaseDate": "10/08/2014"
+    },
+    {
+        "GameTitle": "Proteus",
+        "id": 23795,
+        "ReleaseDate": "10/29/2013"
+    },
+    {
+        "GameTitle": "Spelunky",
+        "id": 23798,
+        "ReleaseDate": "08/27/2013"
+    },
+    {
+        "GameTitle": "The Unfinished Swan",
+        "id": 23803,
+        "ReleaseDate": "10/28/2014"
+    },
+    {
+        "GameTitle": "SteamWorld Dig",
+        "id": 23804,
+        "ReleaseDate": "03/18/2014"
+    },
+    {
+        "GameTitle": "Tales of Hearts R",
+        "id": 23857,
+        "ReleaseDate": "11/11/2014"
+    },
+    {
+        "GameTitle": "Fez",
+        "id": 23872
+    },
+    {
+        "GameTitle": "The Wolf Among Us",
+        "id": 23991,
+        "ReleaseDate": "11/04/2014"
+    },
+    {
+        "GameTitle": "LEGO Marvel Super Heroes: Universe in Peril",
+        "id": 23992,
+        "ReleaseDate": "10/22/2013"
+    },
+    {
+        "GameTitle": "LEGO Batman 3: Beyond Gotham",
+        "id": 23994,
+        "ReleaseDate": "11/11/2014"
+    },
+    {
+        "GameTitle": "The Walking Dead - Season 2",
+        "id": 23995,
+        "ReleaseDate": "11/04/2014"
+    },
+    {
+        "GameTitle": "Final Fantasy VII",
+        "id": 24293,
+        "ReleaseDate": "06/02/2009"
+    },
+    {
+        "GameTitle": "Final Horizon",
+        "id": 24294,
+        "ReleaseDate": "12/02/2014"
+    },
+    {
+        "GameTitle": "Shovel Knight",
+        "id": 24329
+    },
+    {
+        "GameTitle": "Sword Art Online: Hollow Fragment",
+        "id": 24427,
+        "ReleaseDate": "08/19/2014"
+    },
+    {
+        "GameTitle": "Criminal Girls: Invite Only",
+        "id": 24883,
+        "ReleaseDate": "02/03/2015"
+    },
+    {
+        "GameTitle": "Hyperdimension Neptunia Re;Birth 1",
+        "id": 24884,
+        "ReleaseDate": "08/26/2014"
+    },
+    {
+        "GameTitle": "Hyperdimension Neptunia Re;Birth 2: Sisters Generation",
+        "id": 24885,
+        "ReleaseDate": "01/27/2015"
+    },
+    {
+        "GameTitle": "Hyperdevotion Noire Goddess Black Heart",
+        "id": 24886,
+        "ReleaseDate": "02/24/2015"
+    },
+    {
+        "GameTitle": "LEGO Ninjago Nindroids",
+        "id": 24888,
+        "ReleaseDate": "07/29/2014"
+    },
+    {
+        "GameTitle": "Tokyo Twilight Ghost Hunters",
+        "id": 24889,
+        "ReleaseDate": "02/28/2015"
+    },
+    {
+        "GameTitle": "LEGO Movie Videogame",
+        "id": 24890,
+        "ReleaseDate": "02/07/2014"
+    },
+    {
+        "GameTitle": "LEGO Legends of Chima: Laval's Journey",
+        "id": 24895,
+        "ReleaseDate": "06/25/2013"
+    },
+    {
+        "GameTitle": "Hyperdimension Neptunia U: Action Unleashed",
+        "id": 25074,
+        "ReleaseDate": "05/19/2015"
+    },
+    {
+        "GameTitle": "Operation Abyss: New Tokyo Legacy",
+        "id": 25595,
+        "ReleaseDate": "06/29/2015"
+    },
+    {
+        "GameTitle": "Hatsune Miku: Project DIVA F 2nd",
+        "id": 25616,
+        "ReleaseDate": "11/18/2014"
+    },
+    {
+        "GameTitle": "Atelier Ayesha Plus: The Alchemist of Dusk",
+        "id": 25627,
+        "ReleaseDate": "01/13/2015"
+    },
+    {
+        "GameTitle": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
+        "id": 25662,
+        "ReleaseDate": "03/25/2014"
+    },
+    {
+        "GameTitle": "Kick & Fennick",
+        "id": 25663,
+        "ReleaseDate": "02/03/2015"
+    },
+    {
+        "GameTitle": "Danganronpa Another Episode: Ultra Despair Girls",
+        "id": 25718,
+        "ReleaseDate": "09/01/2015"
+    },
+    {
+        "GameTitle": "Darkest Dungeon",
+        "id": 25808
+    },
+    {
+        "GameTitle": "Helldivers",
+        "id": 25811
+    },
+    {
+        "GameTitle": "Nuclear Throne",
+        "id": 25945
+    },
+    {
+        "GameTitle": "Duke Nukem 3D: Megaton Edition",
+        "id": 25956
+    },
+    {
+        "GameTitle": "Hyperdimension Neptunia Re;Birth 3: V Generation",
+        "id": 26222,
+        "ReleaseDate": "06/30/2015"
+    },
+    {
+        "GameTitle": "Lost Dimension",
+        "id": 26234,
+        "ReleaseDate": "07/07/2015"
+    },
+    {
+        "GameTitle": "Xblaze Lost: Memories",
+        "id": 26235,
+        "ReleaseDate": "08/11/2015"
+    },
+    {
+        "GameTitle": "LEGO Jurassic World",
+        "id": 26236,
+        "ReleaseDate": "06/30/2015"
+    },
+    {
+        "GameTitle": "Tetris Ultimate",
+        "id": 26706
+    },
+    {
+        "GameTitle": "1001 Spikes",
+        "id": 26735
+    },
+    {
+        "GameTitle": "Floating Cloud God Saves the Pilgrims",
+        "id": 26981
+    },
+    {
+        "GameTitle": "Titan Souls",
+        "id": 26997
+    },
+    {
+        "GameTitle": "WRC 3 World Rally Championship",
+        "id": 27018
+    },
+    {
+        "GameTitle": "Dungeon Travelers 2: The Royal Library & The Monster Seal",
+        "id": 27131,
+        "ReleaseDate": "08/18/2015"
+    },
+    {
+        "GameTitle": "Axiom Verge",
+        "id": 27458
+    },
+    {
+        "GameTitle": "Rollers of the Realm",
+        "id": 27619
+    },
+    {
+        "GameTitle": "SpongeBob HeroPants",
+        "id": 37477,
+        "ReleaseDate": "02/03/2015"
+    },
+    {
+        "GameTitle": "Dragon Ball Z: Battle of Z",
+        "id": 34854,
+        "ReleaseDate": "01/28/2014"
+    },
+    {
+        "GameTitle": "Pier Solar and the Great Architects",
+        "id": 29306
+    },
+    {
+        "GameTitle": "Persona 4: Dancing All Night Disco Fever Edition",
+        "id": 29429,
+        "ReleaseDate": "09/29/2015"
+    },
+    {
+        "GameTitle": "Persona 4: Dancing All Night",
+        "id": 29430,
+        "ReleaseDate": "09/29/2015"
+    },
+    {
+        "GameTitle": "Bastion",
+        "id": 29818
+    },
+    {
+        "GameTitle": "Gyossait",
+        "id": 30044
+    },
+    {
+        "GameTitle": "OlliOlli2: Welcome to Olliwood",
+        "id": 30319
+    },
+    {
+        "GameTitle": "Corpse Party Ever After Edition",
+        "id": 30638,
+        "ReleaseDate": "10/13/2015"
+    },
+    {
+        "GameTitle": "Sword Art Online: Lost Song",
+        "id": 30639,
+        "ReleaseDate": "11/17/2015"
+    },
+    {
+        "GameTitle": "Steins;Gate",
+        "id": 30641,
+        "ReleaseDate": "08/31/2015"
+    },
+    {
+        "GameTitle": "Norn9: Var Commons",
+        "id": 30642,
+        "ReleaseDate": "11/03/2015"
+    },
+    {
+        "GameTitle": "Code: Realize - Guardian of Rebirth",
+        "id": 30643,
+        "ReleaseDate": "10/20/2015"
+    },
+    {
+        "GameTitle": "The Legend of Heroes: Trails of Cold Steel",
+        "id": 30644,
+        "ReleaseDate": "12/15/2015"
+    },
+    {
+        "GameTitle": "Citizens of Earth",
+        "id": 30835
+    },
+    {
+        "GameTitle": "Volume",
+        "id": 31307
+    },
+    {
+        "GameTitle": "MLB 15: The Show",
+        "id": 31541
+    },
+    {
+        "GameTitle": "Murasaki Baby",
+        "id": 32370,
+        "ReleaseDate": "09/16/2014"
+    },
+    {
+        "GameTitle": "Deathmatch Village",
+        "id": 32479,
+        "ReleaseDate": "09/02/2013"
+    },
+    {
+        "GameTitle": "Destiny of Spirits",
+        "id": 32480,
+        "ReleaseDate": "03/25/2014"
+    },
+    {
+        "GameTitle": "Amnesia: Memories",
+        "id": 32690,
+        "ReleaseDate": "08/25/2015"
+    },
+    {
+        "GameTitle": "Pixeljunk Monsters Ultimate HD",
+        "id": 32755,
+        "ReleaseDate": "07/30/2013"
+    },
+    {
+        "GameTitle": "History: Legends of War",
+        "id": 32858,
+        "ReleaseDate": "07/07/2013"
+    },
+    {
+        "GameTitle": "Dead Nation",
+        "id": 33358,
+        "ReleaseDate": "04/15/2014"
+    },
+    {
+        "GameTitle": "Desert Ashes",
+        "id": 33890
+    },
+    {
+        "GameTitle": "Monster Hunter Frontier G",
+        "id": 34013
+    },
+    {
+        "GameTitle": "Super Meat Boy",
+        "id": 34180
+    },
+    {
+        "GameTitle": "BlazBlue: Chrono Phantasma Extend",
+        "id": 34407,
+        "ReleaseDate": "07/28/2015"
+    },
+    {
+        "GameTitle": "Soul Sacrifice Delta",
+        "id": 34413
+    },
+    {
+        "GameTitle": "Kung Fu Rabbit",
+        "id": 34419
+    },
+    {
+        "GameTitle": "Gundam Breaker 2",
+        "id": 34498,
+        "ReleaseDate": "12/18/2014"
+    },
+    {
+        "GameTitle": "Earth Defense Force 2: Invaders from Planet Space",
+        "id": 34675,
+        "ReleaseDate": "12/08/2015"
+    },
+    {
+        "GameTitle": "LEGO Marvel's Avengers",
+        "id": 34843,
+        "ReleaseDate": "01/26/2016"
+    },
+    {
+        "GameTitle": "Resogun",
+        "id": 34963
+    },
+    {
+        "GameTitle": "Disney Infinity: 2.0 Edition",
+        "id": 34997,
+        "ReleaseDate": "05/09/2015"
+    },
+    {
+        "GameTitle": "Digimon Story: Cyber Sleuth",
+        "id": 35052,
+        "ReleaseDate": "02/02/2016"
+    },
+    {
+        "GameTitle": "Zero Escape: Zero Time Dilemma",
+        "id": 35053
+    },
+    {
+        "GameTitle": "Mighty No. 9",
+        "id": 35277,
+        "ReleaseDate": "06/21/2016"
+    },
+    {
+        "GameTitle": "Assassin's Creed Chronicles",
+        "id": 35287
+    },
+    {
+        "GameTitle": "Jonah Lomu Rugby Challenge",
+        "id": 35529,
+        "ReleaseDate": "07/06/2012"
+    },
+    {
+        "GameTitle": "One Piece: Pirate Warriors 3",
+        "id": 35530,
+        "ReleaseDate": "08/25/2015"
+    },
+    {
+        "GameTitle": "Senran Kagura: Estival Versus",
+        "id": 35723,
+        "ReleaseDate": "03/15/2016"
+    },
+    {
+        "GameTitle": "Gundam Breaker 3",
+        "id": 35881,
+        "ReleaseDate": "03/03/2016"
+    },
+    {
+        "GameTitle": "Dengeki Bunko: Fighting Climax",
+        "id": 36675,
+        "ReleaseDate": "03/18/2014"
+    },
+    {
+        "GameTitle": "MegaTagmension Blanc + Neptune VS Zombies",
+        "id": 36676,
+        "ReleaseDate": "05/10/2016"
+    },
+    {
+        "GameTitle": "Color Guardians",
+        "id": 37268
+    },
+    {
+        "GameTitle": "Grand Kingdom",
+        "id": 37560,
+        "ReleaseDate": "06/28/2016"
+    }
+]}}
+]

@@ -1,0 +1,832 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "ABPA Backgammon",
+        "id": 4049,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Advanced Dungeons & Dragons",
+        "id": 4050,
+        "ReleaseDate": "07/15/1982"
+    },
+    {
+        "GameTitle": "Armor Battle",
+        "id": 4051,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Astrosmash",
+        "id": 4052,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Auto Racing",
+        "id": 4053,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "B-17 Bomber",
+        "id": 4054,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Baseball",
+        "id": 4055,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Basketball",
+        "id": 4056,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Bomb Squad",
+        "id": 4057,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Bowling",
+        "id": 4058,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Boxing",
+        "id": 4059,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "BurgerTime",
+        "id": 4060,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Buzz Bombers",
+        "id": 4061,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Demon Attack",
+        "id": 4062,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Donkey Kong",
+        "id": 4063,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Dracula",
+        "id": 4064,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Dragonfire",
+        "id": 4065,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Football",
+        "id": 4066
+    },
+    {
+        "GameTitle": "Frog Bog",
+        "id": 4067,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Frogger",
+        "id": 4068,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Golf",
+        "id": 4069,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Horse Racing",
+        "id": 4070,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Lock 'n' Chase",
+        "id": 4071,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Loco-Motion",
+        "id": 4072,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Microsurgeon",
+        "id": 4073,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Mission-X",
+        "id": 4074,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "NASL Soccer",
+        "id": 4075,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "NHL Hockey",
+        "id": 4076,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Night Stalker",
+        "id": 4077,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "PBA Bowling",
+        "id": 4078,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Pitfall!",
+        "id": 4079,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Las Vegas Poker & Blackjack",
+        "id": 4080,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Popeye",
+        "id": 4081,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Reversi",
+        "id": 4082,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Las Vegas Roulette",
+        "id": 4083,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Sea Battle",
+        "id": 4084,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Shark! Shark!",
+        "id": 4085,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Sharp Shot",
+        "id": 4086,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Skiing",
+        "id": 4087
+    },
+    {
+        "GameTitle": "Snafu",
+        "id": 4088,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Space Armada",
+        "id": 4089,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Space Battle",
+        "id": 4090,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "Space Hawk",
+        "id": 4091,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Space Spartans",
+        "id": 4092,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Stampede",
+        "id": 4093,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Star Strike",
+        "id": 4094,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Sub Hunt",
+        "id": 4095,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Swords & Serpents",
+        "id": 4096,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Tennis",
+        "id": 4097,
+        "ReleaseDate": "12/01/1980"
+    },
+    {
+        "GameTitle": "Triple Action",
+        "id": 4098,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Tron: Deadly Discs",
+        "id": 4099,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Tron: Maze-a-Tron",
+        "id": 4100,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Tron: Solar Sailer",
+        "id": 4101,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Tropical Trouble",
+        "id": 4102,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Utopia",
+        "id": 4103,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Vectron",
+        "id": 4104,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Masters of the Universe: The Power of He-Man",
+        "id": 7934,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "AD&D: Treasure of Tarmin",
+        "id": 9367,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Venture",
+        "id": 10279,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Major League Baseball",
+        "id": 10498,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Atlantis",
+        "id": 10499,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Beamrider",
+        "id": 10500,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Blockade Runner",
+        "id": 10501,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Body Slam: Super Pro Wrestling",
+        "id": 10502,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Centipede",
+        "id": 10503,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Championship Tennis",
+        "id": 10504,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Checkers",
+        "id": 10505,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Chip Shot: Super Pro Golf",
+        "id": 10506,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Commando",
+        "id": 10507,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Defender",
+        "id": 10508,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Dig Dug",
+        "id": 10509,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Diner",
+        "id": 10510,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Donkey Kong Junior",
+        "id": 10511,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "The Dreadnaught Factor",
+        "id": 10512,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "The Electric Company: Math Fun",
+        "id": 10513,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "The Electric Company: Word Fun",
+        "id": 10514,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Fathom",
+        "id": 10515,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Go for the Gold",
+        "id": 10516,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Happy Trails",
+        "id": 10517,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Hover Force",
+        "id": 10518,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Ice Trek",
+        "id": 10523,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "The Jetson's: Ways with Words",
+        "id": 10524,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Kool-Aid Man",
+        "id": 10525,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Learning Fun I",
+        "id": 10526,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Learning Fun II",
+        "id": 10527,
+        "ReleaseDate": "07/08/1987"
+    },
+    {
+        "GameTitle": "Mind Strike",
+        "id": 10528,
+        "ReleaseDate": "12/01/1982"
+    },
+    {
+        "GameTitle": "Motocross",
+        "id": 10529,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Mountain Madness: Super Pro Skiing",
+        "id": 10530,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Mouse Trap",
+        "id": 10531,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "NBA Basketball",
+        "id": 10532,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "NFL Football",
+        "id": 10533,
+        "ReleaseDate": "01/01/1979"
+    },
+    {
+        "GameTitle": "PGA Golf",
+        "id": 10534,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "Pinball",
+        "id": 10535,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Pole Position",
+        "id": 10536,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "River Raid",
+        "id": 10537,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Royal Dealer",
+        "id": 10538,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Safecracker",
+        "id": 10539,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Scooby Doo's Maze Chase",
+        "id": 10540,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Sewer Sam",
+        "id": 10541,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Slam Dunk: Super Pro Basketball",
+        "id": 10542,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Slap Shot: Super Pro Hockey",
+        "id": 10543,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Spiker! Super Pro Volleyball",
+        "id": 10544,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Stadium Mud Buggies",
+        "id": 10545,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Star Wars: The Empire Strikes Back",
+        "id": 10546,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Super Cobra",
+        "id": 10547,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Super Pro Decathlon",
+        "id": 10548,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Super Pro Football",
+        "id": 10549,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Thin Ice",
+        "id": 10550,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Thunder Castle",
+        "id": 10551,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Tower of Doom",
+        "id": 10552,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Triple Challenge",
+        "id": 10553,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Truckin'",
+        "id": 10554,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Turbo",
+        "id": 10555,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Tutankham",
+        "id": 10556,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "U.S. Ski Team Skiing",
+        "id": 10557,
+        "ReleaseDate": "01/01/1980"
+    },
+    {
+        "GameTitle": "USCF Chess",
+        "id": 10558,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "White Water!",
+        "id": 10559,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "World Series Major League Baseball",
+        "id": 10560,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Worm Whomper",
+        "id": 10561,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Zaxxon",
+        "id": 10562,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Bump 'n' Jump",
+        "id": 25819,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Beauty & the Beast",
+        "id": 25820,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Nova Blast",
+        "id": 25821,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Carnival",
+        "id": 25964,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Congo Bongo",
+        "id": 25965,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Q*bert",
+        "id": 25966,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "World Championship Baseball",
+        "id": 25967,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Pac-Man",
+        "id": 26160,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Deep Pockets-Super Pro Pool and Billiards",
+        "id": 27566
+    },
+    {
+        "GameTitle": "Soccer",
+        "id": 28208
+    },
+    {
+        "GameTitle": "World Cup Soccer",
+        "id": 28209,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Stonix",
+        "id": 31164,
+        "ReleaseDate": "05/01/2004"
+    },
+    {
+        "GameTitle": "BRICKOUT",
+        "id": 31467,
+        "ReleaseDate": "12/01/1998"
+    },
+    {
+        "GameTitle": "TAKEOVER",
+        "id": 31468,
+        "ReleaseDate": "09/01/1982"
+    },
+    {
+        "GameTitle": "4-Tris",
+        "id": 31710
+    },
+    {
+        "GameTitle": "Grid Shock",
+        "id": 33265,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Hard Hat",
+        "id": 33266
+    },
+    {
+        "GameTitle": "Air Strike",
+        "id": 36851,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Hypnotic Lights",
+        "id": 36852,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Robot Rubble",
+        "id": 36853,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "League of Light",
+        "id": 36854,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Space Cadet",
+        "id": 36855,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Crazy Clones",
+        "id": 36856,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Doom",
+        "id": 36857,
+        "ReleaseDate": "01/01/2002"
+    },
+    {
+        "GameTitle": "Deadly Dogs",
+        "id": 36858,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Tetris",
+        "id": 36859,
+        "ReleaseDate": "01/01/2000"
+    },
+    {
+        "GameTitle": "Santa's Helper",
+        "id": 36860,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Game Factory",
+        "id": 36861,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "King of the Mountain",
+        "id": 36862,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Lady Bug",
+        "id": 36863,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Land Battle",
+        "id": 36864,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Number Jumble",
+        "id": 36865,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Minehunter",
+        "id": 36866,
+        "ReleaseDate": "01/01/2003"
+    },
+    {
+        "GameTitle": "Mr. Basic Meets Bits 'N Bytes",
+        "id": 36867,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Melody Blaster",
+        "id": 36868,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Magic Carousel",
+        "id": 36869,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Blix",
+        "id": 36964,
+        "ReleaseDate": "01/01/2014"
+    },
+    {
+        "GameTitle": "Christmas Carol vs. The Ghost of Christmas Presents",
+        "id": 36965,
+        "ReleaseDate": "01/01/2012"
+    },
+    {
+        "GameTitle": "Piggy Bank",
+        "id": 36966,
+        "ReleaseDate": "01/01/2015"
+    },
+    {
+        "GameTitle": "Same Game and Robots",
+        "id": 36967,
+        "ReleaseDate": "01/01/2012"
+    },
+    {
+        "GameTitle": "Space Patrol",
+        "id": 36968,
+        "ReleaseDate": "01/01/2010"
+    },
+    {
+        "GameTitle": "Super Masters!",
+        "id": 36969,
+        "ReleaseDate": "01/01/1982"
+    },
+    {
+        "GameTitle": "Street",
+        "id": 36970,
+        "ReleaseDate": "01/01/1981"
+    },
+    {
+        "GameTitle": "Pong",
+        "id": 36971,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Easter Eggs",
+        "id": 36972,
+        "ReleaseDate": "05/01/1981"
+    },
+    {
+        "GameTitle": "Groovy!",
+        "id": 36973,
+        "ReleaseDate": "01/01/1999"
+    },
+    {
+        "GameTitle": "Eggs 'n' Eyes",
+        "id": 36975,
+        "ReleaseDate": "01/01/1997"
+    }
+]}}
+]

@@ -1,0 +1,41 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Banana",
+        "id": 33304,
+        "ReleaseDate": "12/03/1981"
+    },
+    {
+        "GameTitle": "Armor Battle",
+        "id": 33303,
+        "ReleaseDate": "12/05/1978"
+    },
+    {
+        "GameTitle": "Baseball (GW)",
+        "id": 33305
+    },
+    {
+        "GameTitle": "Astro Wars",
+        "id": 34662
+    },
+    {
+        "GameTitle": "Demon Driver",
+        "id": 34664
+    },
+    {
+        "GameTitle": "Galaxy Invader 1000",
+        "id": 34665
+    },
+    {
+        "GameTitle": "Caveman",
+        "id": 34666
+    },
+    {
+        "GameTitle": "Puckman",
+        "id": 34667
+    },
+    {
+        "GameTitle": "Crazy Kong",
+        "id": 34668
+    }
+]}}
+]

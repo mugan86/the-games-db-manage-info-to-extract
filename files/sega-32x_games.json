@@ -1,0 +1,209 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Space Harrier",
+        "id": 117,
+        "ReleaseDate": "12/03/1994"
+    },
+    {
+        "GameTitle": "Knuckles' Chaotix",
+        "id": 2290,
+        "ReleaseDate": "04/21/1995"
+    },
+    {
+        "GameTitle": "Kolibri",
+        "id": 2609,
+        "ReleaseDate": "09/08/1995"
+    },
+    {
+        "GameTitle": "Blackthorne",
+        "id": 9074,
+        "ReleaseDate": "08/24/1995"
+    },
+    {
+        "GameTitle": "Golf Magazine: 36 Great Holes Starring Fred Couples",
+        "id": 4911,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "BC Racers",
+        "id": 4913,
+        "ReleaseDate": "10/19/1995"
+    },
+    {
+        "GameTitle": "Cosmic Carnage",
+        "id": 4914,
+        "ReleaseDate": "03/02/1994"
+    },
+    {
+        "GameTitle": "Doom",
+        "id": 4917,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Metal Head",
+        "id": 4918,
+        "ReleaseDate": "02/24/1995"
+    },
+    {
+        "GameTitle": "Mortal Kombat II",
+        "id": 4919,
+        "ReleaseDate": "12/04/1994"
+    },
+    {
+        "GameTitle": "Primal Rage",
+        "id": 4922,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Shadow Squadron",
+        "id": 4923,
+        "ReleaseDate": "05/25/1995"
+    },
+    {
+        "GameTitle": "The Amazing Spider-Man: Web of Fire",
+        "id": 4925,
+        "ReleaseDate": "04/26/1996"
+    },
+    {
+        "GameTitle": "Star Wars Arcade",
+        "id": 4926,
+        "ReleaseDate": "12/02/1994"
+    },
+    {
+        "GameTitle": "Tempo",
+        "id": 4927,
+        "ReleaseDate": "03/24/1995"
+    },
+    {
+        "GameTitle": "Virtua Fighter",
+        "id": 4928,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Virtua Racing Deluxe",
+        "id": 4929,
+        "ReleaseDate": "02/05/1994"
+    },
+    {
+        "GameTitle": "Brutal: Above the Claw",
+        "id": 5295,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Star Trek: Starfleet Academy - Starship Bridge Simulator",
+        "id": 5970,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "WWF Raw",
+        "id": 5971,
+        "ReleaseDate": "08/22/1995"
+    },
+    {
+        "GameTitle": "DarXide",
+        "id": 9075,
+        "ReleaseDate": "12/01/1995"
+    },
+    {
+        "GameTitle": "Motocross Championship",
+        "id": 9076,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "NBA Jam Tournament Edition",
+        "id": 9077,
+        "ReleaseDate": "05/01/1995"
+    },
+    {
+        "GameTitle": "Pitfall: The Mayan Adventure",
+        "id": 9079,
+        "ReleaseDate": "10/01/1995"
+    },
+    {
+        "GameTitle": "RBI Baseball '95",
+        "id": 9080,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "T-Mek",
+        "id": 9081,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Toughman Contest",
+        "id": 9082,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Zaxxon's Motherbase 2000",
+        "id": 9083,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "Corpse Killer",
+        "id": 11036,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "NFL Quarterback Club",
+        "id": 14262,
+        "ReleaseDate": "01/01/1995"
+    },
+    {
+        "GameTitle": "WWF WrestleMania: The Arcade Game",
+        "id": 14263,
+        "ReleaseDate": "07/21/1995"
+    },
+    {
+        "GameTitle": "Slam City with Scottie Pippen",
+        "id": 14602,
+        "ReleaseDate": "01/01/1994"
+    },
+    {
+        "GameTitle": "Virtua Hamster",
+        "id": 20518
+    },
+    {
+        "GameTitle": "Sangokushi IV",
+        "id": 20519,
+        "ReleaseDate": "07/07/1995"
+    },
+    {
+        "GameTitle": "X-Men",
+        "id": 20520
+    },
+    {
+        "GameTitle": "World Series Baseball Starring Deion Sanders",
+        "id": 20521
+    },
+    {
+        "GameTitle": "FIFA Soccer 96",
+        "id": 20522,
+        "ReleaseDate": "11/30/1995"
+    },
+    {
+        "GameTitle": "After Burner",
+        "id": 26762,
+        "ReleaseDate": "01/13/1995"
+    },
+    {
+        "GameTitle": "Romance of the Three Kingdoms IV: Wall of Fire",
+        "id": 30674,
+        "ReleaseDate": "07/28/1995"
+    },
+    {
+        "GameTitle": "Soulstar X",
+        "id": 35756
+    },
+    {
+        "GameTitle": "Night Trap",
+        "id": 36169,
+        "ReleaseDate": "10/15/1992"
+    },
+    {
+        "GameTitle": "Supreme Warrior",
+        "id": 36170,
+        "ReleaseDate": "01/01/1994"
+    }
+]}}
+]

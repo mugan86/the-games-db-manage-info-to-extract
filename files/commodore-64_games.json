@@ -1,0 +1,3243 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Green Beret",
+        "id": 6380,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Ghosts 'n Goblins",
+        "id": 6381
+    },
+    {
+        "GameTitle": "Gauntlet",
+        "id": 6383
+    },
+    {
+        "GameTitle": "Barbarian: The Ultimate Warrior",
+        "id": 6384,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Attack of the Mutant Camels",
+        "id": 6385,
+        "ReleaseDate": "07/15/1983"
+    },
+    {
+        "GameTitle": "Beamrider",
+        "id": 6386,
+        "ReleaseDate": "07/15/1983"
+    },
+    {
+        "GameTitle": "Revenge of the Mutant Camels",
+        "id": 6387,
+        "ReleaseDate": "07/15/1984"
+    },
+    {
+        "GameTitle": "Bubble Bobble",
+        "id": 6388,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Bomb Jack",
+        "id": 6389,
+        "ReleaseDate": "07/15/1985"
+    },
+    {
+        "GameTitle": "Emlyn Hughes International Soccer",
+        "id": 6391,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "International Soccer",
+        "id": 6392
+    },
+    {
+        "GameTitle": "Frogger 64",
+        "id": 6393
+    },
+    {
+        "GameTitle": "Impossible Mission II",
+        "id": 6394,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Mario Bros.",
+        "id": 6395
+    },
+    {
+        "GameTitle": "Mutants",
+        "id": 6396,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Operation Wolf",
+        "id": 6397,
+        "ReleaseDate": "07/15/1989"
+    },
+    {
+        "GameTitle": "Out Run",
+        "id": 6398,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "The Great Giana Sisters",
+        "id": 6400,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "The Last Ninja",
+        "id": 6401,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Golden Axe",
+        "id": 6402
+    },
+    {
+        "GameTitle": "Zork I",
+        "id": 6403,
+        "ReleaseDate": "12/01/1980"
+    },
+    {
+        "GameTitle": "Zynaps",
+        "id": 6404,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "V",
+        "id": 6405,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "The Way of the Exploding Fist",
+        "id": 6406,
+        "ReleaseDate": "07/15/1985"
+    },
+    {
+        "GameTitle": "Saboteur",
+        "id": 6407,
+        "ReleaseDate": "08/01/1985"
+    },
+    {
+        "GameTitle": "Samantha Fox Strip Poker",
+        "id": 6408,
+        "ReleaseDate": "08/01/1986"
+    },
+    {
+        "GameTitle": "Spy Hunter",
+        "id": 6409,
+        "ReleaseDate": "06/03/1983"
+    },
+    {
+        "GameTitle": "Wizball",
+        "id": 6411,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Head over Heels",
+        "id": 6412,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Hacker",
+        "id": 6413,
+        "ReleaseDate": "08/01/1985"
+    },
+    {
+        "GameTitle": "Ikari Warriors",
+        "id": 6414
+    },
+    {
+        "GameTitle": "IK+",
+        "id": 6415,
+        "ReleaseDate": "11/10/1987"
+    },
+    {
+        "GameTitle": "International Ninja Rabbits",
+        "id": 32285,
+        "ReleaseDate": "06/07/1991"
+    },
+    {
+        "GameTitle": "Impossible Mission",
+        "id": 6416,
+        "ReleaseDate": "07/01/1984"
+    },
+    {
+        "GameTitle": "Salamander",
+        "id": 6417
+    },
+    {
+        "GameTitle": "Pitfall!",
+        "id": 6419
+    },
+    {
+        "GameTitle": "Space Harrier",
+        "id": 6420,
+        "ReleaseDate": "04/02/1987"
+    },
+    {
+        "GameTitle": "Pole Position",
+        "id": 6421
+    },
+    {
+        "GameTitle": "Street Fighter II",
+        "id": 6422
+    },
+    {
+        "GameTitle": "Turrican",
+        "id": 6423,
+        "ReleaseDate": "08/01/1990"
+    },
+    {
+        "GameTitle": "Ghostbusters",
+        "id": 6444,
+        "ReleaseDate": "08/01/1984"
+    },
+    {
+        "GameTitle": "Kung-Fu Master",
+        "id": 6445,
+        "ReleaseDate": "08/01/1984"
+    },
+    {
+        "GameTitle": "Paperboy",
+        "id": 6424
+    },
+    {
+        "GameTitle": "Buggy Boy",
+        "id": 6425
+    },
+    {
+        "GameTitle": 1942,
+        "id": 6434
+    },
+    {
+        "GameTitle": "Match Day II",
+        "id": 6435,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Blasteroids",
+        "id": 6436,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Boulder Dash",
+        "id": 6438,
+        "ReleaseDate": "07/15/1984"
+    },
+    {
+        "GameTitle": "Commando",
+        "id": 6439,
+        "ReleaseDate": "02/17/1986"
+    },
+    {
+        "GameTitle": "Dragon's Lair",
+        "id": 6440
+    },
+    {
+        "GameTitle": "Speedball",
+        "id": 6441
+    },
+    {
+        "GameTitle": "Paradroid",
+        "id": 6442,
+        "ReleaseDate": "03/01/1985"
+    },
+    {
+        "GameTitle": "Eagle Empire",
+        "id": 6443
+    },
+    {
+        "GameTitle": "Yie Ar Kung-Fu II",
+        "id": 6446,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Tau Ceti",
+        "id": 6447,
+        "ReleaseDate": "08/01/1986"
+    },
+    {
+        "GameTitle": "The Eidolon",
+        "id": 6448,
+        "ReleaseDate": "08/01/1985"
+    },
+    {
+        "GameTitle": "Silent Service",
+        "id": 6449
+    },
+    {
+        "GameTitle": "Star Paws",
+        "id": 6450
+    },
+    {
+        "GameTitle": "Alien Syndrome",
+        "id": 6477
+    },
+    {
+        "GameTitle": "Hover Bovver",
+        "id": 6478
+    },
+    {
+        "GameTitle": "Maniac Mansion",
+        "id": 6479,
+        "ReleaseDate": "10/01/1987"
+    },
+    {
+        "GameTitle": "Airborne Ranger",
+        "id": 6481,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Armalyte",
+        "id": 6482,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Bruce Lee",
+        "id": 6483
+    },
+    {
+        "GameTitle": "Annihilator",
+        "id": 6484
+    },
+    {
+        "GameTitle": "California Games",
+        "id": 6485,
+        "ReleaseDate": "08/01/1987"
+    },
+    {
+        "GameTitle": "Cybernoid: The Fighting Machine",
+        "id": 6486,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Creatures",
+        "id": 6487,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Elite",
+        "id": 6488,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Gunship",
+        "id": 6489
+    },
+    {
+        "GameTitle": "Hawkeye",
+        "id": 6490,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Last Ninja 2: Back with a Vengeance",
+        "id": 6491,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "The New Zealand Story",
+        "id": 6492,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Retrograde",
+        "id": 6494,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Rainbow Island",
+        "id": 6495
+    },
+    {
+        "GameTitle": "The Untouchables",
+        "id": 6496
+    },
+    {
+        "GameTitle": "World Games",
+        "id": 6497,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Cisco Heat",
+        "id": 6498,
+        "ReleaseDate": "07/02/1990"
+    },
+    {
+        "GameTitle": "Spy vs. Spy: The Island Caper",
+        "id": 6499,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Bangkok Knights",
+        "id": 6501,
+        "ReleaseDate": "10/09/1987"
+    },
+    {
+        "GameTitle": "Hacker II: The Doomsday Papers",
+        "id": 6502,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Ace of Aces",
+        "id": 6503,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "After Burner",
+        "id": 6504
+    },
+    {
+        "GameTitle": "Altered Beast",
+        "id": 6506
+    },
+    {
+        "GameTitle": "Atomic Robo-Kid",
+        "id": 6507,
+        "ReleaseDate": "09/01/1990"
+    },
+    {
+        "GameTitle": "Arkanoid",
+        "id": 6508,
+        "ReleaseDate": "06/15/1988"
+    },
+    {
+        "GameTitle": "Bionic Commando",
+        "id": 6509
+    },
+    {
+        "GameTitle": "Nebulus",
+        "id": 6510,
+        "ReleaseDate": "12/15/1987"
+    },
+    {
+        "GameTitle": "Asterix and the Magic Cauldron",
+        "id": 6511,
+        "ReleaseDate": "09/09/1986"
+    },
+    {
+        "GameTitle": "Blood 'n Guts",
+        "id": 6512
+    },
+    {
+        "GameTitle": "Centipede",
+        "id": 6513
+    },
+    {
+        "GameTitle": "R-Type",
+        "id": 6514
+    },
+    {
+        "GameTitle": "The Sacred Armour of Antiriad",
+        "id": 6515
+    },
+    {
+        "GameTitle": "Yie Ar Kung-Fu",
+        "id": 6516,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Super Cycle",
+        "id": 6520,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Summer Games",
+        "id": 6521,
+        "ReleaseDate": "07/15/1984"
+    },
+    {
+        "GameTitle": "Ultima IV: Quest of the Avatar",
+        "id": 6522,
+        "ReleaseDate": "09/16/1985"
+    },
+    {
+        "GameTitle": "Zork II",
+        "id": 6523
+    },
+    {
+        "GameTitle": "Wonder Boy",
+        "id": 6524
+    },
+    {
+        "GameTitle": "Daley Thompson's Decathlon",
+        "id": 6525,
+        "ReleaseDate": "07/01/1984"
+    },
+    {
+        "GameTitle": "Mercenary",
+        "id": 6526
+    },
+    {
+        "GameTitle": "Magicland Dizzy",
+        "id": 6527
+    },
+    {
+        "GameTitle": "Top Gun",
+        "id": 6528
+    },
+    {
+        "GameTitle": "Marble Madness",
+        "id": 6529
+    },
+    {
+        "GameTitle": "Masters of the Universe",
+        "id": 6530,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Mega-Apocalypse",
+        "id": 6531,
+        "ReleaseDate": "09/01/1987"
+    },
+    {
+        "GameTitle": "Metro-Cross",
+        "id": 6532
+    },
+    {
+        "GameTitle": "Midnight Resistance",
+        "id": 6533
+    },
+    {
+        "GameTitle": "Montezuma's Revenge",
+        "id": 6534,
+        "ReleaseDate": "06/30/1984"
+    },
+    {
+        "GameTitle": "Moon Buggy",
+        "id": 6535
+    },
+    {
+        "GameTitle": "Michael Jackson's Moonwalker",
+        "id": 6536
+    },
+    {
+        "GameTitle": "Ms. Pac-Man",
+        "id": 6537
+    },
+    {
+        "GameTitle": "Gauntlet III: The Final Quest",
+        "id": 6538,
+        "ReleaseDate": "02/06/1992"
+    },
+    {
+        "GameTitle": "Ghostbusters II",
+        "id": 6539
+    },
+    {
+        "GameTitle": "Ghouls 'n Ghosts",
+        "id": 6540,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "The Great Escape",
+        "id": 6541,
+        "ReleaseDate": "02/01/1987"
+    },
+    {
+        "GameTitle": "Gyruss",
+        "id": 6542
+    },
+    {
+        "GameTitle": "Techno Cop",
+        "id": 6543,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Terminator 2: Judgment Day",
+        "id": 6544
+    },
+    {
+        "GameTitle": "Thunder Blade",
+        "id": 6545
+    },
+    {
+        "GameTitle": "Time Machine",
+        "id": 6546
+    },
+    {
+        "GameTitle": "Total Recall",
+        "id": 6547
+    },
+    {
+        "GameTitle": "The Trap Door",
+        "id": 6548
+    },
+    {
+        "GameTitle": "Treasure Island Dizzy",
+        "id": 6549,
+        "ReleaseDate": "08/01/1988"
+    },
+    {
+        "GameTitle": "Turbo Outrun",
+        "id": 6550
+    },
+    {
+        "GameTitle": "Tusker",
+        "id": 6551,
+        "ReleaseDate": "07/19/1989"
+    },
+    {
+        "GameTitle": "Turrican II: The Final Fight",
+        "id": 6552,
+        "ReleaseDate": "07/10/1991"
+    },
+    {
+        "GameTitle": "The Sentinel",
+        "id": 6553,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Shinobi",
+        "id": 6554
+    },
+    {
+        "GameTitle": "Shogun",
+        "id": 6555,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "The Simpsons: Bart vs. the Space Mutants",
+        "id": 6556
+    },
+    {
+        "GameTitle": "Skate or Die!",
+        "id": 6557
+    },
+    {
+        "GameTitle": "Skramble",
+        "id": 6558,
+        "ReleaseDate": "01/15/1983"
+    },
+    {
+        "GameTitle": "Skyfox",
+        "id": 6559,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Slap Fight",
+        "id": 6560
+    },
+    {
+        "GameTitle": "Smash TV",
+        "id": 6561
+    },
+    {
+        "GameTitle": "Spellbound Dizzy",
+        "id": 6562
+    },
+    {
+        "GameTitle": "Spindizzy",
+        "id": 6563,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Spy vs. Spy",
+        "id": 6564,
+        "ReleaseDate": "07/01/1984"
+    },
+    {
+        "GameTitle": "Strider",
+        "id": 6565
+    },
+    {
+        "GameTitle": "Exile",
+        "id": 32602,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Uridium",
+        "id": 6655,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Ninja Spirit",
+        "id": 6656,
+        "ReleaseDate": "09/01/1988"
+    },
+    {
+        "GameTitle": "Yogi's Great Escape",
+        "id": 6657
+    },
+    {
+        "GameTitle": "Super Hang-On",
+        "id": 6658
+    },
+    {
+        "GameTitle": "NARC",
+        "id": 6659,
+        "ReleaseDate": "12/31/1990"
+    },
+    {
+        "GameTitle": "Druid",
+        "id": 6660,
+        "ReleaseDate": "10/29/1986"
+    },
+    {
+        "GameTitle": "Enlightenment: Druid II",
+        "id": 6661,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Summer Games II",
+        "id": 6662,
+        "ReleaseDate": "07/15/1985"
+    },
+    {
+        "GameTitle": "Zaxxon",
+        "id": 6663
+    },
+    {
+        "GameTitle": "The Young Ones",
+        "id": 6664
+    },
+    {
+        "GameTitle": "Deceptor",
+        "id": 6665,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "International Karate",
+        "id": 6666
+    },
+    {
+        "GameTitle": "I, Ball",
+        "id": 6667
+    },
+    {
+        "GameTitle": "IO",
+        "id": 6668,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Neuromancer",
+        "id": 6669
+    },
+    {
+        "GameTitle": "A Nightmare on Elm Street",
+        "id": 6670,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Pac-Mania",
+        "id": 6671,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "X-15 Alpha Mission",
+        "id": 6672
+    },
+    {
+        "GameTitle": "Defender of the Crown",
+        "id": 6673,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Infiltrator",
+        "id": 6674,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Pitfall II: Lost Caverns",
+        "id": 6675,
+        "ReleaseDate": "07/02/1984"
+    },
+    {
+        "GameTitle": "Pirates!",
+        "id": 6676
+    },
+    {
+        "GameTitle": "Pitstop II",
+        "id": 6677
+    },
+    {
+        "GameTitle": "Platoon",
+        "id": 6678
+    },
+    {
+        "GameTitle": "Pole Position II",
+        "id": 6679,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Predator",
+        "id": 6681,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Power Drift",
+        "id": 6682
+    },
+    {
+        "GameTitle": "Predator 2",
+        "id": 6683,
+        "ReleaseDate": "05/08/1991"
+    },
+    {
+        "GameTitle": "Psycho Pigs UXB",
+        "id": 6684,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Operation Thunderbolt",
+        "id": 6685
+    },
+    {
+        "GameTitle": "Ace 2",
+        "id": 6686,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Aliens",
+        "id": 6687,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Arkanoid: Revenge of Doh",
+        "id": 6689,
+        "ReleaseDate": "11/11/1988"
+    },
+    {
+        "GameTitle": "ATF: Advanced Tactical Fighter",
+        "id": 6690,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Back to the Future",
+        "id": 6692,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Back to the Future Part II",
+        "id": 6693,
+        "ReleaseDate": "07/15/1990"
+    },
+    {
+        "GameTitle": "Back to the Future Part III",
+        "id": 6694,
+        "ReleaseDate": "07/15/1991"
+    },
+    {
+        "GameTitle": "Ballblazer",
+        "id": 6695,
+        "ReleaseDate": "03/01/1984"
+    },
+    {
+        "GameTitle": "Barbarian II: The Dungeon of Drax",
+        "id": 6696,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Batman: The Movie",
+        "id": 6697,
+        "ReleaseDate": "07/15/1989"
+    },
+    {
+        "GameTitle": "Blue Max",
+        "id": 6698,
+        "ReleaseDate": "07/15/1983"
+    },
+    {
+        "GameTitle": "The Blues Brothers",
+        "id": 6699
+    },
+    {
+        "GameTitle": "Boulder Dash II",
+        "id": 6701
+    },
+    {
+        "GameTitle": "BraveStarr",
+        "id": 6703,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Bubble Dizzy",
+        "id": 6708,
+        "ReleaseDate": "11/01/1990"
+    },
+    {
+        "GameTitle": "Championship Wrestling",
+        "id": 6712,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Butcher Hill",
+        "id": 6713,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Cabal",
+        "id": 6714,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Chase H.Q.",
+        "id": 6715
+    },
+    {
+        "GameTitle": "Chip's Challenge",
+        "id": 6716
+    },
+    {
+        "GameTitle": "Chuckie Egg",
+        "id": 6717
+    },
+    {
+        "GameTitle": "Chuck Rock",
+        "id": 6718,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "Clever & Smart",
+        "id": 6719,
+        "ReleaseDate": "11/01/1987"
+    },
+    {
+        "GameTitle": "Cluedo",
+        "id": 6720
+    },
+    {
+        "GameTitle": "Combat School",
+        "id": 6721,
+        "ReleaseDate": "04/02/1987"
+    },
+    {
+        "GameTitle": "Congo Bongo",
+        "id": 6722,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "The Cool Croc Twins",
+        "id": 6723
+    },
+    {
+        "GameTitle": "Cosmic Causeway: Trailblazer II",
+        "id": 6724,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Crazy Cars",
+        "id": 6725,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Crazy Cars II",
+        "id": 6726
+    },
+    {
+        "GameTitle": "Creatures II: Torture Trouble",
+        "id": 6727
+    },
+    {
+        "GameTitle": "Crystal Castles",
+        "id": 6728,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "Crystal Kingdom Dizzy",
+        "id": 6729
+    },
+    {
+        "GameTitle": "Elvira: Mistress of the Dark",
+        "id": 6730,
+        "ReleaseDate": "07/02/1990"
+    },
+    {
+        "GameTitle": "E-SWAT",
+        "id": 6731,
+        "ReleaseDate": "09/01/1989"
+    },
+    {
+        "GameTitle": "F-15 Strike Eagle",
+        "id": 6732,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Frogger",
+        "id": 6733
+    },
+    {
+        "GameTitle": "Galaxy",
+        "id": 6734
+    },
+    {
+        "GameTitle": "Game Over",
+        "id": 6735
+    },
+    {
+        "GameTitle": "Flunky",
+        "id": 6736
+    },
+    {
+        "GameTitle": "Gaplus",
+        "id": 6737
+    },
+    {
+        "GameTitle": "Garfield: Big, Fat, Hairy Deal",
+        "id": 6738
+    },
+    {
+        "GameTitle": "Forbidden Forest",
+        "id": 6739,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "Gyroscope",
+        "id": 6741
+    },
+    {
+        "GameTitle": "Jet Set Willy",
+        "id": 6742,
+        "ReleaseDate": "07/01/1984"
+    },
+    {
+        "GameTitle": "Last Ninja 3",
+        "id": 6743,
+        "ReleaseDate": "07/10/1991"
+    },
+    {
+        "GameTitle": "Leader Board",
+        "id": 6744
+    },
+    {
+        "GameTitle": "The Living Daylights",
+        "id": 6745,
+        "ReleaseDate": "09/15/1987"
+    },
+    {
+        "GameTitle": "The Hunt for Red October",
+        "id": 6746
+    },
+    {
+        "GameTitle": "Lode Runner",
+        "id": 6747
+    },
+    {
+        "GameTitle": "Jumpman",
+        "id": 6748,
+        "ReleaseDate": "07/15/1983"
+    },
+    {
+        "GameTitle": "James Pond 2: Codename RoboCod",
+        "id": 6749,
+        "ReleaseDate": "07/01/1992"
+    },
+    {
+        "GameTitle": "Lotus Esprit Turbo Challenge",
+        "id": 6750
+    },
+    {
+        "GameTitle": "Lemmings",
+        "id": 6751
+    },
+    {
+        "GameTitle": "Judge Dredd",
+        "id": 6752,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Jack the Nipper II: In Coconut Capers",
+        "id": 6753,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "RoboCop 2",
+        "id": 6755,
+        "ReleaseDate": "07/01/1991"
+    },
+    {
+        "GameTitle": "RoboCop",
+        "id": 6756,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "RoboCop 3",
+        "id": 6757
+    },
+    {
+        "GameTitle": "Star Wars: Return of the Jedi",
+        "id": 6758,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Red Storm Rising",
+        "id": 6759,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Strider 2",
+        "id": 6760,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "River Raid",
+        "id": 6761
+    },
+    {
+        "GameTitle": "Roadwars",
+        "id": 6762
+    },
+    {
+        "GameTitle": "Rescue on Fractalus!",
+        "id": 6763,
+        "ReleaseDate": "03/01/1984"
+    },
+    {
+        "GameTitle": "Road Runner",
+        "id": 6764
+    },
+    {
+        "GameTitle": "Street Fighter",
+        "id": 6765,
+        "ReleaseDate": "08/15/1987"
+    },
+    {
+        "GameTitle": "The Real GhostBusters",
+        "id": 6766,
+        "ReleaseDate": "10/16/1989"
+    },
+    {
+        "GameTitle": "Army Moves",
+        "id": 6773,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Asylum",
+        "id": 6774,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Auf Wiedersehen Monty",
+        "id": 6775,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Bad Cat",
+        "id": 6776,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Aztec Challenge",
+        "id": 6777,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "Bazooka Bill",
+        "id": 6781,
+        "ReleaseDate": "07/15/1985"
+    },
+    {
+        "GameTitle": "B.C. II: Grog's Revenge",
+        "id": 6782,
+        "ReleaseDate": "07/01/1984"
+    },
+    {
+        "GameTitle": "Beyond the Ice Palace",
+        "id": 6783,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Bomb Jack II",
+        "id": 6784,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Bobby Bearing",
+        "id": 6785,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Choplifter",
+        "id": 6786,
+        "ReleaseDate": "07/01/1982"
+    },
+    {
+        "GameTitle": "Cybernoid II: The Revenge",
+        "id": 6787,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Delta",
+        "id": 6788
+    },
+    {
+        "GameTitle": "Donkey Kong",
+        "id": 6902,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Double Dragon",
+        "id": 6910,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Dan Dare",
+        "id": 6911,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Dan Dare II: Mekon's Revenge",
+        "id": 6912,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Dragonriders of Pern",
+        "id": 6913,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "Parallax",
+        "id": 6914
+    },
+    {
+        "GameTitle": "Hysteria",
+        "id": 6916,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Manic Miner",
+        "id": 6917,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "Road Blasters",
+        "id": 6918,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Rambo: First Blood Part II",
+        "id": 6919
+    },
+    {
+        "GameTitle": "Final Fight",
+        "id": 6920,
+        "ReleaseDate": "11/20/1991"
+    },
+    {
+        "GameTitle": "FireTrap",
+        "id": 32279,
+        "ReleaseDate": "10/15/1987"
+    },
+    {
+        "GameTitle": "Ramparts",
+        "id": 6921,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Fight Night",
+        "id": 6923
+    },
+    {
+        "GameTitle": "Gorf",
+        "id": 6924,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "Rambo III",
+        "id": 7062,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Heatseeker",
+        "id": 7126,
+        "ReleaseDate": "07/01/1990"
+    },
+    {
+        "GameTitle": "Renegade III: The Final Chapter",
+        "id": 7127,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Henry's House",
+        "id": 7128,
+        "ReleaseDate": "07/01/1984"
+    },
+    {
+        "GameTitle": "Thing on a Spring",
+        "id": 7129,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Hunter's Moon",
+        "id": 7130,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Hyper Sports",
+        "id": 7131,
+        "ReleaseDate": "07/15/1985"
+    },
+    {
+        "GameTitle": "Jungle Hunt",
+        "id": 7132,
+        "ReleaseDate": "07/15/1983"
+    },
+    {
+        "GameTitle": "Karnov",
+        "id": 7133,
+        "ReleaseDate": "07/01/1988"
+    },
+    {
+        "GameTitle": "Karateka",
+        "id": 7134,
+        "ReleaseDate": "07/15/1984"
+    },
+    {
+        "GameTitle": "Sanxion",
+        "id": 7191,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Pitstop",
+        "id": 7309
+    },
+    {
+        "GameTitle": "Ping Pong",
+        "id": 7314
+    },
+    {
+        "GameTitle": "Project Firestart",
+        "id": 7318,
+        "ReleaseDate": "07/14/1989"
+    },
+    {
+        "GameTitle": "Project Stealth Fighter",
+        "id": 7320
+    },
+    {
+        "GameTitle": "Q*bert",
+        "id": 7328
+    },
+    {
+        "GameTitle": "Quedex",
+        "id": 7335
+    },
+    {
+        "GameTitle": "Rampage",
+        "id": 7379
+    },
+    {
+        "GameTitle": "Rastan",
+        "id": 7383,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Re-Bounder",
+        "id": 7384,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Renegade",
+        "id": 7385
+    },
+    {
+        "GameTitle": "Rolling Thunder",
+        "id": 7386,
+        "ReleaseDate": "07/15/1987"
+    },
+    {
+        "GameTitle": "Roy of the Rovers",
+        "id": 7387
+    },
+    {
+        "GameTitle": "Rygar",
+        "id": 7388
+    },
+    {
+        "GameTitle": "Shao-Lin's Road",
+        "id": 7389
+    },
+    {
+        "GameTitle": "Snare",
+        "id": 7518,
+        "ReleaseDate": "07/15/1989"
+    },
+    {
+        "GameTitle": "Speedball 2: Brutal Deluxe",
+        "id": 7519
+    },
+    {
+        "GameTitle": "Spy vs. Spy III: Arctic Antics",
+        "id": 7520,
+        "ReleaseDate": "07/15/1986"
+    },
+    {
+        "GameTitle": "Stormlord",
+        "id": 7526,
+        "ReleaseDate": "07/15/1989"
+    },
+    {
+        "GameTitle": "Target: Renegade",
+        "id": 7531,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Tetris",
+        "id": 7538,
+        "ReleaseDate": "07/15/1988"
+    },
+    {
+        "GameTitle": "Tiger Road",
+        "id": 7543,
+        "ReleaseDate": "07/15/1989"
+    },
+    {
+        "GameTitle": "Toobin'",
+        "id": 7554,
+        "ReleaseDate": "07/01/1989"
+    },
+    {
+        "GameTitle": "Tintin on the Moon",
+        "id": 7584
+    },
+    {
+        "GameTitle": "Turrican III",
+        "id": 7614
+    },
+    {
+        "GameTitle": "MASK",
+        "id": 7616,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "MASK Two",
+        "id": 7617,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "MASK III: Venom Strikes Back",
+        "id": 7618,
+        "ReleaseDate": "11/01/1988"
+    },
+    {
+        "GameTitle": "Turbo Esprit",
+        "id": 7753,
+        "ReleaseDate": "07/01/1986"
+    },
+    {
+        "GameTitle": "Vendetta",
+        "id": 7754,
+        "ReleaseDate": "07/15/1990"
+    },
+    {
+        "GameTitle": "A View to a Kill",
+        "id": 7755,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "WarGames",
+        "id": 7756,
+        "ReleaseDate": "07/15/1984"
+    },
+    {
+        "GameTitle": "Who Dares Wins",
+        "id": 7757
+    },
+    {
+        "GameTitle": "Wizard of Wor",
+        "id": 7758,
+        "ReleaseDate": "07/01/1982"
+    },
+    {
+        "GameTitle": "Zak McKracken and the Alien Mindbenders",
+        "id": 7760
+    },
+    {
+        "GameTitle": "Zig-Zag",
+        "id": 7761,
+        "ReleaseDate": "07/01/1987"
+    },
+    {
+        "GameTitle": "Zork III",
+        "id": 7762,
+        "ReleaseDate": "07/01/1983"
+    },
+    {
+        "GameTitle": "Forgotten Worlds",
+        "id": 8092
+    },
+    {
+        "GameTitle": "Kid Niki: Radical Ninja",
+        "id": 35416,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Alleykat",
+        "id": 10347
+    },
+    {
+        "GameTitle": "Airwolf",
+        "id": 10352,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "BC's Quest for Tires",
+        "id": 10353
+    },
+    {
+        "GameTitle": "Boulder Dash Construction Kit",
+        "id": 10354
+    },
+    {
+        "GameTitle": "BurgerTime",
+        "id": 10355
+    },
+    {
+        "GameTitle": "Dark Side",
+        "id": 10356
+    },
+    {
+        "GameTitle": "Echelon",
+        "id": 10357,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Enduro Racer",
+        "id": 10358
+    },
+    {
+        "GameTitle": "Falcon Patrol II",
+        "id": 10359,
+        "ReleaseDate": "09/01/1984"
+    },
+    {
+        "GameTitle": "Falcon Patrol",
+        "id": 10360
+    },
+    {
+        "GameTitle": "Frankie Goes to Hollywood",
+        "id": 10361,
+        "ReleaseDate": "12/11/1985"
+    },
+    {
+        "GameTitle": "Grand Prix Circuit",
+        "id": 10362
+    },
+    {
+        "GameTitle": "HardBall!",
+        "id": 10363
+    },
+    {
+        "GameTitle": "Hard Hat Mack",
+        "id": 10364
+    },
+    {
+        "GameTitle": "Highnoon",
+        "id": 10365,
+        "ReleaseDate": "10/05/1984"
+    },
+    {
+        "GameTitle": "Inner Space",
+        "id": 10366
+    },
+    {
+        "GameTitle": "Archon: The Light and the Dark",
+        "id": 10367
+    },
+    {
+        "GameTitle": "Wasteland",
+        "id": 10368
+    },
+    {
+        "GameTitle": "M.U.L.E.",
+        "id": 10369
+    },
+    {
+        "GameTitle": "Laser Squad",
+        "id": 10370
+    },
+    {
+        "GameTitle": "Katakis",
+        "id": 10371,
+        "ReleaseDate": "09/08/1988"
+    },
+    {
+        "GameTitle": "Rock Star Ate My Hamster",
+        "id": 34713,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Kikstart",
+        "id": 11776,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Street Sports Basketball",
+        "id": 11777,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Flash Gordon",
+        "id": 34850,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Castlevania",
+        "id": 11961,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Rampart",
+        "id": 16295,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Super Wonder Boy in Monster Land",
+        "id": 16476
+    },
+    {
+        "GameTitle": "Ultima 3: Exodus",
+        "id": 17373
+    },
+    {
+        "GameTitle": "Saboteur II",
+        "id": 17425,
+        "ReleaseDate": "02/28/1987"
+    },
+    {
+        "GameTitle": "Winter Games",
+        "id": 17429,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Ultima I: The First Age of Darkness",
+        "id": 17475
+    },
+    {
+        "GameTitle": "Ultima II: The Revenge of the Enchantress",
+        "id": 17476
+    },
+    {
+        "GameTitle": "Zenji",
+        "id": 17748,
+        "ReleaseDate": "04/01/1984"
+    },
+    {
+        "GameTitle": "Xevious",
+        "id": 17933
+    },
+    {
+        "GameTitle": "Tai-Pan",
+        "id": 33686,
+        "ReleaseDate": "12/08/1987"
+    },
+    {
+        "GameTitle": "F-14 Tomcat",
+        "id": 17949
+    },
+    {
+        "GameTitle": "Hunchback",
+        "id": 17997,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Entombed",
+        "id": 18015
+    },
+    {
+        "GameTitle": "Shadowfire",
+        "id": 18191,
+        "ReleaseDate": "06/01/1985"
+    },
+    {
+        "GameTitle": "Strangeloop",
+        "id": 18317,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Dropzone",
+        "id": 18448
+    },
+    {
+        "GameTitle": "Enforcer",
+        "id": 18449
+    },
+    {
+        "GameTitle": "Flimbo's Quest",
+        "id": 18450
+    },
+    {
+        "GameTitle": "Hard 'n' Heavy",
+        "id": 18451,
+        "ReleaseDate": "05/18/1989"
+    },
+    {
+        "GameTitle": "Jeep Command",
+        "id": 32286,
+        "ReleaseDate": "10/22/1986"
+    },
+    {
+        "GameTitle": "Kikstart 2",
+        "id": 18453
+    },
+    {
+        "GameTitle": "Last Ninja Remix",
+        "id": 18454,
+        "ReleaseDate": "11/15/1990"
+    },
+    {
+        "GameTitle": "Little Computer People",
+        "id": 18455,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Mayhem In Monsterland",
+        "id": 18456,
+        "ReleaseDate": "11/29/1993"
+    },
+    {
+        "GameTitle": "Microprose Soccer",
+        "id": 18457
+    },
+    {
+        "GameTitle": "P.O.D",
+        "id": 18458
+    },
+    {
+        "GameTitle": "Raid Over Moscow",
+        "id": 18459
+    },
+    {
+        "GameTitle": "Samurai Warrior: The Battles of Usagi Yojimbo",
+        "id": 18460,
+        "ReleaseDate": "08/25/1988"
+    },
+    {
+        "GameTitle": "Sgt. Slaughter's Mat Wars",
+        "id": 32294,
+        "ReleaseDate": "11/15/1989"
+    },
+    {
+        "GameTitle": "Space Taxi",
+        "id": 18461
+    },
+    {
+        "GameTitle": "Thrust",
+        "id": 18462
+    },
+    {
+        "GameTitle": "Trailblazer",
+        "id": 18463
+    },
+    {
+        "GameTitle": "Frogs and Flies",
+        "id": 18548,
+        "ReleaseDate": "12/01/1982"
+    },
+    {
+        "GameTitle": "Detective, The",
+        "id": 19022,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Miami Vice",
+        "id": 19024,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Rock n' Bolt",
+        "id": 19858,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Labyrinth: The Computer Game",
+        "id": 20023
+    },
+    {
+        "GameTitle": "Legacy of the Ancients",
+        "id": 20843,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "AD&D Forgotten Realms Vol. II: Curse of the Azure Bonds",
+        "id": 21195
+    },
+    {
+        "GameTitle": "10th Frame",
+        "id": 21315,
+        "ReleaseDate": "12/01/1980"
+    },
+    {
+        "GameTitle": "Action Biker",
+        "id": 34878,
+        "ReleaseDate": "08/01/1985"
+    },
+    {
+        "GameTitle": "Up'n Down",
+        "id": 22536,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "X-Men: Madness in Murderworld",
+        "id": 32000
+    },
+    {
+        "GameTitle": "Beach Head",
+        "id": 24322,
+        "ReleaseDate": "12/01/1985"
+    },
+    {
+        "GameTitle": "Beach Head II- The Dictator Strikes Back",
+        "id": 24323,
+        "ReleaseDate": "12/01/1985"
+    },
+    {
+        "GameTitle": "Raid on Bungeling Bay",
+        "id": 24324,
+        "ReleaseDate": "12/01/1984"
+    },
+    {
+        "GameTitle": "Fort Apocalypse",
+        "id": 24325,
+        "ReleaseDate": "12/01/1982"
+    },
+    {
+        "GameTitle": "Jumpman Junior",
+        "id": 24326,
+        "ReleaseDate": "12/01/1983"
+    },
+    {
+        "GameTitle": "Chessmaster 2100",
+        "id": 24598
+    },
+    {
+        "GameTitle": "Galaxian",
+        "id": 24599
+    },
+    {
+        "GameTitle": "Galaxions",
+        "id": 24600
+    },
+    {
+        "GameTitle": "Hobbit",
+        "id": 24601
+    },
+    {
+        "GameTitle": "Jr. Pac-Man",
+        "id": 24602,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Pac-Man",
+        "id": 24603
+    },
+    {
+        "GameTitle": "Denaris",
+        "id": 25429,
+        "ReleaseDate": "02/07/1989"
+    },
+    {
+        "GameTitle": "Myth",
+        "id": 25431,
+        "ReleaseDate": "02/09/1989"
+    },
+    {
+        "GameTitle": "Cobra",
+        "id": 25469
+    },
+    {
+        "GameTitle": "Saint Dragon",
+        "id": 25470
+    },
+    {
+        "GameTitle": "Bad Dudes vs Dragonninja",
+        "id": 25476
+    },
+    {
+        "GameTitle": "Dominator",
+        "id": 25488
+    },
+    {
+        "GameTitle": "Dragon Spirit",
+        "id": 25489
+    },
+    {
+        "GameTitle": "Friday the 13th",
+        "id": 25490
+    },
+    {
+        "GameTitle": "Gemini Wing",
+        "id": 25491
+    },
+    {
+        "GameTitle": "Gryzor",
+        "id": 25493
+    },
+    {
+        "GameTitle": "Gutz",
+        "id": 25504
+    },
+    {
+        "GameTitle": "Batman: The Caped Crusader",
+        "id": 25505,
+        "ReleaseDate": "09/08/1988"
+    },
+    {
+        "GameTitle": "First Samurai",
+        "id": 25515
+    },
+    {
+        "GameTitle": "The Ninja Warriors",
+        "id": 25516
+    },
+    {
+        "GameTitle": "Overlander",
+        "id": 25517
+    },
+    {
+        "GameTitle": "Shadow of the Beast",
+        "id": 25518
+    },
+    {
+        "GameTitle": "Silkworm",
+        "id": 25519
+    },
+    {
+        "GameTitle": "Sly Spy",
+        "id": 25520
+    },
+    {
+        "GameTitle": "Speed King",
+        "id": 25521
+    },
+    {
+        "GameTitle": "Summer Camp",
+        "id": 25522,
+        "ReleaseDate": "05/09/1990"
+    },
+    {
+        "GameTitle": "Swiv",
+        "id": 25523
+    },
+    {
+        "GameTitle": "Space Gun",
+        "id": 25524
+    },
+    {
+        "GameTitle": "Teenage Mutant Hero Turtles",
+        "id": 25525
+    },
+    {
+        "GameTitle": "Teenage Mutant Hero Turtles : The Coin Op!",
+        "id": 25526
+    },
+    {
+        "GameTitle": "Thundercats",
+        "id": 25527
+    },
+    {
+        "GameTitle": "Transformers",
+        "id": 25528
+    },
+    {
+        "GameTitle": "X-Out",
+        "id": 25529
+    },
+    {
+        "GameTitle": "The Castles of Doctor Creep",
+        "id": 25730,
+        "ReleaseDate": "04/02/1984"
+    },
+    {
+        "GameTitle": "Basil the Great Mouse Detective",
+        "id": 25757,
+        "ReleaseDate": "03/01/1987"
+    },
+    {
+        "GameTitle": "Black Thunder",
+        "id": 26127
+    },
+    {
+        "GameTitle": "The Hitchhiker's Guide to the Galaxy",
+        "id": 26161,
+        "ReleaseDate": "09/14/1984"
+    },
+    {
+        "GameTitle": "Dough Boy",
+        "id": 26679,
+        "ReleaseDate": "12/11/1985"
+    },
+    {
+        "GameTitle": "Defender",
+        "id": 26828
+    },
+    {
+        "GameTitle": "Wimbledon 64",
+        "id": 26832,
+        "ReleaseDate": "04/15/1985"
+    },
+    {
+        "GameTitle": "Lazy Jones",
+        "id": 26834,
+        "ReleaseDate": "04/01/1984"
+    },
+    {
+        "GameTitle": "The Empire strikes back",
+        "id": 26835
+    },
+    {
+        "GameTitle": "Leaderboard",
+        "id": 26837,
+        "ReleaseDate": "04/01/1986"
+    },
+    {
+        "GameTitle": "1943: The Battle of Midway",
+        "id": 27054,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "720 Degrees",
+        "id": 27055,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Alice in Videoland",
+        "id": 27056,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Beyond the Forbidden Forest",
+        "id": 27057,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Black Lamp",
+        "id": 27058,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Blood Money",
+        "id": 27059,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Burning Rubber",
+        "id": 27060,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Captain Blood",
+        "id": 27061,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Castle Wolfenstein",
+        "id": 27062,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Chase H.Q. II",
+        "id": 27063,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "The Dam Busters",
+        "id": 27064,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Decathlon",
+        "id": 27065,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Die Hard",
+        "id": 27066,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Die Hard 2: Die Harder",
+        "id": 27067,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Fist II: The Legend Continues",
+        "id": 27068,
+        "ReleaseDate": "06/10/1986"
+    },
+    {
+        "GameTitle": "Fred",
+        "id": 27069,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "The Goonies",
+        "id": 27070,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Gun Smoke",
+        "id": 27071,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Ingrids Back",
+        "id": 27074,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Jack the Nipper",
+        "id": 27075,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Knight Rider",
+        "id": 27076,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "The Pharaoh's Curse",
+        "id": 27077,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Roadwar Europa",
+        "id": 27078,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Stunt Car Racer",
+        "id": 27079,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Suicide Express",
+        "id": 27080,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Wastelands",
+        "id": 27081,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Fairlight: A Prelude",
+        "id": 27083,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Buck Rogers: Planet of Zoom",
+        "id": 27107,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Return of the Mutant Camels",
+        "id": 27110,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Gauntlet II",
+        "id": 27112,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Into the Eagle's Nest",
+        "id": 27114,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Monty on the Run",
+        "id": 27115,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Nemesis",
+        "id": 27116,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Rick Dangerous 2",
+        "id": 27118,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "The Running Man",
+        "id": 27119,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Richard Petty's Talladega",
+        "id": 27121,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Nexus",
+        "id": 27122,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Rocket Roger",
+        "id": 27475,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "North & South",
+        "id": 31999
+    },
+    {
+        "GameTitle": "Phantoms Of The Asteroid",
+        "id": 28688
+    },
+    {
+        "GameTitle": "Neptune's Daughters",
+        "id": 36103,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Automania",
+        "id": 29700
+    },
+    {
+        "GameTitle": "BC Bill",
+        "id": 29702
+    },
+    {
+        "GameTitle": "Blagger",
+        "id": 29703
+    },
+    {
+        "GameTitle": "Booty",
+        "id": 29704
+    },
+    {
+        "GameTitle": "Death Wish 3",
+        "id": 29705
+    },
+    {
+        "GameTitle": "Hunchback The Adventure",
+        "id": 29706
+    },
+    {
+        "GameTitle": "Jammin 2 Beat It",
+        "id": 29707
+    },
+    {
+        "GameTitle": "Kokotoni Wilf",
+        "id": 29708
+    },
+    {
+        "GameTitle": "Bounder",
+        "id": 29709
+    },
+    {
+        "GameTitle": "Pyjamarama",
+        "id": 29710
+    },
+    {
+        "GameTitle": "Space Pilot",
+        "id": 29712
+    },
+    {
+        "GameTitle": "Eddie Kidd Jump Challenge",
+        "id": 29715
+    },
+    {
+        "GameTitle": "International Basketball",
+        "id": 29824
+    },
+    {
+        "GameTitle": "Alter Ego - Female Version",
+        "id": 29825,
+        "ReleaseDate": "05/01/1986"
+    },
+    {
+        "GameTitle": "Alter Ego - Male Version",
+        "id": 29826,
+        "ReleaseDate": "05/01/1986"
+    },
+    {
+        "GameTitle": "Alternate Reality - The Dungeon",
+        "id": 29827,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Barry McGuigan World Championship Boxing",
+        "id": 29828,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Leaderboard Executive Edition",
+        "id": 29830,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Realm of Impossibility",
+        "id": 29831,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Rocketball",
+        "id": 29833,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Stix",
+        "id": 29834,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Supremacy: Your Will Be Done",
+        "id": 29835,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "The Train: Escape to Normandy",
+        "id": 29836,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Wheel of Fortune",
+        "id": 29837,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Wheel of Fortune: 3rd Edition",
+        "id": 29838
+    },
+    {
+        "GameTitle": "Carrier Command",
+        "id": 29900
+    },
+    {
+        "GameTitle": "Sword Of Fargoal",
+        "id": 30136,
+        "ReleaseDate": "10/01/1983"
+    },
+    {
+        "GameTitle": "Seaside Special",
+        "id": 33602,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Alien Garden",
+        "id": 30328
+    },
+    {
+        "GameTitle": "Cartels & Cutthroat$",
+        "id": 30341
+    },
+    {
+        "GameTitle": "Hostages: Rescue Mission",
+        "id": 30395
+    },
+    {
+        "GameTitle": "Plundered Hearts",
+        "id": 30438
+    },
+    {
+        "GameTitle": "Revs",
+        "id": 30454,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "The Seven Cities of Gold",
+        "id": 30479,
+        "ReleaseDate": "08/26/1984"
+    },
+    {
+        "GameTitle": "BMX Ninja",
+        "id": 32263,
+        "ReleaseDate": "04/14/1988"
+    },
+    {
+        "GameTitle": "After The War",
+        "id": 32258,
+        "ReleaseDate": "08/15/1989"
+    },
+    {
+        "GameTitle": "Caverns of Khafka",
+        "id": 31005,
+        "ReleaseDate": "08/26/1984"
+    },
+    {
+        "GameTitle": "Gateway to Apshai",
+        "id": 31006,
+        "ReleaseDate": "08/28/1983"
+    },
+    {
+        "GameTitle": "Dino Eggs",
+        "id": 31007
+    },
+    {
+        "GameTitle": "Jet Set Willy II",
+        "id": 31039
+    },
+    {
+        "GameTitle": "Uuno Turhapuro muuttaa maalle",
+        "id": 31422,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Painterboy",
+        "id": 31423,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Reach for the Stars",
+        "id": 31448
+    },
+    {
+        "GameTitle": "NukeWar",
+        "id": 31502,
+        "ReleaseDate": "10/01/1983"
+    },
+    {
+        "GameTitle": "Arcticfox",
+        "id": 31505
+    },
+    {
+        "GameTitle": "Licence to Kill",
+        "id": 31897,
+        "ReleaseDate": "04/20/1989"
+    },
+    {
+        "GameTitle": "The Spy Who Loved Me",
+        "id": 31899
+    },
+    {
+        "GameTitle": "James Bond 007: The Living Daylights - The Computer Game",
+        "id": 31900
+    },
+    {
+        "GameTitle": "Football Director",
+        "id": 31903
+    },
+    {
+        "GameTitle": "Football Manager",
+        "id": 31904
+    },
+    {
+        "GameTitle": "Flying Shark",
+        "id": 31906
+    },
+    {
+        "GameTitle": "Flip & Flop",
+        "id": 31908
+    },
+    {
+        "GameTitle": "Footballer of the Year",
+        "id": 31909
+    },
+    {
+        "GameTitle": "Footballer of the Year 2",
+        "id": 31910
+    },
+    {
+        "GameTitle": "Football Manager: World Cup Edition",
+        "id": 31911
+    },
+    {
+        "GameTitle": "Formula 1 Simulator",
+        "id": 31912
+    },
+    {
+        "GameTitle": "Frank Bruno's Boxing",
+        "id": 31913,
+        "ReleaseDate": "09/25/1986"
+    },
+    {
+        "GameTitle": "Frankenstein (1992)",
+        "id": 31914
+    },
+    {
+        "GameTitle": "Frankenstein (1987)",
+        "id": 31915
+    },
+    {
+        "GameTitle": "Frankenstein Jnr.",
+        "id": 31916
+    },
+    {
+        "GameTitle": "Game Set and Match",
+        "id": 31917
+    },
+    {
+        "GameTitle": "Game Set and Match 2",
+        "id": 31918
+    },
+    {
+        "GameTitle": "Gauntlet: The Deeper Dungeons",
+        "id": 31919
+    },
+    {
+        "GameTitle": "Gazza II",
+        "id": 31920
+    },
+    {
+        "GameTitle": "Gazza's Super Soccer",
+        "id": 31921
+    },
+    {
+        "GameTitle": "Indiana Jones and the Last Crusade",
+        "id": 31922
+    },
+    {
+        "GameTitle": "Indiana Jones and the Temple of Doom",
+        "id": 31923
+    },
+    {
+        "GameTitle": "Bop'n Wrestle",
+        "id": 31954
+    },
+    {
+        "GameTitle": "Superman: The Man of Steel",
+        "id": 31955,
+        "ReleaseDate": "09/13/1989"
+    },
+    {
+        "GameTitle": "Superstar Ice Hockey",
+        "id": 31956
+    },
+    {
+        "GameTitle": "Test Drive II: The Duel",
+        "id": 31957
+    },
+    {
+        "GameTitle": "The Bard's Tale III: The Thief of Fate",
+        "id": 31958
+    },
+    {
+        "GameTitle": "The Bard's Tale: Tales of the Unknown, Volume I",
+        "id": 31959
+    },
+    {
+        "GameTitle": "The Bard's Tale II: The Destiny Knight",
+        "id": 31960
+    },
+    {
+        "GameTitle": "The Chessmaster 2000",
+        "id": 31962
+    },
+    {
+        "GameTitle": "The Games: Summer Edition",
+        "id": 31963
+    },
+    {
+        "GameTitle": "The Games: Winter Edition",
+        "id": 31964
+    },
+    {
+        "GameTitle": "The In Crowd",
+        "id": 31965
+    },
+    {
+        "GameTitle": "Time Scanner",
+        "id": 31966
+    },
+    {
+        "GameTitle": "Mini-Putt",
+        "id": 31968
+    },
+    {
+        "GameTitle": "Soul Crystal",
+        "id": 31970
+    },
+    {
+        "GameTitle": "Dynamite Dux",
+        "id": 32001
+    },
+    {
+        "GameTitle": "Elvira II: The Jaws of Cerberus",
+        "id": 32003
+    },
+    {
+        "GameTitle": "Grand Monster Slam",
+        "id": 32005
+    },
+    {
+        "GameTitle": "Infiltrator II: The Next Day",
+        "id": 32006
+    },
+    {
+        "GameTitle": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
+        "id": 32007
+    },
+    {
+        "GameTitle": "Killed Until Dead",
+        "id": 32008
+    },
+    {
+        "GameTitle": "Mean Streets",
+        "id": 32009
+    },
+    {
+        "GameTitle": "Might and Magic: Book Two",
+        "id": 32010
+    },
+    {
+        "GameTitle": "Rocket Ranger",
+        "id": 32011
+    },
+    {
+        "GameTitle": "Savage",
+        "id": 32012
+    },
+    {
+        "GameTitle": "Spherical",
+        "id": 32013
+    },
+    {
+        "GameTitle": "Circus Charlie",
+        "id": 32027
+    },
+    {
+        "GameTitle": "Fighter Bomber",
+        "id": 32028
+    },
+    {
+        "GameTitle": "Knight Games",
+        "id": 32029
+    },
+    {
+        "GameTitle": "Moebius: the Orb of Celestial Harmony",
+        "id": 32030
+    },
+    {
+        "GameTitle": "Battle Chess",
+        "id": 32045,
+        "ReleaseDate": "10/01/1988"
+    },
+    {
+        "GameTitle": "Caveman Ugh-Lympics",
+        "id": 32046,
+        "ReleaseDate": "10/01/1988"
+    },
+    {
+        "GameTitle": "Cliff Hanger",
+        "id": 32047,
+        "ReleaseDate": "10/01/1984"
+    },
+    {
+        "GameTitle": "DragonHawk",
+        "id": 32048,
+        "ReleaseDate": "10/01/1984"
+    },
+    {
+        "GameTitle": "Mail Order Monsters",
+        "id": 32049,
+        "ReleaseDate": "10/01/1985"
+    },
+    {
+        "GameTitle": "Master Of The Lamps",
+        "id": 32050,
+        "ReleaseDate": "10/01/1985"
+    },
+    {
+        "GameTitle": "Miner 2049er",
+        "id": 32051,
+        "ReleaseDate": "10/01/1982"
+    },
+    {
+        "GameTitle": "Radar Rat Race",
+        "id": 32052,
+        "ReleaseDate": "10/01/1982"
+    },
+    {
+        "GameTitle": "Satan's Hollow",
+        "id": 32053,
+        "ReleaseDate": "10/01/1984"
+    },
+    {
+        "GameTitle": "Pacmania",
+        "id": 32072,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Squirm",
+        "id": 32073,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Summer Events",
+        "id": 32074,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Winter Events",
+        "id": 32075,
+        "ReleaseDate": "09/01/1986"
+    },
+    {
+        "GameTitle": "Number Chaser",
+        "id": 32076,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "19 Part One: Boot Camp",
+        "id": 32254,
+        "ReleaseDate": "09/07/1988"
+    },
+    {
+        "GameTitle": "Action Fighter",
+        "id": 32255,
+        "ReleaseDate": "07/03/1989"
+    },
+    {
+        "GameTitle": "Aliens: The Computer Game",
+        "id": 32259,
+        "ReleaseDate": "10/15/1986"
+    },
+    {
+        "GameTitle": "Arnie",
+        "id": 32260,
+        "ReleaseDate": "05/04/1992"
+    },
+    {
+        "GameTitle": "Arnie II",
+        "id": 32261,
+        "ReleaseDate": "02/10/1993"
+    },
+    {
+        "GameTitle": "Assault Course: Combat Academy",
+        "id": 32262,
+        "ReleaseDate": "08/20/1990"
+    },
+    {
+        "GameTitle": "Budokan: The Martial Spirit",
+        "id": 32275,
+        "ReleaseDate": "06/07/1989"
+    },
+    {
+        "GameTitle": "Bushido: The Way of the Warrior",
+        "id": 32276,
+        "ReleaseDate": "05/02/1989"
+    },
+    {
+        "GameTitle": "Chambers of Shaolin",
+        "id": 32277,
+        "ReleaseDate": "08/10/1989"
+    },
+    {
+        "GameTitle": "Donald Duck's Playground",
+        "id": 32278,
+        "ReleaseDate": "12/09/1985"
+    },
+    {
+        "GameTitle": "Fist Fighter",
+        "id": 32280,
+        "ReleaseDate": "10/04/1993"
+    },
+    {
+        "GameTitle": "Exploding Fist+",
+        "id": 32281,
+        "ReleaseDate": "09/11/1998"
+    },
+    {
+        "GameTitle": "Gremlins: The Adventure",
+        "id": 32282,
+        "ReleaseDate": "07/17/1985"
+    },
+    {
+        "GameTitle": "Gremlins II: The New Batch",
+        "id": 32283,
+        "ReleaseDate": "01/07/1991"
+    },
+    {
+        "GameTitle": "Big Trouble in Little China",
+        "id": 32284,
+        "ReleaseDate": "06/18/1987"
+    },
+    {
+        "GameTitle": "Kane",
+        "id": 32287,
+        "ReleaseDate": "03/13/1986"
+    },
+    {
+        "GameTitle": "Kane II",
+        "id": 32288,
+        "ReleaseDate": "08/08/1988"
+    },
+    {
+        "GameTitle": "Long Life",
+        "id": 32289,
+        "ReleaseDate": "12/29/1994"
+    },
+    {
+        "GameTitle": "Pac-Land",
+        "id": 32290,
+        "ReleaseDate": "04/04/1988"
+    },
+    {
+        "GameTitle": "Popeye 3: WrestleCrazy",
+        "id": 32292,
+        "ReleaseDate": "05/04/1992"
+    },
+    {
+        "GameTitle": "Potty Pigeon",
+        "id": 32293,
+        "ReleaseDate": "07/12/1984"
+    },
+    {
+        "GameTitle": "Street Gang",
+        "id": 32295,
+        "ReleaseDate": "10/05/1987"
+    },
+    {
+        "GameTitle": "Street Surfer",
+        "id": 32296,
+        "ReleaseDate": "12/17/1986"
+    },
+    {
+        "GameTitle": "Summer Challenge",
+        "id": 32297,
+        "ReleaseDate": "10/07/1988"
+    },
+    {
+        "GameTitle": "Thai Boxing",
+        "id": 32298,
+        "ReleaseDate": "07/01/1985"
+    },
+    {
+        "GameTitle": "Tough Guys",
+        "id": 32299,
+        "ReleaseDate": "02/11/1991"
+    },
+    {
+        "GameTitle": "Who Dares Wins II",
+        "id": 32300,
+        "ReleaseDate": "10/16/1985"
+    },
+    {
+        "GameTitle": "Winter Camp",
+        "id": 32301,
+        "ReleaseDate": "11/12/1992"
+    },
+    {
+        "GameTitle": "Winter Challenge",
+        "id": 32302,
+        "ReleaseDate": "11/24/1988"
+    },
+    {
+        "GameTitle": "World Class Leaderboard",
+        "id": 32303,
+        "ReleaseDate": "05/08/1987"
+    },
+    {
+        "GameTitle": "Human Killing Machine",
+        "id": 32304,
+        "ReleaseDate": "08/16/1989"
+    },
+    {
+        "GameTitle": "Solo Flight",
+        "id": 32524,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Assembloids",
+        "id": 32527,
+        "ReleaseDate": "01/01/2013"
+    },
+    {
+        "GameTitle": "C64anabalt",
+        "id": 32528,
+        "ReleaseDate": "12/06/2011"
+    },
+    {
+        "GameTitle": "Horace Goes Skiing",
+        "id": 32531,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Double Dragon II: The Revenge",
+        "id": 32539,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "The Addams Family",
+        "id": 32540,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Battleships",
+        "id": 32543,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Chuckie Egg II",
+        "id": 32544,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Crazy Caveman",
+        "id": 32545,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Dig Dug",
+        "id": 32546,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Double Dragon III: The Rosetta Stone",
+        "id": 32547,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "The Evil Dead",
+        "id": 32578,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Fame Quest",
+        "id": 32579,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Hunchback II: Quasimodo's Revenge",
+        "id": 32580,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Pixie  Pete",
+        "id": 32581,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Rolling Ronny",
+        "id": 32582,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Shadow Dancer",
+        "id": 32583,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "WWF WrestleMania",
+        "id": 32584,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Battle For Midway",
+        "id": 32585,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "5th Gear",
+        "id": 32592,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "CJ's Elephant Antics",
+        "id": 32593,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Cowboy Kidz",
+        "id": 32594,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Fantasy World Dizzy",
+        "id": 32595,
+        "ReleaseDate": "01/01/1990"
+    },
+    {
+        "GameTitle": "Ronald Rubberduck",
+        "id": 32597,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Swamp Fever",
+        "id": 32598,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Run The Gauntlet",
+        "id": 32599,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Slicks",
+        "id": 32600,
+        "ReleaseDate": "01/01/1992"
+    },
+    {
+        "GameTitle": "Spitfire Ace",
+        "id": 32601,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Fort Apocalypse II",
+        "id": 32603,
+        "ReleaseDate": "01/01/2010"
+    },
+    {
+        "GameTitle": "Commando 2",
+        "id": 32605
+    },
+    {
+        "GameTitle": "Everest Ascent",
+        "id": 32606,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "F1 GP Circuits",
+        "id": 32607,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "Dizzy",
+        "id": 33468,
+        "ReleaseDate": "09/01/1988"
+    },
+    {
+        "GameTitle": "Gribbly's Day Out",
+        "id": 33528,
+        "ReleaseDate": "06/01/1985"
+    },
+    {
+        "GameTitle": "H.E.R.O.",
+        "id": 33529,
+        "ReleaseDate": "12/03/1984"
+    },
+    {
+        "GameTitle": "Loco",
+        "id": 33530,
+        "ReleaseDate": "03/06/1984"
+    },
+    {
+        "GameTitle": "Spelunker",
+        "id": 33531,
+        "ReleaseDate": "03/13/1984"
+    },
+    {
+        "GameTitle": "Below the Root",
+        "id": 33598,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Heart of Africa",
+        "id": 33601,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Telengard",
+        "id": 33604
+    },
+    {
+        "GameTitle": "Times of Lore",
+        "id": 33606,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Mr. Robot and His Robot Factory",
+        "id": 33608,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Boulder Dash III",
+        "id": 33609,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Alphabet Construction Set",
+        "id": 33679
+    },
+    {
+        "GameTitle": "Arcade Game Construction Kit",
+        "id": 33680
+    },
+    {
+        "GameTitle": "Express Raider",
+        "id": 33681
+    },
+    {
+        "GameTitle": "Implosion",
+        "id": 33682
+    },
+    {
+        "GameTitle": "Mickey's Space Adventure",
+        "id": 33683
+    },
+    {
+        "GameTitle": "Sargon II",
+        "id": 33684
+    },
+    {
+        "GameTitle": "Airwolf II",
+        "id": 34773,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Cuthbert in The Jungle",
+        "id": 33722
+    },
+    {
+        "GameTitle": "Rick Dangerous",
+        "id": 33728
+    },
+    {
+        "GameTitle": "Jetpac",
+        "id": 33729
+    },
+    {
+        "GameTitle": "Jungle Trouble",
+        "id": 33731
+    },
+    {
+        "GameTitle": "Zybex",
+        "id": 34354,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Finders Keepers",
+        "id": 34356,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Iridis alpha",
+        "id": 34396
+    },
+    {
+        "GameTitle": "Street Hassle",
+        "id": 34681
+    },
+    {
+        "GameTitle": "Knightmare",
+        "id": 34702,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Cauldron",
+        "id": 34703,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Cauldron II: The Pumpkin Strikes Back",
+        "id": 34705,
+        "ReleaseDate": "01/01/1986"
+    },
+    {
+        "GameTitle": "Andy Capp",
+        "id": 34847,
+        "ReleaseDate": "12/04/1987"
+    },
+    {
+        "GameTitle": "Test Drive",
+        "id": 34879,
+        "ReleaseDate": "01/01/1987"
+    },
+    {
+        "GameTitle": "Kennedy Approach",
+        "id": 34880,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Shanghai Karate",
+        "id": 34883,
+        "ReleaseDate": "01/01/1988"
+    },
+    {
+        "GameTitle": "Angle Ball",
+        "id": 34958
+    },
+    {
+        "GameTitle": "Alien",
+        "id": 35399,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Elvira: The Arcade Game",
+        "id": 35402,
+        "ReleaseDate": "01/01/1991"
+    },
+    {
+        "GameTitle": "DJ Puff's Volcanic Capers",
+        "id": 36043
+    },
+    {
+        "GameTitle": "Scary Monsters",
+        "id": 35843,
+        "ReleaseDate": "03/29/1986"
+    },
+    {
+        "GameTitle": "Pooyan",
+        "id": 35958,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Dizzy Down The Rapids",
+        "id": 36044,
+        "ReleaseDate": "04/01/1991"
+    },
+    {
+        "GameTitle": "Dizzy: Prince Of The Yolk Folk",
+        "id": 36045,
+        "ReleaseDate": "08/01/1990"
+    },
+    {
+        "GameTitle": "Kwik Snax",
+        "id": 36046,
+        "ReleaseDate": "11/01/1989"
+    },
+    {
+        "GameTitle": "Panic Dizzy",
+        "id": 36047,
+        "ReleaseDate": "05/01/1990"
+    },
+    {
+        "GameTitle": "Fast Food",
+        "id": 36048,
+        "ReleaseDate": "04/01/1989"
+    },
+    {
+        "GameTitle": "Dizzy Prince Of The Yolkfolk",
+        "id": 36050,
+        "ReleaseDate": "08/01/1990"
+    },
+    {
+        "GameTitle": "Sammy Lightfoot",
+        "id": 36104,
+        "ReleaseDate": "01/01/1983"
+    },
+    {
+        "GameTitle": "Rally Speedway",
+        "id": 36105,
+        "ReleaseDate": "01/01/1984"
+    },
+    {
+        "GameTitle": "Super Pipeline",
+        "id": 36106,
+        "ReleaseDate": "04/01/1983"
+    },
+    {
+        "GameTitle": "Super Pipeline II",
+        "id": 36107,
+        "ReleaseDate": "01/01/1985"
+    },
+    {
+        "GameTitle": "Passing Shot",
+        "id": 36108,
+        "ReleaseDate": "01/01/1989"
+    },
+    {
+        "GameTitle": "Pure Stat College Basketball",
+        "id": 36155
+    },
+    {
+        "GameTitle": "Computer Baseball",
+        "id": 36156
+    },
+    {
+        "GameTitle": "NBA Basketball",
+        "id": 36157
+    },
+    {
+        "GameTitle": "B-1 Bomber",
+        "id": 36353
+    },
+    {
+        "GameTitle": "ACE Air Combat",
+        "id": 36354
+    },
+    {
+        "GameTitle": "Star Trek The Rebel Universe",
+        "id": 36355
+    },
+    {
+        "GameTitle": "Panther",
+        "id": 36488
+    }
+]}}
+]

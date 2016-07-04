@@ -1,0 +1,373 @@
+[{"Data": {"Game": [
+    {
+        "GameTitle": "Pachinko Hisshou Guide: Pocket Parlor",
+        "id": 35891,
+        "ReleaseDate": "11/25/1999"
+    },
+    {
+        "GameTitle": "The King of Fighters: Battle de Paradise",
+        "id": 35928,
+        "ReleaseDate": "07/06/2000"
+    },
+    {
+        "GameTitle": "Shougi no Tatsujin Color",
+        "id": 35929,
+        "ReleaseDate": "03/19/1999"
+    },
+    {
+        "GameTitle": "Neo Poke Pro Yakyuu",
+        "id": 35877,
+        "ReleaseDate": "05/27/1999"
+    },
+    {
+        "GameTitle": "Pachi-Slot Aruze Oukoku Pocket: Del Sol 2",
+        "id": 35897,
+        "ReleaseDate": "10/26/2000"
+    },
+    {
+        "GameTitle": "Pachi-Slot Aruze Oukoku Pocket: Hanabi",
+        "id": 35899,
+        "ReleaseDate": "10/21/1999"
+    },
+    {
+        "GameTitle": "Party Mail",
+        "id": 35908,
+        "ReleaseDate": "12/22/1999"
+    },
+    {
+        "GameTitle": "Pachisuro Aruze Oukoku Pocket: Dekahel 2",
+        "id": 35898,
+        "ReleaseDate": "01/15/2016"
+    },
+    {
+        "GameTitle": "Pachi-Slot Aruze Oukoku Pocket: Ward of Lights",
+        "id": 35903,
+        "ReleaseDate": "03/16/2000"
+    },
+    {
+        "GameTitle": "Pachi-Slot Aruze Oukoku: e-CUP",
+        "id": 35892,
+        "ReleaseDate": "03/29/2001"
+    },
+    {
+        "GameTitle": "Pachi-Slot Aruze Oukoku Pocket: Azteca",
+        "id": 35894,
+        "ReleaseDate": "02/10/2000"
+    },
+    {
+        "GameTitle": "Pachi-Slot Aruze Oukoku Pocket: Daihanabi",
+        "id": 35895,
+        "ReleaseDate": "12/14/2000"
+    },
+    {
+        "GameTitle": "Pachi-Slot Aruze Oukoku Pocket: Porcano 2",
+        "id": 35901,
+        "ReleaseDate": "07/20/2000"
+    },
+    {
+        "GameTitle": "Sore Ike!! Hanafuda Doujou",
+        "id": 35926,
+        "ReleaseDate": "12/16/1999"
+    },
+    {
+        "GameTitle": "Super Real Mahjong Premium Collection",
+        "id": 35927,
+        "ReleaseDate": "03/29/2001"
+    },
+    {
+        "GameTitle": "SNK vs. Capcom: Match of the Millennium",
+        "id": 18477,
+        "ReleaseDate": "12/22/1999"
+    },
+    {
+        "GameTitle": "Baseball Stars Color",
+        "id": 18478,
+        "ReleaseDate": "03/31/1999"
+    },
+    {
+        "GameTitle": "Sonic the Hedgehog Pocket Adventure",
+        "id": 18479,
+        "ReleaseDate": "12/20/1999"
+    },
+    {
+        "GameTitle": "Samurai Shodown! 2",
+        "id": 18481,
+        "ReleaseDate": "04/30/1999"
+    },
+    {
+        "GameTitle": "Pocket Tennis Color",
+        "id": 18482,
+        "ReleaseDate": "04/30/1999"
+    },
+    {
+        "GameTitle": "King of Fighters R-2: Pocket Fighting Series",
+        "id": 18483,
+        "ReleaseDate": "03/19/1999"
+    },
+    {
+        "GameTitle": "The Last Blade: Beyond The Destiny",
+        "id": 18484,
+        "ReleaseDate": "03/21/2000"
+    },
+    {
+        "GameTitle": "Metal Slug 1st Mission",
+        "id": 18485,
+        "ReleaseDate": "05/27/1999"
+    },
+    {
+        "GameTitle": "Metal Slug 2nd Mission",
+        "id": 18486,
+        "ReleaseDate": "03/09/2000"
+    },
+    {
+        "GameTitle": "Neo Turf Masters",
+        "id": 18487,
+        "ReleaseDate": "07/31/1999"
+    },
+    {
+        "GameTitle": "SNK Gals' Fighters",
+        "id": 18488,
+        "ReleaseDate": "01/27/2000"
+    },
+    {
+        "GameTitle": "Fatal Fury First Contact",
+        "id": 18489,
+        "ReleaseDate": "04/30/1999"
+    },
+    {
+        "GameTitle": "Crush Roller",
+        "id": 18490,
+        "ReleaseDate": "04/30/2000"
+    },
+    {
+        "GameTitle": "Dynamite Slugger",
+        "id": 18491,
+        "ReleaseDate": "05/25/2000"
+    },
+    {
+        "GameTitle": "Biomotor Unitron",
+        "id": 18492,
+        "ReleaseDate": "07/31/1999"
+    },
+    {
+        "GameTitle": "Cotton: Fantastic Night Dreams",
+        "id": 18493,
+        "ReleaseDate": "06/16/2000"
+    },
+    {
+        "GameTitle": "Dark Arms: Beast Buster 1999",
+        "id": 18495,
+        "ReleaseDate": "10/21/1999"
+    },
+    {
+        "GameTitle": "Pocket Reversi",
+        "id": 18498,
+        "ReleaseDate": "01/27/2000"
+    },
+    {
+        "GameTitle": "Magical Drop Pocket",
+        "id": 18499,
+        "ReleaseDate": "06/24/1999"
+    },
+    {
+        "GameTitle": "Cool Boarders Pocket",
+        "id": 18500,
+        "ReleaseDate": "02/24/2000"
+    },
+    {
+        "GameTitle": "Dive Alert : Becky's Version",
+        "id": 18501,
+        "ReleaseDate": "04/16/2000"
+    },
+    {
+        "GameTitle": "Dive Alert : Matt's Version",
+        "id": 18502,
+        "ReleaseDate": "04/16/2000"
+    },
+    {
+        "GameTitle": "Evolution : Eternal Dungeons",
+        "id": 18503,
+        "ReleaseDate": "02/10/2000"
+    },
+    {
+        "GameTitle": "Faselei!",
+        "id": 18504,
+        "ReleaseDate": "12/22/1999"
+    },
+    {
+        "GameTitle": "SNK vs. Capcom: Card Fighter's Clash - Capcom Version",
+        "id": 18505,
+        "ReleaseDate": "10/21/1999"
+    },
+    {
+        "GameTitle": "SNK vs. Capcom: Card Fighter's Clash - SNK Version",
+        "id": 18506,
+        "ReleaseDate": "10/21/1999"
+    },
+    {
+        "GameTitle": "Puzzle Link",
+        "id": 18507,
+        "ReleaseDate": "09/30/1999"
+    },
+    {
+        "GameTitle": "Puzzle Link 2",
+        "id": 18508,
+        "ReleaseDate": "04/01/2000"
+    },
+    {
+        "GameTitle": "Shanghai Mini",
+        "id": 18509,
+        "ReleaseDate": "07/29/1999"
+    },
+    {
+        "GameTitle": "Pac-Man",
+        "id": 18510,
+        "ReleaseDate": "07/31/1999"
+    },
+    {
+        "GameTitle": "Puyo Pop",
+        "id": 18511,
+        "ReleaseDate": "09/30/1999"
+    },
+    {
+        "GameTitle": "Picture Puzzle",
+        "id": 18512,
+        "ReleaseDate": "06/16/2000"
+    },
+    {
+        "GameTitle": "Neo 21",
+        "id": 18513,
+        "ReleaseDate": "12/29/1999"
+    },
+    {
+        "GameTitle": "Neo Dragon's Wild",
+        "id": 18514,
+        "ReleaseDate": "04/30/1999"
+    },
+    {
+        "GameTitle": "Neo Baccarat",
+        "id": 18515,
+        "ReleaseDate": "06/16/2000"
+    },
+    {
+        "GameTitle": "Neo Cherry Master Color",
+        "id": 18516,
+        "ReleaseDate": "04/30/1999"
+    },
+    {
+        "GameTitle": "Neo Mystery Bonus",
+        "id": 18517,
+        "ReleaseDate": "04/30/1999"
+    },
+    {
+        "GameTitle": "Delta Warp",
+        "id": 19178,
+        "ReleaseDate": "08/10/2000"
+    },
+    {
+        "GameTitle": "Bust-A-Move Pocket",
+        "id": 22445,
+        "ReleaseDate": "04/30/1999"
+    },
+    {
+        "GameTitle": "Neo Geo Cup '98 Plus Color",
+        "id": 22446,
+        "ReleaseDate": "10/28/1998"
+    },
+    {
+        "GameTitle": "Densetsu no Ogre Battle Gaiden: Zenobia no Ouji",
+        "id": 23478,
+        "ReleaseDate": "06/22/2000"
+    },
+    {
+        "GameTitle": "Memories Off Pure",
+        "id": 23480,
+        "ReleaseDate": "04/27/2000"
+    },
+    {
+        "GameTitle": "SNK vs Capcom: Card Fighters 2 Expand Edition",
+        "id": 35925,
+        "ReleaseDate": "09/13/2001"
+    },
+    {
+        "GameTitle": "Pocket Love: If",
+        "id": 35912,
+        "ReleaseDate": "10/21/1999"
+    },
+    {
+        "GameTitle": "Big Bang Pro Wrestling",
+        "id": 27580,
+        "ReleaseDate": "11/23/2000"
+    },
+    {
+        "GameTitle": "Rockman Battle & Fighters",
+        "id": 27582,
+        "ReleaseDate": "07/20/2000"
+    },
+    {
+        "GameTitle": "Bikkuriman 2000: Viva! Pocket Festival!",
+        "id": 29333,
+        "ReleaseDate": "03/16/2000"
+    },
+    {
+        "GameTitle": "Ganbare Neo Poke-Kun",
+        "id": 30140,
+        "ReleaseDate": "06/06/2000"
+    },
+    {
+        "GameTitle": "Neo Derby Champ Daiyosou",
+        "id": 35876,
+        "ReleaseDate": "04/22/1999"
+    },
+    {
+        "GameTitle": "Cool Cool Jam",
+        "id": 34656,
+        "ReleaseDate": "08/10/2000"
+    },
+    {
+        "GameTitle": "Dokodemo Mahjong",
+        "id": 36039,
+        "ReleaseDate": "04/15/1999"
+    },
+    {
+        "GameTitle": "Densha de Go! 2",
+        "id": 34657,
+        "ReleaseDate": "01/21/1999"
+    },
+    {
+        "GameTitle": "Infinity Cure",
+        "id": 34658,
+        "ReleaseDate": "11/23/2000"
+    },
+    {
+        "GameTitle": "Kikou Seiki Unitron",
+        "id": 35808,
+        "ReleaseDate": "01/20/2000"
+    },
+    {
+        "GameTitle": "Koi Koi Mahjong",
+        "id": 35845,
+        "ReleaseDate": "03/03/2000"
+    },
+    {
+        "GameTitle": "Mizuki Shigeru no Youkai Shashinkan",
+        "id": 35847,
+        "ReleaseDate": "12/29/1999"
+    },
+    {
+        "GameTitle": "Mezase! Kanji Ou",
+        "id": 35850,
+        "ReleaseDate": "01/20/2000"
+    },
+    {
+        "GameTitle": "Nige-ron-pa",
+        "id": 35890,
+        "ReleaseDate": "11/23/2000"
+    },
+    {
+        "GameTitle": "Prize Game - PP-AA01 Pusher Program",
+        "id": 36764,
+        "ReleaseDate": "01/01/2000"
+    }
+]}}
+]
