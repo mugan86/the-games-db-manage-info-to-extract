@@ -81,24 +81,26 @@ public class GetSelectPlatformsGames {
                     
                     for (int j = 0; j < game_objects.size(); j ++)
                     {
-                        
-                        /*String values = 
-                        System.out.println("INSERT IGNORE INTO `platforms` (`id`, `slug`, `name`) VALUES (" + values );*/
-                        
-                        JSONObject xmlJSONObj = XML.toJSONObject(Request.getHttpGETAPI("http://thegamesdb.net/api/GetGame.php?id=" + game_objects.get(j).getId()));
-                        //String jsonPrettyPrintString = xmlJSONObj.toString(PRETTY_PRINT_INDENT_FACTOR);
-                        //System.out.println("***************************************\n" + xmlJSONObj);   
-                        
-                    
-                        data = (JSONObject) xmlJSONObj.getJSONObject("Data");
-                        
-                        System.out.println(data.toString());
-
-                        JSONObject game_obj = (JSONObject) data.getJSONObject("Game");
-                        
-                        System.out.println(game_obj.toString());
                         try
                         {
+                            /*String values = 
+                            System.out.println("INSERT IGNORE INTO `platforms` (`id`, `slug`, `name`) VALUES (" + values );*/
+
+                            System.out.println("http://thegamesdb.net/api/GetGame.php?id=" + game_objects.get(j).getId());
+
+                            JSONObject xmlJSONObj = XML.toJSONObject(Request.getHttpGETAPI("http://thegamesdb.net/api/GetGame.php?id=" + game_objects.get(j).getId()));
+                            //String jsonPrettyPrintString = xmlJSONObj.toString(PRETTY_PRINT_INDENT_FACTOR);
+                            //System.out.println("***************************************\n" + xmlJSONObj);   
+
+
+                            data = (JSONObject) xmlJSONObj.getJSONObject("Data");
+
+                            System.out.println(data.toString());
+
+                            JSONObject game_obj = (JSONObject) data.getJSONObject("Game");
+
+                            System.out.println(game_obj.toString());
+                        
                             Game game = new Game();
                             game.setGameTitle((String)game_obj.getString("GameTitle"));
                             game.setDeveloper((String)game_obj.getString("Developer"));
@@ -117,14 +119,15 @@ public class GetSelectPlatformsGames {
                             System.out.println("INSERT INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values );
                             
                             createFile("sql/" + platform + ".sql", "INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values, false);
+                        
                         }
                         catch(Exception e)
                         {
-                            
+
                         }
-                        
                     
                     }
+                    
                     
                 } catch (FileNotFoundException ex) {
                 
