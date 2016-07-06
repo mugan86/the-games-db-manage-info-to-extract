@@ -14,14 +14,52 @@ public class Game {
     private String GameTitle, ReleaseDate;
     private int PlatformId;
     private String Publisher, Developer;
-    private Similar Similar;
+    private int similar1, similar2;
+    private String genre1, genre2;
+    private int players;
 
-    public Similar getSimilar() {
-        return Similar;
+    public int getPlayers() {
+        return players;
     }
 
-    public void setSimilar(Similar Similar) {
-        this.Similar = Similar;
+    public void setPlayers(int players) {
+        this.players = players;
+    }
+
+    public int getSimilar1() {
+        if (similar1 == 0) return -1;
+        return similar1;
+    }
+
+    public void setSimilar1(int similar1) {
+        this.similar1 = similar1;
+    }
+
+    public int getSimilar2() {
+        if (similar2 == 0) return -1;
+        return similar2;
+    }
+
+    public void setSimilar2(int similar2) {
+        this.similar2 = similar2;
+    }
+
+    public String getGenre1() {
+        if (genre1 == null) return "";
+        return genre1;
+    }
+
+    public void setGenre1(String genre1) {
+        this.genre1 = genre1;
+    }
+
+    public String getGenre2() {
+        if (genre2 == null) return "";
+        return genre2;
+    }
+
+    public void setGenre2(String genre2) {
+        this.genre2 = genre2;
     }
     
      public int getPlatformId() {
@@ -70,7 +108,12 @@ public class Game {
     }
 
     public void setReleaseDate(String ReleaseDate) {
-        this.ReleaseDate = ReleaseDate;
+        this.ReleaseDate =  ReleaseDate.replace("/", "-");
+    }
+    
+    public String toString()
+    {
+        return this.getId() + " / " + this.getGameTitle() + " / " + this.getReleaseDate();
     }
     
 }
