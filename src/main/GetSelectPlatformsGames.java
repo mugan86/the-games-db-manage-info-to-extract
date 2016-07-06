@@ -7,6 +7,7 @@ package main;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import db.ConnectionManager;
 import db.Request;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,10 +16,14 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Type;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import static main.XMLtoJSON.PRETTY_PRINT_INDENT_FACTOR;
 import model.Game;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -49,7 +54,7 @@ public class GetSelectPlatformsGames {
         int file_number = 0;
         
         //more_info_tv/
-        for (int i = 1; i < files_to_read.size(); i++)
+        for (int i = 0; i < files_to_read.size(); i++)
         {
             System.out.println("\n*************************************************************\nFiles: " 
                                     + files_to_read.size() + " / Progress: "+ ((i*100)/files_to_read.size()) +"%\n*************************************************************");
@@ -67,7 +72,7 @@ public class GetSelectPlatformsGames {
 
                     }   
                     
-                    //System.out.println(text.substring(0,text.length()-1));
+                    System.out.println("Open platform filename: " + filename);
 
 
                     JSONObject object = (JSONObject) new JSONObject(text.substring(0,text.length()-1));
@@ -103,7 +108,7 @@ public class GetSelectPlatformsGames {
                         
                             Game game = new Game();
                             game.setGameTitle((String)game_obj.getString("GameTitle"));
-                            game.setDeveloper((String)game_obj.getString("Developer"));
+                            //game.setDeveloper((String)game_obj.getString("Developer"));
                             game.setId((Integer)game_obj.getInt("id"));
                             game.setReleaseDate((String)game_obj.getString("ReleaseDate"));
                             game.setPlatformId((Integer)game_obj.getInt("PlatformId"));
@@ -116,23 +121,53 @@ public class GetSelectPlatformsGames {
                                     "'" + game.getReleaseDate() + "'," +
                                     "'" + game.getPlatformId()+ "');";
                     
-                            System.out.println("INSERT INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values );
-                            
-                            createFile("sql/" + platform + ".sql", "INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values, false);
+                            System.out.println("INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values );
+                            try {
+                                Class.forName("com.mysql.jdbc.Driver");
+                                Connection konexioa= DriverManager.getConnection("jdbc:mysql://localhost:8889/gamesdb?useUnicode=yes&characterEncoding=UTF-8", 
+                                            "root", "root");
+                                
+                                
+                                //konexioa= DriverManager.getConnection("jdbc:mysql://localhost/csv_db", "root", "");
+                                Statement sententzia= (Statement) konexioa.createStatement
+                                            (ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_UPDATABLE);
+                                //System.out.println ("INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values);
+                                try
+                                {
+
+                                    int o=sententzia.executeUpdate("INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values);
+
+                                    System.out.println ("Execute: "+ o);
+                                }
+                                catch (Exception e)
+                                {
+                                    System.out.println ("Execute: -1");
+                                }
+
+
+                                konexioa.close();
+                                sententzia.close();
+                            } catch (ClassNotFoundException | SQLException ex) {
+                                Logger.getLogger(ConnectionManager.class.getName()).log(Level.SEVERE, null, ex);
+                            }
+                            createFile("sql/" + platform.replace(" ","_") + ".sql", "INSERT IGNORE INTO `games` (`id`, `name`, `release_date`, `platform_id`) VALUES (" + values, false);
                         
                         }
                         catch(Exception e)
                         {
-
+                            e.printStackTrace();
                         }
                     
                     }
                     
                     
-                } catch (FileNotFoundException ex) {
+                } 
+                catch (FileNotFoundException ex) 
+                {
                 
-                } catch (IOException ex) {
-
+                } 
+                catch (IOException ex) {
+                    ex.printStackTrace();
                 }
         }
     }
